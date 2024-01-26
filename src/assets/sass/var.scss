@@ -1,0 +1,60 @@
+:root {
+  --font-nanum: "NanumSquareNeo";
+  --font-num: "Teko";
+
+  --primary-color: #EEEEEE;
+
+  --black: #141414;
+
+  --white: #fff;
+  --white05: rgba(255, 255, 255, 0.05);
+  --white15: rgba(255, 255, 255, 0.15);
+  --white30: rgba(255, 255, 255, 0.3);
+  --white50: rgba(255, 255, 255, 0.5);
+  --white80: rgba(255, 255, 255, 0.8);
+
+
+  --gray: #ADADAD;
+  --red: #f00;
+  --blue: #265FF5;
+
+  .dark {
+    --black: #141414;
+    --white: #fff;
+    --white05: rgba(255, 255, 255, 0.05);
+    --white15: rgba(255, 255, 255, 0.15);
+    --white30: rgba(255, 255, 255, 0.3);
+    --white50: rgba(255, 255, 255, 0.5);
+    --white80: rgba(255, 255, 255, 0.8);
+  }
+
+  .light {
+    --black: #fff;
+    --white: #141414;
+    --white05: rgba(0, 0, 0, 0.05);
+    --white15: rgba(0, 0, 0, 0.15);
+    --white30: rgba(0, 0, 0, 0.3);
+    --white50: rgba(0, 0, 0, 0.5);
+    --white80: rgba(0, 0, 0, 0.8);
+  }
+
+  --black100: #383838;
+  --black200: #59595A;
+  --black300: #727272;
+  --black400: #8A8A8A;
+  --black500: #9d9d9d;
+  --black600: #D9D9D9;
+  --black900: #F5F5F5;
+
+  --blue100: #0071E3;
+
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+@media (max-width: 800px) {
+  :root {
+    font-size: 14px;
+  }
+}
