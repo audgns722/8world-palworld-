@@ -1,17 +1,23 @@
+import Link from 'next/link'
 import React from 'react'
 
 export default function Header() {
   return (
-    <header>
-      <div className='container header__inner'>
-        <h1>PAL</h1>
-        <nav>
+    <header id='header' className='container'>
+      <div className='header__inner'>
+        <h1 className='logo'>
+          <Link href='/'>Palworld</Link>
+        </h1>
+        <nav className='nav'>
           <ul>
             <li>
-              홈
+              <Link href='/' className='active'>홈</Link>
             </li>
             <li>
-              교배(제작중)
+              <Link href='/'>교배(제작중)</Link>
+            </li>
+            <li>
+              <Link href='/'>도감(제작중)</Link>
             </li>
           </ul>
         </nav>
