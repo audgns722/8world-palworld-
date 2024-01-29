@@ -2,7 +2,6 @@
 
 import Image from 'next/image';
 import { useEffect, useState } from 'react';
-import styles from './page.module.scss'
 
 export default function Home() {
   const [data, setData] = useState(null);
@@ -178,23 +177,23 @@ export default function Home() {
 
   return (
     <main id='main'>
-      <div className={`container ${styles.home}`}>
-        <div className={styles.home__title}>
+      <div className="container home">
+        <div className="home__title">
           <h1>Palworld</h1>
         </div>
         {data && (
           <>
-            <div className={styles.home__search}>
+            <div className="home__search">
               <input
                 value={value}
                 onChange={(e) => setValue(e.target.value)}
                 placeholder='검색할 팰의 이름을 적어주세요.'
               />
               {value && (
-                <ul className={styles.home__searchDrop}>
+                <ul className="home__searchDrop">
                   {filteredData.map((item) => (
                     <li key={item.name} onClick={() => handlePalClick(item)}>
-                      {item.name}
+                      <p>{item.name}</p>
                     </li>
                   ))}
                 </ul>
@@ -202,28 +201,28 @@ export default function Home() {
             </div>
 
             {selectedPal && (
-              <div className={styles.card}>
-                <div className={styles.card__top}>
-                  <div className={styles.card__left}>
-                    <div className={styles.left__top}>
-                      <div className={styles.key}>
+              <div className="card">
+                <div className="card__top">
+                  <div className="card__left">
+                    <div className="left__top">
+                      <div className="key">
                         <i>No.</i>{selectedPal.key}
                       </div>
-                      <p className={styles.neutral}>{selectedPal.types}</p>
+                      <p className="neutral">{selectedPal.types}</p>
                     </div>
-                    <h3 className={styles.name}>
+                    <h3 className="name">
                       {selectedPal.name}
                     </h3>
                   </div>
 
-                  <div className={styles.card__right}>
-                    <Image src={selectedPal.imageWiki} width={100} height={100} alt='pall' />
+                  <div className="card__right">
+                    <Image src={selectedPal.imageWiki} width={100} height={100} alt={selectedPal.name} />
                   </div>
                 </div>
-                <div className={styles.card__bottom}>
-                  <div className={styles.skill}>
+                <div className="card__bottom">
+                  <div className="skill">
                     <h4>파트너 스킬</h4>
-                    <div className={styles.aura}>
+                    <div className="aura">
                       <h3>
                         {selectedPal.aura.name}
                       </h3>
@@ -231,9 +230,16 @@ export default function Home() {
                         {selectedPal.aura.description}
                       </p>
                     </div>
-                    <div>
-                      <h4></h4>
-                    </div>
+                  </div>
+                  <div className='item'>
+                    <h4>드롭하는 아이템</h4>
+                    <ul>
+                      {selectedPal.drops.map((item, index) => (
+                        <li key={index}>
+                          {item}
+                        </li>
+                      ))}
+                    </ul>
                   </div>
                 </div>
               </div>
