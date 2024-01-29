@@ -2,6 +2,10 @@ body {
     background-color: var(--black);
 }
 
+#main {
+    min-height: calc(100vh - 110px);
+}
+
 .container {
     max-width: 1280px;
     margin: 0 auto;

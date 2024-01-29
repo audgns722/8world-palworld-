@@ -38,7 +38,7 @@ export default function Home() {
     <main id='main' className='home container'>
       <div className="home__inner">
         <div className="home__title">
-          <h1>Palworld</h1>
+          <h1>8Worl:D</h1>
         </div>
         {data && (
           <>

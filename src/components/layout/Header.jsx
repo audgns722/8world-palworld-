@@ -14,10 +14,10 @@ export default function Header() {
               <Link href='/' className='active'>홈</Link>
             </li>
             <li>
-              <Link href='/'>교배(제작중)</Link>
+              <Link href='/'>도감</Link>
             </li>
             <li>
-              <Link href='/'>도감(제작중)</Link>
+              <Link href='/'>교배(제작중)</Link>
             </li>
             <li>
               <Link href='mailto:'>건의하기</Link>
