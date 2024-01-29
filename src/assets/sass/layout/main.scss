@@ -49,7 +49,7 @@
       padding: 10px;
       display: flex;
       align-items: center;
-      transition: background-color 0.3s, color 0.3s;
+      transition: background-color 0.3s, color 0.15s;
 
       &:hover {
         color: var(--white);
@@ -87,14 +87,15 @@
             }
           }
 
-          >p {
+          >ul {
             margin-left: 20px;
-          }
+            display: flex;
 
-          .neutral {
-            color: var(--white);
-            background-color: #9f837b;
-            padding: 3px 15px;
+            >li {
+              color: var(--white);
+              margin-right: 5px;
+              padding: 3px 15px;
+            }
           }
         }
 
@@ -108,7 +109,7 @@
     }
 
     .card__bottom {
-      .skill {
+      >div {
         padding: 10px;
         background-color: #282E31;
 
@@ -133,7 +134,9 @@
             z-index: -1;
           }
         }
+      }
 
+      .skill {
         .aura {
           margin: 20px;
           background-color: rgba(0, 0, 0, 0.2);
@@ -155,33 +158,47 @@
           }
         }
       }
-      .item {
-        padding: 10px;
-        background-color: #282E31;
-        >h4 {
-          font-size: 1.2rem;
-          font-family: var(--font-nanum);
-          font-weight: 700;
-          color: var(--white);
-          width: 100%;
-          position: relative;
-          z-index: 1;
-          padding-left: 8px;
 
-          &::before {
-            position: absolute;
-            left: 0;
-            bottom: 0;
-            content: '';
-            width: 100%;
-            height: 15px;
-            background-color: #47535777;
-            z-index: -1;
+      .aptitude {
+        >ul {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          flex-wrap: wrap;
+          margin: 20px;
+          gap: 5px;
+
+          >li {
+            font-size: 1rem;
+            font-family: var(--font-nanum);
+            color: var(--white);
+            width: 49%;
+            background-color: rgba(0, 0, 0, 0.2);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px;
+
+            @media(max-width: 450px) {
+              width: 100%;
+            }
+
+            >div {
+              >i {
+                font-style: normal;
+                font-size: 0.7rem;
+                margin-right: 3px;
+              }
+            }
           }
         }
+      }
+
+      .item {
         >ul {
           margin: 20px;
-          li {
+
+          >li {
             font-size: 1rem;
             font-family: var(--font-nanum);
             color: var(--white);
