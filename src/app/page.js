@@ -176,8 +176,8 @@ export default function Home() {
   };
 
   return (
-    <main id='main'>
-      <div className="container home">
+    <main id='main' className='home'>
+      <div className="container home__inner">
         <div className="home__title">
           <h1>Palworld</h1>
         </div>
