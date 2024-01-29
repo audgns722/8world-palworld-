@@ -99,6 +99,34 @@ export default function Home() {
                       </p>
                     </div>
                   </div>
+                  <div className="activeSkill">
+                    <h4>액티브 스킬</h4>
+                    <ul>
+                      {selectedPal.skills.map((item, index) => (
+                        <li key={index}>
+                          <div className='active__top'>
+                            <div className='top__left'>
+                              <p><i>Lv</i>{item.level}</p>
+                              <p>{item.name}</p>
+                            </div>
+                            <p
+                              className={item.type === "무속성" ? "neutral" : item.type === "불속성" ? "fire" : item.type === "물속성" ? "water" : item.type === "풀속성" ? "grass" : item.type === "번개속성" ? "electric" : item.type === "얼음속성" ? "ice" : item.type === "땅속성" ? "ground" : item.type === "어둠속성" ? "dark" : item.type === "용속성" ? "dragon" : ""}
+                            >
+                              {item.type}
+                            </p>
+
+                          </div>
+                          <div className='active__bottom'>
+                            <div className='bottom__top'>
+                              <p><i>공격</i>{item.power}</p>
+                              <p><i>쿨타임</i>{item.cooldown}</p>
+                            </div>
+                            <p>{item.description}</p>
+                          </div>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
                   <div className='aptitude'>
                     <h4>작업 적성</h4>
                     <ul>

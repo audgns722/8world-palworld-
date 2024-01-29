@@ -19,6 +19,9 @@ export default function Header() {
             <li>
               <Link href='/'>도감(제작중)</Link>
             </li>
+            <li>
+              <Link href='mailto:'>건의하기</Link>
+            </li>
           </ul>
         </nav>
       </div>
