@@ -6,7 +6,7 @@ export default function Header() {
     <header id='header' className='container'>
       <div className='header__inner'>
         <h1 className='logo'>
-          <Link href='/'>Palworld</Link>
+          <Link href='/'>8Worl:D</Link>
         </h1>
         <nav className='nav'>
           <ul>
@@ -14,7 +14,7 @@ export default function Header() {
               <Link href='/' className='active'>홈</Link>
             </li>
             <li>
-              <Link href='/'>교배(제작중)</Link>
+              <Link href='/breeding'>교배(제작중)</Link>
             </li>
             <li>
               <Link href='/'>도감(제작중)</Link>

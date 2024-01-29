@@ -1,0 +1,59 @@
+.breeding {
+    width: 100%;
+    background-color: var(--black);
+    color: var(--white);
+    text-align: center;
+}
+
+.breeding img {
+    width: 50px;
+    height: 50px;
+}
+
+.breeding .breeding__table {
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-spacing: 5px 0px;
+    border-radius: 15px;
+    background-color: var(--white05);
+    padding: 10px 5px;
+    font-size: 14px;
+
+    thead {
+        tr {
+            th {
+                img {
+                    width: 30px;
+                    height: 30px;
+                }
+            }
+        }
+    }
+
+    tbody {
+        tr {
+            border-bottom: 5px solid #fff;
+        }
+    }
+
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+    width: 100%;
+}
+
+tr:nth-child(even) {
+    background-color: #2e2649;
+}
+
+tr:nth-child(odd) {
+    background-color: #423b5b;
+}
+
+th {
+    background-color: #342F44;
+    color: white;
+}
