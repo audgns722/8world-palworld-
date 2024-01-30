@@ -14,7 +14,7 @@ export default function Header() {
               <Link href='/' className='active'>홈</Link>
             </li>
             <li>
-              <Link href='/'>도감</Link>
+              <Link href='/collection'>도감</Link>
             </li>
             <li>
               <Link href='/'>교배(제작중)</Link>
