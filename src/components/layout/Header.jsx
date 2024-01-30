@@ -6,7 +6,7 @@ export default function Header() {
     <header id='header' className='container'>
       <div className='header__inner'>
         <h1 className='logo'>
-          <Link href='/'>Palworld</Link>
+          <Link href='/'>8Worl:D</Link>
         </h1>
         <nav className='nav'>
           <ul>
