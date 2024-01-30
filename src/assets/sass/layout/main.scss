@@ -177,6 +177,12 @@
               display: flex;
               align-items: center;
               justify-content: space-between;
+              cursor: pointer;
+              transition: background-color 0.3s;
+
+              &:hover {
+                background-color: var(--white05);
+              }
 
               .top__left {
                 display: flex;
@@ -207,20 +213,34 @@
             }
 
             .active__bottom {
-              padding: 20px 10px;
+              max-height: 0;
+              padding: 0 10px;
               font-size: 1rem;
               font-family: var(--font-nanum);
               color: var(--white);
+              overflow-y: hidden;
+              transition: max-height 0.2s ease-in-out, padding 0.2s ease-in-out;
+
+              &.active {
+                max-height: 500px;
+                /* 콘텐츠의 최대 높이에 따라 조절 */
+                padding: 20px 10px;
+              }
+
+
               .bottom__top {
                 display: flex;
                 margin-bottom: 5px;
+
                 >p {
                   font-size: 0.8rem;
                   background-color: var(--white15);
                   padding: 5px 10px;
-                  &:first-child { 
+
+                  &:first-child {
                     margin-right: 5px;
                   }
+
                   >i {
                     font-style: normal;
                     margin-right: 3px;

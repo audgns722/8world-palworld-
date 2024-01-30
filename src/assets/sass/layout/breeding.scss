@@ -34,7 +34,6 @@
     width: 100%;
     margin: 0 auto;
     margin-top: 80px;
-    border-spacing: 5px 0px;
     border-radius: 15px;
     background-color: var(--white05);
     padding: 10px 5px;
@@ -48,6 +47,10 @@
             th {
                 padding: 0 10px;
                 cursor: pointer;
+
+                &:last-child {
+                    display: none;
+                }
 
                 &:nth-child(3) {
                     cursor: default;
