@@ -1,6 +1,5 @@
 .home__inner {
   width: 100%;
-  min-height: 100vh;
 
   .home__title {
     width: 100%;
@@ -11,10 +10,11 @@
     padding: 100px 0 50px;
 
     h1 {
-      font-size: 3rem;
-      font-family: var(--font-nanum);
+      font-size: 6rem;
+      font-family: var(--font-title);
       font-weight: 900;
       color: var(--white);
+      line-height: 1;
     }
   }
 
@@ -23,12 +23,13 @@
     margin: 0 auto;
 
     >input {
-      font-size: 1rem;
+      font-size: 0.8rem;
       font-family: var(--font-nanum);
       width: 100%;
       height: 50px;
       border: 1px solid var(--white50);
-      padding: 10px;
+      border-radius: 5px;
+      padding: 10px 10px 10px 15px;
 
       &:focus {
         outline: 0;
@@ -38,10 +39,9 @@
 
   .home__searchDrop {
     max-width: 600px;
-    border-top: 1px solid var(--white50);
 
     >li {
-      font-size: 1rem;
+      font-size: 0.8rem;
       font-family: var(--font-nanum);
       width: 100%;
       height: 50px;
@@ -49,6 +49,8 @@
       padding: 10px;
       display: flex;
       align-items: center;
+      border-top: 1px solid rgba(0, 0, 0, 0.15);
+      border-radius: 5px;
       transition: background-color 0.3s, color 0.15s;
 
       &:hover {
@@ -145,7 +147,7 @@
             font-size: 1.3rem;
             font-family: var(--font-nanum);
             color: var(--white);
-            border: 2px solid rgba(255, 255, 255, 0.5);
+            border: 2px solid var(--white05);
             border-left: 4px solid var(--white);
             padding: 5px 10px;
           }
@@ -155,6 +157,77 @@
             font-family: var(--font-nanum);
             color: var(--white);
             padding: 20px 10px;
+          }
+        }
+      }
+
+      .activeSkill {
+        >ul {
+          margin: 20px;
+
+          >li {
+            background-color: rgba(0, 0, 0, 0.2);
+            margin-bottom: 10px;
+
+            .active__top {
+              border: 2px solid var(--white05);
+              border-left: 4px solid var(--white);
+              padding: 5px 10px;
+              width: 100%;
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+
+              .top__left {
+                display: flex;
+
+                >p {
+                  font-size: 1rem;
+                  font-family: var(--font-nanum);
+                  color: var(--white);
+
+                  &:first-child {
+                    margin-right: 10px;
+                  }
+
+                  >i {
+                    font-size: 0.8rem;
+                    font-style: normal;
+                    margin-right: 3px;
+                  }
+                }
+              }
+
+              >p {
+                font-size: 1rem;
+                font-family: var(--font-nanum);
+                color: var(--white);
+                padding: 5px 15px;
+              }
+            }
+
+            .active__bottom {
+              padding: 20px 10px;
+              font-size: 1rem;
+              font-family: var(--font-nanum);
+              color: var(--white);
+              .bottom__top {
+                display: flex;
+                margin-bottom: 5px;
+                >p {
+                  font-size: 0.8rem;
+                  background-color: var(--white15);
+                  padding: 5px 10px;
+                  &:first-child { 
+                    margin-right: 5px;
+                  }
+                  >i {
+                    font-style: normal;
+                    margin-right: 3px;
+                  }
+                }
+              }
+            }
           }
         }
       }
