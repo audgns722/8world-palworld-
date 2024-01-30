@@ -49,6 +49,10 @@
                 padding: 0 10px;
                 cursor: pointer;
 
+                &:last-child {
+                    display: none;
+                }
+
                 &:nth-child(3) {
                     cursor: default;
                 }

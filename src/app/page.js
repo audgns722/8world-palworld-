@@ -7,6 +7,7 @@ export default function Home() {
   const [data, setData] = useState(null);
   const [value, setValue] = useState("");
   const [selectedPal, setSelectedPal] = useState(null);
+  const [activeIndexes, setActiveIndexes] = useState([]);
 
   useEffect(() => {
     // JSON 파일을 불러옵니다.
@@ -30,8 +31,34 @@ export default function Home() {
     return item.name.includes(value);
   });
 
+  // 팰을 클릭할 때 호출되는 함수
   const handlePalClick = (pal) => {
+    // 팰을 선택한 후 검색 입력값을 초기화
     setSelectedPal(pal);
+    setValue("");
+  };
+
+  // 엔터 키를 눌렀을 때 검색되도록 처리
+  const handleKeyDown = (e) => {
+    if (e.key === 'Enter') {
+      // 엔터 키를 눌렀을 때 검색 로직을 수행
+      // 여기에서는 간단하게 첫 번째 검색 결과를 선택하도록 했습니다.
+      if (filteredData && filteredData.length > 0) {
+        handlePalClick(filteredData[0]);
+      }
+    }
+  };
+
+  // 스킬 항목을 클릭했을 때 해당 스킬의 active 상태를 변경
+  const handleSkillClick = (index) => {
+    // 현재 인덱스가 이미 활성화된 인덱스 목록에 있는지 확인
+    if (activeIndexes.includes(index)) {
+      // 이미 있으면 목록에서 제거
+      setActiveIndexes(activeIndexes.filter(i => i !== index));
+    } else {
+      // 없으면 목록에 추가
+      setActiveIndexes([...activeIndexes, index]);
+    }
   };
 
   return (
@@ -46,6 +73,7 @@ export default function Home() {
               <input
                 value={value}
                 onChange={(e) => setValue(e.target.value)}
+                onKeyDown={handleKeyDown}
                 placeholder='검색할 팰의 이름을 적어주세요.'
               />
               {value && (
@@ -104,7 +132,10 @@ export default function Home() {
                     <ul>
                       {selectedPal.skills.map((item, index) => (
                         <li key={index}>
-                          <div className='active__top'>
+                          <div
+                            className={`active__top ${activeIndexes.includes(index) ? 'active' : ''}`}
+                            onClick={() => handleSkillClick(index)}
+                          >
                             <div className='top__left'>
                               <p><i>Lv</i>{item.level}</p>
                               <p>{item.name}</p>
@@ -114,9 +145,8 @@ export default function Home() {
                             >
                               {item.type}
                             </p>
-
                           </div>
-                          <div className='active__bottom'>
+                          <div className={`active__bottom ${activeIndexes.includes(index) ? 'active' : ''}`}>
                             <div className='bottom__top'>
                               <p><i>공격</i>{item.power}</p>
                               <p><i>쿨타임</i>{item.cooldown}</p>
@@ -157,3 +187,10 @@ export default function Home() {
     </main>
   );
 }
+
+
+
+
+
+
+

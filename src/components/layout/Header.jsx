@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
+import Nav from './Nav'
 
 export default function Header() {
   return (
@@ -8,22 +9,7 @@ export default function Header() {
         <h1 className='logo'>
           <Link href='/'>8Worl:D</Link>
         </h1>
-        <nav className='nav'>
-          <ul>
-            <li>
-              <Link href='/' className='active'>홈</Link>
-            </li>
-            <li>
-              <Link href='/collection'>도감</Link>
-            </li>
-            <li>
-              <Link href='/'>교배(제작중)</Link>
-            </li>
-            <li>
-              <Link href='mailto:'>건의하기</Link>
-            </li>
-          </ul>
-        </nav>
+        <Nav />
       </div>
     </header>
   )
