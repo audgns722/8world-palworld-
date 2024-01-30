@@ -190,7 +190,7 @@
     "id": 3,
     "key": "003",
     "image": "/public/images/003.png",
-    "name": "Chikipi",
+    "name": "꼬꼬닭",
     "wiki": "https://palworld.fandom.com/wiki/Chikipi",
     "types": [
       "무속성"
@@ -578,7 +578,7 @@
       "발전 기관"
     ],
     "aura": {
-      "name": "Static Electricity",
+      "name": "정전기",
       "description": "보유하고 있는 동안 번개 속성 팰의 공격력이 증가한다."
     },
     "description": "During the dry season, this Pal is always on the verge of blowing a fuse, Sparks can fly with even the slightest provocation even amongst allies.",
@@ -2589,7 +2589,7 @@
     "id": 30,
     "key": "030",
     "image": "/public/images/030.png",
-    "name": "Bristla",
+    "name": "가시공주",
     "wiki": "https://palworld.fandom.com/wiki/Bristla",
     "types": [
       "풀속성"
@@ -2871,7 +2871,7 @@
     "id": 33,
     "key": "033",
     "image": "/public/images/033.png",
-    "name": "초판다 ",
+    "name": "초판다",
     "wiki": "https://palworld.fandom.com/wiki/Mossanda",
     "types": [
       "풀속성"
@@ -3225,7 +3225,7 @@
     "id": 37,
     "key": "037",
     "image": "/public/images/037.png",
-    "name": "신령사슴 ",
+    "name": "신령사슴",
     "wiki": "https://palworld.fandom.com/wiki/Eikthyrdeer",
     "types": [
       "무속성"
@@ -10678,7 +10678,7 @@
     "id": 120,
     "key": "048B",
     "image": "/public/images/048B.png",
-    "name": "Robinquill Terra",
+    "name": "산도로",
     "wiki": "https://palworld.fandom.com/wiki/Robinquill_Terra",
     "types": [
       "풀속성",
