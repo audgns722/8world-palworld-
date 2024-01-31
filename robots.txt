@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Allow: /article/
+Sitemap: http://www.8world.co.kr/sitemap.xml
