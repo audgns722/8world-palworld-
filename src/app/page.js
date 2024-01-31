@@ -53,6 +53,10 @@ export const metadata = {
     name: 'naver-site-verification',
     content: 'eaf3d5d3ded6354505033dc8114f7ed523fbd710',
   },
+  googleAdsense: {
+    name: 'google-adsense-account',
+    content: 'ca-pub-4313698984582740',
+  },
 };
 
 export default function Home() {
