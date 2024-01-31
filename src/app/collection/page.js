@@ -95,47 +95,49 @@ export default function Page() {
   };
 
   return (
-    <main id='main' className='container'>
+    <main id='main'>
       <div className='collection'>
         <div className='collection__search'>
           <input
             type="text"
             value={searchTerm}
             onChange={handleSearchChange}
-            placeholder="Ex)도로롱 Ex)111"
+            placeholder="검색할 팰의 번호 혹은 이름을 입력해주세요."
           />
         </div>
-
-        <table className='collection__table container'>
-          <thead>
-            <tr>
-              {header.map((column, index) => (
-                <th key={index} onClick={() => requestSort(index)}>
-                  {isImageUrl(column) ?
-                    <Image src={column.replace('/public', '')} alt="Header Image" width={100} height={100} />
-                    : <>
-                      {column}
-                      {sortConfig.key === index && (
-                        <Image className={`sort-arrow ${sortConfig.direction}`} src="/image/sort.svg" alt="Sort Image" width={100} height={100} />
-                      )}
-                    </>
-                  }
-                </th>
-              ))}
-            </tr>
-          </thead>
-          <tbody>
-            {filteredData.map((row, rowIndex) => (
-              <tr key={rowIndex}>
-                {row.map((cell, cellIndex) => (
-                  <td key={cellIndex}>
-                    {renderCellContent(cell, header[cellIndex])}
-                  </td>
+        <div className='collection__table'>
+          <table>
+            <thead>
+              <tr>
+                {header.map((column, index) => (
+                  <th key={index} onClick={() => requestSort(index)}>
+                    {isImageUrl(column) ? (
+                      <Image src={column.replace('/public', '')} alt="Header Image" width={100} height={100} />
+                    ) : (
+                      <>
+                        {column}
+                        {sortConfig.key === index && (
+                          <Image className={`sort-arrow ${sortConfig.direction}`} src="/image/sort.svg" alt="Sort Image" width={100} height={100} />
+                        )}
+                      </>
+                    )}
+                  </th>
                 ))}
               </tr>
-            ))}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {filteredData.map((row, rowIndex) => (
+                <tr key={rowIndex}>
+                  {row.map((cell, cellIndex) => (
+                    <td key={cellIndex}>
+                      {renderCellContent(cell, header[cellIndex])}
+                    </td>
+                  ))}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </div>
     </main>
   );
