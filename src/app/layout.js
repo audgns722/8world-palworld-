@@ -52,6 +52,10 @@ export const metadata = {
     description: '팰월드 정보를 검색을 통해서 쉽게 확인하세요.',
     images: ['https://github.com/yunyoungsik/palworld/blob/main/public/image/thmbnail/8world.co.kr.png?raw=true'],
   },
+  naverVerification: {
+    name: 'naver-site-verification',
+    content: 'eaf3d5d3ded6354505033dc8114f7ed523fbd710',
+  },
 };
 
 export default function RootLayout({ children }) {
