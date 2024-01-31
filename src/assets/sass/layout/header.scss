@@ -4,12 +4,12 @@
   display: flex;
   align-items: center;
 
-  @media(max-width: 500px) {
+  @media (max-width: 500px) {
     justify-content: space-between;
   }
 
   .logo {
-    >a {
+    > a {
       display: block;
       font-size: 1rem;
       font-family: var(--font-nanum);
@@ -20,19 +20,27 @@
   }
 
   .nav {
-    @media(max-width: 500px) {
+    @media (max-width: 500px) {
       position: absolute;
       top: 50px;
-      right: 0;
+      right: 8px;
+      display: none;
+      &.show {
+        display: block;
+      }
     }
-    >ul {
+    > ul {
       display: flex;
-      @media(max-width: 500px) {
+      @media (max-width: 500px) {
         display: block;
       }
 
-      >li {
-        >a {
+      > li {
+        @media (max-width: 500px) {
+          display: flex;
+          justify-content: flex-end;
+        }
+        > a {
           font-size: 1rem;
           font-family: var(--font-nanum);
           color: var(--white);
@@ -40,7 +48,8 @@
           padding: 8px 16px;
           transition: background-color 0.3s;
           border-radius: 5px;
-          @media(max-width: 500px) {
+          @media (max-width: 500px) {
+            display: inline-block;
             text-align: right;
           }
 
@@ -90,7 +99,7 @@
       }
     }
 
-    @media(max-width: 500px) {
+    @media (max-width: 500px) {
       display: block;
     }
   }
