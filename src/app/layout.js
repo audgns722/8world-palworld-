@@ -20,13 +20,13 @@ export const metadata = {
     icon: 'favicon.svg',
   },
   metadataBase: new URL('https://8world.co.kr'),
-  images: '',
+  images: 'https://github.com/yunyoungsik/palworld/blob/main/public/image/thmbnail/8world.co.kr.png?raw=true',
   openGraph: {
     title: '8World',
     description: '팰월드 정보를 검색을 통해서 쉽게 확인하세요.',
     url: 'https://8world.co.kr',
     siteName: '8World',
-    images: '',
+    images: 'https://github.com/yunyoungsik/palworld/blob/main/public/image/thmbnail/8world.co.kr.png?raw=true',
     locale: 'ko_KR',
     type: 'website',
     type: 'article',
@@ -50,7 +50,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: '8World',
     description: '팰월드 정보를 검색을 통해서 쉽게 확인하세요.',
-    images: [''],
+    images: ['https://github.com/yunyoungsik/palworld/blob/main/public/image/thmbnail/8world.co.kr.png?raw=true'],
   },
 };
 
