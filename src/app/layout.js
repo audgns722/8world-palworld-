@@ -34,7 +34,7 @@ export const metadata = {
     authors: ['Yun', 'Lee'],
   },
   robots: {
-    index: false,
+    index: true,
     follow: true,
     nocache: true,
     googleBot: {
