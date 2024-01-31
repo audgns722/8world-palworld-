@@ -3,5 +3,10 @@
     "paths": {
       "@/*": ["./src/*"]
     }
+  },
+  "next": {
+    "sitemap": {
+      "filename": "sitemap.xml"
+    }
   }
 }
