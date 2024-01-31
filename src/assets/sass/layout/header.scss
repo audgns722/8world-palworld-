@@ -4,6 +4,10 @@
   display: flex;
   align-items: center;
 
+  @media(max-width: 500px) {
+    justify-content: space-between;
+  }
+
   .logo {
     >a {
       display: block;
@@ -16,8 +20,16 @@
   }
 
   .nav {
+    @media(max-width: 500px) {
+      position: absolute;
+      top: 50px;
+      right: 0;
+    }
     >ul {
       display: flex;
+      @media(max-width: 500px) {
+        display: block;
+      }
 
       >li {
         >a {
@@ -28,6 +40,9 @@
           padding: 8px 16px;
           transition: background-color 0.3s;
           border-radius: 5px;
+          @media(max-width: 500px) {
+            text-align: right;
+          }
 
           &.active,
           &:hover {
@@ -35,6 +50,48 @@
           }
         }
       }
+    }
+  }
+
+  .nav__mobile {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    display: none;
+
+    span {
+      display: block;
+      width: 40px;
+      height: 2px;
+      background-color: var(--white);
+      margin-top: 19px;
+      position: relative;
+
+      &::before {
+        content: '';
+        width: 40px;
+        height: 2px;
+        background-color: var(--white);
+        position: absolute;
+        right: 0;
+        top: 8px;
+        transition: width 0.3s;
+      }
+
+      &::after {
+        content: '';
+        width: 40px;
+        height: 2px;
+        background-color: var(--white);
+        position: absolute;
+        left: 0;
+        bottom: 8px;
+        transition: width 0.3s;
+      }
+    }
+
+    @media(max-width: 500px) {
+      display: block;
     }
   }
 }
