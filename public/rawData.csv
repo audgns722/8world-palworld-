@@ -1,4 +1,4 @@
-도감번호,이름,이미지,교배값,속성(타입1),속성(타입2),HP,근접공격,원거리공격,방어력,가격,야행성,성별확률(수컷),/image/01.png,/image/02.png,/image/03.png,/image/04.png,/image/05.png,/image/06.png,/image/07.png,/image/08.png,/image/09.png,/image/10.png,/image/11.png,/image/12.png
+도감번호,이름,이미지,교배값,속성(타입1),속성(타입2),HP,근접공격,원거리공격,방어력,가격,야행성,성별확률(수컷),/image/01.png,/image/02.png,/image/03.png,/image/04.png,/image/05.png,/image/06.png,/image/07.png,/image/08.png,/image/09.png,/image/10.png,/image/11.png,/image/12.png,
 1,도로롱,/public/image/001.png,1470,Normal,None,70,70,70,70,1000,FALSE,50,0,0,0,0,1,0,0,0,0,0,1,1
 2,까부냥,/public/image/002.png,1460,Normal,None,70,70,70,70,1000,FALSE,50,0,0,0,0,1,1,0,1,0,0,1,0
 3,꼬꼬닭,/public/image/003.png,1500,Normal,None,60,70,60,60,1000,FALSE,50,0,0,0,0,0,1,0,0,0,0,0,1

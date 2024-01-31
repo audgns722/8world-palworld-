@@ -50,6 +50,11 @@
             cursor: default;
           }
 
+          // 숨기기(추후수중)
+          &:last-child {
+            display: none;
+          }
+
           &:hover {
             background-color: var(--white15);
           }
