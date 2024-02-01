@@ -55,14 +55,6 @@ export const metadata = {
       'max-image-preview': 'large',
       'max-snippet': -1,
     },
-    naverBot: {
-      index: true,
-      follow: true,
-      noimageindex: true,
-      'max-video-preview': -1,
-      'max-image-preview': 'large',
-      'max-snippet': -1,
-    },
   },
   twitter: {
     card: 'summary_large_image',
