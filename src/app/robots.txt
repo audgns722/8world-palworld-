@@ -1,5 +1,9 @@
-User-agent: *
+User-Agent: *
+Disallow: /
+
+User-Agent : Googlebot
+User-Agent : Veti
+User-Agent : Daumoa
 Allow: /
-Allow: /article/
+
 Sitemap: https://www.8world.co.kr/sitemap.xml
-host: https://www.8world.co.kr/sitemap.xml
