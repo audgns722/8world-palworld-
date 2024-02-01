@@ -23,7 +23,7 @@ export default function Nav() {
             <Link href='/breeding'>교배</Link>
           </li>
           <li>
-            <Link href=''>맵(제작)</Link>
+            <Link href=''>맵(제작중)</Link>
           </li>
           <li>
             <Link href='mailto:yunyoungsik91@gmail.com'>건의하기</Link>
