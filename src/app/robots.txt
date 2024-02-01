@@ -1,5 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
 User-agent: *
 Allow: /
-Allow: /article/
+
 Sitemap: https://www.8world.co.kr/sitemap.xml
-host: https://www.8world.co.kr/sitemap.xml

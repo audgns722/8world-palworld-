@@ -61,6 +61,44 @@ export default function Search() {
     }
   };
 
+  const getTypeImage = (type) => {
+    const typeImages = {
+      "무속성": "/image/elements/neutral.png",
+      "불속성": "/image/elements/fire.png",
+      "물속성": "/image/elements/water.png",
+      "풀속성": "/image/elements/grass.png",
+      "번개속성": "/image/elements/electric.png",
+      "얼음속성": "/image/elements/ice.png",
+      "땅속성": "/image/elements/ground.png",
+      "어둠속성": "/image/elements/dark.png",
+      "용속성": "/image/elements/Dragon.png",
+    };
+
+    return typeImages[type] || null; // 해당하는 이미지가 없는 경우 null 반환
+  };
+
+  // 적성 타입에 따른 이미지 경로를 반환하는 함수
+  const getSuitabilityImage = (type) => {
+    const suitabilityImages = {
+      "수작업": "/image/works/handiwork.png",
+      "운반": "/image/works/transporting.png",
+      "채집": "/image/works/gathering.png",
+      "채굴": "/image/works/mining.png",
+      "파종": "/image/works/planting.png",
+      "벌목": "/image/works/lumbering.png",
+      "제약": "/image/works/medicine_production.png",
+      "관개": "/image/works/watering.png",
+      "발전": "/image/works/generating_electricity.png",
+      "냉각": "/image/works/cooling.png",
+      "목장": "/image/works/farming.png",
+      "불 피우기": "/image/works/kindling.png",
+      // 기타 적성 타입에 대한 이미지 경로
+    };
+
+    return suitabilityImages[type] || null; // 해당하는 이미지가 없는 경우 null 반환
+  };
+
+
   return (
     <>
       <div className="home__search">
@@ -90,14 +128,14 @@ export default function Search() {
                   <i>No.</i>{selectedPal.key}
                 </div>
                 <ul>
-                  {selectedPal.types.map((item, index) => (
-                    <li
-                      key={index}
-                      className={item === "무속성" ? "neutral" : item === "불속성" ? "fire" : item === "물속성" ? "water" : item === "풀속성" ? "grass" : item === "번개속성" ? "electric" : item === "얼음속성" ? "ice" : item === "땅속성" ? "ground" : item === "어둠속성" ? "dark" : item === "용속성" ? "dragon" : ""}
-                    >
-                      {item}
-                    </li>
-                  ))}
+                  {selectedPal.types.map((type, index) => {
+                    const imagePath = getTypeImage(type);
+                    return (
+                      <li key={index}>
+                        {imagePath ? <Image src={imagePath} alt={type} width={30} height={30} /> : type}
+                      </li>
+                    );
+                  })}
                 </ul>
               </div>
               <h3 className="name">
@@ -134,11 +172,13 @@ export default function Search() {
                         <p><i>Lv</i>{item.level}</p>
                         <p>{item.name}</p>
                       </div>
-                      <p
-                        className={item.type === "무속성" ? "neutral" : item.type === "불속성" ? "fire" : item.type === "물속성" ? "water" : item.type === "풀속성" ? "grass" : item.type === "번개속성" ? "electric" : item.type === "얼음속성" ? "ice" : item.type === "땅속성" ? "ground" : item.type === "어둠속성" ? "dark" : item.type === "용속성" ? "dragon" : ""}
-                      >
-                        {item.type}
-                      </p>
+                      <div>
+                        {item.type && getTypeImage(item.type) ? (
+                          <Image src={getTypeImage(item.type)} alt={item.type} width={30} height={30} />
+                        ) : (
+                          <p>{item.type}</p>
+                        )}
+                      </div>
                     </div>
                     <div className={`active__bottom ${activeIndexes.includes(index) ? 'active' : ''}`}>
                       <div className='bottom__top'>
@@ -156,7 +196,12 @@ export default function Search() {
               <ul>
                 {selectedPal.suitability.map((item, index) => (
                   <li key={index}>
-                    <div>{item.type}</div>
+                    <div className="suitability-item">
+                      {getSuitabilityImage(item.type) && (
+                        <Image className='type' src={getSuitabilityImage(item.type)} alt={item.type} width={50} height={50} />
+                      )}
+                      <span>{item.type}</span>
+                    </div>
                     <div><i>Lv</i>{item.level}</div>
                   </li>
                 ))}

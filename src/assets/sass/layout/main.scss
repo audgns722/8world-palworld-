@@ -15,6 +15,7 @@
       font-weight: 900;
       color: var(--white);
       line-height: 1;
+
       @media(max-width: 500px) {
         font-size: 4rem;
       }
@@ -100,6 +101,7 @@
               color: var(--white);
               margin-right: 5px;
               padding: 3px 15px;
+
             }
           }
         }
@@ -272,6 +274,17 @@
             align-items: center;
             justify-content: space-between;
             padding: 10px;
+
+            .suitability-item {
+              display: flex;
+              align-items: center;
+            }
+
+            .type {
+              width: 30px;
+              height: 30px;
+              margin-right: 5px;
+            }
 
             @media(max-width: 450px) {
               width: 100%;

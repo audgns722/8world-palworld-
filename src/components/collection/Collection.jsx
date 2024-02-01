@@ -1,6 +1,7 @@
 "use client"
 
 import Image from 'next/image';
+import Link from 'next/link';
 import React, { useEffect, useState } from 'react';
 
 export default function Collection() {
@@ -21,7 +22,39 @@ export default function Collection() {
     return /\.(jpg|jpeg|png|gif)$/i.test(path);
   };
 
-  const renderCellContent = (cell, columnName) => {
+  const getTypeImage = (type) => {
+    const typeImages = {
+      "Normal": "/image/elements/neutral.png",
+      "Fire": "/image/elements/fire.png",
+      "Dark": "/image/elements/dark.png",
+      "Dragon": "/image/elements/Dragon.png",
+      "Earth": "/image/elements/ground.png",
+      "Electricity": "/image/elements/electric.png",
+      "Ice": "/image/elements/ice.png",
+      "Leaf": "/image/elements/grass.png",
+      "Water": "/image/elements/water.png",
+      // 여기에 다른 속성에 대한 이미지 경로 추가
+    };
+
+    return type !== "None" ? typeImages[type] || "/image/default.png" : null; // "None"일 경우 null 반환
+  };
+
+  const renderCellContent = (cell, columnName, rowIndex) => {
+    if (columnName === '속성(타입1)' || columnName === '속성(타입2)') {
+      const imagePath = getTypeImage(cell);
+      return imagePath ? <Image className='type' src={imagePath} alt={cell} width={30} height={30} /> : <span>-</span>; // 이미지 경로가 없는 경우 대체 텍스트 또는 빈 내용
+    }
+    if (columnName === '이름') {
+      // 도감번호를 찾습니다. '도감번호'는 header 배열에서 해당 문자열의 인덱스를 찾아 데이터에서 접근할 수 있습니다.
+      const dexNumberIndex = header.indexOf('도감번호');
+      const dexNumber = data[rowIndex][dexNumberIndex];
+
+      return (
+        <Link href={`/detail/${dexNumber}`}>
+          {cell}
+        </Link>
+      );
+    }
     // 이미지 URL인 경우
     if (columnName === '이미지' && typeof cell === 'string') {
       const imagePath = cell.replace('/public', '');
@@ -131,7 +164,7 @@ export default function Collection() {
               <tr key={rowIndex}>
                 {row.map((cell, cellIndex) => (
                   <td key={cellIndex}>
-                    {renderCellContent(cell, header[cellIndex])}
+                    {renderCellContent(cell, header[cellIndex], rowIndex)}
                   </td>
                 ))}
               </tr>
