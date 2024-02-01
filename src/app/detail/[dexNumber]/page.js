@@ -13,7 +13,7 @@ function formatDexNumber(dexNumber) {
     return `${formattedNumPart}${charPart}`;
 }
 
-export default function page({ params }) {
+export default function Page({ params }) {
     const [selectedPal, setSelectedPal] = useState(null);
     const [activeIndexes, setActiveIndexes] = useState([]);
 
