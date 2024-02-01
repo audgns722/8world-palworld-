@@ -49,14 +49,10 @@ export const metadata = {
     description: '팰월드 정보를 검색을 통해서 쉽게 확인하세요.',
     images: ['https://github.com/yunyoungsik/palworld/blob/main/public/image/thmbnail/8world.co.kr.png?raw=true'],
   },
-  naverVerification: {
-    name: 'naver-site-verification',
-    content: 'fcd614bd3ce90c103241a9e028543a6294b80625',
-  },
-  googleAdsense: {
-    name: 'google-adsense-account',
-    content: 'ca-pub-4313698984582740',
-  },
+  name: 'google-adsense-account',
+  content: 'ca-pub-4313698984582740',
+  name: 'naver-site-verification',
+  content: 'fcd614bd3ce90c103241a9e028543a6294b80625',
 };
 
 export default function Home() {
