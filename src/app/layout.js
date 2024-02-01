@@ -3,6 +3,8 @@ import "../assets/sass/style.scss";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 
+import { Analytics } from '@vercel/analytics/react';
+
 export const metadata = {
   generator: 'Next.js',
   applicationName: '8World',
@@ -69,6 +71,7 @@ export default function RootLayout({ children }) {
         <Header />
         {children}
         <Footer />
+        <Analytics />
       </body>
     </html >
   );
