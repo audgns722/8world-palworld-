@@ -1,7 +1,12 @@
 User-agent: *
-Disallow: /
-User-agent : Yeti
-User-agent : Googlebot
+Disallow: /admin
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+User-agent: Yeti
+Allow: /
 User-agent : Daumoa
 Allow: /
+
 Sitemap: https://www.8world.co.kr/sitemap.xml
