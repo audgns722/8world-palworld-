@@ -30,7 +30,7 @@ export default function Nav() {
           </li>
         </ul>
       </nav>
-      <div className="nav__mobile" id="navToggle" role="button" aria-controls="primary-menu" aria-expanded={isShow ? "true" : "false"} onClick={toogleMenu} >
+      <div className="nav__mobile" id="navToggle" role="button" aria-label="메뉴 열기" aria-controls="primary-menu" aria-expanded={isShow ? "true" : "false"} onClick={toogleMenu} >
         <span></span>
       </div >
     </>
