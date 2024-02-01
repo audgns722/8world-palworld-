@@ -54,7 +54,7 @@ export const metadata = {
   },
   naverVerification: {
     name: 'naver-site-verification',
-    content: 'eaf3d5d3ded6354505033dc8114f7ed523fbd710',
+    content: 'fcd614bd3ce90c103241a9e028543a6294b80625',
   },
   googleAdsense: {
     name: 'google-adsense-account',
