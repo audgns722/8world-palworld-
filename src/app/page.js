@@ -1,7 +1,6 @@
 import Search from '@/components/main/Search';
 
 export const metadata = {
-  title: '팰월드 정보를 검색을 통해서 쉽게 확인하세요. | 8World',
   description: '팰의 이름을 검색해서 정보를 확인할 수 있습니다.',
 };
 
