@@ -7,7 +7,7 @@ export const metadata = {
 export default function Home() {
   return (
     <>
-      <main id='main' className='home container'>
+      <main id='main' className='home container' role='main'>
         <div className="home__inner">
           <div className="home__title">
             <h2>8Worl:D</h2>

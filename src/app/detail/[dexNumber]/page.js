@@ -9,7 +9,7 @@ export default function Page({ params }) {
   const { dexNumber } = params;
  
   return (
-    <main id="main">
+    <main id="main" role="main">
       <Detail dexNumber={dexNumber} />
     </main>
   );

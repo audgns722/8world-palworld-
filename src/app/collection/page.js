@@ -7,7 +7,7 @@ export const metadata = {
 
 export default function Page() {
   return (
-    <main id="main">
+    <main id="main" role='main'>
       <Collection />
     </main>
   );
