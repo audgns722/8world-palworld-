@@ -20,7 +20,7 @@ export default function Nav() {
             <Link href='/collection'>도감</Link>
           </li>
           <li>
-            <Link href='/breeding'>교배(제작중)</Link>
+            <Link href='/breeding'>교배</Link>
           </li>
           <li>
             <Link href='mailto:yunyoungsik91@gmail.com'>건의하기</Link>

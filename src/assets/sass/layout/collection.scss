@@ -18,6 +18,7 @@
       font-weight: 900;
       color: var(--white);
       line-height: 1;
+
       @media(max-width: 500px) {
         font-size: 4rem;
       }
@@ -47,6 +48,7 @@
 .collection__table {
   margin-top: 3rem;
   overflow: auto;
+
   table {
     font-size: 0.8rem;
     border-collapse: collapse;
@@ -55,6 +57,7 @@
     thead {
       tr {
         border-bottom: 1px solid var(--white15);
+
         th {
           color: var(--white);
           padding: 0.5rem 1rem;
@@ -113,6 +116,17 @@
         td {
           padding: 1rem;
           text-wrap: nowrap;
+          > a {
+            &:hover {
+              text-decoration: underline;
+              text-underline-position: under;
+            }
+          }
+
+          .type {
+            width: 40px;
+            height: 40px;
+          }
 
           img {
             padding: 5px;

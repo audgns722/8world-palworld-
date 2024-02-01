@@ -48,6 +48,22 @@ export default function Breeding() {
     }
   }, [selectedValue1, selectedValue2, data]);
 
+  const getTypeImage = (type) => {
+    const typeImages = {
+      "Normal": "/image/elements/neutral.png",
+      "Fire": "/image/elements/fire.png",
+      "Dark": "/image/elements/dark.png",
+      "Dragon": "/image/elements/Dragon.png",
+      "Earth": "/image/elements/ground.png",
+      "Electricity": "/image/elements/electric.png",
+      "Ice": "/image/elements/ice.png",
+      "Leaf": "/image/elements/grass.png",
+      "Water": "/image/elements/water.png",
+    };
+
+    return type !== "None" ? typeImages[type] || "/image/default.png" : null;
+  };
+
   return (
     <>
       <div className='breeding__select'>
@@ -74,8 +90,8 @@ export default function Breeding() {
       </div>
       <div className='breeding__result'>
         <h3>결과</h3>
-        {closestData !== null && (
-          <Link href="/">
+        {closestData !== null && closestData !== undefined && (
+          <Link href={`/detail/${closestData[0]}`}>
             <div className="card__top">
               <div className="card__left">
                 <div className="left__top">
@@ -84,10 +100,16 @@ export default function Breeding() {
                   </div>
                   <ul>
                     <li>
-                      {closestData[4]}
+                      {closestData[4] && (
+                        <Image src={getTypeImage(closestData[4])} width={30} height={30} alt={closestData[4]} />
+                      )}
                     </li>
                     <li>
-                      {closestData[5]}
+                      {closestData[5] === "None" ? (
+                        <span></span>
+                      ) : (
+                        <Image src={getTypeImage(closestData[5])} width={30} height={30} alt={closestData[5]} />
+                      )}
                     </li>
                   </ul>
                 </div>
