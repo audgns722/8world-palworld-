@@ -6,11 +6,9 @@ import { useEffect, useState } from "react";
 
 export default function Breeding() {
   const [data, setData] = useState([]);
-  // console.log(data);
   const [selectedValue1, setSelectedValue1] = useState('');
   const [selectedValue2, setSelectedValue2] = useState('');
-  const [breedingResult, setBreedingResult] = useState(null);
-  const [closestData, setClosestData] = useState(null);
+  const [breedingResults, setBreedingResults] = useState([]);
 
   useEffect(() => {
     fetch('/api/roadData')
@@ -29,40 +27,49 @@ export default function Breeding() {
   };
 
   useEffect(() => {
-    if (selectedValue1 !== '' && selectedValue2 !== '') {
-      const result = (parseFloat(selectedValue1) + parseFloat(selectedValue2)) / 2;
-      setBreedingResult(result);
-
-      const closestItem = data.reduce((closest, item) => {
-        const itemValue = parseFloat(item[3]);
-        const currentDiff = Math.abs(result - itemValue);
-        const closestDiff = Math.abs(result - parseFloat(closest[3]));
-
-        return currentDiff < closestDiff ? item : closest;
-      }, data[0]);
-
-      setClosestData(closestItem);
-    } else {
-      setBreedingResult(null);
-      setClosestData(null);
+    if (selectedValue1 !== '' && selectedValue2 !== '' && data[0]) {
+      const selectedObject1 = data.find(item => item[3] === selectedValue1);
+      const selectedObject2 = data.find(item => item[3] === selectedValue2);
+      const calculatedValue = (parseFloat(selectedObject2[3]) + parseFloat(selectedValue1)) / 2;
+  
+      // 가장 가까운 값의 data 객체를 찾아옵니다.
+      const closestObject = data.reduce((closest, current) => {
+        const currentDiff = Math.abs(parseFloat(current[3]) - calculatedValue);
+        const closestDiff = Math.abs(parseFloat(closest[3]) - calculatedValue);
+  
+        return currentDiff < closestDiff ? current : closest;
+      });
+  
+      // select1과 select2의 결과만을 업데이트
+      setBreedingResults([
+        {
+          pal1: selectedObject1,
+          pal2: selectedObject2,
+          result: closestObject,
+        }
+      ]);
+    } else if (selectedValue1 !== '' && data[0]) {
+      const selectedObject1 = data.find(item => item[3] === selectedValue1);
+      const results = data.map(item => {
+        const calculatedValue = (parseFloat(item[3]) + parseFloat(selectedValue1)) / 2;
+  
+        // 가장 가까운 값의 data 객체를 찾아옵니다.
+        const closestObject = data.reduce((closest, current) => {
+          const currentDiff = Math.abs(parseFloat(current[3]) - calculatedValue);
+          const closestDiff = Math.abs(parseFloat(closest[3]) - calculatedValue);
+  
+          return currentDiff < closestDiff ? current : closest;
+        });
+  
+        return {
+          pal1: selectedObject1,
+          pal2: { ...item },
+          result: closestObject,
+        };
+      });
+      setBreedingResults(results);
     }
   }, [selectedValue1, selectedValue2, data]);
-
-  const getTypeImage = (type) => {
-    const typeImages = {
-      "Normal": "/image/elements/neutral.png",
-      "Fire": "/image/elements/fire.png",
-      "Dark": "/image/elements/dark.png",
-      "Dragon": "/image/elements/Dragon.png",
-      "Earth": "/image/elements/ground.png",
-      "Electricity": "/image/elements/electric.png",
-      "Ice": "/image/elements/ice.png",
-      "Leaf": "/image/elements/grass.png",
-      "Water": "/image/elements/water.png",
-    };
-
-    return type !== "None" ? typeImages[type] || "/image/default.png" : null;
-  };
 
   return (
     <>
@@ -70,6 +77,7 @@ export default function Breeding() {
         <div className='select1'>
           <h3>팰 1</h3>
           <select value={selectedValue1} onChange={handleSelect1Change}>
+            <option value="default" hidden>팰을 선택해주세요.</option>
             {data.map((item, index) => (
               <option key={index} value={item[3]}>
                 {`No.${item[0]} ${item[1]} (${item[3]})`}
@@ -80,6 +88,7 @@ export default function Breeding() {
         <div className='select2'>
           <h3>팰 2</h3>
           <select value={selectedValue2} onChange={handleSelect2Change}>
+            <option value="default" hidden>팰을 선택해주세요.</option>
             {data.map((item, index) => (
               <option key={index} value={item[3]}>
                 {`No.${item[0]} ${item[1]} (${item[3]})`}
@@ -90,39 +99,26 @@ export default function Breeding() {
       </div>
       <div className='breeding__result'>
         <h3>결과</h3>
-        {closestData !== null && closestData !== undefined && (
-          <Link href={`/detail/${closestData[0]}`}>
-            <div className="card__top">
-              <div className="card__left">
-                <div className="left__top">
-                  <div className="key">
-                    <i>No.</i>{closestData[0]}
-                  </div>
-                  <ul>
-                    <li>
-                      {closestData[4] && (
-                        <Image src={getTypeImage(closestData[4])} width={30} height={30} alt={closestData[4]} />
-                      )}
-                    </li>
-                    <li>
-                      {closestData[5] === "None" ? (
-                        <span></span>
-                      ) : (
-                        <Image src={getTypeImage(closestData[5])} width={30} height={30} alt={closestData[5]} />
-                      )}
-                    </li>
-                  </ul>
-                </div>
-                <h3 className="name">
-                  {closestData[1]} ({closestData[3]})
-                </h3>
-              </div>
-              <div className="card__right">
-                <Image src={closestData[2].replace('/public', '')} width={100} height={100} alt={closestData[1]} />
-              </div>
-            </div>
-          </Link>
-        )}
+        <table>
+          <thead>
+            <tr>
+              <th>팰1</th>
+              <th>팰2</th>
+              <th>결과</th>
+            </tr>
+          </thead>
+          {breedingResults && (
+            <tbody>
+              {breedingResults.map((item, index) => (
+                <tr key={index}>
+                  <td>{item.pal1[0]}{item.pal1[1]}{item.pal1[3]}</td>
+                  <td>{item.pal2[0]}{item.pal2[1]}{item.pal2[3]}</td>
+                  <td>{item.result[0]}{item.result[1]}{item.result[3]}</td>
+                </tr>
+              ))}
+            </tbody>
+          )}
+        </table>
       </div>
     </>
   )
