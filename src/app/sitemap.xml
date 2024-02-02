@@ -27,4 +27,10 @@
     <priority>0.6</priority>
   </url>
 
+  <url>
+    <loc>https://8world.co.kr/maps/*</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
 </urlset>
