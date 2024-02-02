@@ -233,6 +233,7 @@ export const metadata = {
   },
   googleAdsenseAccount: 'ca-pub-4313698984582740',
   naverSiteVerification: 'fcd614bd3ce90c103241a9e028543a6294b80625',
+  naverVerification: 'fcd614bd3ce90c103241a9e028543a6294b80625'
 };
 
 export default function RootLayout({ children }) {
