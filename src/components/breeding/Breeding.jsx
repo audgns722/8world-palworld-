@@ -31,15 +31,15 @@ export default function Breeding() {
       const selectedObject1 = data.find(item => item[3] === selectedValue1);
       const selectedObject2 = data.find(item => item[3] === selectedValue2);
       const calculatedValue = (parseFloat(selectedObject2[3]) + parseFloat(selectedValue1)) / 2;
-  
+
       // 가장 가까운 값의 data 객체를 찾아옵니다.
       const closestObject = data.reduce((closest, current) => {
         const currentDiff = Math.abs(parseFloat(current[3]) - calculatedValue);
         const closestDiff = Math.abs(parseFloat(closest[3]) - calculatedValue);
-  
+
         return currentDiff < closestDiff ? current : closest;
       });
-  
+
       // select1과 select2의 결과만을 업데이트
       setBreedingResults([
         {
@@ -52,15 +52,15 @@ export default function Breeding() {
       const selectedObject1 = data.find(item => item[3] === selectedValue1);
       const results = data.map(item => {
         const calculatedValue = (parseFloat(item[3]) + parseFloat(selectedValue1)) / 2;
-  
+
         // 가장 가까운 값의 data 객체를 찾아옵니다.
         const closestObject = data.reduce((closest, current) => {
           const currentDiff = Math.abs(parseFloat(current[3]) - calculatedValue);
           const closestDiff = Math.abs(parseFloat(closest[3]) - calculatedValue);
-  
+
           return currentDiff < closestDiff ? current : closest;
         });
-  
+
         return {
           pal1: selectedObject1,
           pal2: { ...item },
@@ -99,26 +99,41 @@ export default function Breeding() {
       </div>
       <div className='breeding__result'>
         <h3>결과</h3>
-        <table>
-          <thead>
-            <tr>
-              <th>팰1</th>
-              <th>팰2</th>
-              <th>결과</th>
-            </tr>
-          </thead>
-          {breedingResults && (
-            <tbody>
-              {breedingResults.map((item, index) => (
-                <tr key={index}>
-                  <td>{item.pal1[0]}{item.pal1[1]}{item.pal1[3]}</td>
-                  <td>{item.pal2[0]}{item.pal2[1]}{item.pal2[3]}</td>
-                  <td>{item.result[0]}{item.result[1]}{item.result[3]}</td>
-                </tr>
-              ))}
-            </tbody>
-          )}
-        </table>
+        <p>팰1만 선택한 경우 모든 비교값을 보여줍니다.</p>
+        <div className="result__inner">
+          <table>
+            <thead>
+              <tr>
+                <th>팰1</th>
+                <th>팰2</th>
+                <th>결과</th>
+              </tr>
+            </thead>
+            {breedingResults && (
+              <tbody>
+                {breedingResults.map((item, index) => (
+                  <tr key={index}>
+                    <td>
+                      <div>
+                        <div>No.{item.pal1[0]} <Link href={`/detail/${item.pal1[0]}`}>{item.pal1[1]}</Link> ({item.pal1[3]})</div> <Image src={item.pal1[2].replace('/public', '')} width={100} height={100} alt={item.pal1[1]} />
+                      </div>
+                    </td>
+                    <td>
+                      <div>
+                        <div>No.{item.pal2[0]} <Link href={`/detail/${item.pal2[0]}`}>{item.pal2[1]}</Link> ({item.pal2[3]})</div> <Image src={item.pal2[2].replace('/public', '')} width={100} height={100} alt={item.pal1[1]} />
+                      </div>
+                    </td>
+                    <td>
+                      <div>
+                        <div>No.{item.result[0]} <Link href={`/detail/${item.result[0]}`}>{item.result[1]}</Link> ({item.result[3]})</div> <Image src={item.result[2].replace('/public', '')} width={100} height={100} alt={item.pal1[1]} />
+                      </div>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            )}
+          </table>
+        </div>
       </div>
     </>
   )

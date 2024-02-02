@@ -65,97 +65,77 @@
   }
 
   .breeding__result {
-    max-width: 600px;
+    max-width: 750px;
     margin: 3rem auto 0;
 
     >h3 {
       margin-bottom: 0.3rem;
     }
 
-    table {
-      width: 100%;
+    >p {
       font-size: 0.9rem;
-      border-collapse: collapse;
-      border: 1px solid var(--white15);
-  
-      thead {
-        tr {
-          border-bottom: 1px solid var(--white15);
-  
-          th {
-            color: var(--white);
-            padding: 0.5rem 1rem;
-            word-break: keep-all;
-            cursor: pointer;
+      font-family: var(--font-nanum);
+      color: var(--white50);
+      margin-bottom: 0.6rem;
+    }
+
+    .result__inner {
+      overflow: auto;
+      table {
+        width: 100%;
+        font-size: 0.9rem;
+        border-collapse: collapse;
+        border: 1px solid var(--white15);
+
+        thead {
+          tr {
+            border-bottom: 1px solid var(--white15);
+
+            th {
+              color: var(--white);
+              padding: 0.5rem 1rem;
+              word-break: keep-all;
+            }
+          }
+        }
+
+        tbody {
+          >tr {
+            border-bottom: 1px solid var(--white15);
             transition: all 0.3s;
-  
-            &:nth-child(3) {
-              cursor: default;
-            }
-  
+
             &:hover {
-              background-color: var(--white15);
+              background-color: #009cff;
             }
-  
-            .sort-arrow {
-              display: inline-block;
-              margin-left: 5px;
-              width: 20px;
-              height: 20px;
-              background: var(--white50);
-              border-radius: 50%;
-              transition: all 0.3s;
-  
-              &.ascending {
-                transform: rotate(180deg);
-              }
-  
-              &.descending {
-                transform: rotate(-360deg);
+
+            >td {
+              padding: 1rem;
+              text-wrap: nowrap;
+
+              >div {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                >div {
+                  a {
+                    &:hover {
+                      text-decoration: underline;
+                      text-underline-position: under;
+                    }
+                  }
+                }
+
+                >img {
+                  width: 2rem;
+                  height: 2rem;
+                }
               }
             }
           }
         }
-  
-        img {
-          width: 30px;
-          height: 30px;
-        }
+
       }
-  
-      tbody {
-        tr {
-          border-bottom: 1px solid var(--white15);
-          transition: all 0.3s;
-  
-          &:hover {
-            background-color: #009cff;
-          }
-  
-          td {
-            padding: 1rem;
-            text-wrap: nowrap;
-            > a {
-              &:hover {
-                text-decoration: underline;
-                text-underline-position: under;
-              }
-            }
-  
-            .type {
-              width: 40px;
-              height: 40px;
-            }
-  
-            img {
-              padding: 5px;
-              width: 50px;
-              height: 50px;
-            }
-          }
-        }
-      }
-  
     }
   }
 }
