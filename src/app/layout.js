@@ -179,7 +179,7 @@ export const metadata = {
   creator: [{ name: 'Yun' }, { name: 'Lee' }],
   publisher: [{ name: 'Yun' }, { name: 'Lee' }],
   formatDetection: {
-    email: 'yunyoungsik91@gmail.com',
+    email: 'pal_world@outlook.kr',
   },
   icons: {
     icon: 'favicon.svg',
