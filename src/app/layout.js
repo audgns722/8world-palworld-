@@ -4,7 +4,6 @@ import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 
 import { Analytics } from '@vercel/analytics/react';
-import GoogleAnalytics from '@/components/main/GoogleAnalytics';
 
 export const metadata = {
   generator: 'Next.js',
@@ -240,7 +239,6 @@ export default function RootLayout({ children }) {
   return (
     <html lang="ko">
       <body>
-        <GoogleAnalytics />
         <Header />
         {children}
         <Footer />
