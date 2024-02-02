@@ -1,9 +1,5 @@
 import Search from '@/components/main/Search';
 
-export const metadata = {
-  description: '팰의 이름을 검색해서 정보를 확인할 수 있습니다.',
-};
-
 export default function Home() {
   return (
     <>
