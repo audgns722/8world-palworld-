@@ -16,6 +16,7 @@ npm install papaparse
 npm install datatables.net-dt
 npm install path
 npm install sass
+npm install @next/third-parties
 ```
 
 ## 트러블 슈팅

@@ -4,6 +4,9 @@ import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 
 import { Analytics } from '@vercel/analytics/react';
+import { GoogleAnalytics } from '@next/third-parties/google';
+import { GoogleTagManager } from '@next/third-parties/google'
+
 
 export const metadata = {
   generator: 'Next.js',
@@ -233,13 +236,15 @@ export const metadata = {
   },
   googleAdsenseAccount: 'ca-pub-4313698984582740',
   naverSiteVerification: 'fcd614bd3ce90c103241a9e028543a6294b80625',
-  naverVerification: 'fcd614bd3ce90c103241a9e028543a6294b80625'
+  naverVerification: 'fcd614bd3ce90c103241a9e028543a6294b80625',
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="ko">
       <body>
+        <GoogleAnalytics gaId="G-1BX9XD2SC2" />
+        <GoogleTagManager gtmId="GTM-KH6RHHQS" />
         <Header />
         {children}
         <Footer />
