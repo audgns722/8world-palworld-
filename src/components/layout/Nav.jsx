@@ -26,7 +26,7 @@ export default function Nav() {
             <Link href='/maps'>맵(제작중)</Link>
           </li>
           <li>
-            <Link href='mailto:yunyoungsik91@gmail.com'>건의하기</Link>
+            <Link href='mailto:pal_world@outlook.kr'>건의하기</Link>
           </li>
         </ul>
       </nav>
