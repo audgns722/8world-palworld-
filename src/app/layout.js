@@ -231,7 +231,7 @@ export const metadata = {
     description:
       '팰월드, pallworld, 팔월드, 8world, 팰, pall, 교배, 도감, 정보, 지도를 검색을 통해서 쉽게 확인하세요.',
     images: [
-      'https://private-user-images.githubusercontent.com/144635640/301506173-1b60ec28-d99e-4d38-9356-c08e06bf02cd.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY3OTE0NDQsIm5iZiI6MTcwNjc5MTE0NCwicGF0aCI6Ii8xNDQ2MzU2NDAvMzAxNTA2MTczLTFiNjBlYzI4LWQ5OWUtNGQzOC05MzU2LWMwOGUwNmJmMDJjZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwMVQxMjM5MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMzY0NWFmODA5ZDZkMzhiMzQyMGU2NTdiMjQyYmQwZjE4MTA5MzkwMGZjYzlkNjVjY2JkYTAwMTZkYjkwNGY2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.nCUoL6xj1lEfh18ikO6U33EYeeVyE7yKHNm4nvudpMk',
+      'https://www.8world.co.kr/image/meta/8world.jpg',
     ],
   },
   googleAdsenseAccount: 'ca-pub-4313698984582740',
