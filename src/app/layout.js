@@ -13,7 +13,7 @@ export const metadata = {
   applicationName: '8World',
   title: '팰월드 정보는 팔월드 - 8World',
   description:
-    '팰월드, pallworld, 팔월드, 8world, 팰, pall, 교배, 도감, 정보, 지도를 검색을 통해서 쉽게 확인하세요.',
+    '팰월드, pallworld, 팔월드, 8world, 팰월드 계산기, 팰월드 교배, 교배표, 개체값, 도감, 아이템, 정보, 지도를 검색을 통해서 쉽게 확인하세요.',
   siteName: '8World',
   keywords: [
     '팰월드',
@@ -24,16 +24,15 @@ export const metadata = {
     '팔',
     'pal',
     '교배',
-    '팰 교배',
-    '팰 교배 계산기',
+    '팰월드 교배',
+    '팰월드 교배표',
+    '팰월드 교배 계산기',
     '도감',
-    '팰 도감',
+    '팰월드 도감',
     '지도',
     '팰월드 지도',
-    '팰 지도',
     '정보',
     '팰월드 정보',
-    '팰 정보',
     '팁',
     '공략',
     '도로롱',
@@ -193,7 +192,7 @@ export const metadata = {
   openGraph: {
     title: '팰월드 정보는 팔월드 - 8World',
     description:
-      '팰월드, pallworld, 팔월드, 8world, 팰, pall, 교배, 도감, 정보, 지도를 검색을 통해서 쉽게 확인하세요.',
+      '팰월드, pallworld, 팔월드, 8world, 팰월드 계산기, 팰월드 교배, 교배표, 개체값, 도감, 아이템, 정보, 지도를 검색을 통해서 쉽게 확인하세요.',
     url: 'https://8world.co.kr',
     siteName: '8World',
     images:
@@ -229,7 +228,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: '팰월드 정보는 팔월드 - 8World',
     description:
-      '팰월드, pallworld, 팔월드, 8world, 팰, pall, 교배, 도감, 정보, 지도를 검색을 통해서 쉽게 확인하세요.',
+      '팰월드, pallworld, 팔월드, 8world, 팰월드 계산기, 팰월드 교배, 교배표, 개체값, 도감, 아이템, 정보, 지도를 검색을 통해서 쉽게 확인하세요.',
     images: [
       'https://www.8world.co.kr/image/meta/8world.jpg',
     ],

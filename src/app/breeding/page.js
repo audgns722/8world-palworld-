@@ -1,7 +1,7 @@
 import Breeding from "@/components/breeding/Breeding";
 
 export const metadata = {
-  title: '팰월드 교배 - 8World',
+  title: '팰월드 교배 계산기 - 8World',
   description: '팰 교배 결과를 미리 확인할 수 있습니다.',
 };
 
