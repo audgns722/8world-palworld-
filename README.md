@@ -17,6 +17,7 @@ npm install datatables.net-dt
 npm install path
 npm install sass
 npm install @next/third-parties
+npm install --save react-zoom-pan-pinch
 ```
 
 ## 트러블 슈팅

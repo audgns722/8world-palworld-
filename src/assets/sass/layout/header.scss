@@ -26,6 +26,7 @@
       right: 8px;
       display: none;
       background-color: var(--black);
+      z-index: 9999;
       &.show {
         display: block;
       }
@@ -49,6 +50,8 @@
           padding: 8px 16px;
           transition: background-color 0.3s;
           border-radius: 5px;
+          word-break: keep-all;
+          text-align: center;
           @media (max-width: 500px) {
             display: inline-block;
             text-align: right;

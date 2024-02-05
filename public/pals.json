@@ -89,7 +89,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 40
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "SheepBall",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1000,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/001-day.png",
+      "night": "/public/images/maps/001-night.png"
+    }
   },
   {
     "id": 2,

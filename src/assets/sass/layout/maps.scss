@@ -1,18 +1,100 @@
 .maps {
-  .maps__inner {
-    max-width: 1280px;
-    max-height: 1280px;
+  .maps__title {
+    width: 100%;
     display: flex;
-    .maps__list {
-      max-width: 300px;
-      max-height: 1280px;
-      background-color: #ccc;
+    align-items: center;
+    justify-content: center;
+
+    padding: 100px 0 50px;
+
+    h2 {
+      font-size: 6rem;
+      font-family: var(--font-title);
+      font-weight: 900;
+      color: var(--white);
+      line-height: 1;
+
+      @media(max-width: 500px) {
+        font-size: 4rem;
+      }
     }
+  }
+
+  .maps__inner {
+    .maps__list {
+      max-width: 600px;
+      margin: 0 auto;
+      position: relative;
+      .home__search {
+        width: 100%;
+        position: relative;
+        .search__select {
+          font-size: 0.9rem;
+          font-family: var(--font-nanum);
+          line-height: 1;
+          padding: 5px;
+          position: absolute;
+          left: 5px;
+          top: 50%;
+          transform: translateY(-50%);
+          border-right: 1px solid rgba(0, 0, 0, 0.15);
+          >select {
+            text-align: center;
+            &:focus {
+              outline: 0;
+            }
+          }
+        }
+
+        >input {
+          font-size: 0.9rem;
+          font-family: var(--font-nanum);
+          width: 100%;
+          height: 50px;
+          border: 1px solid var(--white50);
+          border-radius: 5px;
+          padding: 10px 10px 10px 80px;
+
+          &:focus {
+            outline: 0;
+          }
+        }
+      }
+
+      .home__searchDrop {
+        position: absolute;
+        width: 100%;
+        max-height: 200px;
+        border-radius: 5px;
+        overflow: auto;
+        z-index: 999;
+
+        >li {
+          font-size: 0.9rem;
+          font-family: var(--font-nanum);
+          width: 100%;
+          height: 50px;
+          background-color: var(--white);
+          padding: 10px;
+          display: flex;
+          align-items: center;
+          border-top: 1px solid rgba(0, 0, 0, 0.15);
+          transition: background-color 0.3s, color 0.15s;
+
+          &:hover {
+            color: var(--white);
+            background-color: var(--white50);
+          }
+        }
+      }
+    }
+
     .maps__map {
       max-width: fit-content;
       max-height: fit-content;
-      background-color: #333;
       object-fit: contain;
+      margin: 50px auto 0;
+
       >img {
         width: 100%;
         height: 100%;

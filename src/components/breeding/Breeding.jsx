@@ -76,8 +76,10 @@ export default function Breeding() {
       <div className='breeding__select'>
         <div className='select1'>
           <label htmlFor="select1">팰 1</label>
-          <select id="select1" value={selectedValue1} onChange={handleSelect1Change}>
-            <option value="default" hidden>팰을 선택해주세요.</option>
+          <select id="select1" className="custom-select" value={selectedValue1} onChange={handleSelect1Change}>
+            <option value="default" hidden>
+              팰을 선택해주세요.
+            </option>
             {data.map((item, index) => (
               <option key={index} value={item[3]}>
                 {`No.${item[0]} ${item[1]} (${item[3]})`}

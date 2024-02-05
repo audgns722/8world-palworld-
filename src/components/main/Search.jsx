@@ -35,7 +35,6 @@ export default function Search() {
   const handlePalClick = (pal) => {
     // 팰을 선택한 후 검색 입력값을 초기화
     setSelectedPal(pal);
-    setValue("");
   };
 
   // 엔터 키를 눌렀을 때 검색되도록 처리
@@ -108,9 +107,9 @@ export default function Search() {
           onKeyDown={handleKeyDown}
           placeholder='검색할 팰의 이름을 입력해주세요.'
         />
-        {value && (
+        {value && !selectedPal && (
           <ul className="home__searchDrop">
-            {filteredData.map((item) => (
+            {filteredData?.map((item) => (
               <li key={item.name} onClick={() => handlePalClick(item)}>
                 <p>{item.name}</p>
               </li>
