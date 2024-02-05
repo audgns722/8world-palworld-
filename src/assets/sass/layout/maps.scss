@@ -25,21 +25,25 @@
       max-width: 600px;
       margin: 0 auto;
       position: relative;
+
       .home__search {
         width: 100%;
         position: relative;
+
         .search__select {
-          font-size: 0.9rem;
-          font-family: var(--font-nanum);
-          line-height: 1;
-          padding: 5px;
           position: absolute;
           left: 5px;
           top: 50%;
           transform: translateY(-50%);
           border-right: 1px solid rgba(0, 0, 0, 0.15);
+          padding: 5px;
+
           >select {
+            font-size: 0.9rem;
+            font-family: var(--font-nanum);
+            line-height: 1;
             text-align: center;
+
             &:focus {
               outline: 0;
             }
@@ -92,12 +96,12 @@
     .maps__map {
       max-width: fit-content;
       max-height: fit-content;
-      object-fit: contain;
       margin: 50px auto 0;
 
-      >img {
+      img {
         width: 100%;
         height: 100%;
+        object-fit: contain;
       }
     }
   }
