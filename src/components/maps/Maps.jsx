@@ -1,13 +1,14 @@
 "use client"
 
 import Image from 'next/image';
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
 
 export default function Maps() {
   const [data, setData] = useState(null);
   const [value, setValue] = useState("");
   const [selectedPal, setSelectedPal] = useState(null);
+  const [selectedPalKey, setSelectedPalKey] = useState(null);
   const [time, setTime] = useState("day");
 
   useEffect(() => {
@@ -50,6 +51,18 @@ export default function Maps() {
     }
   };
 
+  // eng파일에서 데이터 가져오기
+  useEffect(() => {
+    if (!selectedPalKey) return;
+  
+    fetch('/pals-eng.json')
+      .then((response) => response.json())
+      .then((data) => {
+        const selectedPal = data.find((pal) => pal.key === selectedPalKey);
+        setSelectedPal(selectedPal);
+      });
+  }, [selectedPalKey]);
+
   // 야행성
   const handleTime = (e) => {
     setTime(e.target.value);
@@ -63,17 +76,17 @@ export default function Maps() {
       <div className='maps__inner'>
         <div className='maps__list'>
           <div className="home__search">
-          <div className='search__select'>
-            <label htmlFor="time" className='blind'>야행성</label>
-            <select name="time" id="time" value={time} onChange={handleTime}>
-              <option value="day">
-                DAY
-              </option>
-              <option value="night">
-                NIGHT
-              </option>
-            </select>
-          </div>
+            <div className='search__select'>
+              <label htmlFor="time" className='blind'>야행성</label>
+              <select name="time" id="time" value={time} onChange={handleTime}>
+                <option value="day">
+                  DAY
+                </option>
+                <option value="night">
+                  NIGHT
+                </option>
+              </select>
+            </div>
             <input
               value={value}
               onChange={(e) => setValue(e.target.value)}
