@@ -47,10 +47,10 @@ export default function Collection() {
     if (columnName === '이름') {
       // 도감번호를 찾습니다. '도감번호'는 header 배열에서 해당 문자열의 인덱스를 찾아 데이터에서 접근할 수 있습니다.
       const dexNumberIndex = header.indexOf('도감번호');
-      const dexNumber = data[rowIndex][dexNumberIndex];
+      const dexNumber = sortedData[rowIndex][dexNumberIndex];
 
       return (
-        <Link href={`/detail/${dexNumber}`}>
+        <Link href={`/detail/${dexNumber}`} onclick="return">
           {cell}
         </Link>
       );
@@ -68,18 +68,18 @@ export default function Collection() {
     return cell;
   };
 
-  const requestSort = (columnIndex) => {
-    // 이미지 컬럼이면 정렬하지 않습니다.
-    if (isImageUrl(header[columnIndex]) || header[columnIndex] === "이미지") return;
+  const requestSort = (key) => {
+    const isImageUrlColumn = isImageUrl(key);
+    if (isImageUrlColumn || key === "이미지") return;
 
     let direction = 'ascending';
-    if (sortConfig.key === columnIndex && sortConfig.direction === 'ascending') {
+    if (sortConfig.key === key && sortConfig.direction === 'ascending') {
       direction = 'descending';
     } else {
       direction = 'ascending';
     }
-    setSortConfig({ key: columnIndex, direction });
-  }
+    setSortConfig({ key, direction });
+  };
 
 
   const sortedData = React.useMemo(() => {
@@ -126,7 +126,7 @@ export default function Collection() {
   const handleSearchChange = (event) => {
     setSearchTerm(event.target.value);
   };
-  
+
   return (
     <div className='collection'>
       <div className="collection__title">

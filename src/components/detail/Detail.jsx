@@ -18,6 +18,8 @@ export default function Detail({ dexNumber }) {
   const [selectedPal, setSelectedPal] = useState(null);
   const [activeIndexes, setActiveIndexes] = useState([]);
   useEffect(() => {
+    // 페이지 최상단으로 스크롤
+    window.scrollTo(0, 0);
     if (dexNumber) {
       const formattedDexNumber = formatDexNumber(dexNumber);
 
@@ -141,9 +143,8 @@ export default function Detail({ dexNumber }) {
             {selectedPal.skills.map((item, index) => (
               <li key={index}>
                 <div
-                  className={`active__top ${
-                    activeIndexes.includes(index) ? 'active' : ''
-                  }`}
+                  className={`active__top ${activeIndexes.includes(index) ? 'active' : ''
+                    }`}
                   onClick={() => handleSkillClick(index)}
                 >
                   <div className="top__left">
@@ -167,9 +168,8 @@ export default function Detail({ dexNumber }) {
                   </div>
                 </div>
                 <div
-                  className={`active__bottom ${
-                    activeIndexes.includes(index) ? 'active' : ''
-                  }`}
+                  className={`active__bottom ${activeIndexes.includes(index) ? 'active' : ''
+                    }`}
                 >
                   <div className="bottom__top">
                     <p>
