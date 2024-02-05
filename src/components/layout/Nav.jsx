@@ -20,14 +20,17 @@ export default function Nav() {
             <Link href='/collection'>도감</Link>
           </li>
           <li>
-            <Link href='/'>교배(제작중)</Link>
+            <Link href='/breeding'>교배</Link>
           </li>
           <li>
-            <Link href='mailto:yunyoungsik91@gmail.com'>건의하기</Link>
+            <Link href='/maps'>맵(제작중)</Link>
+          </li>
+          <li>
+            <Link href='mailto:pal_world@outlook.kr'>건의하기</Link>
           </li>
         </ul>
       </nav>
-      <div className="nav__mobile" id="navToggle" role="button" aria-controls="primary-menu" aria-expanded={isShow ? "true" : "false"} onClick={toogleMenu} >
+      <div className="nav__mobile" id="navToggle" role="button" aria-label="메뉴 열기" aria-controls="primary-menu" aria-expanded={isShow ? "true" : "false"} onClick={toogleMenu} >
         <span></span>
       </div >
     </>

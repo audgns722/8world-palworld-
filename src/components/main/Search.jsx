@@ -106,7 +106,7 @@ export default function Search() {
           value={value}
           onChange={(e) => setValue(e.target.value)}
           onKeyDown={handleKeyDown}
-          placeholder='검색할 팰의 이름을 적어주세요.'
+          placeholder='검색할 팰의 이름을 입력해주세요.'
         />
         {value && (
           <ul className="home__searchDrop">

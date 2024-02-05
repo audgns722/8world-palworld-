@@ -4,7 +4,7 @@
   display: flex;
   align-items: center;
 
-  @media (max-width: 500px) {
+  @media (max-width: 550px) {
     justify-content: space-between;
   }
 
@@ -20,7 +20,7 @@
   }
 
   .nav {
-    @media (max-width: 500px) {
+    @media (max-width: 550px) {
       position: absolute;
       top: 50px;
       right: 8px;
@@ -32,12 +32,12 @@
     }
     > ul {
       display: flex;
-      @media (max-width: 500px) {
+      @media (max-width: 550px) {
         display: block;
       }
 
       > li {
-        @media (max-width: 500px) {
+        @media (max-width: 550px) {
           display: flex;
           justify-content: flex-end;
         }
@@ -100,8 +100,14 @@
       }
     }
 
-    @media (max-width: 500px) {
+    @media (max-width: 550px) {
       display: block;
     }
+  }
+}
+@media (max-width: 550px) {
+  .nav.show + .nav__mobile span::after,
+  .nav.show + .nav__mobile span::before {
+    width: 20px;
   }
 }

@@ -126,6 +126,7 @@ export default function Collection() {
   const handleSearchChange = (event) => {
     setSearchTerm(event.target.value);
   };
+  
   return (
     <div className='collection'>
       <div className="collection__title">
