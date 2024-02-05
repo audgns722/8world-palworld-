@@ -27,7 +27,7 @@ export default function Collection() {
       "Normal": "/image/elements/neutral.png",
       "Fire": "/image/elements/fire.png",
       "Dark": "/image/elements/dark.png",
-      "Dragon": "/image/elements/Dragon.png",
+      "Dragon": "/image/elements/dragon.png",
       "Earth": "/image/elements/ground.png",
       "Electricity": "/image/elements/electric.png",
       "Ice": "/image/elements/ice.png",
