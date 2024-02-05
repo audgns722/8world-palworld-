@@ -1,11 +1,22 @@
 .maps {
-    .maps__inner {
-        max-width: 1280px;
-        max-height: 1280px;
-        img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
+  .maps__inner {
+    max-width: 1280px;
+    max-height: 1280px;
+    display: flex;
+    .maps__list {
+      max-width: 300px;
+      max-height: 1280px;
+      background-color: #ccc;
     }
+    .maps__map {
+      max-width: fit-content;
+      max-height: fit-content;
+      background-color: #333;
+      object-fit: contain;
+      >img {
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
 }
