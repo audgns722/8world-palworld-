@@ -8,7 +8,6 @@ export default function Maps() {
   const [data, setData] = useState(null);
   const [value, setValue] = useState("");
   const [selectedPal, setSelectedPal] = useState(null);
-  const [selectedPalKey, setSelectedPalKey] = useState(null);
   const [time, setTime] = useState("day");
 
   useEffect(() => {
@@ -51,6 +50,7 @@ export default function Maps() {
     }
   };
 
+<<<<<<< HEAD
   // eng파일에서 데이터 가져오기
   useEffect(() => {
     if (!selectedPalKey) return;
@@ -63,6 +63,8 @@ export default function Maps() {
       });
   }, [selectedPalKey]);
 
+=======
+>>>>>>> a362450628c1b741cc5ebb4e6e0c1aedf3495d9c
   // 야행성
   const handleTime = (e) => {
     setTime(e.target.value);
@@ -115,11 +117,12 @@ export default function Maps() {
                 <button onClick={() => resetTransform()}>x</button>
               </div> */}
               <TransformComponent>
-                {selectedPal ? (
-                  <Image src={`/image/maps/${selectedPal.key}-${time}.png`} width={500} height={500} alt={selectedPal.name} />
-                ) : (
-                  <Image src="/image/maps/T_WorldMap.png" width={500} height={500} alt='palworld world map' fallback="/image/maps/T_WorldMap.png" />
-                )}
+                <Image
+                  src={selectedPal ? `/image/maps/${selectedPal.key}-${time}.png` : '/image/maps/T_WorldMap.png'}
+                  width={500}
+                  height={500}
+                  alt={selectedPal ? selectedPal.name : 'Default Map'}
+                />
               </TransformComponent>
             </React.Fragment>
           </TransformWrapper>
