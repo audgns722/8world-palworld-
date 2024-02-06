@@ -9,7 +9,7 @@
     },
     {
         "name": "Pal Sphere",
-        "korname": "팔 스피어",
+        "korname": "팰 스피어",
         "type": "스피어",
         "image": "\/public\/image\/items\/pal-sphere.png",
         "gold": 120,
@@ -25,7 +25,7 @@
     },
     {
         "name": "Giga Sphere",
-        "korname": "기가 스피어",
+        "korname": "테라 스피어",
         "type": "스피어",
         "image": "\/public\/image\/items\/giga-sphere.png",
         "gold": 1520,
@@ -49,7 +49,7 @@
     },
     {
         "name": "Legendary Sphere",
-        "korname": "전설적인 구체",
+        "korname": "전설 스피어",
         "type": "스피어",
         "image": "\/public\/image\/items\/legendary-sphere.png",
         "gold": 45200,
@@ -57,7 +57,7 @@
     },
     {
         "name": "Radar Sphere",
-        "korname": "레이더 구",
+        "korname": "레이더 스피어",
         "type": "스피어",
         "image": "\/public\/image\/items\/radar-sphere.png",
         "gold": 5500,
@@ -945,7 +945,7 @@
     },
     {
         "name": "Katress Cap",
-        "korname": "카트리스 캡",
+        "korname": "캐티메이지의 체모",
         "type": "방어구",
         "image": "\/public\/image\/items\/katress-cap.png",
         "gold": 180,
@@ -2049,7 +2049,7 @@
     },
     {
         "name": "Stone",
-        "korname": "결석",
+        "korname": "돌",
         "type": "소재",
         "image": "\/public\/image\/items\/stone.png",
         "gold": 10,
@@ -2057,7 +2057,7 @@
     },
     {
         "name": "Paldium Fragment",
-        "korname": "팔듐 조각",
+        "korname": "팰지움 파편",
         "type": "소재",
         "image": "\/public\/image\/items\/paldium-fragment.png",
         "gold": 20,
@@ -2065,7 +2065,7 @@
     },
     {
         "name": "Ore",
-        "korname": "광석",
+        "korname": "금속 광석",
         "type": "소재",
         "image": "\/public\/image\/items\/ore.png",
         "gold": 50,
@@ -2081,7 +2081,7 @@
     },
     {
         "name": "Sulfur",
-        "korname": "황",
+        "korname": "유황",
         "type": "소재",
         "image": "\/public\/image\/items\/sulfur.png",
         "gold": 70,
@@ -2097,7 +2097,7 @@
     },
     {
         "name": "Wool",
-        "korname": "양모",
+        "korname": "양털",
         "type": "소재",
         "image": "\/public\/image\/items\/wool.png",
         "gold": 100,
@@ -2129,7 +2129,7 @@
     },
     {
         "name": "Electric Organ",
-        "korname": "전자 오르간",
+        "korname": "발전 기관",
         "type": "소재",
         "image": "\/public\/image\/items\/electric-organ.png",
         "gold": 200,
@@ -2145,7 +2145,7 @@
     },
     {
         "name": "Flame Organ",
-        "korname": "불꽃 오르간",
+        "korname": "발화 기관",
         "type": "소재",
         "image": "\/public\/image\/items\/flame-organ.png",
         "gold": 100,
@@ -2153,7 +2153,7 @@
     },
     {
         "name": "Ice Organ",
-        "korname": "아이스 오르간",
+        "korname": "빙결 기관",
         "type": "소재",
         "image": "\/public\/image\/items\/ice-organ.png",
         "gold": 100,
@@ -2177,7 +2177,7 @@
     },
     {
         "name": "Pal Fluids",
-        "korname": "Pal 유체",
+        "korname": "펠의 체액",
         "type": "소재",
         "image": "\/public\/image\/items\/pal-fluids.png",
         "gold": 300,
@@ -2201,7 +2201,7 @@
     },
     {
         "name": "High Quality Pal Oil",
-        "korname": "고품질 Pal 오일",
+        "korname": "고급 팰 기름",
         "type": "소재",
         "image": "\/public\/image\/items\/high-quality-pal-oil.png",
         "gold": 300,
@@ -2265,7 +2265,7 @@
     },
     {
         "name": "Cloth",
-        "korname": "옷감",
+        "korname": "천",
         "type": "소재",
         "image": "\/public\/image\/items\/cloth.png",
         "gold": 80,
@@ -2273,7 +2273,7 @@
     },
     {
         "name": "High Quality Cloth",
-        "korname": "고품질 천",
+        "korname": "상급 천",
         "type": "소재",
         "image": "\/public\/image\/items\/high-quality-cloth.png",
         "gold": 400,
@@ -2337,7 +2337,7 @@
     },
     {
         "name": "Ingot",
-        "korname": "주괴",
+        "korname": "금속 주괴",
         "type": "소재",
         "image": "\/public\/image\/items\/ingot.png",
         "gold": 200,
