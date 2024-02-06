@@ -72,9 +72,9 @@ export default function Items() {
                             '& .MuiOutlinedInput-notchedOutline': {
                                 borderColor: '#1976d2',
                             },
-                            // 포커스됐을 때 테두리 색
+                            // hover 때 테두리 색
                             '&:hover .MuiOutlinedInput-notchedOutline': {
-                                borderColor: '#2976d2',
+                                borderColor: '#1976d2',
                             },
                             // 포커스됐을 때 테두리 색
                             '&.Mui-focused .MuiOutlinedInput-notchedOutline': {

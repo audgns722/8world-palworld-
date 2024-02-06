@@ -76,6 +76,51 @@
       }
     }
 
+    .stats {
+      >ul {
+        margin: 20px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+
+        @media(max-width: 550px) {
+          display: block;
+        }
+
+        li {
+          width: 48.5%;
+          height: 50px;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          background-color: rgba(0, 0, 0, 0.2);
+          padding: 5px 15px;
+          margin-bottom: 5px;
+
+          @media(max-width: 550px) {
+            width: 100%;
+          }
+
+          >.stats__left {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            >.img {
+              height: 1rem;
+              margin-right: 5px;
+            }
+          }
+
+          p {
+            font-size: 1rem;
+            font-family: var(--font-nanum);
+            color: var(--white);
+          }
+        }
+      }
+    }
+
     .skill {
       .aura {
         margin: 20px;

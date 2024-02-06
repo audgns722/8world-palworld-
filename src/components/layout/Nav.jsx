@@ -23,7 +23,7 @@ export default function Nav() {
             <Link href='/breeding'>교배</Link>
           </li>
           <li>
-            <Link href='/items'>아이템(제작중)</Link>
+            <Link href='/items'>아이템</Link>
           </li>
           <li>
             <Link href='/maps'>맵</Link>
