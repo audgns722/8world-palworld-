@@ -1,0 +1,5594 @@
+[
+    {
+        "name": "Gold Coin",
+        "korname": "금화",
+        "type": "소재",
+        "image": "\/public\/image\/items\/gold-coin.png",
+        "gold": 1,
+        "weight": 0
+    },
+    {
+        "name": "Pal Sphere",
+        "korname": "팔 스피어",
+        "type": "스피어",
+        "image": "\/public\/image\/items\/pal-sphere.png",
+        "gold": 120,
+        "weight": 0
+    },
+    {
+        "name": "Mega Sphere",
+        "korname": "메가 스피어",
+        "type": "스피어",
+        "image": "\/public\/image\/items\/mega-sphere.png",
+        "gold": 920,
+        "weight": 0
+    },
+    {
+        "name": "Giga Sphere",
+        "korname": "기가 스피어",
+        "type": "스피어",
+        "image": "\/public\/image\/items\/giga-sphere.png",
+        "gold": 1520,
+        "weight": 0
+    },
+    {
+        "name": "Hyper Sphere",
+        "korname": "하이퍼 스피어",
+        "type": "스피어",
+        "image": "\/public\/image\/items\/hyper-sphere.png",
+        "gold": 4240,
+        "weight": 0
+    },
+    {
+        "name": "Ultra Sphere",
+        "korname": "울트라 스피어",
+        "type": "스피어",
+        "image": "\/public\/image\/items\/ultra-sphere.png",
+        "gold": 9880,
+        "weight": 0
+    },
+    {
+        "name": "Legendary Sphere",
+        "korname": "전설적인 구체",
+        "type": "스피어",
+        "image": "\/public\/image\/items\/legendary-sphere.png",
+        "gold": 45200,
+        "weight": 0
+    },
+    {
+        "name": "Radar Sphere",
+        "korname": "레이더 구",
+        "type": "스피어",
+        "image": "\/public\/image\/items\/radar-sphere.png",
+        "gold": 5500,
+        "weight": 1
+    },
+    {
+        "name": "Arrow",
+        "korname": "화살",
+        "type": "탄약",
+        "image": "\/public\/image\/items\/arrow.png",
+        "gold": 5,
+        "weight": 0
+    },
+    {
+        "name": "Poison Arrow",
+        "korname": "독화살",
+        "type": "탄약",
+        "image": "\/public\/image\/items\/poison-arrow.png",
+        "gold": 15,
+        "weight": 0
+    },
+    {
+        "name": "Fire Arrow",
+        "korname": "불화살",
+        "type": "탄약",
+        "image": "\/public\/image\/items\/fire-arrow.png",
+        "gold": 15,
+        "weight": 0
+    },
+    {
+        "name": "Coarse Ammo",
+        "korname": "일반 탄약",
+        "type": "탄약",
+        "image": "\/public\/image\/items\/coarse-ammo.png",
+        "gold": 120,
+        "weight": 0
+    },
+    {
+        "name": "Handgun Ammo",
+        "korname": "권총 탄약",
+        "type": "탄약",
+        "image": "\/public\/image\/items\/handgun-ammo.png",
+        "gold": 120,
+        "weight": 0
+    },
+    {
+        "name": "Magnum Ammo",
+        "korname": "매그넘 탄약",
+        "type": "탄약",
+        "image": "\/public\/image\/items\/magnum-ammo.png",
+        "gold": 150,
+        "weight": 0
+    },
+    {
+        "name": "Rifle Ammo",
+        "korname": "소총 탄약",
+        "type": "탄약",
+        "image": "\/public\/image\/items\/rifle-ammo.png",
+        "gold": 220,
+        "weight": 0
+    },
+    {
+        "name": "Shotgun Shells",
+        "korname": "산탄총 포탄",
+        "type": "탄약",
+        "image": "\/public\/image\/items\/shotgun-shells.png",
+        "gold": 220,
+        "weight": 0
+    },
+    {
+        "name": "Machine Gun Ammo",
+        "korname": "기관총 탄약",
+        "type": "탄약",
+        "image": "\/public\/image\/items\/machine-gun-ammo.png",
+        "gold": 150,
+        "weight": 0
+    },
+    {
+        "name": "Assault Rifle Ammo",
+        "korname": "돌격소총 탄약",
+        "type": "탄약",
+        "image": "\/public\/image\/items\/assault-rifle-ammo.png",
+        "gold": 150,
+        "weight": 0
+    },
+    {
+        "name": "Rocket Ammo",
+        "korname": "로켓 탄약",
+        "type": "탄약",
+        "image": "\/public\/image\/items\/rocket-ammo.png",
+        "gold": 400,
+        "weight": 1
+    },
+    {
+        "name": "Decal Ink",
+        "korname": "데칼 잉크",
+        "type": "탄약",
+        "image": "\/public\/image\/items\/decal-ink.png",
+        "gold": 10,
+        "weight": 0
+    },
+    {
+        "name": "Bat",
+        "korname": "박쥐",
+        "type": "무기",
+        "image": "\/public\/image\/items\/bat.png",
+        "gold": 80,
+        "weight": 3
+    },
+    {
+        "name": "Wooden Club",
+        "korname": "나무 클럽",
+        "type": "무기",
+        "image": "\/public\/image\/items\/wooden-club.png",
+        "gold": 80,
+        "weight": 5
+    },
+    {
+        "name": "Hand-held Torch",
+        "korname": "휴대용 토치",
+        "type": "무기",
+        "image": "\/public\/image\/items\/hand-held-torch.png",
+        "gold": 80,
+        "weight": 5
+    },
+    {
+        "name": "Stone Axe",
+        "korname": "돌도끼",
+        "type": "무기",
+        "image": "\/public\/image\/items\/stone-axe.png",
+        "gold": 200,
+        "weight": 10
+    },
+    {
+        "name": "Metal Axe",
+        "korname": "금속 도끼",
+        "type": "무기",
+        "image": "\/public\/image\/items\/metal-axe.png",
+        "gold": 2800,
+        "weight": 15
+    },
+    {
+        "name": "Refined Metal Axe",
+        "korname": "세련된 금속 도끼",
+        "type": "무기",
+        "image": "\/public\/image\/items\/refined-metal-axe.png",
+        "gold": 7000,
+        "weight": 20
+    },
+    {
+        "name": "Axe4",
+        "korname": "Axe4",
+        "type": "무기",
+        "image": "\/public\/image\/items\/axe4.png",
+        "gold": 33000,
+        "weight": 25
+    },
+    {
+        "name": "Stone Pickaxe",
+        "korname": "돌 곡괭이",
+        "type": "무기",
+        "image": "\/public\/image\/items\/stone-pickaxe.png",
+        "gold": 200,
+        "weight": 10
+    },
+    {
+        "name": "Metal Pickaxe",
+        "korname": "금속 곡괭이",
+        "type": "무기",
+        "image": "\/public\/image\/items\/metal-pickaxe.png",
+        "gold": 2800,
+        "weight": 15
+    },
+    {
+        "name": "Refined Metal Pickaxe",
+        "korname": "정제된 금속 곡괭이",
+        "type": "무기",
+        "image": "\/public\/image\/items\/refined-metal-pickaxe.png",
+        "gold": 7000,
+        "weight": 20
+    },
+    {
+        "name": "Stone Spear",
+        "korname": "스톤 스피어",
+        "type": "무기",
+        "image": "\/public\/image\/items\/stone-spear.png",
+        "gold": 480,
+        "weight": 10
+    },
+    {
+        "name": "Metal Spear",
+        "korname": "금속창",
+        "type": "무기",
+        "image": "\/public\/image\/items\/metal-spear.png",
+        "gold": 8780,
+        "weight": 15
+    },
+    {
+        "name": "Refined Metal Spear",
+        "korname": "세련된 금속 창",
+        "type": "무기",
+        "image": "\/public\/image\/items\/refined-metal-spear.png",
+        "gold": 13880,
+        "weight": 20
+    },
+    {
+        "name": "Elizabee's Staff",
+        "korname": "엘리자비의 지팡이",
+        "type": "무기",
+        "image": "\/public\/image\/items\/elizabee-s-staff.png",
+        "gold": 20000,
+        "weight": 20
+    },
+    {
+        "name": "Beegarde's Spear",
+        "korname": "베가르드의 창",
+        "type": "무기",
+        "image": "\/public\/image\/items\/beegarde-s-spear.png",
+        "gold": 20000,
+        "weight": 15
+    },
+    {
+        "name": "Lily's Spear",
+        "korname": "릴리의 창",
+        "type": "무기",
+        "image": "\/public\/image\/items\/lily-s-spear.png",
+        "gold": 20000,
+        "weight": 10
+    },
+    {
+        "name": "Sword",
+        "korname": "검",
+        "type": "무기",
+        "image": "\/public\/image\/items\/sword.png",
+        "gold": 10440,
+        "weight": 10
+    },
+    {
+        "name": "Meat Cleaver",
+        "korname": "고기칼",
+        "type": "무기",
+        "image": "\/public\/image\/items\/meat-cleaver.png",
+        "gold": 100,
+        "weight": 10
+    },
+    {
+        "name": "Stun Baton",
+        "korname": "전기 충격봉",
+        "type": "무기",
+        "image": "\/public\/image\/items\/stun-baton.png",
+        "gold": 19000,
+        "weight": 10
+    },
+    {
+        "name": "Old Bow",
+        "korname": "낡은 활",
+        "type": "무기",
+        "image": "\/public\/image\/items\/old-bow.png",
+        "gold": 360,
+        "weight": 6
+    },
+    {
+        "name": "Poison Bow",
+        "korname": "독활",
+        "type": "무기",
+        "image": "\/public\/image\/items\/poison-bow.png",
+        "gold": 480,
+        "weight": 6
+    },
+    {
+        "name": "Fire Bow",
+        "korname": "불 활",
+        "type": "무기",
+        "image": "\/public\/image\/items\/fire-bow.png",
+        "gold": 480,
+        "weight": 6
+    },
+    {
+        "name": "Three Shot Bow",
+        "korname": "쓰리샷보우",
+        "type": "무기",
+        "image": "\/public\/image\/items\/three-shot-bow.png",
+        "gold": 1000,
+        "weight": 8
+    },
+    {
+        "name": "Five Shot Bow",
+        "korname": "다섯 발의 활",
+        "type": "무기",
+        "image": "\/public\/image\/items\/five-shot-bow.png",
+        "gold": 10,
+        "weight": 8
+    },
+    {
+        "name": "Crossbow",
+        "korname": "석궁",
+        "type": "무기",
+        "image": "\/public\/image\/items\/crossbow.png",
+        "gold": 25200,
+        "weight": 13
+    },
+    {
+        "name": "Poison Arrow Crossbow",
+        "korname": "독화살 석궁",
+        "type": "무기",
+        "image": "\/public\/image\/items\/poison-arrow-crossbow.png",
+        "gold": 25200,
+        "weight": 13
+    },
+    {
+        "name": "Fire Arrow Crossbow",
+        "korname": "불화살 석궁",
+        "type": "무기",
+        "image": "\/public\/image\/items\/fire-arrow-crossbow.png",
+        "gold": 25200,
+        "weight": 13
+    },
+    {
+        "name": "Makeshift Handgun",
+        "korname": "임시 권총",
+        "type": "무기",
+        "image": "\/public\/image\/items\/makeshift-handgun.png",
+        "gold": 16600,
+        "weight": 10
+    },
+    {
+        "name": "Handgun",
+        "korname": "권총",
+        "type": "무기",
+        "image": "\/public\/image\/items\/handgun.png",
+        "gold": 33000,
+        "weight": 8
+    },
+    {
+        "name": "Decal Gun 1",
+        "korname": "데칼건 1",
+        "type": "무기",
+        "image": "\/public\/image\/items\/decal-gun-1.png",
+        "gold": 33000,
+        "weight": 8
+    },
+    {
+        "name": "Decal Gun 2",
+        "korname": "데칼건 2",
+        "type": "무기",
+        "image": "\/public\/image\/items\/decal-gun-2.png",
+        "gold": 33000,
+        "weight": 8
+    },
+    {
+        "name": "Decal Gun 3",
+        "korname": "데칼건 3",
+        "type": "무기",
+        "image": "\/public\/image\/items\/decal-gun-3.png",
+        "gold": 33000,
+        "weight": 8
+    },
+    {
+        "name": "Decal Gun 4",
+        "korname": "데칼건 4",
+        "type": "무기",
+        "image": "\/public\/image\/items\/decal-gun-4.png",
+        "gold": 33000,
+        "weight": 8
+    },
+    {
+        "name": "Decal Gun 5",
+        "korname": "데칼건 5",
+        "type": "무기",
+        "image": "\/public\/image\/items\/decal-gun-5.png",
+        "gold": 33000,
+        "weight": 8
+    },
+    {
+        "name": "ITEM_NAME_GrapplingGun_1",
+        "korname": "갈고리총",
+        "type": "무기",
+        "image": "\/public\/image\/items\/item-name-grapplinggun-1.png",
+        "gold": 10,
+        "weight": 1
+    },
+    {
+        "name": "Double-barreled Shotgun",
+        "korname": "이중 총열 산탄총",
+        "type": "무기",
+        "image": "\/public\/image\/items\/double-barreled-shotgun.png",
+        "gold": 55200,
+        "weight": 24
+    },
+    {
+        "name": "Pump-action Shotgun",
+        "korname": "펌프액션 산탄총",
+        "type": "무기",
+        "image": "\/public\/image\/items\/pump-action-shotgun.png",
+        "gold": 153600,
+        "weight": 20
+    },
+    {
+        "name": "Musket",
+        "korname": "머스킷",
+        "type": "무기",
+        "image": "\/public\/image\/items\/musket.png",
+        "gold": 37600,
+        "weight": 20
+    },
+    {
+        "name": "Single-shot Rifle",
+        "korname": "단발 소총",
+        "type": "무기",
+        "image": "\/public\/image\/items\/single-shot-rifle.png",
+        "gold": 37600,
+        "weight": 20
+    },
+    {
+        "name": "Assault Rifle",
+        "korname": "돌격 소총",
+        "type": "무기",
+        "image": "\/public\/image\/items\/assault-rifle.png",
+        "gold": 82400,
+        "weight": 15
+    },
+    {
+        "name": "Rocket Launcher",
+        "korname": "로켓 발사기",
+        "type": "무기",
+        "image": "\/public\/image\/items\/rocket-launcher.png",
+        "gold": 324000,
+        "weight": 30
+    },
+    {
+        "name": "Single-shot Sphere Launcher",
+        "korname": "단발 구체 발사기",
+        "type": "무기",
+        "image": "\/public\/image\/items\/single-shot-sphere-launcher.png",
+        "gold": 109200,
+        "weight": 30
+    },
+    {
+        "name": "Scatter Sphere Launcher",
+        "korname": "분산구 발사기",
+        "type": "무기",
+        "image": "\/public\/image\/items\/scatter-sphere-launcher.png",
+        "gold": 44000,
+        "weight": 30
+    },
+    {
+        "name": "Homing Sphere Launcher",
+        "korname": "호밍 스피어 런처",
+        "type": "무기",
+        "image": "\/public\/image\/items\/homing-sphere-launcher.png",
+        "gold": 460000,
+        "weight": 30
+    },
+    {
+        "name": "Frag Grenade",
+        "korname": "세열 수류탄",
+        "type": "무기",
+        "image": "\/public\/image\/items\/frag-grenade.png",
+        "gold": 10,
+        "weight": 0
+    },
+    {
+        "name": "Incendiary Grenade",
+        "korname": "소이 수류탄",
+        "type": "무기",
+        "image": "\/public\/image\/items\/incendiary-grenade.png",
+        "gold": 10,
+        "weight": 0
+    },
+    {
+        "name": "Shock Grenade",
+        "korname": "충격 수류탄",
+        "type": "무기",
+        "image": "\/public\/image\/items\/shock-grenade.png",
+        "gold": 10,
+        "weight": 0
+    },
+    {
+        "name": "Ice Grenade",
+        "korname": "얼음 수류탄",
+        "type": "무기",
+        "image": "\/public\/image\/items\/ice-grenade.png",
+        "gold": 10,
+        "weight": 0
+    },
+    {
+        "name": "Common Shield",
+        "korname": "일반 방패",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/common-shield.png",
+        "gold": 800,
+        "weight": 5
+    },
+    {
+        "name": "Mega Shield",
+        "korname": "메가 쉴드",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/mega-shield.png",
+        "gold": 31200,
+        "weight": 5
+    },
+    {
+        "name": "Giga Shield",
+        "korname": "기가쉴드",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/giga-shield.png",
+        "gold": 62000,
+        "weight": 5
+    },
+    {
+        "name": "Hyper Shield",
+        "korname": "하이퍼쉴드",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/hyper-shield.png",
+        "gold": 104000,
+        "weight": 5
+    },
+    {
+        "name": "Cloth Outfit",
+        "korname": "천 의상",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/cloth-outfit.png",
+        "gold": 320,
+        "weight": 4
+    },
+    {
+        "name": "Tropical Outfit",
+        "korname": "트로피컬 의상",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/tropical-outfit.png",
+        "gold": 320,
+        "weight": 4
+    },
+    {
+        "name": "Tundra Outfit",
+        "korname": "툰드라 의상",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/tundra-outfit.png",
+        "gold": 320,
+        "weight": 4
+    },
+    {
+        "name": "Pelt Armor",
+        "korname": "펠트 갑옷",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/pelt-armor.png",
+        "gold": 360,
+        "weight": 10
+    },
+    {
+        "name": "Heat Resistant Pelt Armor",
+        "korname": "내열성 펠트 갑옷",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/heat-resistant-pelt-armor.png",
+        "gold": 3000,
+        "weight": 10
+    },
+    {
+        "name": "ITEM_NAME_FurArmorHeat",
+        "korname": "FurArmorHeat",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-furarmorheat.png",
+        "gold": 3600,
+        "weight": 10
+    },
+    {
+        "name": "Cold Resistant Pelt Armor",
+        "korname": "내한성 펠트 갑옷",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/cold-resistant-pelt-armor.png",
+        "gold": 3000,
+        "weight": 10
+    },
+    {
+        "name": "ITEM_NAME_FurArmorCold",
+        "korname": "FurArmorCold",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-furarmorcold.png",
+        "gold": 3600,
+        "weight": 10
+    },
+    {
+        "name": "Metal Armor",
+        "korname": "금속 갑옷",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/metal-armor.png",
+        "gold": 4920,
+        "weight": 30
+    },
+    {
+        "name": "Heat Resistant Metal Armor",
+        "korname": "내열 금속 갑옷",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/heat-resistant-metal-armor.png",
+        "gold": 4920,
+        "weight": 30
+    },
+    {
+        "name": "ITEM_NAME_CopperArmorHeat",
+        "korname": "구리갑옷열",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-copperarmorheat.png",
+        "gold": 5904,
+        "weight": 30
+    },
+    {
+        "name": "Cold Resistant Metal Armor",
+        "korname": "내한성 금속 갑옷",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/cold-resistant-metal-armor.png",
+        "gold": 4920,
+        "weight": 30
+    },
+    {
+        "name": "ITEM_NAME_CopperArmorCold",
+        "korname": "CopperArmorCold",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-copperarmorcold.png",
+        "gold": 5904,
+        "weight": 30
+    },
+    {
+        "name": "Refined Metal Armor",
+        "korname": "세련된 금속 갑옷",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/refined-metal-armor.png",
+        "gold": 9840,
+        "weight": 35
+    },
+    {
+        "name": "Heat Resistant Refined Metal Armor",
+        "korname": "내열성 정제 금속 갑옷",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/heat-resistant-refined-metal-armor.png",
+        "gold": 9840,
+        "weight": 35
+    },
+    {
+        "name": "ITEM_NAME_IronArmorHeat",
+        "korname": "IronArmor열",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-ironarmorheat.png",
+        "gold": 11808,
+        "weight": 35
+    },
+    {
+        "name": "Cold Resistant Refined Metal Armor",
+        "korname": "내한성 세련된 금속 갑옷",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/cold-resistant-refined-metal-armor.png",
+        "gold": 9840,
+        "weight": 35
+    },
+    {
+        "name": "ITEM_NAME_IronArmorCold",
+        "korname": "IronArmorCold",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-ironarmorcold.png",
+        "gold": 11808,
+        "weight": 35
+    },
+    {
+        "name": "Pal Metal Armor",
+        "korname": "Pal 금속 갑옷",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/pal-metal-armor.png",
+        "gold": 32300,
+        "weight": 40
+    },
+    {
+        "name": "Heat Resistant Pal Metal Armor",
+        "korname": "내열성 Pal 금속 갑옷",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/heat-resistant-pal-metal-armor.png",
+        "gold": 32300,
+        "weight": 40
+    },
+    {
+        "name": "ITEM_NAME_StealArmorHeat",
+        "korname": "StealArmorHeat",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-stealarmorheat.png",
+        "gold": 38760,
+        "weight": 40
+    },
+    {
+        "name": "Cold Resistant Pal Metal Armor",
+        "korname": "내한성 Pal 금속 갑옷",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/cold-resistant-pal-metal-armor.png",
+        "gold": 32300,
+        "weight": 40
+    },
+    {
+        "name": "ITEM_NAME_StealArmorCold",
+        "korname": "StealArmorCold",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-stealarmorcold.png",
+        "gold": 38760,
+        "weight": 40
+    },
+    {
+        "name": "Feathered Hair Band",
+        "korname": "깃털 달린 헤어 밴드",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/feathered-hair-band.png",
+        "gold": 180,
+        "weight": 5
+    },
+    {
+        "name": "ITEM_NAME_FurHelmet",
+        "korname": "모피 헬멧",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-furhelmet.png",
+        "gold": 234,
+        "weight": 5
+    },
+    {
+        "name": "ITEM_NAME_CopperHelmet",
+        "korname": "구리 헬멧",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-copperhelmet.png",
+        "gold": 3198,
+        "weight": 10
+    },
+    {
+        "name": "Metal Helm",
+        "korname": "금속 투구",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/metal-helm.png",
+        "gold": 2460,
+        "weight": 10
+    },
+    {
+        "name": "ITEM_NAME_IronHelmet",
+        "korname": "철 헬멧",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-ironhelmet.png",
+        "gold": 6812,
+        "weight": 12
+    },
+    {
+        "name": "Refined Metal Helm",
+        "korname": "세련된 금속 투구",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/refined-metal-helm.png",
+        "gold": 5240,
+        "weight": 12
+    },
+    {
+        "name": "ITEM_NAME_StealHelmet",
+        "korname": "헬멧 훔치기",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-stealhelmet.png",
+        "gold": 21034,
+        "weight": 15
+    },
+    {
+        "name": "Pal Metal Helm",
+        "korname": "Pal 금속 투구",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/pal-metal-helm.png",
+        "gold": 16180,
+        "weight": 15
+    },
+    {
+        "name": "Monarch's Crown",
+        "korname": "군주의 왕관",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/monarch-s-crown.png",
+        "gold": 180,
+        "weight": 7
+    },
+    {
+        "name": "Golden Crown",
+        "korname": "골든 크라운",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/golden-crown.png",
+        "gold": 180,
+        "weight": 6
+    },
+    {
+        "name": "Long-eared Headband",
+        "korname": "긴귀 머리띠",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/long-eared-headband.png",
+        "gold": 180,
+        "weight": 2
+    },
+    {
+        "name": "Witch Hat",
+        "korname": "마녀 모자",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/witch-hat.png",
+        "gold": 180,
+        "weight": 4
+    },
+    {
+        "name": "Soft Hat",
+        "korname": "중절모",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/soft-hat.png",
+        "gold": 180,
+        "weight": 3
+    },
+    {
+        "name": "Helmet",
+        "korname": "헬멧",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/helmet.png",
+        "gold": 180,
+        "weight": 8
+    },
+    {
+        "name": "Silk Hat",
+        "korname": "실크 모자",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/silk-hat.png",
+        "gold": 180,
+        "weight": 4
+    },
+    {
+        "name": "Tricorne",
+        "korname": "트라이콘",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/tricorne.png",
+        "gold": 180,
+        "weight": 5
+    },
+    {
+        "name": "Explorer Cap",
+        "korname": "탐험가 모자",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/explorer-cap.png",
+        "gold": 180,
+        "weight": 3
+    },
+    {
+        "name": "Graduation cap",
+        "korname": "졸업모자",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/graduation-cap.png",
+        "gold": 180,
+        "weight": 5
+    },
+    {
+        "name": "Farming Hat",
+        "korname": "농사 모자",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/farming-hat.png",
+        "gold": 180,
+        "weight": 3
+    },
+    {
+        "name": "ITEM_NAME_Head011",
+        "korname": "머리011",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-head011.png",
+        "gold": 216,
+        "weight": 3
+    },
+    {
+        "name": "Bowler Hat",
+        "korname": "중산모",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/bowler-hat.png",
+        "gold": 180,
+        "weight": 4
+    },
+    {
+        "name": "Grinning Tocotoco Cap",
+        "korname": "웃기는 토코토코 모자",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/grinning-tocotoco-cap.png",
+        "gold": 180,
+        "weight": 4
+    },
+    {
+        "name": "Gumoss Cap",
+        "korname": "구모스캡",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/gumoss-cap.png",
+        "gold": 180,
+        "weight": 4
+    },
+    {
+        "name": "Katress Cap",
+        "korname": "카트리스 캡",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/katress-cap.png",
+        "gold": 180,
+        "weight": 4
+    },
+    {
+        "name": "Penking Cap",
+        "korname": "펜킹 캡",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/penking-cap.png",
+        "gold": 180,
+        "weight": 4
+    },
+    {
+        "name": "Tocotoco Cap",
+        "korname": "토코토코 캡",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/tocotoco-cap.png",
+        "gold": 180,
+        "weight": 4
+    },
+    {
+        "name": "ITEM_NAME_Head012",
+        "korname": "머리012",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-head012.png",
+        "gold": 216,
+        "weight": 4
+    },
+    {
+        "name": "ITEM_NAME_Head013",
+        "korname": "머리013",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-head013.png",
+        "gold": 216,
+        "weight": 4
+    },
+    {
+        "name": "ITEM_NAME_Head014",
+        "korname": "머리014",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-head014.png",
+        "gold": 216,
+        "weight": 4
+    },
+    {
+        "name": "ITEM_NAME_Head015",
+        "korname": "머리015",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-head015.png",
+        "gold": 216,
+        "weight": 4
+    },
+    {
+        "name": "ITEM_NAME_Head016",
+        "korname": "머리016",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-head016.png",
+        "gold": 216,
+        "weight": 4
+    },
+    {
+        "name": "ITEM_NAME_Head017",
+        "korname": "머리017",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/item-name-head017.png",
+        "gold": 216,
+        "weight": 4
+    },
+    {
+        "name": "Life Pendant",
+        "korname": "라이프 펜던트",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/life-pendant.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Life Pendant +1",
+        "korname": "라이프펜던트+1",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/life-pendant-1.png",
+        "gold": 4000,
+        "weight": 2
+    },
+    {
+        "name": "Life Pendant +2",
+        "korname": "라이프펜던트+2",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/life-pendant-2.png",
+        "gold": 7000,
+        "weight": 2
+    },
+    {
+        "name": "Attack Pendant",
+        "korname": "공격 펜던트",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/attack-pendant.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Attack Pendant +1",
+        "korname": "공격펜던트+1",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/attack-pendant-1.png",
+        "gold": 4000,
+        "weight": 2
+    },
+    {
+        "name": "Attack Pendant +2",
+        "korname": "공격펜던트+2",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/attack-pendant-2.png",
+        "gold": 7000,
+        "weight": 2
+    },
+    {
+        "name": "Defense Pendant",
+        "korname": "방어 펜던트",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/defense-pendant.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Defense Pendant +1",
+        "korname": "방어펜던트+1",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/defense-pendant-1.png",
+        "gold": 4000,
+        "weight": 2
+    },
+    {
+        "name": "Defense Pendant +2",
+        "korname": "방어펜던트+2",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/defense-pendant-2.png",
+        "gold": 7000,
+        "weight": 2
+    },
+    {
+        "name": "Pendant of Diligence",
+        "korname": "근면의 펜던트",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/pendant-of-diligence.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Pendant of Diligence +1",
+        "korname": "근면의 펜던트 +1",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/pendant-of-diligence-1.png",
+        "gold": 4000,
+        "weight": 2
+    },
+    {
+        "name": "Pendant of Diligence +2",
+        "korname": "근면의 펜던트+2",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/pendant-of-diligence-2.png",
+        "gold": 7000,
+        "weight": 2
+    },
+    {
+        "name": "Heat Resistant Underwear",
+        "korname": "내열 속옷",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/heat-resistant-underwear.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Heat Resistant Underwear +1",
+        "korname": "내열 속옷 +1",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/heat-resistant-underwear-1.png",
+        "gold": 4000,
+        "weight": 2
+    },
+    {
+        "name": "Heat Resistant Underwear +2",
+        "korname": "내열 속옷 +2",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/heat-resistant-underwear-2.png",
+        "gold": 7000,
+        "weight": 2
+    },
+    {
+        "name": "Thermal Underwear",
+        "korname": "보온 내의",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/thermal-underwear.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Thermal Underwear +1",
+        "korname": "보온 속옷 +1",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/thermal-underwear-1.png",
+        "gold": 4000,
+        "weight": 2
+    },
+    {
+        "name": "Thermal Underwear +2",
+        "korname": "보온 속옷 +2",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/thermal-underwear-2.png",
+        "gold": 7000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Resistance",
+        "korname": "저항의 반지",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-resistance.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Resistance +1",
+        "korname": "저항의 반지 +1",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-resistance-1.png",
+        "gold": 4000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Resistance +2",
+        "korname": "저항의 반지 +2",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-resistance-2.png",
+        "gold": 7000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Flame Resistance",
+        "korname": "화염 저항의 반지",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-flame-resistance.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Flame Resistance +1",
+        "korname": "화염저항력 +1",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-flame-resistance-1.png",
+        "gold": 4000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Flame Resistance +2",
+        "korname": "화염저항 반지 +2",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-flame-resistance-2.png",
+        "gold": 7000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Water Resistance",
+        "korname": "방수의 반지",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-water-resistance.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Water Resistance +1",
+        "korname": "방수의 반지 +1",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-water-resistance-1.png",
+        "gold": 4000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Water Resistance +2",
+        "korname": "방수의 반지 +2",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-water-resistance-2.png",
+        "gold": 7000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Lightning Resistance",
+        "korname": "번개 저항의 반지",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-lightning-resistance.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Lightning Resistance +1",
+        "korname": "번개 저항의 반지 +1",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-lightning-resistance-1.png",
+        "gold": 4000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Lightning Resistance +2",
+        "korname": "번개저항의 반지 +2",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-lightning-resistance-2.png",
+        "gold": 7000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Grass Resistance",
+        "korname": "풀 저항의 고리",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-grass-resistance.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Grass Resistance +1",
+        "korname": "풀의 고리 저항력 +1",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-grass-resistance-1.png",
+        "gold": 4000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Grass Resistance +2",
+        "korname": "풀의 고리 저항력 +2",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-grass-resistance-2.png",
+        "gold": 7000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Ice Resistance",
+        "korname": "얼음 저항의 반지",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-ice-resistance.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Ice Resistance +1",
+        "korname": "빙결저항력 +1",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-ice-resistance-1.png",
+        "gold": 4000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Ice Resistance +2",
+        "korname": "빙결저항력 +2",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-ice-resistance-2.png",
+        "gold": 7000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Earth Resistance",
+        "korname": "대지 저항의 반지",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-earth-resistance.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Earth Resistance +1",
+        "korname": "대지저항의 고리 +1",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-earth-resistance-1.png",
+        "gold": 4000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Earth Resistance +2",
+        "korname": "대지저항의 고리 +2",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-earth-resistance-2.png",
+        "gold": 7000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Dark Resistance",
+        "korname": "암흑 저항의 반지",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-dark-resistance.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Dark Resistance +1",
+        "korname": "암흑저항의 반지 +1",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-dark-resistance-1.png",
+        "gold": 4000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Dark Resistance +2",
+        "korname": "암흑저항의 반지 +2",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-dark-resistance-2.png",
+        "gold": 7000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Dragon Resistance",
+        "korname": "용 저항의 반지",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-dragon-resistance.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Dragon Resistance +1",
+        "korname": "링 오브 드래곤 저항 +1",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-dragon-resistance-1.png",
+        "gold": 4000,
+        "weight": 2
+    },
+    {
+        "name": "Ring of Dragon Resistance +2",
+        "korname": "링 오브 드래곤 저항 +2",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/ring-of-dragon-resistance-2.png",
+        "gold": 7000,
+        "weight": 2
+    },
+    {
+        "name": "Normal Parachute",
+        "korname": "일반 낙하산",
+        "type": "글라이더",
+        "image": "\/public\/image\/items\/normal-parachute.png",
+        "gold": 1200,
+        "weight": 10
+    },
+    {
+        "name": "Mega Glider",
+        "korname": "메가 글라이더",
+        "type": "글라이더",
+        "image": "\/public\/image\/items\/mega-glider.png",
+        "gold": 3000,
+        "weight": 15
+    },
+    {
+        "name": "Giga Glider",
+        "korname": "기가 글라이더",
+        "type": "글라이더",
+        "image": "\/public\/image\/items\/giga-glider.png",
+        "gold": 13200,
+        "weight": 20
+    },
+    {
+        "name": "Hyper Glider",
+        "korname": "하이퍼 글라이더",
+        "type": "글라이더",
+        "image": "\/public\/image\/items\/hyper-glider.png",
+        "gold": 45200,
+        "weight": 25
+    },
+    {
+        "name": "Red Berries",
+        "korname": "레드 베리",
+        "type": "음식",
+        "image": "\/public\/image\/items\/red-berries.png",
+        "gold": 50,
+        "weight": 0
+    },
+    {
+        "name": "Mushroom",
+        "korname": "버섯",
+        "type": "음식",
+        "image": "\/public\/image\/items\/mushroom.png",
+        "gold": 50,
+        "weight": 1
+    },
+    {
+        "name": "Broncherry Meat",
+        "korname": "기관지 고기",
+        "type": "음식",
+        "image": "\/public\/image\/items\/broncherry-meat.png",
+        "gold": 1800,
+        "weight": 5
+    },
+    {
+        "name": "Caprity Meat",
+        "korname": "카프리티 고기",
+        "type": "음식",
+        "image": "\/public\/image\/items\/caprity-meat.png",
+        "gold": 570,
+        "weight": 3
+    },
+    {
+        "name": "Chikipi Poultry",
+        "korname": "치키피 가금류",
+        "type": "음식",
+        "image": "\/public\/image\/items\/chikipi-poultry.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Eikthyrdeer Venison",
+        "korname": "익티르디어 사슴고기",
+        "type": "음식",
+        "image": "\/public\/image\/items\/eikthyrdeer-venison.png",
+        "gold": 500,
+        "weight": 2
+    },
+    {
+        "name": "Galeclaw Poultry",
+        "korname": "갈집발톱 가금류",
+        "type": "음식",
+        "image": "\/public\/image\/items\/galeclaw-poultry.png",
+        "gold": 150,
+        "weight": 1
+    },
+    {
+        "name": "Lamball Mutton",
+        "korname": "램볼 양고기",
+        "type": "음식",
+        "image": "\/public\/image\/items\/lamball-mutton.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Mammorest Meat",
+        "korname": "맘모레스트 고기",
+        "type": "음식",
+        "image": "\/public\/image\/items\/mammorest-meat.png",
+        "gold": 1800,
+        "weight": 5
+    },
+    {
+        "name": "Mozzarina Meat",
+        "korname": "모짜리나 고기",
+        "type": "음식",
+        "image": "\/public\/image\/items\/mozzarina-meat.png",
+        "gold": 570,
+        "weight": 3
+    },
+    {
+        "name": "Raw Dumud",
+        "korname": "생두머드",
+        "type": "음식",
+        "image": "\/public\/image\/items\/raw-dumud.png",
+        "gold": 500,
+        "weight": 2
+    },
+    {
+        "name": "Raw Kelpsea",
+        "korname": "생 다시마",
+        "type": "음식",
+        "image": "\/public\/image\/items\/raw-kelpsea.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Raw Meat",
+        "korname": "생고기",
+        "type": "음식",
+        "image": "\/public\/image\/items\/raw-meat.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Reindrix Venison",
+        "korname": "라인드릭스 사슴고기",
+        "type": "음식",
+        "image": "\/public\/image\/items\/reindrix-venison.png",
+        "gold": 640,
+        "weight": 2
+    },
+    {
+        "name": "Rushoar Pork",
+        "korname": "루쇼어 돼지고기",
+        "type": "음식",
+        "image": "\/public\/image\/items\/rushoar-pork.png",
+        "gold": 430,
+        "weight": 2
+    },
+    {
+        "name": "Egg",
+        "korname": "계란",
+        "type": "음식",
+        "image": "\/public\/image\/items\/egg.png",
+        "gold": 50,
+        "weight": 1
+    },
+    {
+        "name": "Milk",
+        "korname": "우유",
+        "type": "음식",
+        "image": "\/public\/image\/items\/milk.png",
+        "gold": 50,
+        "weight": 2
+    },
+    {
+        "name": "Cotton Candy",
+        "korname": "솜사탕",
+        "type": "음식",
+        "image": "\/public\/image\/items\/cotton-candy.png",
+        "gold": 250,
+        "weight": 0
+    },
+    {
+        "name": "Honey",
+        "korname": "꿀",
+        "type": "음식",
+        "image": "\/public\/image\/items\/honey.png",
+        "gold": 250,
+        "weight": 0
+    },
+    {
+        "name": "Wheat",
+        "korname": "밀",
+        "type": "음식",
+        "image": "\/public\/image\/items\/wheat.png",
+        "gold": 100,
+        "weight": 0
+    },
+    {
+        "name": "Tomato",
+        "korname": "토마토",
+        "type": "음식",
+        "image": "\/public\/image\/items\/tomato.png",
+        "gold": 150,
+        "weight": 1
+    },
+    {
+        "name": "Lettuce",
+        "korname": "상추",
+        "type": "음식",
+        "image": "\/public\/image\/items\/lettuce.png",
+        "gold": 150,
+        "weight": 1
+    },
+    {
+        "name": "Broiled Dumud",
+        "korname": "구운 두머드",
+        "type": "음식",
+        "image": "\/public\/image\/items\/broiled-dumud.png",
+        "gold": 700,
+        "weight": 2
+    },
+    {
+        "name": "Broncherry Rib Roast",
+        "korname": "기관지 갈비 구이",
+        "type": "음식",
+        "image": "\/public\/image\/items\/broncherry-rib-roast.png",
+        "gold": 2520,
+        "weight": 5
+    },
+    {
+        "name": "Chikipi Sauté",
+        "korname": "치키피 소테",
+        "type": "음식",
+        "image": "\/public\/image\/items\/chikipi-saut.png",
+        "gold": 920,
+        "weight": 1
+    },
+    {
+        "name": "Dumud Chowder",
+        "korname": "두머드 차우더",
+        "type": "음식",
+        "image": "\/public\/image\/items\/dumud-chowder.png",
+        "gold": 1700,
+        "weight": 1
+    },
+    {
+        "name": "Eikthyrdeer Loco Moco",
+        "korname": "에이크티르디어 로코 모코",
+        "type": "음식",
+        "image": "\/public\/image\/items\/eikthyrdeer-loco-moco.png",
+        "gold": 1740,
+        "weight": 1
+    },
+    {
+        "name": "Eikthyrdeer Stew",
+        "korname": "에이크티르디어 스튜",
+        "type": "음식",
+        "image": "\/public\/image\/items\/eikthyrdeer-stew.png",
+        "gold": 2120,
+        "weight": 1
+    },
+    {
+        "name": "Fried Chikipi",
+        "korname": "치키피튀김",
+        "type": "음식",
+        "image": "\/public\/image\/items\/fried-chikipi.png",
+        "gold": 1080,
+        "weight": 1
+    },
+    {
+        "name": "Fried Kelpsea",
+        "korname": "다시마튀김",
+        "type": "음식",
+        "image": "\/public\/image\/items\/fried-kelpsea.png",
+        "gold": 1080,
+        "weight": 1
+    },
+    {
+        "name": "Grilled Chikipi",
+        "korname": "구운 치키피",
+        "type": "음식",
+        "image": "\/public\/image\/items\/grilled-chikipi.png",
+        "gold": 500,
+        "weight": 1
+    },
+    {
+        "name": "Grilled Galeclaw",
+        "korname": "구운 갈집게",
+        "type": "음식",
+        "image": "\/public\/image\/items\/grilled-galeclaw.png",
+        "gold": 500,
+        "weight": 1
+    },
+    {
+        "name": "Grilled Kelpsea",
+        "korname": "구운 다시마",
+        "type": "음식",
+        "image": "\/public\/image\/items\/grilled-kelpsea.png",
+        "gold": 500,
+        "weight": 1
+    },
+    {
+        "name": "Grilled Lamball",
+        "korname": "구운 양고기 구이",
+        "type": "음식",
+        "image": "\/public\/image\/items\/grilled-lamball.png",
+        "gold": 1470,
+        "weight": 1
+    },
+    {
+        "name": "Grilled Meat",
+        "korname": "구운 고기",
+        "type": "음식",
+        "image": "\/public\/image\/items\/grilled-meat.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Herb Roasted Caprity",
+        "korname": "허브 로스티드 카프리티",
+        "type": "음식",
+        "image": "\/public\/image\/items\/herb-roasted-caprity.png",
+        "gold": 800,
+        "weight": 3
+    },
+    {
+        "name": "Herb Roasted Lamball",
+        "korname": "허브 로스티드 램볼",
+        "type": "음식",
+        "image": "\/public\/image\/items\/herb-roasted-lamball.png",
+        "gold": 940,
+        "weight": 1
+    },
+    {
+        "name": "Lamball Kebab",
+        "korname": "램볼 케밥",
+        "type": "음식",
+        "image": "\/public\/image\/items\/lamball-kebab.png",
+        "gold": 520,
+        "weight": 1
+    },
+    {
+        "name": "Mammorest Steak",
+        "korname": "맘모레스트 스테이크",
+        "type": "음식",
+        "image": "\/public\/image\/items\/mammorest-steak.png",
+        "gold": 2520,
+        "weight": 5
+    },
+    {
+        "name": "Mozzarina Cheeseburger",
+        "korname": "모짜리나 치즈버거",
+        "type": "음식",
+        "image": "\/public\/image\/items\/mozzarina-cheeseburger.png",
+        "gold": 2880,
+        "weight": 1
+    },
+    {
+        "name": "Mozzarina Hamburger",
+        "korname": "모짜리나 햄버거",
+        "type": "음식",
+        "image": "\/public\/image\/items\/mozzarina-hamburger.png",
+        "gold": 1620,
+        "weight": 1
+    },
+    {
+        "name": "Mozzarina Steak",
+        "korname": "모짜리나 스테이크",
+        "type": "음식",
+        "image": "\/public\/image\/items\/mozzarina-steak.png",
+        "gold": 800,
+        "weight": 3
+    },
+    {
+        "name": "Reindrix Stew",
+        "korname": "라인드릭스 스튜",
+        "type": "음식",
+        "image": "\/public\/image\/items\/reindrix-stew.png",
+        "gold": 1320,
+        "weight": 1
+    },
+    {
+        "name": "Roast Eikthyrdeer",
+        "korname": "구운 에이크티르디어",
+        "type": "음식",
+        "image": "\/public\/image\/items\/roast-eikthyrdeer.png",
+        "gold": 700,
+        "weight": 2
+    },
+    {
+        "name": "Roast Reindrix",
+        "korname": "로스트 레인드릭스",
+        "type": "음식",
+        "image": "\/public\/image\/items\/roast-reindrix.png",
+        "gold": 2520,
+        "weight": 2
+    },
+    {
+        "name": "Roast Rushoar",
+        "korname": "구운 루쇼어",
+        "type": "음식",
+        "image": "\/public\/image\/items\/roast-rushoar.png",
+        "gold": 600,
+        "weight": 2
+    },
+    {
+        "name": "Rushoar Bacon 'n' Eggs",
+        "korname": "루쇼어 베이컨 앤 에그",
+        "type": "음식",
+        "image": "\/public\/image\/items\/rushoar-bacon-n-eggs.png",
+        "gold": 1670,
+        "weight": 1
+    },
+    {
+        "name": "Rushoar Hot Dog",
+        "korname": "루쇼어 핫도그",
+        "type": "음식",
+        "image": "\/public\/image\/items\/rushoar-hot-dog.png",
+        "gold": 1400,
+        "weight": 1
+    },
+    {
+        "name": "Stewed Galeclaw",
+        "korname": "조림 갈집게",
+        "type": "음식",
+        "image": "\/public\/image\/items\/stewed-galeclaw.png",
+        "gold": 920,
+        "weight": 1
+    },
+    {
+        "name": "Baked Berries",
+        "korname": "구운 베리",
+        "type": "음식",
+        "image": "\/public\/image\/items\/baked-berries.png",
+        "gold": 100,
+        "weight": 0
+    },
+    {
+        "name": "Baked Mushroom",
+        "korname": "구운 버섯",
+        "type": "음식",
+        "image": "\/public\/image\/items\/baked-mushroom.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Bread",
+        "korname": "빵",
+        "type": "음식",
+        "image": "\/public\/image\/items\/bread.png",
+        "gold": 200,
+        "weight": 0
+    },
+    {
+        "name": "Fried Egg",
+        "korname": "계란후라이",
+        "type": "음식",
+        "image": "\/public\/image\/items\/fried-egg.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Hot Milk",
+        "korname": "뜨거운 우유",
+        "type": "음식",
+        "image": "\/public\/image\/items\/hot-milk.png",
+        "gold": 100,
+        "weight": 2
+    },
+    {
+        "name": "Jam-filled Bun",
+        "korname": "잼이 가득한 빵",
+        "type": "음식",
+        "image": "\/public\/image\/items\/jam-filled-bun.png",
+        "gold": 600,
+        "weight": 0
+    },
+    {
+        "name": "Salad",
+        "korname": "샐러드",
+        "type": "음식",
+        "image": "\/public\/image\/items\/salad.png",
+        "gold": 1200,
+        "weight": 0
+    },
+    {
+        "name": "Omelet",
+        "korname": "오믈렛",
+        "type": "음식",
+        "image": "\/public\/image\/items\/omelet.png",
+        "gold": 300,
+        "weight": 1
+    },
+    {
+        "name": "Stir-fried Veggies",
+        "korname": "야채볶음",
+        "type": "음식",
+        "image": "\/public\/image\/items\/stir-fried-veggies.png",
+        "gold": 300,
+        "weight": 1
+    },
+    {
+        "name": "Hot Dog",
+        "korname": "핫도그",
+        "type": "음식",
+        "image": "\/public\/image\/items\/hot-dog.png",
+        "gold": 300,
+        "weight": 1
+    },
+    {
+        "name": "Pancake",
+        "korname": "팬케이크",
+        "type": "음식",
+        "image": "\/public\/image\/items\/pancake.png",
+        "gold": 300,
+        "weight": 1
+    },
+    {
+        "name": "Marinated Mushrooms",
+        "korname": "절인 버섯",
+        "type": "음식",
+        "image": "\/public\/image\/items\/marinated-mushrooms.png",
+        "gold": 300,
+        "weight": 1
+    },
+    {
+        "name": "Mushroom Soup",
+        "korname": "버섯 스프",
+        "type": "음식",
+        "image": "\/public\/image\/items\/mushroom-soup.png",
+        "gold": 300,
+        "weight": 1
+    },
+    {
+        "name": "Carbonara",
+        "korname": "카르보나라",
+        "type": "음식",
+        "image": "\/public\/image\/items\/carbonara.png",
+        "gold": 800,
+        "weight": 1
+    },
+    {
+        "name": "Burrito",
+        "korname": "부리또",
+        "type": "음식",
+        "image": "\/public\/image\/items\/burrito.png",
+        "gold": 3000,
+        "weight": 0
+    },
+    {
+        "name": "Cheeseburger",
+        "korname": "치즈버거",
+        "type": "음식",
+        "image": "\/public\/image\/items\/cheeseburger.png",
+        "gold": 3400,
+        "weight": 0
+    },
+    {
+        "name": "Pizza",
+        "korname": "피자",
+        "type": "음식",
+        "image": "\/public\/image\/items\/pizza.png",
+        "gold": 2900,
+        "weight": 1
+    },
+    {
+        "name": "Bolognese Sauce",
+        "korname": "볼로 네즈 소스",
+        "type": "음식",
+        "image": "\/public\/image\/items\/bolognese-sauce.png",
+        "gold": 2250,
+        "weight": 1
+    },
+    {
+        "name": "Mushroom Stew",
+        "korname": "버섯 스튜",
+        "type": "음식",
+        "image": "\/public\/image\/items\/mushroom-stew.png",
+        "gold": 2500,
+        "weight": 1
+    },
+    {
+        "name": "Hamburger",
+        "korname": "햄버거",
+        "type": "음식",
+        "image": "\/public\/image\/items\/hamburger.png",
+        "gold": 3250,
+        "weight": 0
+    },
+    {
+        "name": "Cake",
+        "korname": "케이크",
+        "type": "음식",
+        "image": "\/public\/image\/items\/cake.png",
+        "gold": 10000,
+        "weight": 1
+    },
+    {
+        "name": "Low Grade Medical Supplies",
+        "korname": "저등급 의료용품",
+        "type": "음식",
+        "image": "\/public\/image\/items\/low-grade-medical-supplies.png",
+        "gold": 240,
+        "weight": 0
+    },
+    {
+        "name": "Medical Supplies",
+        "korname": "의료용품",
+        "type": "음식",
+        "image": "\/public\/image\/items\/medical-supplies.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "High Grade Medical Supplies",
+        "korname": "고급 의료용품",
+        "type": "음식",
+        "image": "\/public\/image\/items\/high-grade-medical-supplies.png",
+        "gold": 3000,
+        "weight": 0
+    },
+    {
+        "name": "Mind Control Meds",
+        "korname": "마인드 컨트롤 약",
+        "type": "음식",
+        "image": "\/public\/image\/items\/mind-control-meds.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Beautiful Flower",
+        "korname": "아름다운 꽃",
+        "type": "음식",
+        "image": "\/public\/image\/items\/beautiful-flower.png",
+        "gold": 240,
+        "weight": 0
+    },
+    {
+        "name": "Suspicious Juice",
+        "korname": "수상한 주스",
+        "type": "음식",
+        "image": "\/public\/image\/items\/suspicious-juice.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Strange Juice",
+        "korname": "이상한 주스",
+        "type": "음식",
+        "image": "\/public\/image\/items\/strange-juice.png",
+        "gold": 40000,
+        "weight": 0
+    },
+    {
+        "name": "Memory Wiping Medicine",
+        "korname": "기억삭제약",
+        "type": "음식",
+        "image": "\/public\/image\/items\/memory-wiping-medicine.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Wood",
+        "korname": "목재",
+        "type": "소재",
+        "image": "\/public\/image\/items\/wood.png",
+        "gold": 10,
+        "weight": 3
+    },
+    {
+        "name": "Fiber",
+        "korname": "섬유",
+        "type": "소재",
+        "image": "\/public\/image\/items\/fiber.png",
+        "gold": 10,
+        "weight": 1
+    },
+    {
+        "name": "Stone",
+        "korname": "결석",
+        "type": "소재",
+        "image": "\/public\/image\/items\/stone.png",
+        "gold": 10,
+        "weight": 3
+    },
+    {
+        "name": "Paldium Fragment",
+        "korname": "팔듐 조각",
+        "type": "소재",
+        "image": "\/public\/image\/items\/paldium-fragment.png",
+        "gold": 20,
+        "weight": 1
+    },
+    {
+        "name": "Ore",
+        "korname": "광석",
+        "type": "소재",
+        "image": "\/public\/image\/items\/ore.png",
+        "gold": 50,
+        "weight": 8
+    },
+    {
+        "name": "Coal",
+        "korname": "석탄",
+        "type": "소재",
+        "image": "\/public\/image\/items\/coal.png",
+        "gold": 30,
+        "weight": 5
+    },
+    {
+        "name": "Sulfur",
+        "korname": "황",
+        "type": "소재",
+        "image": "\/public\/image\/items\/sulfur.png",
+        "gold": 70,
+        "weight": 3
+    },
+    {
+        "name": "Pure Quartz",
+        "korname": "순수 석영",
+        "type": "소재",
+        "image": "\/public\/image\/items\/pure-quartz.png",
+        "gold": 100,
+        "weight": 5
+    },
+    {
+        "name": "Wool",
+        "korname": "양모",
+        "type": "소재",
+        "image": "\/public\/image\/items\/wool.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Leather",
+        "korname": "가죽",
+        "type": "소재",
+        "image": "\/public\/image\/items\/leather.png",
+        "gold": 150,
+        "weight": 2
+    },
+    {
+        "name": "Bone",
+        "korname": "뼈",
+        "type": "소재",
+        "image": "\/public\/image\/items\/bone.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Horn",
+        "korname": "뿔",
+        "type": "소재",
+        "image": "\/public\/image\/items\/horn.png",
+        "gold": 300,
+        "weight": 1
+    },
+    {
+        "name": "Electric Organ",
+        "korname": "전자 오르간",
+        "type": "소재",
+        "image": "\/public\/image\/items\/electric-organ.png",
+        "gold": 200,
+        "weight": 1
+    },
+    {
+        "name": "Venom Gland",
+        "korname": "독샘",
+        "type": "소재",
+        "image": "\/public\/image\/items\/venom-gland.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Flame Organ",
+        "korname": "불꽃 오르간",
+        "type": "소재",
+        "image": "\/public\/image\/items\/flame-organ.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Ice Organ",
+        "korname": "아이스 오르간",
+        "type": "소재",
+        "image": "\/public\/image\/items\/ice-organ.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Gumoss Leaf",
+        "korname": "검모스잎",
+        "type": "소재",
+        "image": "\/public\/image\/items\/gumoss-leaf.png",
+        "gold": 300,
+        "weight": 0
+    },
+    {
+        "name": "Katress Hair",
+        "korname": "카트리스 헤어",
+        "type": "소재",
+        "image": "\/public\/image\/items\/katress-hair.png",
+        "gold": 300,
+        "weight": 0
+    },
+    {
+        "name": "Pal Fluids",
+        "korname": "Pal 유체",
+        "type": "소재",
+        "image": "\/public\/image\/items\/pal-fluids.png",
+        "gold": 300,
+        "weight": 0
+    },
+    {
+        "name": "Penking Plume",
+        "korname": "펜킹 깃털",
+        "type": "소재",
+        "image": "\/public\/image\/items\/penking-plume.png",
+        "gold": 300,
+        "weight": 0
+    },
+    {
+        "name": "Tocotoco Feather",
+        "korname": "토코토코 깃털",
+        "type": "소재",
+        "image": "\/public\/image\/items\/tocotoco-feather.png",
+        "gold": 300,
+        "weight": 0
+    },
+    {
+        "name": "High Quality Pal Oil",
+        "korname": "고품질 Pal 오일",
+        "type": "소재",
+        "image": "\/public\/image\/items\/high-quality-pal-oil.png",
+        "gold": 300,
+        "weight": 0
+    },
+    {
+        "name": "Dung",
+        "korname": "똥",
+        "type": "소재",
+        "image": "\/public\/image\/items\/dung.png",
+        "gold": 1,
+        "weight": 1
+    },
+    {
+        "name": "Huge Dung Pile",
+        "korname": "거대한 배설물 더미",
+        "type": "소재",
+        "image": "\/public\/image\/items\/huge-dung-pile.png",
+        "gold": 1,
+        "weight": 2
+    },
+    {
+        "name": "Ancient Civilization Parts",
+        "korname": "고대 문명 부품",
+        "type": "소재",
+        "image": "\/public\/image\/items\/ancient-civilization-parts.png",
+        "gold": 1000,
+        "weight": 1
+    },
+    {
+        "name": "Berry Seeds",
+        "korname": "베리 씨앗",
+        "type": "소재",
+        "image": "\/public\/image\/items\/berry-seeds.png",
+        "gold": 50,
+        "weight": 0
+    },
+    {
+        "name": "Tomato Seeds",
+        "korname": "토마토 씨앗",
+        "type": "소재",
+        "image": "\/public\/image\/items\/tomato-seeds.png",
+        "gold": 200,
+        "weight": 0
+    },
+    {
+        "name": "Lettuce Seeds",
+        "korname": "상추 씨앗",
+        "type": "소재",
+        "image": "\/public\/image\/items\/lettuce-seeds.png",
+        "gold": 200,
+        "weight": 0
+    },
+    {
+        "name": "Wheat Seeds",
+        "korname": "밀 씨앗",
+        "type": "소재",
+        "image": "\/public\/image\/items\/wheat-seeds.png",
+        "gold": 100,
+        "weight": 0
+    },
+    {
+        "name": "Cloth",
+        "korname": "옷감",
+        "type": "소재",
+        "image": "\/public\/image\/items\/cloth.png",
+        "gold": 80,
+        "weight": 1
+    },
+    {
+        "name": "High Quality Cloth",
+        "korname": "고품질 천",
+        "type": "소재",
+        "image": "\/public\/image\/items\/high-quality-cloth.png",
+        "gold": 400,
+        "weight": 1
+    },
+    {
+        "name": "Nail",
+        "korname": "못",
+        "type": "소재",
+        "image": "\/public\/image\/items\/nail.png",
+        "gold": 1600,
+        "weight": 2
+    },
+    {
+        "name": "Circuit Board",
+        "korname": "회로 기판",
+        "type": "소재",
+        "image": "\/public\/image\/items\/circuit-board.png",
+        "gold": 1000,
+        "weight": 2
+    },
+    {
+        "name": "Polymer",
+        "korname": "고분자",
+        "type": "소재",
+        "image": "\/public\/image\/items\/polymer.png",
+        "gold": 1200,
+        "weight": 1
+    },
+    {
+        "name": "Silicon",
+        "korname": "규소",
+        "type": "소재",
+        "image": "\/public\/image\/items\/silicon.png",
+        "gold": 80,
+        "weight": 0
+    },
+    {
+        "name": "Cement",
+        "korname": "시멘트",
+        "type": "소재",
+        "image": "\/public\/image\/items\/cement.png",
+        "gold": 220,
+        "weight": 5
+    },
+    {
+        "name": "Carbon Fiber",
+        "korname": "탄소 섬유",
+        "type": "소재",
+        "image": "\/public\/image\/items\/carbon-fiber.png",
+        "gold": 120,
+        "weight": 0
+    },
+    {
+        "name": "Charcoal",
+        "korname": "숯",
+        "type": "소재",
+        "image": "\/public\/image\/items\/charcoal.png",
+        "gold": 20,
+        "weight": 2
+    },
+    {
+        "name": "Ingot",
+        "korname": "주괴",
+        "type": "소재",
+        "image": "\/public\/image\/items\/ingot.png",
+        "gold": 200,
+        "weight": 5
+    },
+    {
+        "name": "Refined Ingot",
+        "korname": "정제된 주괴",
+        "type": "소재",
+        "image": "\/public\/image\/items\/refined-ingot.png",
+        "gold": 320,
+        "weight": 5
+    },
+    {
+        "name": "Pal Metal Ingot",
+        "korname": "Pal 금속 주괴",
+        "type": "소재",
+        "image": "\/public\/image\/items\/pal-metal-ingot.png",
+        "gold": 800,
+        "weight": 5
+    },
+    {
+        "name": "Flour",
+        "korname": "밀가루",
+        "type": "소재",
+        "image": "\/public\/image\/items\/flour.png",
+        "gold": 20,
+        "weight": 0
+    },
+    {
+        "name": "Common Egg",
+        "korname": "일반 계란",
+        "type": "소재",
+        "image": "\/public\/image\/items\/common-egg.png",
+        "gold": 10,
+        "weight": 10
+    },
+    {
+        "name": "Large Common Egg",
+        "korname": "큰 일반 알",
+        "type": "소재",
+        "image": "\/public\/image\/items\/large-common-egg.png",
+        "gold": 10,
+        "weight": 25
+    },
+    {
+        "name": "Huge Common Egg",
+        "korname": "거대한 일반 알",
+        "type": "소재",
+        "image": "\/public\/image\/items\/huge-common-egg.png",
+        "gold": 10,
+        "weight": 50
+    },
+    {
+        "name": "Scorching Egg",
+        "korname": "뜨거운 계란",
+        "type": "소재",
+        "image": "\/public\/image\/items\/scorching-egg.png",
+        "gold": 10,
+        "weight": 10
+    },
+    {
+        "name": "Large Scorching Egg",
+        "korname": "큰 타오르는 달걀",
+        "type": "소재",
+        "image": "\/public\/image\/items\/large-scorching-egg.png",
+        "gold": 10,
+        "weight": 25
+    },
+    {
+        "name": "Huge Scorching Egg",
+        "korname": "거대한 불타오르는 알",
+        "type": "소재",
+        "image": "\/public\/image\/items\/huge-scorching-egg.png",
+        "gold": 10,
+        "weight": 50
+    },
+    {
+        "name": "Damp Egg",
+        "korname": "축축한 계란",
+        "type": "소재",
+        "image": "\/public\/image\/items\/damp-egg.png",
+        "gold": 10,
+        "weight": 10
+    },
+    {
+        "name": "Large Damp Egg",
+        "korname": "크고 축축한 계란",
+        "type": "소재",
+        "image": "\/public\/image\/items\/large-damp-egg.png",
+        "gold": 10,
+        "weight": 25
+    },
+    {
+        "name": "Huge Damp Egg",
+        "korname": "거대하고 축축한 계란",
+        "type": "소재",
+        "image": "\/public\/image\/items\/huge-damp-egg.png",
+        "gold": 10,
+        "weight": 50
+    },
+    {
+        "name": "Verdant Egg",
+        "korname": "신록의 알",
+        "type": "소재",
+        "image": "\/public\/image\/items\/verdant-egg.png",
+        "gold": 10,
+        "weight": 10
+    },
+    {
+        "name": "Large Verdant Egg",
+        "korname": "큰 신록의 알",
+        "type": "소재",
+        "image": "\/public\/image\/items\/large-verdant-egg.png",
+        "gold": 10,
+        "weight": 25
+    },
+    {
+        "name": "Huge Verdant Egg",
+        "korname": "거대한 신록의 알",
+        "type": "소재",
+        "image": "\/public\/image\/items\/huge-verdant-egg.png",
+        "gold": 10,
+        "weight": 50
+    },
+    {
+        "name": "Electric Egg",
+        "korname": "전기 계란",
+        "type": "소재",
+        "image": "\/public\/image\/items\/electric-egg.png",
+        "gold": 10,
+        "weight": 10
+    },
+    {
+        "name": "Large Electric Egg",
+        "korname": "대형 전기 계란",
+        "type": "소재",
+        "image": "\/public\/image\/items\/large-electric-egg.png",
+        "gold": 10,
+        "weight": 25
+    },
+    {
+        "name": "Huge Electric Egg",
+        "korname": "거대한 전기 계란",
+        "type": "소재",
+        "image": "\/public\/image\/items\/huge-electric-egg.png",
+        "gold": 10,
+        "weight": 50
+    },
+    {
+        "name": "Frozen Egg",
+        "korname": "냉동 계란",
+        "type": "소재",
+        "image": "\/public\/image\/items\/frozen-egg.png",
+        "gold": 10,
+        "weight": 10
+    },
+    {
+        "name": "Large Frozen Egg",
+        "korname": "대형 냉동 계란",
+        "type": "소재",
+        "image": "\/public\/image\/items\/large-frozen-egg.png",
+        "gold": 10,
+        "weight": 25
+    },
+    {
+        "name": "Huge Frozen Egg",
+        "korname": "거대한 냉동 계란",
+        "type": "소재",
+        "image": "\/public\/image\/items\/huge-frozen-egg.png",
+        "gold": 10,
+        "weight": 50
+    },
+    {
+        "name": "Rocky Egg",
+        "korname": "록키 에그",
+        "type": "소재",
+        "image": "\/public\/image\/items\/rocky-egg.png",
+        "gold": 10,
+        "weight": 10
+    },
+    {
+        "name": "Large Rocky Egg",
+        "korname": "큰 바위 알",
+        "type": "소재",
+        "image": "\/public\/image\/items\/large-rocky-egg.png",
+        "gold": 10,
+        "weight": 25
+    },
+    {
+        "name": "Huge Rocky Egg",
+        "korname": "거대한 바위 알",
+        "type": "소재",
+        "image": "\/public\/image\/items\/huge-rocky-egg.png",
+        "gold": 10,
+        "weight": 50
+    },
+    {
+        "name": "Dark Egg",
+        "korname": "다크 에그",
+        "type": "소재",
+        "image": "\/public\/image\/items\/dark-egg.png",
+        "gold": 10,
+        "weight": 10
+    },
+    {
+        "name": "Large Dark Egg",
+        "korname": "대형 다크 에그",
+        "type": "소재",
+        "image": "\/public\/image\/items\/large-dark-egg.png",
+        "gold": 10,
+        "weight": 25
+    },
+    {
+        "name": "Huge Dark Egg",
+        "korname": "거대하고 어두운 알",
+        "type": "소재",
+        "image": "\/public\/image\/items\/huge-dark-egg.png",
+        "gold": 10,
+        "weight": 50
+    },
+    {
+        "name": "Dragon Egg",
+        "korname": "드래곤 알",
+        "type": "소재",
+        "image": "\/public\/image\/items\/dragon-egg.png",
+        "gold": 10,
+        "weight": 10
+    },
+    {
+        "name": "Large Dragon Egg",
+        "korname": "대형 드래곤 알",
+        "type": "소재",
+        "image": "\/public\/image\/items\/large-dragon-egg.png",
+        "gold": 10,
+        "weight": 25
+    },
+    {
+        "name": "Huge Dragon Egg",
+        "korname": "거대한 드래곤 알",
+        "type": "소재",
+        "image": "\/public\/image\/items\/huge-dragon-egg.png",
+        "gold": 10,
+        "weight": 50
+    },
+    {
+        "name": "Ruby",
+        "korname": "루비",
+        "type": "소재",
+        "image": "\/public\/image\/items\/ruby.png",
+        "gold": 5000,
+        "weight": 5
+    },
+    {
+        "name": "Sapphire",
+        "korname": "사파이어",
+        "type": "소재",
+        "image": "\/public\/image\/items\/sapphire.png",
+        "gold": 7500,
+        "weight": 5
+    },
+    {
+        "name": "Emerald",
+        "korname": "에메랄드",
+        "type": "소재",
+        "image": "\/public\/image\/items\/emerald.png",
+        "gold": 10000,
+        "weight": 5
+    },
+    {
+        "name": "Diamond",
+        "korname": "다이아몬드",
+        "type": "소재",
+        "image": "\/public\/image\/items\/diamond.png",
+        "gold": 12500,
+        "weight": 5
+    },
+    {
+        "name": "Precious Dragon Stone",
+        "korname": "귀중한 용석",
+        "type": "소재",
+        "image": "\/public\/image\/items\/precious-dragon-stone.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Precious Plume",
+        "korname": "귀중한 깃털",
+        "type": "소재",
+        "image": "\/public\/image\/items\/precious-plume.png",
+        "gold": 7500,
+        "weight": 0
+    },
+    {
+        "name": "Precious Entrails",
+        "korname": "귀중한 내장",
+        "type": "소재",
+        "image": "\/public\/image\/items\/precious-entrails.png",
+        "gold": 8500,
+        "weight": 0
+    },
+    {
+        "name": "Precious Claw",
+        "korname": "귀중한 발톱",
+        "type": "소재",
+        "image": "\/public\/image\/items\/precious-claw.png",
+        "gold": 6500,
+        "weight": 0
+    },
+    {
+        "name": "Precious Pelt",
+        "korname": "귀중한 모피",
+        "type": "소재",
+        "image": "\/public\/image\/items\/precious-pelt.png",
+        "gold": 5000,
+        "weight": 0
+    },
+    {
+        "name": "Small Pal Soul",
+        "korname": "작은 친구 영혼",
+        "type": "소재",
+        "image": "\/public\/image\/items\/small-pal-soul.png",
+        "gold": 10,
+        "weight": 0
+    },
+    {
+        "name": "Medium Pal Soul",
+        "korname": "미디엄 팔소울",
+        "type": "소재",
+        "image": "\/public\/image\/items\/medium-pal-soul.png",
+        "gold": 10,
+        "weight": 0
+    },
+    {
+        "name": "Large Pal Soul",
+        "korname": "대형 팔소울",
+        "type": "소재",
+        "image": "\/public\/image\/items\/large-pal-soul.png",
+        "gold": 10,
+        "weight": 0
+    },
+    {
+        "name": "Skill Fruit: Power Shot",
+        "korname": "스킬 열매 : 파워 샷",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/skill-fruit-power-shot.png",
+        "gold": 1000,
+        "weight": 0
+    },
+    {
+        "name": "Skill Fruit: Power Bomb",
+        "korname": "스킬열매 : 파워밤",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/skill-fruit-power-bomb.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Skill Fruit: Pal Blast",
+        "korname": "스킬 열매 : Pal Blast",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/skill-fruit-pal-blast.png",
+        "gold": 5000,
+        "weight": 0
+    },
+    {
+        "name": "Skill Fruit: Air Cannon",
+        "korname": "스킬열매 : 공기대포",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/skill-fruit-air-cannon.png",
+        "gold": 1500,
+        "weight": 0
+    },
+    {
+        "name": "Skill Fruit: Implode",
+        "korname": "스킬 열매: 파열",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/skill-fruit-implode.png",
+        "gold": 5000,
+        "weight": 0
+    },
+    {
+        "name": "Grass Skill Fruit: Wind Cutter",
+        "korname": "잔디 스킬 열매 : 윈드 커터",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/grass-skill-fruit-wind-cutter.png",
+        "gold": 1000,
+        "weight": 0
+    },
+    {
+        "name": "Grass Skill Fruit: Grass Tornado",
+        "korname": "잔디 스킬 열매 : 잔디 토네이도",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/grass-skill-fruit-grass-tornado.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Grass Skill Fruit: Solar Blast",
+        "korname": "잔디 스킬 열매 : 태양 폭발",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/grass-skill-fruit-solar-blast.png",
+        "gold": 5000,
+        "weight": 0
+    },
+    {
+        "name": "Grass Skill Fruit: Seed Machine Gun",
+        "korname": "잔디 스킬 열매 : 씨앗 기관총",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/grass-skill-fruit-seed-machine-gun.png",
+        "gold": 1500,
+        "weight": 0
+    },
+    {
+        "name": "Grass Skill Fruit: Spine Vine",
+        "korname": "잔디 스킬 열매 : 척추 덩굴",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/grass-skill-fruit-spine-vine.png",
+        "gold": 3000,
+        "weight": 0
+    },
+    {
+        "name": "Grass Skill Fruit: Seed Mine",
+        "korname": "잔디 스킬 과일: 씨앗 광산",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/grass-skill-fruit-seed-mine.png",
+        "gold": 2000,
+        "weight": 0
+    },
+    {
+        "name": "Water Skill Fruit: Aqua Gun",
+        "korname": "워터스킬 열매 : 아쿠아건",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/water-skill-fruit-aqua-gun.png",
+        "gold": 1000,
+        "weight": 0
+    },
+    {
+        "name": "Water Skill Fruit: Aqua Burst",
+        "korname": "워터 스킬 열매 : 아쿠아 버스트",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/water-skill-fruit-aqua-burst.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Water Skill Fruit: Hydro Laser",
+        "korname": "워터 스킬 열매 : 하이드로 레이저",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/water-skill-fruit-hydro-laser.png",
+        "gold": 5000,
+        "weight": 0
+    },
+    {
+        "name": "Water Skill Fruit: Hydro Jet",
+        "korname": "워터 스킬 열매 : 하이드로 제트",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/water-skill-fruit-hydro-jet.png",
+        "gold": 1500,
+        "weight": 0
+    },
+    {
+        "name": "Water Skill Fruit: Bubble Blast",
+        "korname": "워터 스킬 열매 : 버블 블래스트",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/water-skill-fruit-bubble-blast.png",
+        "gold": 2000,
+        "weight": 0
+    },
+    {
+        "name": "Water Skill Fruit: Acid Rain",
+        "korname": "물 스킬 열매 : 산성비",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/water-skill-fruit-acid-rain.png",
+        "gold": 3000,
+        "weight": 0
+    },
+    {
+        "name": "Fire Skill Fruit: Ignis Blast",
+        "korname": "불 스킬 열매 : 이그니스 블래스트",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/fire-skill-fruit-ignis-blast.png",
+        "gold": 1000,
+        "weight": 0
+    },
+    {
+        "name": "Fire Skill Fruit: Ignis Breath",
+        "korname": "불 스킬 열매 : 이그니스 브레스",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/fire-skill-fruit-ignis-breath.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Fire Skill Fruit: Fire Ball",
+        "korname": "불 스킬 열매 : 파이어 볼",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/fire-skill-fruit-fire-ball.png",
+        "gold": 5000,
+        "weight": 0
+    },
+    {
+        "name": "Fire Skill Fruit: Flare Arrow",
+        "korname": "불 스킬 열매 : 섬광 화살",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/fire-skill-fruit-flare-arrow.png",
+        "gold": 1500,
+        "weight": 0
+    },
+    {
+        "name": "Fire Skill Fruit: Spirit Fire",
+        "korname": "불 스킬 열매: 정령 불",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/fire-skill-fruit-spirit-fire.png",
+        "gold": 2000,
+        "weight": 0
+    },
+    {
+        "name": "Fire Skill Fruit: Ignis Rage",
+        "korname": "불 스킬 열매 : 이그니스 레이지",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/fire-skill-fruit-ignis-rage.png",
+        "gold": 4000,
+        "weight": 0
+    },
+    {
+        "name": "Fire Skill Fruit: Flare Storm",
+        "korname": "불 스킬 열매 : 플레어 스톰",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/fire-skill-fruit-flare-storm.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Electric Skill Fruit: Shockwave",
+        "korname": "일렉트릭 스킬 열매 : 쇼크웨이브",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/electric-skill-fruit-shockwave.png",
+        "gold": 1000,
+        "weight": 0
+    },
+    {
+        "name": "Electric Skill Fruit: Lightning Bolt",
+        "korname": "전기 스킬 열매 : 라이트닝 볼트",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/electric-skill-fruit-lightning-bolt.png",
+        "gold": 5000,
+        "weight": 0
+    },
+    {
+        "name": "Electric Skill Fruit: Lightning Streak",
+        "korname": "전기 스킬 열매 : 번개 연속",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/electric-skill-fruit-lightning-streak.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Electric Skill Fruit: Plasma Tornado",
+        "korname": "전기 스킬 열매 : 플라즈마 토네이도",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/electric-skill-fruit-plasma-tornado.png",
+        "gold": 2000,
+        "weight": 0
+    },
+    {
+        "name": "Electric Skill Fruit: Spark Blast",
+        "korname": "일렉트릭 스킬 열매 : 스파크 블래스트",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/electric-skill-fruit-spark-blast.png",
+        "gold": 1500,
+        "weight": 0
+    },
+    {
+        "name": "Electric Skill Fruit: Lock-on Laser",
+        "korname": "전기 스킬 열매 : 록온 레이저",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/electric-skill-fruit-lock-on-laser.png",
+        "gold": 3000,
+        "weight": 0
+    },
+    {
+        "name": "Electric Skill Fruit: Electric Ball",
+        "korname": "전기 스킬 열매 : 전기 공",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/electric-skill-fruit-electric-ball.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Electric Skill Fruit: Tri-Lightning",
+        "korname": "전기 스킬 열매 : 삼중 번개",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/electric-skill-fruit-tri-lightning.png",
+        "gold": 3500,
+        "weight": 0
+    },
+    {
+        "name": "Electric Skill Fruit: Lightning Strike",
+        "korname": "전기 스킬 열매 : 라이트닝 스트라이크",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/electric-skill-fruit-lightning-strike.png",
+        "gold": 5000,
+        "weight": 0
+    },
+    {
+        "name": "Earth Skill Fruit: Stone Cannon",
+        "korname": "대지 스킬 열매 : 스톤 캐논",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/earth-skill-fruit-stone-cannon.png",
+        "gold": 1000,
+        "weight": 0
+    },
+    {
+        "name": "Earth Skill Fruit: Sand Tornado",
+        "korname": "대지 스킬 열매 : 샌드 토네이도",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/earth-skill-fruit-sand-tornado.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Earth Skill Fruit: Rock Lance",
+        "korname": "대지의 능력 열매 : 바위창",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/earth-skill-fruit-rock-lance.png",
+        "gold": 5000,
+        "weight": 0
+    },
+    {
+        "name": "Earth Skill Fruit: Sand Blast",
+        "korname": "대지 스킬 열매 : 샌드 블래스트",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/earth-skill-fruit-sand-blast.png",
+        "gold": 1500,
+        "weight": 0
+    },
+    {
+        "name": "Earth Skill Fruit: Stone Blast",
+        "korname": "대지 스킬 열매 : 스톤 블래스트",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/earth-skill-fruit-stone-blast.png",
+        "gold": 2000,
+        "weight": 0
+    },
+    {
+        "name": "Ice Skill Fruit: Ice Missile",
+        "korname": "아이스 스킬 열매 : 아이스 미사일",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/ice-skill-fruit-ice-missile.png",
+        "gold": 1000,
+        "weight": 0
+    },
+    {
+        "name": "Ice Skill Fruit: Iceberg",
+        "korname": "얼음 스킬 열매 : 빙산",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/ice-skill-fruit-iceberg.png",
+        "gold": 3000,
+        "weight": 0
+    },
+    {
+        "name": "Ice Skill Fruit: Blizzard Spike",
+        "korname": "아이스 스킬 열매 : 블리자드 스파이크",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/ice-skill-fruit-blizzard-spike.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Ice Skill Fruit: Icicle Cutter",
+        "korname": "얼음 스킬 열매 : 고드름 절단기",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/ice-skill-fruit-icicle-cutter.png",
+        "gold": 3000,
+        "weight": 0
+    },
+    {
+        "name": "Ice Skill Fruit: Cryst Breath",
+        "korname": "아이스 스킬 열매 : 크리스트 브레스",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/ice-skill-fruit-cryst-breath.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Dark Skill Fruit: Shadow Burst",
+        "korname": "다크 스킬 열매 : 섀도우 버스트",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/dark-skill-fruit-shadow-burst.png",
+        "gold": 1000,
+        "weight": 0
+    },
+    {
+        "name": "Dark Skill Fruit: Nightmare Ball",
+        "korname": "다크 스킬 열매 : 나이트메어 볼",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/dark-skill-fruit-nightmare-ball.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Dark Skill Fruit: Psycho Gravity",
+        "korname": "다크 스킬 열매 : 사이코 그래비티",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/dark-skill-fruit-psycho-gravity.png",
+        "gold": 3500,
+        "weight": 0
+    },
+    {
+        "name": "Dark Skill Fruit: Poison Blast",
+        "korname": "다크 스킬 열매 : 포이즌 블래스트",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/dark-skill-fruit-poison-blast.png",
+        "gold": 1500,
+        "weight": 0
+    },
+    {
+        "name": "Dark Skill Fruit: Spirit Flame",
+        "korname": "어둠 스킬 열매 : 정령의 불꽃",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/dark-skill-fruit-spirit-flame.png",
+        "gold": 2000,
+        "weight": 0
+    },
+    {
+        "name": "Dark Skill Fruit: Dark Laser",
+        "korname": "다크 스킬 열매 : 다크 레이저",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/dark-skill-fruit-dark-laser.png",
+        "gold": 5000,
+        "weight": 0
+    },
+    {
+        "name": "Dragon Skill Fruit: Draconic Breath",
+        "korname": "드래곤 스킬 열매: 용의 숨결",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/dragon-skill-fruit-draconic-breath.png",
+        "gold": 4000,
+        "weight": 0
+    },
+    {
+        "name": "Dragon Skill Fruit: Dragon Cannon",
+        "korname": "드래곤 스킬 열매: 드래곤 캐논",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/dragon-skill-fruit-dragon-cannon.png",
+        "gold": 2000,
+        "weight": 0
+    },
+    {
+        "name": "Dragon Skill Fruit: Dragon Burst",
+        "korname": "드래곤 스킬 열매: 드래곤 버스트",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/dragon-skill-fruit-dragon-burst.png",
+        "gold": 3000,
+        "weight": 0
+    },
+    {
+        "name": "Dragon Skill Fruit: Dragon Meteor",
+        "korname": "드래곤 스킬 열매: 드래곤 메테오",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/dragon-skill-fruit-dragon-meteor.png",
+        "gold": 5000,
+        "weight": 0
+    },
+    {
+        "name": "High Grade Technical Manual",
+        "korname": "고급 기술 매뉴얼",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/high-grade-technical-manual.png",
+        "gold": 1,
+        "weight": 0
+    },
+    {
+        "name": "Innovative Technical Manual",
+        "korname": "혁신적인 기술 매뉴얼",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/innovative-technical-manual.png",
+        "gold": 1,
+        "weight": 0
+    },
+    {
+        "name": "Future Technical Manual",
+        "korname": "미래 기술 매뉴얼",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/future-technical-manual.png",
+        "gold": 1,
+        "weight": 0
+    },
+    {
+        "name": "Copper Key",
+        "korname": "구리 열쇠",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/copper-key.png",
+        "gold": 1,
+        "weight": 0
+    },
+    {
+        "name": "Silver Key",
+        "korname": "은색 열쇠",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/silver-key.png",
+        "gold": 1,
+        "weight": 0
+    },
+    {
+        "name": "Gold Key",
+        "korname": "황금 열쇠",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/gold-key.png",
+        "gold": 1,
+        "weight": 0
+    },
+    {
+        "name": "Repair Kit",
+        "korname": "수리 도구",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/repair-kit.png",
+        "gold": 200,
+        "weight": 1
+    },
+    {
+        "name": "Old Bow Schematic 1",
+        "korname": "오래된 활 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/old-bow-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Old Bow Schematic 2",
+        "korname": "낡은 활 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/old-bow-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Old Bow Schematic 3",
+        "korname": "낡은 활 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/old-bow-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Old Bow Schematic 4",
+        "korname": "낡은 활 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/old-bow-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Crossbow Schematic 1",
+        "korname": "석궁 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/crossbow-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Crossbow Schematic 2",
+        "korname": "석궁 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/crossbow-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Crossbow Schematic 3",
+        "korname": "석궁 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/crossbow-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Crossbow Schematic 4",
+        "korname": "석궁 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/crossbow-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Handgun Schematic 1",
+        "korname": "권총 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/handgun-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Handgun Schematic 2",
+        "korname": "권총 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/handgun-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Handgun Schematic 3",
+        "korname": "권총 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/handgun-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Handgun Schematic 4",
+        "korname": "권총 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/handgun-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Assault Rifle Schematic 1",
+        "korname": "돌격소총 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/assault-rifle-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Assault Rifle Schematic 2",
+        "korname": "돌격소총 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/assault-rifle-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Assault Rifle Schematic 3",
+        "korname": "돌격소총 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/assault-rifle-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Assault Rifle Schematic 4",
+        "korname": "돌격소총 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/assault-rifle-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pump-Action Shotgun Schematic 1",
+        "korname": "펌프액션 산탄총 도식 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pump-action-shotgun-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pump-Action Shotgun Schematic 2",
+        "korname": "펌프액션 샷건 도식 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pump-action-shotgun-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pump-Action Shotgun Schematic 3",
+        "korname": "펌프액션 샷건 도식 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pump-action-shotgun-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pump-Action Shotgun Schematic 4",
+        "korname": "펌프액션 산탄총 도식 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pump-action-shotgun-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Rocket Launcher Schematic 1",
+        "korname": "로켓 발사기 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/rocket-launcher-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Rocket Launcher Schematic 2",
+        "korname": "로켓 발사기 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/rocket-launcher-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Rocket Launcher Schematic 3",
+        "korname": "로켓 발사기 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/rocket-launcher-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Rocket Launcher Schematic 4",
+        "korname": "로켓 발사기 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/rocket-launcher-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Cloth Outfit Schematic 1",
+        "korname": "천 의상 도식 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cloth-outfit-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Feathered Hair Band Schematic 1",
+        "korname": "깃털 달린 머리끈 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/feathered-hair-band-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Cloth Outfit Schematic 2",
+        "korname": "천 의상 도식 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cloth-outfit-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Feathered Hair Band Schematic 2",
+        "korname": "깃털 달린 헤어 밴드 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/feathered-hair-band-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Cloth Outfit Schematic 3",
+        "korname": "천 의상 도식 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cloth-outfit-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Feathered Hair Band Schematic 3",
+        "korname": "깃털 달린 머리끈 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/feathered-hair-band-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Cloth Outfit Schematic 4",
+        "korname": "천 의상 도식 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cloth-outfit-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Feathered Hair Band Schematic 4",
+        "korname": "깃털 달린 머리끈 도식 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/feathered-hair-band-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Metal Helm Schematic 1",
+        "korname": "금속 투구 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/metal-helm-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pelt Armor Schematic 1",
+        "korname": "펠트 방어구 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pelt-armor-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Metal Helm Schematic 2",
+        "korname": "금속 투구 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/metal-helm-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pelt Armor Schematic 2",
+        "korname": "펠트 방어구 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pelt-armor-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Metal Helm Schematic 3",
+        "korname": "금속 투구 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/metal-helm-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pelt Armor Schematic 3",
+        "korname": "펠트 방어구 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pelt-armor-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Metal Helm Schematic 4",
+        "korname": "금속 투구 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/metal-helm-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pelt Armor Schematic 4",
+        "korname": "펠트 방어구 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pelt-armor-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Metal Armor Schematic 1",
+        "korname": "금속 갑옷 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/metal-armor-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Refined Metal Helm Schematic 1",
+        "korname": "정제된 금속 투구 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/refined-metal-helm-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Metal Armor Schematic 2",
+        "korname": "금속 갑옷 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/metal-armor-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Refined Metal Helm Schematic 2",
+        "korname": "정제된 금속 투구 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/refined-metal-helm-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Metal Armor Schematic 3",
+        "korname": "금속 갑옷 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/metal-armor-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Refined Metal Helm Schematic 3",
+        "korname": "세련된 금속 투구 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/refined-metal-helm-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Metal Armor Schematic 4",
+        "korname": "금속 갑옷 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/metal-armor-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Refined Metal Helm Schematic 4",
+        "korname": "정제된 금속 투구 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/refined-metal-helm-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pal Metal Helm Schematic 1",
+        "korname": "Pal 금속 투구 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pal-metal-helm-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Refined Metal Armor Schematic 1",
+        "korname": "정제된 금속 방어구 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/refined-metal-armor-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pal Metal Helm Schematic 2",
+        "korname": "Pal 금속 투구 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pal-metal-helm-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Refined Metal Armor Schematic 2",
+        "korname": "정제된 금속 방어구 도식 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/refined-metal-armor-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pal Metal Helm Schematic 3",
+        "korname": "Pal 금속 투구 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pal-metal-helm-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Refined Metal Armor Schematic 3",
+        "korname": "정제된 금속 방어구 도식 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/refined-metal-armor-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pal Metal Helm Schematic 4",
+        "korname": "Pal 금속 투구 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pal-metal-helm-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Refined Metal Armor Schematic 4",
+        "korname": "정제된 금속 방어구 도식 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/refined-metal-armor-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pal Metal Armor Schematic 1",
+        "korname": "Pal 금속 갑옷 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pal-metal-armor-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pal Metal Armor Schematic 2",
+        "korname": "Pal 금속 갑옷 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pal-metal-armor-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pal Metal Armor Schematic 3",
+        "korname": "Pal 금속 갑옷 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pal-metal-armor-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Pal Metal Armor Schematic 4",
+        "korname": "Pal 금속 갑옷 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/pal-metal-armor-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Monarch's Crown Schematic 1",
+        "korname": "군주의 왕관 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/monarch-s-crown-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Tropical Outfit Schematic 1",
+        "korname": "트로피컬 의상 도식 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tropical-outfit-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Monarch's Crown Schematic 2",
+        "korname": "군주의 왕관 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/monarch-s-crown-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Tropical Outfit Schematic 2",
+        "korname": "트로피컬 의상 도식 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tropical-outfit-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Monarch's Crown Schematic 3",
+        "korname": "군주의 왕관 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/monarch-s-crown-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Tropical Outfit Schematic 3",
+        "korname": "트로피컬 의상 도식 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tropical-outfit-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Monarch's Crown Schematic 4",
+        "korname": "군주의 왕관 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/monarch-s-crown-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "Tropical Outfit Schematic 4",
+        "korname": "트로피컬 의상 도식 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tropical-outfit-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Blueprint of the King's Crown 5",
+        "korname": "왕의 왕관 설계도 5",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/blueprint-of-the-king-s-crown-5.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Tundra Outfit Schematic 1",
+        "korname": "툰드라 복장 도식 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tundra-outfit-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Golden Crown Schematic 1",
+        "korname": "황금 왕관 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/golden-crown-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Tundra Outfit Schematic 2",
+        "korname": "툰드라 의상 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tundra-outfit-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Golden Crown Schematic 2",
+        "korname": "황금 왕관 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/golden-crown-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Tundra Outfit Schematic 3",
+        "korname": "툰드라 복장 도식 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tundra-outfit-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Golden Crown Schematic 3",
+        "korname": "황금 왕관 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/golden-crown-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Tundra Outfit Schematic 4",
+        "korname": "툰드라 복장 도식 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tundra-outfit-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Golden Crown Schematic 4",
+        "korname": "황금 왕관 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/golden-crown-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Pelt Armor Schematic 1",
+        "korname": "내열성 펠트 갑옷 도식 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-pelt-armor-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Pelt Armor Schematic 2",
+        "korname": "내열성 펠트 갑옷 도식 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-pelt-armor-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Pelt Armor Schematic 3",
+        "korname": "내열성 펠트 갑옷 도식 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-pelt-armor-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Long-eared Headband Schematic 1",
+        "korname": "긴귀 머리띠 도식 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/long-eared-headband-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Pelt Armor Schematic 4",
+        "korname": "내열성 펠트 갑옷 도식 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-pelt-armor-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Long-eared Headband Schematic 2",
+        "korname": "긴귀 머리띠 도식 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/long-eared-headband-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Pelt Armor Schematic 1",
+        "korname": "내한성 펠트 방어구 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-pelt-armor-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Long-eared Headband Schematic 3",
+        "korname": "긴귀 머리띠 도식 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/long-eared-headband-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Pelt Armor Schematic 2",
+        "korname": "내한성 펠트 갑옷 도식 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-pelt-armor-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Long-eared Headband Schematic 4",
+        "korname": "긴귀 머리띠 도식 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/long-eared-headband-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "5 Blueprints of Long-eared Headband",
+        "korname": "긴귀 머리띠 설계도 5개",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/5-blueprints-of-long-eared-headband.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Pelt Armor Schematic 3",
+        "korname": "내한성 펠트 갑옷 도식 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-pelt-armor-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Pelt Armor Schematic 4",
+        "korname": "내한성 펠트 갑옷 도식 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-pelt-armor-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Witch Hat Schematic 1",
+        "korname": "마녀 모자 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/witch-hat-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Metal Armor Schematic 1",
+        "korname": "내열 금속 갑옷 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-metal-armor-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Witch Hat Schematic 2",
+        "korname": "마녀 모자 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/witch-hat-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Metal Armor Schematic 2",
+        "korname": "내열 금속 갑옷 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-metal-armor-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Witch Hat Schematic 3",
+        "korname": "마녀 모자 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/witch-hat-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Metal Armor Schematic 3",
+        "korname": "내열 금속 방어구 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-metal-armor-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Witch Hat Schematic 4",
+        "korname": "마녀 모자 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/witch-hat-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "Design of Witch Hat No. 5",
+        "korname": "마녀모자 5호 디자인",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/design-of-witch-hat-no-5.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Metal Armor Schematic 4",
+        "korname": "내열 금속 방어구 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-metal-armor-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Metal Armor Schematic 1",
+        "korname": "내한성 금속 갑옷 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-metal-armor-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Soft Hat Schematic 1",
+        "korname": "부드러운 모자 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/soft-hat-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Metal Armor Schematic 2",
+        "korname": "내한성 금속 갑옷 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-metal-armor-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Soft Hat Schematic 2",
+        "korname": "소프트 햇 회로도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/soft-hat-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Metal Armor Schematic 3",
+        "korname": "내한성 금속 갑옷 도식 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-metal-armor-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Soft Hat Schematic 3",
+        "korname": "소프트 햇 회로도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/soft-hat-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Metal Armor Schematic 4",
+        "korname": "내한성 금속 갑옷 도식 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-metal-armor-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Soft Hat Schematic 4",
+        "korname": "소프트 햇 회로도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/soft-hat-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "Blueprint of Soft Hat 5",
+        "korname": "Soft Hat 5의 청사진",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/blueprint-of-soft-hat-5.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Refined Metal Armor Schematic 1",
+        "korname": "내열성 정제 금속 방어구 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-refined-metal-armor-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Refined Metal Armor Schematic 2",
+        "korname": "내열성 정제 금속 방어구 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-refined-metal-armor-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Helmet Schematic 1",
+        "korname": "헬멧 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/helmet-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Refined Metal Armor Schematic 3",
+        "korname": "내열성 정제 금속 방어구 도식 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-refined-metal-armor-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Helmet Schematic 2",
+        "korname": "헬멧 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/helmet-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Refined Metal Armor Schematic 4",
+        "korname": "내열성 정제 금속 방어구 도식 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-refined-metal-armor-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Helmet Schematic 3",
+        "korname": "헬멧 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/helmet-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Refined Metal Armor Schematic 1",
+        "korname": "내한성 정제 금속 방어구 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-refined-metal-armor-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Helmet Schematic 4",
+        "korname": "헬멧 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/helmet-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "Blueprint of Helmet 5",
+        "korname": "헬멧 5의 청사진",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/blueprint-of-helmet-5.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Refined Metal Armor Schematic 2",
+        "korname": "내한성 정제 금속 방어구 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-refined-metal-armor-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Refined Metal Armor Schematic 3",
+        "korname": "내한성 정제 금속 방어구 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-refined-metal-armor-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Silk Hat Schematic 1",
+        "korname": "실크 모자 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/silk-hat-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Refined Metal Armor Schematic 4",
+        "korname": "내한성 정제 금속 방어구 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-refined-metal-armor-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Silk Hat Schematic 2",
+        "korname": "실크 모자 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/silk-hat-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Pal Metal Armor Schematic 1",
+        "korname": "내열성 Pal 금속 갑옷 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-pal-metal-armor-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Silk Hat Schematic 3",
+        "korname": "실크 모자 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/silk-hat-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Pal Metal Armor Schematic 2",
+        "korname": "내열성 Pal 금속 갑옷 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-pal-metal-armor-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Silk Hat Schematic 4",
+        "korname": "실크 모자 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/silk-hat-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "5 Schematic Diagrams of the Silk Hat",
+        "korname": "5 실크 모자의 개략도",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/5-schematic-diagrams-of-the-silk-hat.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Pal Metal Armor Schematic 3",
+        "korname": "내열성 Pal 금속 갑옷 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-pal-metal-armor-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Heat Resistant Pal Metal Armor Schematic 4",
+        "korname": "내열성 Pal 금속 갑옷 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/heat-resistant-pal-metal-armor-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Tricorne Schematic 1",
+        "korname": "삼각뿔 도식 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tricorne-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Pal Metal Armor Schematic 1",
+        "korname": "내한성 Pal 금속 갑옷 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-pal-metal-armor-schematic-1.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Tricorne Schematic 2",
+        "korname": "삼각모 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tricorne-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Pal Metal Armor Schematic 2",
+        "korname": "내한성 Pal 금속 갑옷 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-pal-metal-armor-schematic-2.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Tricorne Schematic 3",
+        "korname": "삼각뿔 도식 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tricorne-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Pal Metal Armor Schematic 3",
+        "korname": "내한성 Pal 금속 갑옷 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-pal-metal-armor-schematic-3.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Tricorne Schematic 4",
+        "korname": "삼각뿔 도식 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tricorne-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "Blueprint of the Tricorn Hat 5",
+        "korname": "트라이콘 모자 설계도 5",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/blueprint-of-the-tricorn-hat-5.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Cold Resistant Pal Metal Armor Schematic 4",
+        "korname": "내한성 Pal 금속 갑옷 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/cold-resistant-pal-metal-armor-schematic-4.png",
+        "gold": 10000,
+        "weight": 0
+    },
+    {
+        "name": "Exploration Cap Schematic 1",
+        "korname": "탐사 모자 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/exploration-cap-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Exploration Cap Schematic 2",
+        "korname": "탐사 모자 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/exploration-cap-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Exploration Cap Schematic 3",
+        "korname": "탐사 모자 도식 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/exploration-cap-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Exploration Cap Schematic 4",
+        "korname": "탐사 모자 도식 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/exploration-cap-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "Blueprint of Exploration Hat 5",
+        "korname": "탐험 모자 5의 청사진",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/blueprint-of-exploration-hat-5.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Graduate Cap Schematic 1",
+        "korname": "대학원 모자 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/graduate-cap-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Graduate Cap Schematic 2",
+        "korname": "대학원 모자 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/graduate-cap-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Graduate Cap Schematic 3",
+        "korname": "대학원 모자 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/graduate-cap-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Graduate Cap Schematic 4",
+        "korname": "대학원 모자 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/graduate-cap-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "Blueprint 5 of University Hat",
+        "korname": "University Hat의 청사진 5",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/blueprint-5-of-university-hat.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Farming Hat Schematic 1",
+        "korname": "농사 모자 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/farming-hat-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Farming Hat Schematic 2",
+        "korname": "농사 모자 도식 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/farming-hat-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Farming Hat Schematic 3",
+        "korname": "농사 모자 도식 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/farming-hat-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Farming Hat Schematic 4",
+        "korname": "농사 모자 도식 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/farming-hat-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "5 Diagrams of Agricultural Hat",
+        "korname": "농업용 모자의 5 다이어그램",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/5-diagrams-of-agricultural-hat.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Bowler Hat Schematic 1",
+        "korname": "중산모 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/bowler-hat-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Bowler Hat Schematic 2",
+        "korname": "중산모 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/bowler-hat-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Bowler Hat Schematic 3",
+        "korname": "중산모 도식 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/bowler-hat-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Bowler Hat Schematic 4",
+        "korname": "중산모 도식 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/bowler-hat-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "Blueprint of Bowler Hat 5",
+        "korname": "중산모 5의 청사진",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/blueprint-of-bowler-hat-5.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Tocotoco Cap Schematic 1",
+        "korname": "Tocotoco 캡 회로도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tocotoco-cap-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Tocotoco Cap Schematic 2",
+        "korname": "Tocotoco 캡 회로도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tocotoco-cap-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Tocotoco Cap Schematic 3",
+        "korname": "Tocotoco 캡 회로도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tocotoco-cap-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Tocotoco Cap Schematic 4",
+        "korname": "Tocotoco 캡 회로도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/tocotoco-cap-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "Design Plan 5 for the Crutchli Hat",
+        "korname": "Crutchli 모자 디자인 계획 5",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/design-plan-5-for-the-crutchli-hat.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Grinning Tocotoco Cap Schematic 1",
+        "korname": "웃는 토코토코 모자 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/grinning-tocotoco-cap-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Grinning Tocotoco Cap Schematic 2",
+        "korname": "웃는 토코토코 모자 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/grinning-tocotoco-cap-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Grinning Tocotoco Cap Schematic 3",
+        "korname": "웃는 토코토코 모자 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/grinning-tocotoco-cap-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Grinning Tocotoco Cap Schematic 4",
+        "korname": "웃는 토코토코 모자 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/grinning-tocotoco-cap-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "Grinning Curly Hat Blueprint 5",
+        "korname": "웃고 있는 곱슬모자 설계도 5",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/grinning-curly-hat-blueprint-5.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Gumoss Cap Schematic 1",
+        "korname": "고무모스 캡 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/gumoss-cap-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Gumoss Cap Schematic 2",
+        "korname": "고무모스 캡 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/gumoss-cap-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Gumoss Cap Schematic 3",
+        "korname": "고무모스 캡 설계도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/gumoss-cap-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Gumoss Cap Schematic 4",
+        "korname": "고무모스 캡 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/gumoss-cap-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "5 Blueprints of Naemochi Hat",
+        "korname": "내모치 모자 설계도 5개",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/5-blueprints-of-naemochi-hat.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Penking Cap Schematic 1",
+        "korname": "펜킹 캡 설계도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/penking-cap-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Penking Cap Schematic 2",
+        "korname": "펜킹 캡 설계도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/penking-cap-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Penking Cap Schematic 3",
+        "korname": "펜킹 캡 도식 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/penking-cap-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Penking Cap Schematic 4",
+        "korname": "펜킹 캡 설계도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/penking-cap-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "Blueprint of Capppen Hat 5",
+        "korname": "카펜 모자 설계도 5",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/blueprint-of-capppen-hat-5.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Katress Cap Schematic 1",
+        "korname": "Katress 캡 회로도 1",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/katress-cap-schematic-1.png",
+        "gold": 500,
+        "weight": 0
+    },
+    {
+        "name": "Katress Cap Schematic 2",
+        "korname": "Katress 캡 회로도 2",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/katress-cap-schematic-2.png",
+        "gold": 800,
+        "weight": 0
+    },
+    {
+        "name": "Katress Cap Schematic 3",
+        "korname": "Katress 캡 회로도 3",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/katress-cap-schematic-3.png",
+        "gold": 1300,
+        "weight": 0
+    },
+    {
+        "name": "Katress Cap Schematic 4",
+        "korname": "Katress 캡 회로도 4",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/katress-cap-schematic-4.png",
+        "gold": 1800,
+        "weight": 0
+    },
+    {
+        "name": "Design Blueprint of Clemence Hat 5",
+        "korname": "Clemence Hat 5의 디자인 청사진",
+        "type": "설계도",
+        "image": "\/public\/image\/items\/design-blueprint-of-clemence-hat-5.png",
+        "gold": 2500,
+        "weight": 0
+    },
+    {
+        "name": "Animal Skin",
+        "korname": "동물 가죽",
+        "type": "소재",
+        "image": "\/public\/image\/items\/animal-skin.png",
+        "gold": 140,
+        "weight": 1
+    },
+    {
+        "name": "Antibiotic_Good",
+        "korname": "항생제_좋음",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/antibiotic-good.png",
+        "gold": 10,
+        "weight": 1
+    },
+    {
+        "name": "Antibiotic_Normal",
+        "korname": "항생제_보통",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/antibiotic-normal.png",
+        "gold": 10,
+        "weight": 1
+    },
+    {
+        "name": "Antibiotic_Super",
+        "korname": "항생제_슈퍼",
+        "type": "소모품",
+        "image": "\/public\/image\/items\/antibiotic-super.png",
+        "gold": 10,
+        "weight": 1
+    },
+    {
+        "name": "Beer",
+        "korname": "맥주",
+        "type": "음식",
+        "image": "\/public\/image\/items\/beer.png",
+        "gold": 100,
+        "weight": 2
+    },
+    {
+        "name": "Boltmane Saddle",
+        "korname": "볼트메인 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/boltmane-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Claw",
+        "korname": "갈고리 발톱",
+        "type": "소재",
+        "image": "\/public\/image\/items\/claw.png",
+        "gold": 120,
+        "weight": 1
+    },
+    {
+        "name": "Computer",
+        "korname": "컴퓨터",
+        "type": "소재",
+        "image": "\/public\/image\/items\/computer.png",
+        "gold": 298000,
+        "weight": 1
+    },
+    {
+        "name": "Corn Soup",
+        "korname": "옥수수 수프",
+        "type": "음식",
+        "image": "\/public\/image\/items\/corn-soup.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Crude Oil",
+        "korname": "원유",
+        "type": "소재",
+        "image": "\/public\/image\/items\/crude-oil.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Curry",
+        "korname": "카레",
+        "type": "음식",
+        "image": "\/public\/image\/items\/curry.png",
+        "gold": 50,
+        "weight": 1
+    },
+    {
+        "name": "Fang",
+        "korname": "송곳니",
+        "type": "소재",
+        "image": "\/public\/image\/items\/fang.png",
+        "gold": 120,
+        "weight": 1
+    },
+    {
+        "name": "Fishing Rod_Good",
+        "korname": "낚싯대_좋음",
+        "type": "무기",
+        "image": "\/public\/image\/items\/fishing-rod-good.png",
+        "gold": 10,
+        "weight": 15
+    },
+    {
+        "name": "Fishing Rod_Legendary",
+        "korname": "낚싯대_전설",
+        "type": "무기",
+        "image": "\/public\/image\/items\/fishing-rod-legendary.png",
+        "gold": 10,
+        "weight": 15
+    },
+    {
+        "name": "Fishing Rod_Old",
+        "korname": "낚싯대_낡은",
+        "type": "무기",
+        "image": "\/public\/image\/items\/fishing-rod-old.png",
+        "gold": 10,
+        "weight": 15
+    },
+    {
+        "name": "Fishing Rod_Super",
+        "korname": "낚시대_슈퍼",
+        "type": "무기",
+        "image": "\/public\/image\/items\/fishing-rod-super.png",
+        "gold": 10,
+        "weight": 15
+    },
+    {
+        "name": "Gas Mask",
+        "korname": "방독면",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/gas-mask.png",
+        "gold": 1500,
+        "weight": 2
+    },
+    {
+        "name": "Grape",
+        "korname": "포도",
+        "type": "음식",
+        "image": "\/public\/image\/items\/grape.png",
+        "gold": 2000,
+        "weight": 1
+    },
+    {
+        "name": "Grilled Fish",
+        "korname": "구운 생선",
+        "type": "음식",
+        "image": "\/public\/image\/items\/grilled-fish.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Gunpowder",
+        "korname": "화약",
+        "type": "소재",
+        "image": "\/public\/image\/items\/gunpowder.png",
+        "gold": 10,
+        "weight": 0
+    },
+    {
+        "name": "Hop",
+        "korname": "깡충깡충 뛰다",
+        "type": "음식",
+        "image": "\/public\/image\/items\/hop.png",
+        "gold": 2000,
+        "weight": 2
+    },
+    {
+        "name": "Lightz Helmet",
+        "korname": "라이트즈 헬멧",
+        "type": "방어구",
+        "image": "\/public\/image\/items\/lightz-helmet.png",
+        "gold": 180,
+        "weight": 7
+    },
+    {
+        "name": "LuxuryOmelette",
+        "korname": "럭셔리오믈렛",
+        "type": "음식",
+        "image": "\/public\/image\/items\/luxuryomelette.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Night Vision Goggles",
+        "korname": "야간투시경 고글",
+        "type": "악세서리",
+        "image": "\/public\/image\/items\/night-vision-goggles.png",
+        "gold": 1500,
+        "weight": 2
+    },
+    {
+        "name": "Paldium Clump",
+        "korname": "팔듐 덩어리",
+        "type": "소재",
+        "image": "\/public\/image\/items\/paldium-clump.png",
+        "gold": 1000,
+        "weight": 3
+    },
+    {
+        "name": "Plastic",
+        "korname": "플라스틱",
+        "type": "소재",
+        "image": "\/public\/image\/items\/plastic.png",
+        "gold": 200,
+        "weight": 1
+    },
+    {
+        "name": "Potage",
+        "korname": "포타주",
+        "type": "음식",
+        "image": "\/public\/image\/items\/potage.png",
+        "gold": 50,
+        "weight": 0
+    },
+    {
+        "name": "PotatoSeedPotatoes",
+        "korname": "감자씨감자",
+        "type": "소재",
+        "image": "\/public\/image\/items\/potatoseedpotatoes.png",
+        "gold": 10,
+        "weight": 0
+    },
+    {
+        "name": "Sandwich",
+        "korname": "샌드위치",
+        "type": "음식",
+        "image": "\/public\/image\/items\/sandwich.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Seafood Soup",
+        "korname": "해산물 수프",
+        "type": "음식",
+        "image": "\/public\/image\/items\/seafood-soup.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Stew",
+        "korname": "스튜",
+        "type": "음식",
+        "image": "\/public\/image\/items\/stew.png",
+        "gold": 100,
+        "weight": 1
+    },
+    {
+        "name": "Wine",
+        "korname": "와인",
+        "type": "음식",
+        "image": "\/public\/image\/items\/wine.png",
+        "gold": 100,
+        "weight": 2
+    },
+    {
+        "name": "en_text Saddle",
+        "korname": "ko_text 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/en-text-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "en_text's Power Converter",
+        "korname": "en_text의 전력 변환기",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/T_DarkMutant_icon_normal.webp",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "en_text's Shotgun",
+        "korname": "en_text의 산탄총",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/en-text-s-shotgun.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Lifmunk Effigy",
+        "korname": "리프멍크 인형",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/lifmunk-effigy.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Hip Lantern",
+        "korname": "힙합 랜턴",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/hip-lantern.png",
+        "gold": 1,
+        "weight": 0
+    },
+    {
+        "name": "Small Feed Bag",
+        "korname": "작은 사료 가방",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/small-feed-bag.png",
+        "gold": 1,
+        "weight": 0
+    },
+    {
+        "name": "Average Feed Bag",
+        "korname": "평균 피드 백",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/average-feed-bag.png",
+        "gold": 1,
+        "weight": 0
+    },
+    {
+        "name": "Large Feed Bag",
+        "korname": "대형 사료 가방",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/large-feed-bag.png",
+        "gold": 1,
+        "weight": 0
+    },
+    {
+        "name": "Huge Feed Bag",
+        "korname": "거대한 사료 가방",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/huge-feed-bag.png",
+        "gold": 1,
+        "weight": 0
+    },
+    {
+        "name": "Giant Feed Bag",
+        "korname": "거대 사료 가방",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/giant-feed-bag.png",
+        "gold": 1,
+        "weight": 0
+    },
+    {
+        "name": "Jolthog Cryst's Gloves",
+        "korname": "졸트호그 크리스트의 장갑",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/jolthog-cryst-s-gloves.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Jolthog's Gloves",
+        "korname": "졸토그의 장갑",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/jolthog-s-gloves.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Foxparks's Harness",
+        "korname": "폭스파크의 마구",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/foxparks-s-harness.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Melpaca Saddle",
+        "korname": "멜파카 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/melpaca-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Sweepa Saddle",
+        "korname": "스위파 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/sweepa-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Rushoar Saddle",
+        "korname": "루쇼어 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/rushoar-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Celaray's Gloves",
+        "korname": "셀라레이의 장갑",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/celaray-s-gloves.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Lifmunk's Submachine Gun",
+        "korname": "리프멍크의 기관단총",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/lifmunk-s-submachine-gun.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Direhowl's Saddled Harness",
+        "korname": "다이어하울의 안장 마구",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/direhowl-s-saddled-harness.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Tanzee's Assault Rifle",
+        "korname": "탄지의 돌격소총",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/tanzee-s-assault-rifle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Aquadon Terra Saddle",
+        "korname": "아쿠아돈 테라 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/aquadon-terra-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Surfent Saddle",
+        "korname": "서핑 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/surfent-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Eikthyrdeer Saddle",
+        "korname": "에이크티르디어 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/eikthyrdeer-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Eikthyrdeer Terra Saddle",
+        "korname": "Eikthyrdeer 테라 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/eikthyrdeer-terra-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Grintale Saddle",
+        "korname": "그린테일 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/grintale-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Univolt Saddle",
+        "korname": "유니볼트 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/univolt-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Killamari's Gloves",
+        "korname": "킬라마리의 장갑",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/killamari-s-gloves.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Tocotoco's Gloves",
+        "korname": "토코토코의 장갑",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/tocotoco-s-gloves.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Nitewing Saddle",
+        "korname": "나이트윙 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/nitewing-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Arsox Saddle",
+        "korname": "아르삭스 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/arsox-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Flopie's Necklace",
+        "korname": "플로피의 목걸이",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/flopie-s-necklace.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Digtoise's Headband",
+        "korname": "디그투아즈의 머리띠",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/digtoise-s-headband.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Pengullet's Rocket Launcher",
+        "korname": "Pengulet의 로켓 발사기",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/pengullet-s-rocket-launcher.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Dinossom Lux Saddle",
+        "korname": "다이노솜 럭스 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/dinossom-lux-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Dinossom Saddle",
+        "korname": "다이노솜 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/dinossom-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Daedream's Necklace",
+        "korname": "대드림의 목걸이",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/daedream-s-necklace.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Broncherry Saddle",
+        "korname": "기관지 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/broncherry-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Water Broncherry Saddle",
+        "korname": "물 기관지 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/water-broncherry-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Chillet Saddle",
+        "korname": "칠렛 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/chillet-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Hangyu Cryst's Glove",
+        "korname": "한규 크리스탈의 장갑",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/hangyu-cryst-s-glove.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Hangyu's Gloves",
+        "korname": "한규의 장갑",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/hangyu-s-gloves.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Vanwyrm Cryst Saddle",
+        "korname": "Vanwyrm Cryst 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/vanwyrm-cryst-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Vanwyrm Saddle",
+        "korname": "반고룡 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/vanwyrm-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Ice Kingpaca Saddle",
+        "korname": "아이스 킹파카 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/ice-kingpaca-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Kingpaca Saddle",
+        "korname": "킹파카 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/kingpaca-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Elphidran Saddle",
+        "korname": "엘피드란 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/elphidran-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Water Elphidran Saddle",
+        "korname": "워터 엘피드란 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/water-elphidran-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Dazzi's Necklace",
+        "korname": "다찌의 목걸이",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/dazzi-s-necklace.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Galeclaw's Gloves",
+        "korname": "강풍발톱 장갑",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/galeclaw-s-gloves.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Maraith Saddle",
+        "korname": "마레이스 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/maraith-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Mossanda Lux's Grenade Launcher",
+        "korname": "모산다 럭스의 유탄 발사기",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/mossanda-lux-s-grenade-launcher.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Mossanda's Grenade Launcher",
+        "korname": "모산다의 유탄 발사기",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/mossanda-s-grenade-launcher.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Ice Reptyro Saddle",
+        "korname": "아이스 렙티로 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/ice-reptyro-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Reptyro Saddle",
+        "korname": "렙티로 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/reptyro-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Dark Pyrin Saddle",
+        "korname": "다크 피린 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/dark-pyrin-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Pyrin Saddle",
+        "korname": "피린 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/pyrin-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Mammorest Cryst Saddle",
+        "korname": "맘모레스트 크리스트 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/mammorest-cryst-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Mammorest Saddle",
+        "korname": "맘모레스트 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/mammorest-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Azurobe Saddle",
+        "korname": "아주로베 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/azurobe-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Jormuntide Ignis Saddle",
+        "korname": "요르문타이드 이그니스 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/jormuntide-ignis-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Jormuntide Saddle",
+        "korname": "요르문타이드 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/jormuntide-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Kitsun Saddle",
+        "korname": "키순 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/kitsun-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Rayhound Saddle",
+        "korname": "레이하운드 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/rayhound-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Blazehowl Saddle",
+        "korname": "블레이즈하울 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/blazehowl-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Dark Kingferno Saddle",
+        "korname": "다크 킹페르노 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/dark-kingferno-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Reindrix Saddle",
+        "korname": "라인드릭스 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/reindrix-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Beakon Saddle",
+        "korname": "비콘 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/beakon-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Ragnahawk Saddle",
+        "korname": "라그나호크 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/ragnahawk-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Faleris Saddle",
+        "korname": "팔레리스 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/faleris-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Quivern Saddle",
+        "korname": "퀴번 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/quivern-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Helzephyr Saddle",
+        "korname": "헬제퍼 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/helzephyr-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Fenglope Saddle",
+        "korname": "펭로프 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/fenglope-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Suzaku Saddle",
+        "korname": "주작 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/suzaku-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Water Suzaku Saddle",
+        "korname": "물 주작 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/water-suzaku-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Blazamut Saddle",
+        "korname": "블레이저무트 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/blazamut-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Wumpo Botan Saddle",
+        "korname": "월포보탄안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/wumpo-botan-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Wumpo Saddle",
+        "korname": "월포안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/wumpo-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Grizzbolt's Minigun",
+        "korname": "그리즈볼트의 미니건",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/grizzbolt-s-minigun.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Shadowbeak Saddle",
+        "korname": "그림자부리 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/shadowbeak-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Astegon Saddle",
+        "korname": "아스테곤 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/astegon-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Relaxaurus Lux's Missile Launcher",
+        "korname": "릴랙사우루스 럭스의 미사일 발사기",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/relaxaurus-lux-s-missile-launcher.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Relaxaurus's Missile Launcher",
+        "korname": "릴랙사우루스의 미사일 발사기",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/relaxaurus-s-missile-launcher.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Dragostrophe's Shotgun",
+        "korname": "드라고스트로프의 산탄총",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/dragostrophe-s-shotgun.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Frostallion Noct Saddle",
+        "korname": "Frostalion Noct 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/frostallion-noct-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Frostallion Saddle",
+        "korname": "서리탈리온 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/frostallion-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Paladius Saddle",
+        "korname": "팔라디우스 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/paladius-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Necromus Saddle",
+        "korname": "네크로무스 안장",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/necromus-saddle.png",
+        "gold": 0,
+        "weight": 0
+    },
+    {
+        "name": "Jetragon's Missile Launcher",
+        "korname": "Jetragon의 미사일 발사기",
+        "type": "귀중품",
+        "image": "\/public\/image\/items\/jetragon-s-missile-launcher.png",
+        "gold": 0,
+        "weight": 0
+    }
+]
