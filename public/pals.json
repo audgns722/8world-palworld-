@@ -209,7 +209,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "PinkCat",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1000,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/002-day.png",
+      "night": "/public/images/maps/002-night.png"
+    }
   },
   {
     "id": 3,
@@ -297,7 +322,32 @@
         "power": 80,
         "description": "좌우에 작열하는 회오리를 일으켜 적에게 날린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": {
+        "melee": 70,
+        "ranged": 60
+      },
+      "defense": 60,
+      "speed": {
+        "ride": 550,
+        "run": 375,
+        "walk": 50
+      },
+      "stamina": 100,
+      "support": 70,
+      "food": 1
+    },
+    "asset": "ChickenPal",
+    "genus": "bird",
+    "rarity": 1,
+    "price": 1000,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/003-day.png",
+      "night": "/public/images/maps/003-night.png"
+    }
   },
   {
     "id": 4,
@@ -397,7 +447,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 40
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 1
+    },
+    "asset": "Carbunclo",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1010,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/004-day.png",
+      "night": "/public/images/maps/004-night.png"
+    }
   },
   {
     "id": 5,
@@ -481,7 +556,32 @@
         "power": 150,
         "description": "머리 위에 거대한 화염구를 소환해 적을 향해 날린다. 충돌 시 폭발하여 폭풍이 넓은 범위로 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": {
+        "melee": 70,
+        "ranged": 75
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "Kitsunebi",
+    "genus": "fourlegged",
+    "rarity": 1,
+    "price": 1040,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/005-day.png",
+      "night": "/public/images/maps/005-night.png"
+    }
   },
   {
     "id": 6,
@@ -573,7 +673,32 @@
         "power": 150,
         "description": "굉장한 기세로 물을 뿜어 전방을 광범위하게 휩쓸며 넘어뜨린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": {
+        "melee": 80,
+        "ranged": 80
+      },
+      "defense": 60,
+      "speed": {
+        "ride": 400,
+        "run": 300,
+        "walk": 105
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "BluePlatypus",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1120,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/006-day.png",
+      "night": "/public/images/maps/006-night.png"
+    }
   },
   {
     "id": 7,
@@ -664,7 +789,32 @@
         "power": 150,
         "description": "천둥의 힘을 모아 적을 향해 강력한 전기 공격을 날린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": {
+        "melee": 60,
+        "ranged": 75
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 500,
+        "run": 350,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 80,
+      "food": 2
+    },
+    "asset": "ElecCat",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1030,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/007-day.png",
+      "night": "/public/images/maps/007-night.png"
+    }
   },
   {
     "id": 8,
@@ -763,7 +913,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 400,
+        "run": 300,
+        "walk": 48
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "Monkey",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1280,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/008-day.png",
+      "night": "/public/images/maps/008-night.png"
+    }
   },
   {
     "id": 9,
@@ -847,7 +1022,32 @@
         "power": 150,
         "description": "머리 위에 거대한 화염구를 소환해 적을 향해 날린다. 충돌 시 폭발하여 폭풍이 넓은 범위로 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 75,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "FlameBambi",
+    "genus": "fourlegged",
+    "rarity": 2,
+    "price": 2950,
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/009-day.png",
+      "night": "/public/images/maps/009-night.png"
+    }
   },
   {
     "id": 10,
@@ -944,7 +1144,32 @@
         "power": 150,
         "description": "굉장한 기세로 물을 뿜어 전방을 광범위하게 휩쓸며 넘어뜨린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 75
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 650,
+        "run": 500,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "Penguin",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1080,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/010-day.png",
+      "night": "/public/images/maps/010-night.png"
+    }
   },
   {
     "id": 11,
@@ -1045,7 +1270,32 @@
         "power": 150,
         "description": "굉장한 기세로 물을 뿜어 전방을 광범위하게 휩쓸며 넘어뜨린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": {
+        "melee": 70,
+        "ranged": 95
+      },
+      "defense": 95,
+      "speed": {
+        "ride": 600,
+        "run": 450,
+        "walk": 110
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 8
+    },
+    "asset": "CaptainPenguin",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 5410,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/011-day.png",
+      "night": "/public/images/maps/011-night.png"
+    }
   },
   {
     "id": 12,
@@ -1128,7 +1378,32 @@
         "power": 150,
         "description": "천둥의 힘을 모아 적을 향해 강력한 전기 공격을 날린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 75
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "Hedgehog",
+    "genus": "fourlegged",
+    "rarity": 1,
+    "price": 1060,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/012-day.png",
+      "night": "/public/images/maps/012-night.png"
+    }
   },
   {
     "id": 13,
@@ -1213,7 +1488,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 400,
+        "run": 300,
+        "walk": 50
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 1
+    },
+    "asset": "PlantSlime",
+    "genus": "other",
+    "rarity": 1,
+    "price": 1310,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/013-day.png",
+      "night": "/public/images/maps/013-night.png"
+    }
   },
   {
     "id": 14,
@@ -1301,7 +1601,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 450,
+        "run": 350,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 140,
+      "food": 1
+    },
+    "asset": "CuteFox",
+    "genus": "fourlegged",
+    "rarity": 2,
+    "price": 1000,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/014-day.png",
+      "night": "/public/images/maps/014-night.png"
+    }
   },
   {
     "id": 15,
@@ -1385,7 +1710,31 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 550,
+        "run": 380,
+        "walk": 70
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "WizardOwl",
+    "genus": "bird",
+    "rarity": 1,
+    "price": 1050,
+    "size": "xs",
+    "maps": {
+      "night": "/public/images/maps/015-night.png"
+    }
   },
   {
     "id": 16,
@@ -1468,7 +1817,32 @@
         "power": 150,
         "description": "굉장한 기세로 물을 뿜어 전방을 광범위하게 휩쓸며 넘어뜨린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 60
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 400,
+        "run": 300,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "Ganesha",
+    "genus": "fourlegged",
+    "rarity": 1,
+    "price": 1000,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/016-day.png",
+      "night": "/public/images/maps/016-night.png"
+    }
   },
   {
     "id": 17,
@@ -1559,7 +1933,31 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 400,
+        "run": 300,
+        "walk": 10
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "NegativeKoala",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1050,
+    "size": "xs",
+    "maps": {
+      "night": "/public/images/maps/017-night.png"
+    }
   },
   {
     "id": 18,
@@ -1646,7 +2044,31 @@
         "power": 150,
         "description": "천둥의 힘을 모아 적을 향해 강력한 전기 공격을 날린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 75,
+      "speed": {
+        "ride": 450,
+        "run": 300,
+        "walk": 40
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "WoolFox",
+    "genus": "fourlegged",
+    "rarity": 1,
+    "price": 1420,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/018-day.png"
+    }
   },
   {
     "id": 19,
@@ -1738,7 +2160,31 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 100,
+        "ranged": 75
+      },
+      "defense": 60,
+      "speed": {
+        "ride": 550,
+        "run": 300,
+        "walk": 140
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "DreamDemon",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1330,
+    "size": "xs",
+    "maps": {
+      "night": "/public/images/maps/019-night.png"
+    }
   },
   {
     "id": 20,
@@ -1823,7 +2269,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 700,
+        "run": 450,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "Boar",
+    "genus": "fourlegged",
+    "rarity": 1,
+    "price": 1680,
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/020-day.png",
+      "night": "/public/images/maps/020-night.png"
+    }
   },
   {
     "id": 21,
@@ -1907,7 +2378,31 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 70,
+        "ranged": 85
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 500,
+        "run": 300,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 140,
+      "food": 2
+    },
+    "asset": "NightFox",
+    "genus": "fourlegged",
+    "rarity": 6,
+    "price": 1480,
+    "size": "xs",
+    "maps": {
+      "night": "/public/images/maps/021-night.png"
+    }
   },
   {
     "id": 22,
@@ -1998,7 +2493,32 @@
         "power": 150,
         "description": "적의 발 밑에 날카로운 바위 창을 불러낸다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": {
+        "melee": 100,
+        "ranged": 80
+      },
+      "defense": 50,
+      "speed": {
+        "ride": 550,
+        "run": 300,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "CuteMole",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1360,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/022-day.png",
+      "night": "/public/images/maps/022-night.png"
+    }
   },
   {
     "id": 23,
@@ -2085,7 +2605,29 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": {
+        "melee": 100,
+        "ranged": 60
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 120
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "NegativeOctopus",
+    "genus": "other",
+    "rarity": 1,
+    "price": 1200,
+    "size": "xs",
+    "maps": {}
   },
   {
     "id": 24,
@@ -2168,7 +2710,29 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 60
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 475,
+        "walk": 105
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 1
+    },
+    "asset": "Bastet",
+    "genus": "fourlegged",
+    "rarity": 1,
+    "price": 1000,
+    "size": "xs",
+    "maps": {}
   },
   {
     "id": 25,
@@ -2255,7 +2819,32 @@
         "power": 150,
         "description": "굉장한 기세로 물을 뿜어 전방을 광범위하게 휩쓸며 넘어뜨린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 700,
+        "run": 550,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "FlyingManta",
+    "genus": "other",
+    "rarity": 3,
+    "price": 2860,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/025-day.png",
+      "night": "/public/images/maps/025-night.png"
+    }
   },
   {
     "id": 26,
@@ -2340,7 +2929,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 110,
+        "ranged": 90
+      },
+      "defense": 75,
+      "speed": {
+        "ride": 1050,
+        "run": 800,
+        "walk": 180
+      },
+      "stamina": 70,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "Garm",
+    "genus": "fourlegged",
+    "rarity": 2,
+    "price": 1920,
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/026-day.png",
+      "night": "/public/images/maps/026-night.png"
+    }
   },
   {
     "id": 27,
@@ -2424,7 +3038,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": {
+        "melee": 80,
+        "ranged": 75
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 300,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 70,
+      "food": 2
+    },
+    "asset": "ColorfulBird",
+    "genus": "bird",
+    "rarity": 1,
+    "price": 1090,
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/027-day.png",
+      "night": "/public/images/maps/027-night.png"
+    }
   },
   {
     "id": 28,
@@ -2524,7 +3163,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 100,
+        "ranged": 65
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "FlowerRabbit",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1220,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/028-day.png",
+      "night": "/public/images/maps/028-night.png"
+    }
   },
   {
     "id": 29,
@@ -2608,7 +3272,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 50
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 700,
+        "run": 580,
+        "walk": 55
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "CowPal",
+    "genus": "fourlegged",
+    "rarity": 2,
+    "price": 2620,
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/029-day.png",
+      "night": "/public/images/maps/029-night.png"
+    }
   },
   {
     "id": 30,
@@ -2708,7 +3397,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 80,
+        "ranged": 80
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "LittleBriarRose",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1140,
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/030-day.png",
+      "night": "/public/images/maps/030-night.png"
+    }
   },
   {
     "id": 31,
@@ -2799,7 +3513,32 @@
         "power": 150,
         "description": "굉장한 기세로 물을 뿜어 전방을 광범위하게 휩쓸며 넘어뜨린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 90,
+        "ranged": 90
+      },
+      "defense": 75,
+      "speed": {
+        "ride": 500,
+        "run": 400,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "SharkKid",
+    "genus": "humanoid",
+    "rarity": 2,
+    "price": 1840,
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/031-day.png",
+      "night": "/public/images/maps/031-night.png"
+    }
   },
   {
     "id": 32,
@@ -2890,7 +3629,32 @@
         "power": 150,
         "description": "적의 발 밑에 날카로운 바위 창을 불러낸다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "WindChimes",
+    "genus": "other",
+    "rarity": 1,
+    "price": 1020,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/032-day.png",
+      "night": "/public/images/maps/032-night.png"
+    }
   },
   {
     "id": 33,
@@ -2987,7 +3751,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 90
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 700,
+        "run": 500,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "GrassPanda",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 6200,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/033-day.png",
+      "night": "/public/images/maps/033-night.png"
+    }
   },
   {
     "id": 34,
@@ -3071,7 +3860,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 400,
+        "run": 300,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "SweetsSheep",
+    "genus": "fourlegged",
+    "rarity": 3,
+    "price": 1450,
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/034-day.png",
+      "night": "/public/images/maps/034-night.png"
+    }
   },
   {
     "id": 35,
@@ -3160,7 +3974,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 70
+      },
+      "stamina": 100,
+      "support": 120,
+      "food": 4
+    },
+    "asset": "BerryGoat",
+    "genus": "fourlegged",
+    "rarity": 3,
+    "price": 2510,
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/035-day.png",
+      "night": "/public/images/maps/035-night.png"
+    }
   },
   {
     "id": 36,
@@ -3244,7 +4083,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 90,
+        "ranged": 75
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 800,
+        "run": 460,
+        "walk": 62
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "Alpaca",
+    "genus": "fourlegged",
+    "rarity": 3,
+    "price": 2740,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/036-day.png",
+      "night": "/public/images/maps/036-night.png"
+    }
   },
   {
     "id": 37,
@@ -3329,7 +4193,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": {
+        "melee": 70,
+        "ranged": 80
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 900,
+        "run": 700,
+        "walk": 120
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "Deer",
+    "genus": "fourlegged",
+    "rarity": 4,
+    "price": 2620,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/037-day.png",
+      "night": "/public/images/maps/037-night.png"
+    }
   },
   {
     "id": 38,
@@ -3412,7 +4301,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 95
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 750,
+        "run": 600,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "HawkBird",
+    "genus": "bird",
+    "rarity": 3,
+    "price": 6300,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/038-day.png",
+      "night": "/public/images/maps/038-night.png"
+    }
   },
   {
     "id": 39,
@@ -3504,7 +4418,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 100,
+        "ranged": 65
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 350,
+        "run": 245,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "PinkRabbit",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 1160,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/039-day.png",
+      "night": "/public/images/maps/039-night.png"
+    }
   },
   {
     "id": 40,
@@ -3601,7 +4540,32 @@
         "power": 120,
         "description": "주위 지면을 활성화해 일정 시간이 지나면 터뜨린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": {
+        "melee": 150,
+        "ranged": 100
+      },
+      "defense": 85,
+      "speed": {
+        "ride": 960,
+        "run": 700,
+        "walk": 160
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 4
+    },
+    "asset": "Baphomet",
+    "genus": "humanoid",
+    "rarity": 4,
+    "price": 4780,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/040-day.png",
+      "night": "/public/images/maps/040-night.png"
+    }
   },
   {
     "id": 41,
@@ -3690,7 +4654,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 100,
+        "ranged": 80
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 700,
+        "run": 550,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "CuteButterfly",
+    "genus": "bird",
+    "rarity": 4,
+    "price": 5700,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/041-day.png",
+      "night": "/public/images/maps/041-night.png"
+    }
   },
   {
     "id": 42,
@@ -3778,7 +4767,32 @@
         "power": 150,
         "description": "머리 위에 거대한 화염구를 소환해 적을 향해 날린다. 충돌 시 폭발하여 폭풍이 넓은 범위로 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": {
+        "melee": 100,
+        "ranged": 95
+      },
+      "defense": 95,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 87
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "FlameBuffalo",
+    "genus": "fourlegged",
+    "rarity": 4,
+    "price": 3520,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/042-day.png",
+      "night": "/public/images/maps/042-night.png"
+    }
   },
   {
     "id": 43,
@@ -3870,7 +4884,32 @@
         "power": 150,
         "description": "굉장한 기세로 물을 뿜어 전방을 광범위하게 휩쓸며 넘어뜨린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 95,
+      "speed": {
+        "ride": 600,
+        "run": 450,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 4
+    },
+    "asset": "LazyCatfish",
+    "genus": "fish",
+    "rarity": 4,
+    "price": 4690,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/043-day.png",
+      "night": "/public/images/maps/043-night.png"
+    }
   },
   {
     "id": 44,
@@ -3955,7 +4994,31 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 80,
+        "ranged": 95
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 1200,
+        "run": 920,
+        "walk": 170
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "DarkCrow",
+    "genus": "bird",
+    "rarity": 3,
+    "price": 1840,
+    "size": "m",
+    "maps": {
+      "night": "/public/images/maps/044-night.png"
+    }
   },
   {
     "id": 45,
@@ -4047,7 +5110,32 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 90,
+        "ranged": 80
+      },
+      "defense": 50,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 140
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "LizardMan",
+    "genus": "humanoid",
+    "rarity": 2,
+    "price": 1720,
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/045-day.png",
+      "night": "/public/images/maps/045-night.png"
+    }
   },
   {
     "id": 46,
@@ -4130,7 +5218,31 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 130,
+        "ranged": 100
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "Werewolf",
+    "genus": "humanoid",
+    "rarity": 3,
+    "price": 2400,
+    "size": "m",
+    "maps": {
+      "night": "/public/images/maps/046-night.png"
+    }
   },
   {
     "id": 47,
@@ -4214,7 +5326,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 120,
+        "ranged": 85
+      },
+      "defense": 60,
+      "speed": {
+        "ride": 700,
+        "run": 600,
+        "walk": 200
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 4
+    },
+    "asset": "Eagle",
+    "genus": "bird",
+    "rarity": 2,
+    "price": 2010,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/047-day.png",
+      "night": "/public/images/maps/047-night.png"
+    }
   },
   {
     "id": 48,
@@ -4318,7 +5455,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 750,
+        "run": 600,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "RobinHood",
+    "genus": "humanoid",
+    "rarity": 5,
+    "price": 2050,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/048-day.png",
+      "night": "/public/images/maps/048-night.png"
+    }
   },
   {
     "id": 49,
@@ -4410,7 +5572,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 110,
+        "ranged": 95
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 720,
+        "run": 550,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "Gorilla",
+    "genus": "humanoid",
+    "rarity": 5,
+    "price": 2010,
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/049-day.png",
+      "night": "/public/images/maps/049-night.png"
+    }
   },
   {
     "id": 50,
@@ -4517,7 +5704,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 100,
+        "ranged": 90
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 550,
+        "run": 450,
+        "walk": 250
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "SoldierBee",
+    "genus": "humanoid",
+    "rarity": 4,
+    "price": 1880,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/050-day.png",
+      "night": "/public/images/maps/050-night.png"
+    }
   },
   {
     "id": 51,
@@ -4617,7 +5829,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 550,
+        "run": 450,
+        "walk": 250
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "QueenBee",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 6830,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/051-day.png",
+      "night": "/public/images/maps/051-night.png"
+    }
   },
   {
     "id": 52,
@@ -4700,7 +5937,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 100,
+        "ranged": 80
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 64
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 4
+    },
+    "asset": "NaughtyCat",
+    "genus": "fourlegged",
+    "rarity": 6,
+    "price": 5510,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/052-day.png",
+      "night": "/public/images/maps/052-night.png"
+    }
   },
   {
     "id": 53,
@@ -4787,7 +6049,32 @@
         "power": 130,
         "description": "거대한 얼음 덩어리를 만들어 적을 향해 빠르게 발사한다. 적중하면 주위에도 충격이 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": {
+        "melee": 100,
+        "ranged": 60
+      },
+      "defense": 60,
+      "speed": {
+        "ride": 400,
+        "run": 250,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "MopBaby",
+    "genus": "other",
+    "rarity": 1,
+    "price": 1180,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/053-day.png",
+      "night": "/public/images/maps/053-night.png"
+    }
   },
   {
     "id": 54,
@@ -4874,7 +6161,32 @@
         "power": 130,
         "description": "거대한 얼음 덩어리를 만들어 적을 향해 빠르게 발사한다. 적중하면 주위에도 충격이 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 90
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 500,
+        "run": 300,
+        "walk": 120
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "MopKing",
+    "genus": "other",
+    "rarity": 6,
+    "price": 6400,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/054-day.png",
+      "night": "/public/images/maps/054-night.png"
+    }
   },
   {
     "id": 55,
@@ -4962,7 +6274,32 @@
         "power": 150,
         "description": "작은 운석을 잔뜩 불러내 적을 향해 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 80
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 180
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "WeaselDragon",
+    "genus": "fourlegged",
+    "rarity": 4,
+    "price": 3450,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/055-day.png",
+      "night": "/public/images/maps/055-night.png"
+    }
   },
   {
     "id": 56,
@@ -5051,7 +6388,32 @@
         "power": 150,
         "description": "천둥의 힘을 모아 적을 향해 강력한 전기 공격을 날린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 110,
+        "ranged": 105
+      },
+      "defense": 105,
+      "speed": {
+        "ride": 1100,
+        "run": 720,
+        "walk": 130
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "Kirin",
+    "genus": "fourlegged",
+    "rarity": 5,
+    "price": 4280,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/056-day.png",
+      "night": "/public/images/maps/056-night.png"
+    }
   },
   {
     "id": 57,
@@ -5135,7 +6497,32 @@
         "power": 130,
         "description": "거대한 얼음 덩어리를 만들어 적을 향해 빠르게 발사한다. 적중하면 주위에도 충격이 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 95
+      },
+      "defense": 105,
+      "speed": {
+        "ride": 750,
+        "run": 600,
+        "walk": 130
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "IceFox",
+    "genus": "fourlegged",
+    "rarity": 5,
+    "price": 3730,
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/057-day.png",
+      "night": "/public/images/maps/057-night.png"
+    }
   },
   {
     "id": 58,
@@ -5223,7 +6610,32 @@
         "power": 150,
         "description": "머리 위에 거대한 화염구를 소환해 적을 향해 날린다. 충돌 시 폭발하여 폭풍이 넓은 범위로 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 110,
+        "ranged": 95
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 1300,
+        "run": 850,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "FireKirin",
+    "genus": "fourlegged",
+    "rarity": 6,
+    "price": 6720,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/058-day.png",
+      "night": "/public/images/maps/058-night.png"
+    }
   },
   {
     "id": 59,
@@ -5313,7 +6725,32 @@
         "power": 130,
         "description": "거대한 얼음 덩어리를 만들어 적을 향해 빠르게 발사한다. 적중하면 주위에도 충격이 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 80,
+        "ranged": 85
+      },
+      "defense": 110,
+      "speed": {
+        "ride": 700,
+        "run": 550,
+        "walk": 70
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "IceDeer",
+    "genus": "fourlegged",
+    "rarity": 4,
+    "price": 2800,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/059-day.png",
+      "night": "/public/images/maps/059-night.png"
+    }
   },
   {
     "id": 60,
@@ -5396,7 +6833,32 @@
         "power": 150,
         "description": "천둥의 힘을 모아 적을 향해 강력한 전기 공격을 날린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 100
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 1150,
+        "run": 700,
+        "walk": 210
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "ThunderDog",
+    "genus": "fourlegged",
+    "rarity": 5,
+    "price": 3880,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/060-day.png",
+      "night": "/public/images/maps/060-night.png"
+    }
   },
   {
     "id": 61,
@@ -5480,7 +6942,31 @@
         "power": 150,
         "description": "머리 위에 거대한 화염구를 소환해 적을 향해 날린다. 충돌 시 폭발하여 폭풍이 넓은 범위로 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 70,
+        "ranged": 115
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 900,
+        "run": 700,
+        "walk": 130
+      },
+      "stamina": 100,
+      "support": 110,
+      "food": 4
+    },
+    "asset": "AmaterasuWolf",
+    "genus": "fourlegged",
+    "rarity": 6,
+    "price": 3170,
+    "size": "m",
+    "maps": {
+      "night": "/public/images/maps/061-night.png"
+    }
   },
   {
     "id": 62,
@@ -5571,7 +7057,32 @@
         "power": 150,
         "description": "천둥의 힘을 모아 적을 향해 강력한 전기 공격을 날린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 110,
+        "ranged": 80
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 200
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "RaijinDaughter",
+    "genus": "humanoid",
+    "rarity": 2,
+    "price": 1390,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/062-day.png",
+      "night": "/public/images/maps/062-night.png"
+    }
   },
   {
     "id": 63,
@@ -5662,7 +7173,29 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 80,
+        "ranged": 100
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 650,
+        "run": 500,
+        "walk": 130
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "Mutant",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 1760,
+    "size": "m",
+    "maps": {}
   },
   {
     "id": 64,
@@ -5750,7 +7283,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 90,
+        "ranged": 85
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 700,
+        "run": 550,
+        "walk": 120
+      },
+      "stamina": 100,
+      "support": 150,
+      "food": 6
+    },
+    "asset": "FlowerDinosaur",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 3240,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/064-day.png",
+      "night": "/public/images/maps/064-night.png"
+    }
   },
   {
     "id": 65,
@@ -5833,7 +7391,32 @@
         "power": 150,
         "description": "굉장한 기세로 물을 뿜어 전방을 광범위하게 휩쓸며 넘어뜨린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 70,
+        "ranged": 90
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 650,
+        "run": 500,
+        "walk": 200
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "Serpent",
+    "genus": "fish",
+    "rarity": 4,
+    "price": 5050,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/065-day.png",
+      "night": "/public/images/maps/065-night.png"
+    }
   },
   {
     "id": 66,
@@ -5921,7 +7504,31 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": {
+        "melee": 50,
+        "ranged": 105
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 160
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "GhostBeast",
+    "genus": "fourlegged",
+    "rarity": 6,
+    "price": 1570,
+    "size": "m",
+    "maps": {
+      "night": "/public/images/maps/066-night.png"
+    }
   },
   {
     "id": 67,
@@ -6005,7 +7612,32 @@
         "power": 150,
         "description": "적의 발 밑에 날카로운 바위 창을 불러낸다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 80,
+        "ranged": 95
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 420,
+        "run": 300,
+        "walk": 120
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "DrillGame",
+    "genus": "fourlegged",
+    "rarity": 5,
+    "price": 2980,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/067-day.png",
+      "night": "/public/images/maps/067-night.png"
+    }
   },
   {
     "id": 68,
@@ -6097,7 +7729,31 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": {
+        "melee": 100,
+        "ranged": 95
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 140
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "CatBat",
+    "genus": "humanoid",
+    "rarity": 5,
+    "price": 3810,
+    "size": "m",
+    "maps": {
+      "night": "/public/images/maps/068-night.png"
+    }
   },
   {
     "id": 69,
@@ -6195,7 +7851,31 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 70,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 850,
+        "run": 750,
+        "walk": 170
+      },
+      "stamina": 100,
+      "support": 140,
+      "food": 5
+    },
+    "asset": "PinkLizard",
+    "genus": "humanoid",
+    "rarity": 5,
+    "price": 2450,
+    "size": "l",
+    "maps": {
+      "night": "/public/images/maps/069-night.png"
+    }
   },
   {
     "id": 70,
@@ -6291,7 +7971,32 @@
         "power": 150,
         "description": "머리 위에 거대한 화염구를 소환해 적을 향해 날린다. 충돌 시 폭발하여 폭풍이 넓은 범위로 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 375,
+        "run": 250,
+        "walk": 98
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "LavaGirl",
+    "genus": "humanoid",
+    "rarity": 1,
+    "price": 2500,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/070-day.png",
+      "night": "/public/images/maps/070-night.png"
+    }
   },
   {
     "id": 71,
@@ -6381,7 +8086,32 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 115
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 850,
+        "run": 700,
+        "walk": 350
+      },
+      "stamina": 150,
+      "support": 100,
+      "food": 6
+    },
+    "asset": "BirdDragon",
+    "genus": "bird",
+    "rarity": 4,
+    "price": 4360,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/071-day.png",
+      "night": "/public/images/maps/071-night.png"
+    }
   },
   {
     "id": 72,
@@ -6481,7 +8211,32 @@
         "power": 120,
         "description": "주위 지면을 활성화해 일정 시간이 지나면 터뜨린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 100,
+        "ranged": 125
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 900,
+        "run": 600,
+        "walk": 160
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 4
+    },
+    "asset": "Ronin",
+    "genus": "humanoid",
+    "rarity": 7,
+    "price": 4520,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/072-day.png",
+      "night": "/public/images/maps/072-night.png"
+    }
   },
   {
     "id": 73,
@@ -6572,7 +8327,32 @@
         "power": 150,
         "description": "천둥의 힘을 모아 적을 향해 강력한 전기 공격을 날린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": {
+        "melee": 100,
+        "ranged": 115
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 1200,
+        "run": 750,
+        "walk": 200
+      },
+      "stamina": 160,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "ThunderBird",
+    "genus": "bird",
+    "rarity": 6,
+    "price": 7490,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/073-day.png",
+      "night": "/public/images/maps/073-night.png"
+    }
   },
   {
     "id": 74,
@@ -6659,7 +8439,32 @@
         "power": 150,
         "description": "머리 위에 거대한 화염구를 소환해 적을 향해 날린다. 충돌 시 폭발하여 폭풍이 넓은 범위로 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 1300,
+        "run": 800,
+        "walk": 200
+      },
+      "stamina": 150,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "RedArmorBird",
+    "genus": "bird",
+    "rarity": 7,
+    "price": 6720,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/074-day.png",
+      "night": "/public/images/maps/074-night.png"
+    }
   },
   {
     "id": 75,
@@ -6752,7 +8557,31 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 620,
+        "run": 440,
+        "walk": 145
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "CatMage",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 4120,
+    "size": "m",
+    "maps": {
+      "night": "/public/images/maps/075-night.png"
+    }
   },
   {
     "id": 76,
@@ -6844,7 +8673,32 @@
         "power": 150,
         "description": "작은 운석을 잔뜩 불러내 적을 향해 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 50,
+        "ranged": 110
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 620,
+        "run": 440,
+        "walk": 145
+      },
+      "stamina": 100,
+      "support": 120,
+      "food": 5
+    },
+    "asset": "FoxMage",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 1540,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/076-day.png",
+      "night": "/public/images/maps/076-night.png"
+    }
   },
   {
     "id": 77,
@@ -6944,7 +8798,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 115
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 700,
+        "run": 500,
+        "walk": 195
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "GrassRabbitMan",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 2200,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/077-day.png",
+      "night": "/public/images/maps/077-night.png"
+    }
   },
   {
     "id": 78,
@@ -7044,7 +8923,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 100
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "VioletFairy",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 1960,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/078-day.png",
+      "night": "/public/images/maps/078-night.png"
+    }
   },
   {
     "id": 79,
@@ -7136,7 +9040,32 @@
         "power": 130,
         "description": "거대한 얼음 덩어리를 만들어 적을 향해 빠르게 발사한다. 적중하면 주위에도 충격이 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 90,
+        "ranged": 90
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 90,
+      "food": 5
+    },
+    "asset": "WhiteMoth",
+    "genus": "humanoid",
+    "rarity": 7,
+    "price": 5900,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/079-day.png",
+      "night": "/public/images/maps/079-night.png"
+    }
   },
   {
     "id": 80,
@@ -7219,7 +9148,32 @@
         "power": 150,
         "description": "작은 운석을 잔뜩 불러내 적을 향해 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 80,
+        "ranged": 80
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 800,
+        "run": 630,
+        "walk": 83
+      },
+      "stamina": 130,
+      "support": 100,
+      "food": 6
+    },
+    "asset": "FairyDragon",
+    "genus": "humanoid",
+    "rarity": 7,
+    "price": 5230,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/080-day.png",
+      "night": "/public/images/maps/080-night.png"
+    }
   },
   {
     "id": 81,
@@ -7303,7 +9257,32 @@
         "power": 150,
         "description": "굉장한 기세로 물을 뿜어 전방을 광범위하게 휩쓸며 넘어뜨린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 900,
+        "run": 700,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 1
+    },
+    "asset": "Kelpie",
+    "genus": "dragon",
+    "rarity": 1,
+    "price": 1260,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/081-day.png",
+      "night": "/public/images/maps/081-night.png"
+    }
   },
   {
     "id": 82,
@@ -7387,7 +9366,32 @@
         "power": 150,
         "description": "작은 운석을 잔뜩 불러내 적을 향해 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 70,
+        "ranged": 100
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 6
+    },
+    "asset": "BlueDragon",
+    "genus": "fish",
+    "rarity": 7,
+    "price": 5600,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/082-day.png",
+      "night": "/public/images/maps/082-night.png"
+    }
   },
   {
     "id": 83,
@@ -7478,7 +9482,32 @@
         "power": 130,
         "description": "거대한 얼음 덩어리를 만들어 적을 향해 빠르게 발사한다. 적중하면 주위에도 충격이 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 140,
+        "ranged": 100
+      },
+      "defense": 110,
+      "speed": {
+        "ride": 900,
+        "run": 720,
+        "walk": 280
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "WhiteTiger",
+    "genus": "humanoid",
+    "rarity": 7,
+    "price": 8440,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/083-day.png",
+      "night": "/public/images/maps/083-night.png"
+    }
   },
   {
     "id": 84,
@@ -7565,7 +9594,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": {
+        "melee": 100,
+        "ranged": 110
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 900,
+        "run": 750,
+        "walk": 180
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "Manticore",
+    "genus": "fourlegged",
+    "rarity": 7,
+    "price": 4040,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/084-day.png",
+      "night": "/public/images/maps/084-night.png"
+    }
   },
   {
     "id": 85,
@@ -7654,7 +9708,32 @@
         "power": 150,
         "description": "작은 운석을 잔뜩 불러내 적을 향해 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 110,
+        "ranged": 100
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 800,
+        "run": 650,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "LazyDragon",
+    "genus": "monster",
+    "rarity": 8,
+    "price": 10240,
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/085-day.png",
+      "night": "/public/images/maps/085-night.png"
+    }
   },
   {
     "id": 86,
@@ -7738,7 +9817,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 80,
+        "ranged": 90
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 500,
+        "run": 350,
+        "walk": 75
+      },
+      "stamina": 100,
+      "support": 120,
+      "food": 7
+    },
+    "asset": "SakuraSaurus",
+    "genus": "fourlegged",
+    "rarity": 7,
+    "price": 2920,
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/086-day.png",
+      "night": "/public/images/maps/086-night.png"
+    }
   },
   {
     "id": 87,
@@ -7837,7 +9941,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 95
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 700,
+        "run": 550,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "FlowerDoll",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 3590,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/087-day.png",
+      "night": "/public/images/maps/087-night.png"
+    }
   },
   {
     "id": 88,
@@ -7925,7 +10054,32 @@
         "power": 150,
         "description": "적의 발 밑에 날카로운 바위 창을 불러낸다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 550,
+        "run": 390,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "VolcanicMonster",
+    "genus": "fourlegged",
+    "rarity": 6,
+    "price": 6940,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/088-day.png",
+      "night": "/public/images/maps/088-night.png"
+    }
   },
   {
     "id": 89,
@@ -8008,7 +10162,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 100,
+        "ranged": 85
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 700,
+        "run": 500,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "KingAlpaca",
+    "genus": "fourlegged",
+    "rarity": 8,
+    "price": 5800,
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/089-day.png",
+      "night": "/public/images/maps/089-night.png"
+    }
   },
   {
     "id": 90,
@@ -8101,7 +10280,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 150,
+      "attack": {
+        "melee": 100,
+        "ranged": 85
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 600,
+        "run": 430,
+        "walk": 135
+      },
+      "stamina": 100,
+      "support": 30,
+      "food": 8
+    },
+    "asset": "GrassMammoth",
+    "genus": "fourlegged",
+    "rarity": 8,
+    "price": 9450,
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/090-day.png",
+      "night": "/public/images/maps/090-night.png"
+    }
   },
   {
     "id": 91,
@@ -8197,7 +10401,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 140,
+      "attack": {
+        "melee": 100,
+        "ranged": 80
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 550,
+        "run": 365,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 8
+    },
+    "asset": "Yeti",
+    "genus": "humanoid",
+    "rarity": 7,
+    "price": 5900,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/091-day.png",
+      "night": "/public/images/maps/091-night.png"
+    }
   },
   {
     "id": 92,
@@ -8293,7 +10522,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 100,
+        "ranged": 100
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 600,
+        "run": 500,
+        "walk": 110
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 6
+    },
+    "asset": "HerculesBeetle",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 6830,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/092-day.png",
+      "night": "/public/images/maps/092-night.png"
+    }
   },
   {
     "id": 93,
@@ -8377,7 +10631,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 110,
+        "ranged": 110
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 1050,
+        "run": 750,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 6
+    },
+    "asset": "FengyunDeeper",
+    "genus": "fourlegged",
+    "rarity": 3,
+    "price": 2250,
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/093-day.png",
+      "night": "/public/images/maps/093-night.png"
+    }
   },
   {
     "id": 94,
@@ -8461,7 +10740,29 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 110,
+      "speed": {
+        "ride": 700,
+        "run": 550,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 110,
+      "food": 5
+    },
+    "asset": "CatVampire",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 2100,
+    "size": "m",
+    "maps": {}
   },
   {
     "id": 95,
@@ -8556,7 +10857,32 @@
         "power": 150,
         "description": "작은 운석을 잔뜩 불러내 적을 향해 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": {
+        "melee": 100,
+        "ranged": 100
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 950,
+        "run": 800,
+        "walk": 240
+      },
+      "stamina": 220,
+      "support": 100,
+      "food": 4
+    },
+    "asset": "SkyDragon",
+    "genus": "dragon",
+    "rarity": 7,
+    "price": 6830,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/095-day.png",
+      "night": "/public/images/maps/095-night.png"
+    }
   },
   {
     "id": 96,
@@ -8644,7 +10970,32 @@
         "power": 150,
         "description": "적의 발 밑에 날카로운 바위 창을 불러낸다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 150,
+        "ranged": 125
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 900,
+        "run": 700,
+        "walk": 400
+      },
+      "stamina": 100,
+      "support": 50,
+      "food": 8
+    },
+    "asset": "KingBahamut",
+    "genus": "fourlegged",
+    "rarity": 9,
+    "price": 10520,
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/096-day.png",
+      "night": "/public/images/maps/096-night.png"
+    }
   },
   {
     "id": 97,
@@ -8728,7 +11079,31 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 125
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 1100,
+        "run": 700,
+        "walk": 100
+      },
+      "stamina": 170,
+      "support": 100,
+      "food": 8
+    },
+    "asset": "HadesBird",
+    "genus": "bird",
+    "rarity": 7,
+    "price": 7840,
+    "size": "l",
+    "maps": {
+      "night": "/public/images/maps/097-night.png"
+    }
   },
   {
     "id": 98,
@@ -8817,7 +11192,32 @@
         "power": 150,
         "description": "작은 운석을 잔뜩 불러내 적을 향해 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 125
+      },
+      "defense": 125,
+      "speed": {
+        "ride": 800,
+        "run": 600,
+        "walk": 150
+      },
+      "stamina": 300,
+      "support": 100,
+      "food": 9
+    },
+    "asset": "BlackMetalDragon",
+    "genus": "monster",
+    "rarity": 9,
+    "price": 8200,
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/098-day.png",
+      "night": "/public/images/maps/098-night.png"
+    }
   },
   {
     "id": 99,
@@ -8906,7 +11306,32 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 100
+      },
+      "defense": 130,
+      "speed": {
+        "ride": 1200,
+        "run": 1000,
+        "walk": 200
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "DarkScorpion",
+    "genus": "other",
+    "rarity": 9,
+    "price": 7050,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/099-day.png",
+      "night": "/public/images/maps/099-night.png"
+    }
   },
   {
     "id": 100,
@@ -8999,7 +11424,29 @@
         "power": 150,
         "description": "적의 발 밑에 날카로운 바위 창을 불러낸다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 130,
+        "ranged": 130
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 1000,
+        "run": 800,
+        "walk": 160
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 6
+    },
+    "asset": "Anubis",
+    "genus": "humanoid",
+    "rarity": 10,
+    "price": 4960,
+    "size": "m",
+    "maps": {}
   },
   {
     "id": 101,
@@ -9083,7 +11530,32 @@
         "power": 150,
         "description": "작은 운석을 잔뜩 불러내 적을 향해 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": {
+        "melee": 150,
+        "ranged": 120
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 700,
+        "run": 525,
+        "walk": 175
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "Umihebi",
+    "genus": "fish",
+    "rarity": 8,
+    "price": 9320,
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/101-day.png",
+      "night": "/public/images/maps/101-night.png"
+    }
   },
   {
     "id": 102,
@@ -9166,7 +11638,32 @@
         "power": 150,
         "description": "머리 위에 거대한 화염구를 소환해 적을 향해 날린다. 충돌 시 폭발하여 폭풍이 넓은 범위로 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 105,
+      "speed": {
+        "ride": 1100,
+        "run": 850,
+        "walk": 200
+      },
+      "stamina": 350,
+      "support": 100,
+      "food": 8
+    },
+    "asset": "Suzaku",
+    "genus": "bird",
+    "rarity": 8,
+    "price": 9840,
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/102-day.png",
+      "night": "/public/images/maps/102-night.png"
+    }
   },
   {
     "id": 103,
@@ -9262,7 +11759,32 @@
         "power": 150,
         "description": "천둥의 힘을 모아 적을 향해 강력한 전기 공격을 날린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": {
+        "melee": 120,
+        "ranged": 100
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 550,
+        "run": 470,
+        "walk": 140
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "ElecPanda",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 7720,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/103-day.png",
+      "night": "/public/images/maps/103-night.png"
+    }
   },
   {
     "id": 104,
@@ -9359,7 +11881,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 100,
+        "ranged": 110
+      },
+      "defense": 105,
+      "speed": {
+        "ride": 550,
+        "run": 450,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 6
+    },
+    "asset": "LilyQueen",
+    "genus": "humanoid",
+    "rarity": 9,
+    "price": 7160,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/104-day.png",
+      "night": "/public/images/maps/104-night.png"
+    }
   },
   {
     "id": 105,
@@ -9446,12 +11993,37 @@
         "power": 150,
         "description": "머리 위에 거대한 화염구를 소환해 적을 향해 날린다. 충돌 시 폭발하여 폭풍이 넓은 범위로 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 110,
+      "speed": {
+        "ride": 1400,
+        "run": 1000,
+        "walk": 200
+      },
+      "stamina": 230,
+      "support": 90,
+      "food": 8
+    },
+    "asset": "Horus",
+    "genus": "bird",
+    "rarity": 9,
+    "price": 6720,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/105-day.png",
+      "night": "/public/images/maps/105-night.png"
+    }
   },
   {
     "id": 106,
     "key": "106",
-    "image": "/public/images/106.png",
+    "image": "/public/images/paldeck/106.png",
     "name": "전룡맨",
     "wiki": "https://palworld.fandom.com/wiki/Orserk",
     "types": [
@@ -9479,66 +12051,92 @@
     "aura": {
       "name": "사나운 번개용",
       "description": "함께 싸우는 동안 물 속성 팰을 쓰러뜨렸을 때 드롭 아이템 획득량이 증가한다.",
-      "skills": [
-        {
-          "level": 1,
-          "name": "케라노우스",
-          "type": "번개속성",
-          "cooldown": 30,
-          "power": 100,
-          "description": "전룡맨 전용 스킬. 뛰어오르며 번개 검을 소환해 적을 향해 내던진다."
-        },
-        {
-          "level": 7,
-          "name": "번개 일격",
-          "type": "번개속성",
-          "cooldown": 40,
-          "power": 120,
-          "description": "자신의 몸을 피뢰침 삼아 번개를 떨어뜨리고 그 자리에 방전 폭발을 일으킨다."
-        },
-        {
-          "level": 15,
-          "name": "스파크 샷",
-          "type": "번개속성",
-          "cooldown": 2,
-          "power": 30,
-          "description": "전방을 향해 방사상으로 퍼지는 천둥 구체를 발사한다."
-        },
-        {
-          "level": 22,
-          "name": "용의 숨결",
-          "type": "용속성",
-          "cooldown": 15,
-          "power": 70,
-          "description": "용의 힘이 깃든 숨결을 전방에 내뿜어 지속적인 피해를 준다."
-        },
-        {
-          "level": 30,
-          "name": "라인 썬더",
-          "type": "번개속성",
-          "cooldown": 16,
-          "power": 75,
-          "description": "일직선으로 날아가는 천둥 공격을 일으킨다."
-        },
-        {
-          "level": 40,
-          "name": "트라이 썬더",
-          "type": "번개속성",
-          "cooldown": 22,
-          "power": 90,
-          "description": "적의 머리 위에 낙뢰를 3번 일으킨다."
-        },
-        {
-          "level": 50,
-          "name": "전기 볼트",
-          "type": "번개속성",
-          "cooldown": 55,
-          "power": 150,
-          "description": "천둥의 힘을 모아 적을 향해 강력한 전기 공격을 날린다."
-        }
-      ]
+      "tech": null
     },
-    "description": "This Pal is under investigation."
+    "description": "It sends electricity into its foes' wounds, roasting them from the inside out. Fights between Orserk end in the blink of an eye.",
+    "skills": [
+      {
+        "level": 1,
+        "name": "케라노우스",
+        "type": "번개속성",
+        "cooldown": 30,
+        "power": 100,
+        "description": "전룡맨 전용 스킬. 뛰어오르며 번개 검을 소환해 적을 향해 내던진다."
+      },
+      {
+        "level": 7,
+        "name": "번개 일격",
+        "type": "번개속성",
+        "cooldown": 40,
+        "power": 120,
+        "description": "자신의 몸을 피뢰침 삼아 번개를 떨어뜨리고 그 자리에 방전 폭발을 일으킨다."
+      },
+      {
+        "level": 15,
+        "name": "스파크 샷",
+        "type": "번개속성",
+        "cooldown": 2,
+        "power": 30,
+        "description": "전방을 향해 방사상으로 퍼지는 천둥 구체를 발사한다."
+      },
+      {
+        "level": 22,
+        "name": "용의 숨결",
+        "type": "용속성",
+        "cooldown": 15,
+        "power": 70,
+        "description": "용의 힘이 깃든 숨결을 전방에 내뿜어 지속적인 피해를 준다."
+      },
+      {
+        "level": 30,
+        "name": "라인 썬더",
+        "type": "번개속성",
+        "cooldown": 16,
+        "power": 75,
+        "description": "일직선으로 날아가는 천둥 공격을 일으킨다."
+      },
+      {
+        "level": 40,
+        "name": "트라이 썬더",
+        "type": "번개속성",
+        "cooldown": 22,
+        "power": 90,
+        "description": "적의 머리 위에 낙뢰를 3번 일으킨다."
+      },
+      {
+        "level": 50,
+        "name": "전기 볼트",
+        "type": "번개속성",
+        "cooldown": 55,
+        "power": 150,
+        "description": "천둥의 힘을 모아 적을 향해 강력한 전기 공격을 날린다."
+      }
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 130
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 1200,
+        "run": 900,
+        "walk": 185
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "ThunderDragonMan",
+    "genus": "humanoid",
+    "rarity": 9,
+    "price": 8320,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/106-day.png",
+      "night": "/public/images/maps/106-night.png"
+    }
   },
   {
     "id": 107,
@@ -9623,7 +12221,32 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 130,
+        "ranged": 120
+      },
+      "defense": 140,
+      "speed": {
+        "ride": 1200,
+        "run": 850,
+        "walk": 80
+      },
+      "stamina": 250,
+      "support": 90,
+      "food": 8
+    },
+    "asset": "BlackGriffon",
+    "genus": "fourlegged",
+    "rarity": 10,
+    "price": 9060,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/107-day.png",
+      "night": "/public/images/maps/107-night.png"
+    }
   },
   {
     "id": 108,
@@ -9711,7 +12334,32 @@
         "power": 150,
         "description": "파괴 에너지를 모아 전방에 광범위하게 초강력 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": {
+        "melee": 110,
+        "ranged": 120
+      },
+      "defense": 145,
+      "speed": {
+        "ride": 1400,
+        "run": 800,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 9
+    },
+    "asset": "SaintCentaur",
+    "genus": "fourlegged",
+    "rarity": 20,
+    "price": 8810,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/108-day.png",
+      "night": "/public/images/maps/108-night.png"
+    }
   },
   {
     "id": 109,
@@ -9799,7 +12447,32 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": {
+        "melee": 100,
+        "ranged": 145
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 1600,
+        "run": 900,
+        "walk": 350
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 9
+    },
+    "asset": "BlackCentaur",
+    "genus": "fourlegged",
+    "rarity": 20,
+    "price": 8930,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/109-day.png",
+      "night": "/public/images/maps/109-night.png"
+    }
   },
   {
     "id": 110,
@@ -9883,7 +12556,32 @@
         "power": 130,
         "description": "거대한 얼음 덩어리를 만들어 적을 향해 빠르게 발사한다. 적중하면 주위에도 충격이 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 140,
+      "attack": {
+        "melee": 100,
+        "ranged": 140
+      },
+      "defense": 120,
+      "speed": {
+        "ride": 1500,
+        "run": 1000,
+        "walk": 120
+      },
+      "stamina": 300,
+      "support": 70,
+      "food": 7
+    },
+    "asset": "IceHorse",
+    "genus": "fourlegged",
+    "rarity": 20,
+    "price": 8440,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/110-day.png",
+      "night": "/public/images/maps/110-night.png"
+    }
   },
   {
     "id": 111,
@@ -9969,7 +12667,32 @@
         "power": 150,
         "description": "작은 운석을 잔뜩 불러내 적을 향해 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 100,
+        "ranged": 140
+      },
+      "defense": 110,
+      "speed": {
+        "ride": 3300,
+        "run": 1700,
+        "walk": 800
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 9
+    },
+    "asset": "JetDragon",
+    "genus": "dragon",
+    "rarity": 20,
+    "price": 8680,
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/111-day.png",
+      "night": "/public/images/maps/111-night.png"
+    }
   },
   {
     "id": 112,
@@ -10052,7 +12775,29 @@
         "power": 130,
         "description": "거대한 얼음 덩어리를 만들어 적을 향해 빠르게 발사한다. 적중하면 주위에도 충격이 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 75
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "Hedgehog_Ice",
+    "genus": "fourlegged",
+    "rarity": 2,
+    "price": 1070,
+    "size": "xs",
+    "maps": {}
   },
   {
     "id": 113,
@@ -10140,7 +12885,32 @@
         "power": 130,
         "description": "거대한 얼음 덩어리를 만들어 적을 향해 빠르게 발사한다. 적중하면 주위에도 충격이 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 70,
+        "ranged": 65
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 475,
+        "walk": 105
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 1
+    },
+    "asset": "Bastet_Ice",
+    "genus": "fourlegged",
+    "rarity": 2,
+    "price": 1010,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/024B-day.png",
+      "night": "/public/images/maps/024B-night.png"
+    }
   },
   {
     "id": 114,
@@ -10231,7 +13001,31 @@
         "power": 120,
         "description": "주위 지면을 활성화해 일정 시간이 지나면 터뜨린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 90,
+        "ranged": 90
+      },
+      "defense": 75,
+      "speed": {
+        "ride": 500,
+        "run": 400,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "SharkKid_Fire",
+    "genus": "humanoid",
+    "rarity": 3,
+    "price": 1800,
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/031B-day.png"
+    }
   },
   {
     "id": 115,
@@ -10327,7 +13121,31 @@
         "power": 130,
         "description": "거대한 얼음 덩어리를 만들어 적을 향해 빠르게 발사한다. 적중하면 주위에도 충격이 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 70,
+        "ranged": 80
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 2
+    },
+    "asset": "WindChimes_Ice",
+    "genus": "other",
+    "rarity": 2,
+    "price": 1020,
+    "size": "xs",
+    "maps": {
+      "night": "/public/images/maps/032B-night.png"
+    }
   },
   {
     "id": 116,
@@ -10424,7 +13242,32 @@
         "power": 150,
         "description": "천둥의 힘을 모아 적을 향해 강력한 전기 공격을 날린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 100,
+        "ranged": 100
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 700,
+        "run": 500,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "GrassPanda_Electric",
+    "genus": "humanoid",
+    "rarity": 7,
+    "price": 6610,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/033B-day.png",
+      "night": "/public/images/maps/033B-night.png"
+    }
   },
   {
     "id": 117,
@@ -10509,7 +13352,32 @@
         "power": 150,
         "description": "적의 발 밑에 날카로운 바위 창을 불러낸다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": {
+        "melee": 70,
+        "ranged": 80
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 900,
+        "run": 700,
+        "walk": 120
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "Deer_Ground",
+    "genus": "fourlegged",
+    "rarity": 6,
+    "price": 2680,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/037B-day.png",
+      "night": "/public/images/maps/037B-night.png"
+    }
   },
   {
     "id": 118,
@@ -10601,7 +13469,32 @@
         "power": 120,
         "description": "주위 지면을 활성화해 일정 시간이 지나면 터뜨린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": {
+        "melee": 150,
+        "ranged": 105
+      },
+      "defense": 85,
+      "speed": {
+        "ride": 960,
+        "run": 700,
+        "walk": 160
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 4
+    },
+    "asset": "Baphomet_Dark",
+    "genus": "humanoid",
+    "rarity": 5,
+    "price": 4870,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/040B-day.png",
+      "night": "/public/images/maps/040B-night.png"
+    }
   },
   {
     "id": 119,
@@ -10697,7 +13590,32 @@
         "power": 150,
         "description": "머리 위에 거대한 화염구를 소환해 적을 향해 날린다. 충돌 시 폭발하여 폭풍이 넓은 범위로 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": {
+        "melee": 90,
+        "ranged": 80
+      },
+      "defense": 50,
+      "speed": {
+        "ride": 550,
+        "run": 400,
+        "walk": 140
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "LizardMan_Fire",
+    "genus": "humanoid",
+    "rarity": 3,
+    "price": 1640,
+    "size": "s",
+    "maps": {
+      "day": "/public/images/maps/045B-day.png",
+      "night": "/public/images/maps/045B-night.png"
+    }
   },
   {
     "id": 120,
@@ -10798,7 +13716,32 @@
         "power": 150,
         "description": "적의 발 밑에 날카로운 바위 창을 불러낸다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 750,
+        "run": 600,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 3
+    },
+    "asset": "RobinHood_Ground",
+    "genus": "humanoid",
+    "rarity": 6,
+    "price": 2150,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/048B-day.png",
+      "night": "/public/images/maps/048B-night.png"
+    }
   },
   {
     "id": 121,
@@ -10887,7 +13830,31 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": {
+        "melee": 110,
+        "ranged": 95
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 1300,
+        "run": 850,
+        "walk": 150
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "FireKirin_Dark",
+    "genus": "fourlegged",
+    "rarity": 7,
+    "price": 7270,
+    "size": "l",
+    "maps": {
+      "night": "/public/images/maps/058B-night.png"
+    }
   },
   {
     "id": 122,
@@ -10975,7 +13942,32 @@
         "power": 150,
         "description": "천둥의 힘을 모아 적을 향해 강력한 전기 공격을 날린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 90,
+        "ranged": 90
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 700,
+        "run": 550,
+        "walk": 120
+      },
+      "stamina": 100,
+      "support": 150,
+      "food": 6
+    },
+    "asset": "FlowerDinosaur_Electric",
+    "genus": "humanoid",
+    "rarity": 7,
+    "price": 3380,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/064B-day.png",
+      "night": "/public/images/maps/064B-night.png"
+    }
   },
   {
     "id": 123,
@@ -11058,7 +14050,32 @@
         "power": 150,
         "description": "적의 발 밑에 날카로운 바위 창을 불러낸다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 70,
+        "ranged": 90
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 650,
+        "run": 500,
+        "walk": 200
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "Serpent_Ground",
+    "genus": "fish",
+    "rarity": 5,
+    "price": 5140,
+    "size": "m",
+    "maps": {
+      "day": "/public/images/maps/065B-day.png",
+      "night": "/public/images/maps/065B-night.png"
+    }
   },
   {
     "id": 124,
@@ -11148,7 +14165,31 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": {
+        "melee": 100,
+        "ranged": 120
+      },
+      "defense": 95,
+      "speed": {
+        "ride": 850,
+        "run": 700,
+        "walk": 350
+      },
+      "stamina": 150,
+      "support": 100,
+      "food": 6
+    },
+    "asset": "BirdDragon_Ice",
+    "genus": "bird",
+    "rarity": 5,
+    "price": 4610,
+    "size": "l",
+    "maps": {
+      "night": "/public/images/maps/071B-night.png"
+    }
   },
   {
     "id": 125,
@@ -11236,7 +14277,29 @@
         "power": 150,
         "description": "작은 운석을 잔뜩 불러내 적을 향해 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 115,
+      "attack": {
+        "melee": 80,
+        "ranged": 80
+      },
+      "defense": 95,
+      "speed": {
+        "ride": 800,
+        "run": 630,
+        "walk": 83
+      },
+      "stamina": 130,
+      "support": 100,
+      "food": 6
+    },
+    "asset": "FairyDragon_Water",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 5320,
+    "size": "l",
+    "maps": {}
   },
   {
     "id": 126,
@@ -11320,7 +14383,32 @@
         "power": 150,
         "description": "머리 위에 거대한 화염구를 소환해 적을 향해 날린다. 충돌 시 폭발하여 폭풍이 넓은 범위로 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": {
+        "melee": 100,
+        "ranged": 70
+      },
+      "defense": 70,
+      "speed": {
+        "ride": 900,
+        "run": 700,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 1
+    },
+    "asset": "Kelpie_Fire",
+    "genus": "dragon",
+    "rarity": 2,
+    "price": 1240,
+    "size": "xs",
+    "maps": {
+      "day": "/public/images/maps/081B-day.png",
+      "night": "/public/images/maps/081B-night.png"
+    }
   },
   {
     "id": 127,
@@ -11408,7 +14496,31 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": {
+        "melee": 100,
+        "ranged": 115
+      },
+      "defense": 80,
+      "speed": {
+        "ride": 900,
+        "run": 750,
+        "walk": 90
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "Manticore_Dark",
+    "genus": "fourlegged",
+    "rarity": 8,
+    "price": 4360,
+    "size": "l",
+    "maps": {
+      "night": "/public/images/maps/084B-night.png"
+    }
   },
   {
     "id": 128,
@@ -11498,7 +14610,29 @@
         "power": 150,
         "description": "천둥의 힘을 모아 적을 향해 강력한 전기 공격을 날린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 110,
+        "ranged": 110
+      },
+      "defense": 75,
+      "speed": {
+        "ride": 800,
+        "run": 650,
+        "walk": 60
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "LazyDragon_Electric",
+    "genus": "monster",
+    "rarity": 9,
+    "price": 10380,
+    "size": "xl",
+    "maps": {}
   },
   {
     "id": 129,
@@ -11583,7 +14717,32 @@
         "power": 150,
         "description": "굉장한 기세로 물을 뿜어 전방을 광범위하게 휩쓸며 넘어뜨린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 80,
+        "ranged": 95
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 500,
+        "run": 350,
+        "walk": 75
+      },
+      "stamina": 100,
+      "support": 120,
+      "food": 7
+    },
+    "asset": "SakuraSaurus_Water",
+    "genus": "fourlegged",
+    "rarity": 8,
+    "price": 3110,
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/086B-day.png",
+      "night": "/public/images/maps/086B-night.png"
+    }
   },
   {
     "id": 130,
@@ -11671,7 +14830,29 @@
         "power": 150,
         "description": "적의 발 밑에 날카로운 바위 창을 불러낸다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 130,
+      "speed": {
+        "ride": 550,
+        "run": 390,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 5
+    },
+    "asset": "VolcanicMonster_Ice",
+    "genus": "fourlegged",
+    "rarity": 7,
+    "price": 7380,
+    "size": "l",
+    "maps": {}
   },
   {
     "id": 131,
@@ -11759,7 +14940,32 @@
         "power": 130,
         "description": "거대한 얼음 덩어리를 만들어 적을 향해 빠르게 발사한다. 적중하면 주위에도 충격이 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": {
+        "melee": 100,
+        "ranged": 85
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 700,
+        "run": 500,
+        "walk": 80
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "KingAlpaca_Ice",
+    "genus": "fourlegged",
+    "rarity": 9,
+    "price": 6100,
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/089B-day.png",
+      "night": "/public/images/maps/089B-night.png"
+    }
   },
   {
     "id": 132,
@@ -11852,7 +15058,32 @@
         "power": 130,
         "description": "거대한 얼음 덩어리를 만들어 적을 향해 빠르게 발사한다. 적중하면 주위에도 충격이 퍼진다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 150,
+      "attack": {
+        "melee": 100,
+        "ranged": 85
+      },
+      "defense": 90,
+      "speed": {
+        "ride": 600,
+        "run": 430,
+        "walk": 135
+      },
+      "stamina": 100,
+      "support": 30,
+      "food": 8
+    },
+    "asset": "GrassMammoth_Ice",
+    "genus": "fourlegged",
+    "rarity": 9,
+    "price": 9580,
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/090B-day.png",
+      "night": "/public/images/maps/090B-night.png"
+    }
   },
   {
     "id": 133,
@@ -11949,7 +15180,32 @@
         "power": 150,
         "description": "태양의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 140,
+      "attack": {
+        "melee": 100,
+        "ranged": 80
+      },
+      "defense": 110,
+      "speed": {
+        "ride": 550,
+        "run": 365,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 8
+    },
+    "asset": "Yeti_Grass",
+    "genus": "humanoid",
+    "rarity": 8,
+    "price": 5700,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/091B-day.png",
+      "night": "/public/images/maps/091B-night.png"
+    }
   },
   {
     "id": 134,
@@ -12034,7 +15290,32 @@
         "power": 150,
         "description": "작은 운석을 잔뜩 불러내 적을 향해 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": {
+        "melee": 150,
+        "ranged": 130
+      },
+      "defense": 100,
+      "speed": {
+        "ride": 700,
+        "run": 525,
+        "walk": 175
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 7
+    },
+    "asset": "Umihebi_Fire",
+    "genus": "fish",
+    "rarity": 9,
+    "price": 9500,
+    "size": "xl",
+    "maps": {
+      "day": "/public/images/maps/101B-day.png",
+      "night": "/public/images/maps/101B-night.png"
+    }
   },
   {
     "id": 135,
@@ -12117,7 +15398,29 @@
         "power": 150,
         "description": "굉장한 기세로 물을 뿜어 전방을 광범위하게 휩쓸며 넘어뜨린다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 125,
+      "attack": {
+        "melee": 100,
+        "ranged": 105
+      },
+      "defense": 105,
+      "speed": {
+        "ride": 1100,
+        "run": 850,
+        "walk": 200
+      },
+      "stamina": 350,
+      "support": 100,
+      "food": 8
+    },
+    "asset": "Suzaku_Water",
+    "genus": "bird",
+    "rarity": 9,
+    "price": 10110,
+    "size": "xl",
+    "maps": {}
   },
   {
     "id": 136,
@@ -12210,7 +15513,32 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": {
+        "melee": 100,
+        "ranged": 110
+      },
+      "defense": 115,
+      "speed": {
+        "ride": 550,
+        "run": 450,
+        "walk": 100
+      },
+      "stamina": 100,
+      "support": 100,
+      "food": 6
+    },
+    "asset": "LilyQueen_Dark",
+    "genus": "humanoid",
+    "rarity": 10,
+    "price": 7610,
+    "size": "l",
+    "maps": {
+      "day": "/public/images/maps/104B-day.png",
+      "night": "/public/images/maps/104B-night.png"
+    }
   },
   {
     "id": 137,
@@ -12294,6 +15622,28 @@
         "power": 150,
         "description": "어둠의 힘을 모아 적을 향해 강력한 광선을 발사한다."
       }
-    ]
+    ],
+    "stats": {
+      "hp": 140,
+      "attack": {
+        "melee": 100,
+        "ranged": 140
+      },
+      "defense": 135,
+      "speed": {
+        "ride": 1500,
+        "run": 1000,
+        "walk": 120
+      },
+      "stamina": 300,
+      "support": 70,
+      "food": 7
+    },
+    "asset": "IceHorse_Dark",
+    "genus": "fourlegged",
+    "rarity": 20,
+    "price": 8560,
+    "size": "l",
+    "maps": {}
   }
 ]

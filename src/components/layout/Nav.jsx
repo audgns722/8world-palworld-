@@ -26,7 +26,7 @@ export default function Nav() {
             <Link href='/items'>아이템(제작중)</Link>
           </li>
           <li>
-            <Link href='/maps'>맵(제작중)</Link>
+            <Link href='/maps'>맵</Link>
           </li>
           <li>
             <Link href='mailto:pal_world@outlook.kr'>건의하기</Link>
