@@ -1,0 +1,5738 @@
+[
+    {
+        "korname": "금화",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/gold-coin.png",
+        "금": "1",
+        "무게": "0"
+    },
+    {
+        "korname": "팔 스피어",
+        "코나메": "",
+        "유형": "특수무기",
+        "영상": "/public/image/items/pal-sphere.png",
+        "금": "120",
+        "무게": "0"
+    },
+    {
+        "korname": "메가 스피어",
+        "코나메": "",
+        "유형": "특수무기",
+        "영상": "/public/image/items/mega-sphere.png",
+        "금": "920",
+        "무게": "0"
+    },
+    {
+        "korname": "기가 스피어",
+        "코나메": "",
+        "유형": "특수무기",
+        "영상": "/public/image/items/giga-sphere.png",
+        "금": "1520",
+        "무게": "0"
+    },
+    {
+        "korname": "하이퍼 스피어",
+        "코나메": "",
+        "유형": "특수무기",
+        "영상": "/public/image/items/hyper-sphere.png",
+        "금": "4240",
+        "무게": "0"
+    },
+    {
+        "korname": "울트라 스피어",
+        "코나메": "",
+        "유형": "특수무기",
+        "영상": "/public/image/items/ultra-sphere.png",
+        "금": "9880",
+        "무게": "0"
+    },
+    {
+        "korname": "전설적인 구체",
+        "코나메": "",
+        "유형": "특수무기",
+        "영상": "/public/image/items/legendary-sphere.png",
+        "금": "45200",
+        "무게": "0"
+    },
+    {
+        "korname": "레이더 구",
+        "코나메": "",
+        "유형": "특수무기",
+        "영상": "/public/image/items/radar-sphere.png",
+        "금": "5500",
+        "무게": "1"
+    },
+    {
+        "korname": "화살",
+        "코나메": "",
+        "유형": "탄약",
+        "영상": "/public/image/items/arrow.png",
+        "금": "5",
+        "무게": "0"
+    },
+    {
+        "korname": "독화살",
+        "코나메": "",
+        "유형": "탄약",
+        "영상": "/public/image/items/poison-arrow.png",
+        "금": "15",
+        "무게": "0"
+    },
+    {
+        "korname": "불화살",
+        "코나메": "",
+        "유형": "탄약",
+        "영상": "/public/image/items/fire-arrow.png",
+        "금": "15",
+        "무게": "0"
+    },
+    {
+        "korname": "일반 탄약",
+        "코나메": "",
+        "유형": "탄약",
+        "영상": "/public/image/items/coarse-ammo.png",
+        "금": "120",
+        "무게": "0"
+    },
+    {
+        "korname": "권총 탄약",
+        "코나메": "",
+        "유형": "탄약",
+        "영상": "/public/image/items/handgun-ammo.png",
+        "금": "120",
+        "무게": "0"
+    },
+    {
+        "korname": "매그넘 탄약",
+        "코나메": "",
+        "유형": "탄약",
+        "영상": "/public/image/items/magnum-ammo.png",
+        "금": "150",
+        "무게": "0"
+    },
+    {
+        "korname": "소총 탄약",
+        "코나메": "",
+        "유형": "탄약",
+        "영상": "/public/image/items/rifle-ammo.png",
+        "금": "220",
+        "무게": "0"
+    },
+    {
+        "korname": "산탄총 포탄",
+        "코나메": "",
+        "유형": "탄약",
+        "영상": "/public/image/items/shotgun-shells.png",
+        "금": "220",
+        "무게": "0"
+    },
+    {
+        "korname": "기관총 탄약",
+        "코나메": "",
+        "유형": "탄약",
+        "영상": "/public/image/items/machine-gun-ammo.png",
+        "금": "150",
+        "무게": "0"
+    },
+    {
+        "korname": "돌격소총 탄약",
+        "코나메": "",
+        "유형": "탄약",
+        "영상": "/public/image/items/assault-rifle-ammo.png",
+        "금": "150",
+        "무게": "0"
+    },
+    {
+        "korname": "로켓 탄약",
+        "코나메": "",
+        "유형": "탄약",
+        "영상": "/public/image/items/rocket-ammo.png",
+        "금": "400",
+        "무게": "1"
+    },
+    {
+        "korname": "데칼 잉크",
+        "코나메": "",
+        "유형": "탄약",
+        "영상": "/public/image/items/decal-ink.png",
+        "금": "10",
+        "무게": "0"
+    },
+    {
+        "korname": "박쥐",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/bat.png",
+        "금": "80",
+        "무게": "삼"
+    },
+    {
+        "korname": "나무 클럽",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/wooden-club.png",
+        "금": "80",
+        "무게": "5"
+    },
+    {
+        "korname": "휴대용 토치",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/hand-held-torch.png",
+        "금": "80",
+        "무게": "5"
+    },
+    {
+        "korname": "돌도끼",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/stone-axe.png",
+        "금": "200",
+        "무게": "10"
+    },
+    {
+        "korname": "금속 도끼",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/metal-axe.png",
+        "금": "2800",
+        "무게": "15"
+    },
+    {
+        "korname": "세련된 금속 도끼",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/refined-metal-axe.png",
+        "금": "7000",
+        "무게": "20"
+    },
+    {
+        "korname": "Axe4",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/공개/이미지/items/axe4.png",
+        "금": "33000",
+        "무게": "25"
+    },
+    {
+        "korname": "돌 곡괭이",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/stone-pickaxe.png",
+        "금": "200",
+        "무게": "10"
+    },
+    {
+        "korname": "금속 곡괭이",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/metal-pickaxe.png",
+        "금": "2800",
+        "무게": "15"
+    },
+    {
+        "korname": "정제된 금속 곡괭이",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/세련된-금속-곡괭이.png",
+        "금": "7000",
+        "무게": "20"
+    },
+    {
+        "korname": "스톤 스피어",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/stone-spear.png",
+        "금": "480",
+        "무게": "10"
+    },
+    {
+        "korname": "금속창",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/metal-spear.png",
+        "금": "8780",
+        "무게": "15"
+    },
+    {
+        "korname": "세련된 금속 창",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/refined-metal-spear.png",
+        "금": "13880",
+        "무게": "20"
+    },
+    {
+        "korname": "엘리자비의 지팡이",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/elizabee-s-staff.png",
+        "금": "20000",
+        "무게": "20"
+    },
+    {
+        "korname": "베가르드의 창",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/beegarde-s-spear.png",
+        "금": "20000",
+        "무게": "15"
+    },
+    {
+        "korname": "릴리의 창",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/lily-s-spear.png",
+        "금": "20000",
+        "무게": "10"
+    },
+    {
+        "korname": "검",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/sword.png",
+        "금": "10440",
+        "무게": "10"
+    },
+    {
+        "korname": "고기칼",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/meat-cleaver.png",
+        "금": "100",
+        "무게": "10"
+    },
+    {
+        "korname": "전기 충격봉",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/stun-baton.png",
+        "금": "19000",
+        "무게": "10"
+    },
+    {
+        "korname": "낡은 활",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/old-bow.png",
+        "금": "360",
+        "무게": "6"
+    },
+    {
+        "korname": "독활",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/poison-bow.png",
+        "금": "480",
+        "무게": "6"
+    },
+    {
+        "korname": "불 활",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/fire-bow.png",
+        "금": "480",
+        "무게": "6"
+    },
+    {
+        "korname": "쓰리샷보우",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/3-shot-bow.png",
+        "금": "1000",
+        "무게": "8"
+    },
+    {
+        "korname": "다섯 발의 활",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/five-shot-bow.png",
+        "금": "10",
+        "무게": "8"
+    },
+    {
+        "korname": "석궁",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/crossbow.png",
+        "금": "25200",
+        "무게": "13"
+    },
+    {
+        "korname": "독화살 석궁",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/poison-arrow-crossbow.png",
+        "금": "25200",
+        "무게": "13"
+    },
+    {
+        "korname": "불화살 석궁",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/fire-arrow-crossbow.png",
+        "금": "25200",
+        "무게": "13"
+    },
+    {
+        "korname": "임시 권총",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/makeshift-handgun.png",
+        "금": "16600",
+        "무게": "10"
+    },
+    {
+        "korname": "권총",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/handgun.png",
+        "금": "33000",
+        "무게": "8"
+    },
+    {
+        "korname": "데칼건 1",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/decal-gun-1.png",
+        "금": "33000",
+        "무게": "8"
+    },
+    {
+        "korname": "데칼건 2",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/decal-gun-2.png",
+        "금": "33000",
+        "무게": "8"
+    },
+    {
+        "korname": "데칼건 3",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/decal-gun-3.png",
+        "금": "33000",
+        "무게": "8"
+    },
+    {
+        "korname": "데칼건 4",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/decal-gun-4.png",
+        "금": "33000",
+        "무게": "8"
+    },
+    {
+        "korname": "데칼건 5",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/decal-gun-5.png",
+        "금": "33000",
+        "무게": "8"
+    },
+    {
+        "korname": "ITEM_NAME_GrapplingGun_1",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/item-name-grapplinggun-1.png",
+        "금": "10",
+        "무게": "1"
+    },
+    {
+        "korname": "ITEM_NAME_GrapplingGun_2",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/item-name-grapplinggun-2.png",
+        "금": "10",
+        "무게": "1"
+    },
+    {
+        "korname": "ITEM_NAME_GrapplingGun_3",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/item-name-grapplinggun-3.png",
+        "금": "10",
+        "무게": "1"
+    },
+    {
+        "korname": "ITEM_NAME_GrapplingGun_4",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/item-name-grapplinggun-4.png",
+        "금": "10",
+        "무게": "1"
+    },
+    {
+        "korname": "이중 총열 산탄총",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/double-barreled-shotgun.png",
+        "금": "55200",
+        "무게": "24"
+    },
+    {
+        "korname": "펌프액션 산탄총",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/pump-action-shotgun.png",
+        "금": "153600",
+        "무게": "20"
+    },
+    {
+        "korname": "머스킷",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/musket.png",
+        "금": "37600",
+        "무게": "20"
+    },
+    {
+        "korname": "단발 소총",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/single-shot-rifle.png",
+        "금": "37600",
+        "무게": "20"
+    },
+    {
+        "korname": "돌격 소총",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/assault-rifle.png",
+        "금": "82400",
+        "무게": "15"
+    },
+    {
+        "korname": "로켓 발사기",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/rocket-launcher.png",
+        "금": "324000",
+        "무게": "30"
+    },
+    {
+        "korname": "단발 구체 발사기",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/single-shot-sphere-launcher.png",
+        "금": "109200",
+        "무게": "30"
+    },
+    {
+        "korname": "분산구 발사기",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/scatter-sphere-launcher.png",
+        "금": "44000",
+        "무게": "30"
+    },
+    {
+        "korname": "호밍 스피어 런처",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/homing-sphere-launcher.png",
+        "금": "460000",
+        "무게": "30"
+    },
+    {
+        "korname": "세열 수류탄",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/frag-grenade.png",
+        "금": "10",
+        "무게": "0"
+    },
+    {
+        "korname": "소이 수류탄",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/incendiary-grenade.png",
+        "금": "10",
+        "무게": "0"
+    },
+    {
+        "korname": "충격 수류탄",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/shock-grenade.png",
+        "금": "10",
+        "무게": "0"
+    },
+    {
+        "korname": "얼음 수류탄",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/ice-grenade.png",
+        "금": "10",
+        "무게": "0"
+    },
+    {
+        "korname": "일반 방패",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/common-shield.png",
+        "금": "800",
+        "무게": "5"
+    },
+    {
+        "korname": "메가 쉴드",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/mega-shield.png",
+        "금": "31200",
+        "무게": "5"
+    },
+    {
+        "korname": "기가쉴드",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/giga-shield.png",
+        "금": "62000",
+        "무게": "5"
+    },
+    {
+        "korname": "하이퍼쉴드",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/hyper-shield.png",
+        "금": "104000",
+        "무게": "5"
+    },
+    {
+        "korname": "천 의상",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/cloth-outfit.png",
+        "금": "320",
+        "무게": "4"
+    },
+    {
+        "korname": "ITEM_NAME_ClothArmorHeat",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-clotharmorheat.png",
+        "금": "384",
+        "무게": "4"
+    },
+    {
+        "korname": "트로피컬 의상",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/tropical-outfit.png",
+        "금": "320",
+        "무게": "4"
+    },
+    {
+        "korname": "ITEM_NAME_ClothArmorCold",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-clotharmorcold.png",
+        "금": "384",
+        "무게": "4"
+    },
+    {
+        "korname": "툰드라 의상",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/tundra-outfit.png",
+        "금": "320",
+        "무게": "4"
+    },
+    {
+        "korname": "펠트 갑옷",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/pelt-armor.png",
+        "금": "360",
+        "무게": "10"
+    },
+    {
+        "korname": "내열성 펠트 갑옷",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/heat-proof-pelt-armor.png",
+        "금": "3000",
+        "무게": "10"
+    },
+    {
+        "korname": "ITEM_NAME_FurArmorHeat",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-furarmorheat.png",
+        "금": "3600",
+        "무게": "10"
+    },
+    {
+        "korname": "내한성 펠트 갑옷",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/cold-proof-pelt-armor.png",
+        "금": "3000",
+        "무게": "10"
+    },
+    {
+        "korname": "ITEM_NAME_FurArmorCold",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-furarmorcold.png",
+        "금": "3600",
+        "무게": "10"
+    },
+    {
+        "korname": "금속 갑옷",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/metal-armor.png",
+        "금": "4920",
+        "무게": "30"
+    },
+    {
+        "korname": "내열 금속 갑옷",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/heat-proof-metal-armor.png",
+        "금": "4920",
+        "무게": "30"
+    },
+    {
+        "korname": "ITEM_NAME_구리갑옷열",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-copperarmorheat.png",
+        "금": "5904",
+        "무게": "30"
+    },
+    {
+        "korname": "내한성 금속 갑옷",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/cold-proof-metal-armor.png",
+        "금": "4920",
+        "무게": "30"
+    },
+    {
+        "korname": "ITEM_NAME_CopperArmorCold",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-copperarmorcold.png",
+        "금": "5904",
+        "무게": "30"
+    },
+    {
+        "korname": "세련된 금속 갑옷",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/refined-metal-armor.png",
+        "금": "9840",
+        "무게": "35"
+    },
+    {
+        "korname": "내열성 정제 금속 갑옷",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/heat-proof-refined-metal-armor.png",
+        "금": "9840",
+        "무게": "35"
+    },
+    {
+        "korname": "ITEM_NAME_IronArmor열",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-iroarmorheat.png",
+        "금": "11808",
+        "무게": "35"
+    },
+    {
+        "korname": "내한성 세련된 금속 갑옷",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/내한-제련-금속-갑옷.png",
+        "금": "9840",
+        "무게": "35"
+    },
+    {
+        "korname": "ITEM_NAME_IronArmorCold",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-ironarmorcold.png",
+        "금": "11808",
+        "무게": "35"
+    },
+    {
+        "korname": "Pal 금속 갑옷",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/pal-metal-armor.png",
+        "금": "32300",
+        "무게": "40"
+    },
+    {
+        "korname": "내열성 Pal 금속 갑옷",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/heat-proof-pal-metal-armor.png",
+        "금": "32300",
+        "무게": "40"
+    },
+    {
+        "korname": "ITEM_NAME_StealArmorHeat",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-stealarmorheat.png",
+        "금": "38760",
+        "무게": "40"
+    },
+    {
+        "korname": "내한성 Pal 금속 갑옷",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/cold-proof-pal-metal-armor.png",
+        "금": "32300",
+        "무게": "40"
+    },
+    {
+        "korname": "ITEM_NAME_StealArmorCold",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-stealarmorcold.png",
+        "금": "38760",
+        "무게": "40"
+    },
+    {
+        "korname": "깃털 달린 헤어 밴드",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/feathered-hair-band.png",
+        "금": "180",
+        "무게": "5"
+    },
+    {
+        "korname": "ITEM_NAME_모피 헬멧",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-furhelmet.png",
+        "금": "234",
+        "무게": "5"
+    },
+    {
+        "korname": "ITEM_NAME_구리 헬멧",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-copperhelmet.png",
+        "금": "3198",
+        "무게": "10"
+    },
+    {
+        "korname": "금속 투구",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/metal-helm.png",
+        "금": "2460",
+        "무게": "10"
+    },
+    {
+        "korname": "ITEM_NAME_철 헬멧",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-ironhelmet.png",
+        "금": "6812",
+        "무게": "12"
+    },
+    {
+        "korname": "세련된 금속 투구",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/refined-metal-helm.png",
+        "금": "5240",
+        "무게": "12"
+    },
+    {
+        "korname": "ITEM_NAME_헬멧 훔치기",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-stealhelmet.png",
+        "금": "21034",
+        "무게": "15"
+    },
+    {
+        "korname": "Pal 금속 투구",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/pal-metal-helm.png",
+        "금": "16180",
+        "무게": "15"
+    },
+    {
+        "korname": "군주의 왕관",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/monarch-s-crown.png",
+        "금": "180",
+        "무게": "7"
+    },
+    {
+        "korname": "ITEM_NAME_Head001",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head001.png",
+        "금": "216",
+        "무게": "7"
+    },
+    {
+        "korname": "골든 크라운",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/golden-crown.png",
+        "금": "180",
+        "무게": "6"
+    },
+    {
+        "korname": "ITEM_NAME_Head002",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head002.png",
+        "금": "216",
+        "무게": "6"
+    },
+    {
+        "korname": "긴귀 머리띠",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/long-eared-headband.png",
+        "금": "180",
+        "무게": "2"
+    },
+    {
+        "korname": "ITEM_NAME_Head003",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head003.png",
+        "금": "216",
+        "무게": "2"
+    },
+    {
+        "korname": "마녀 모자",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/witch-hat.png",
+        "금": "180",
+        "무게": "4"
+    },
+    {
+        "korname": "ITEM_NAME_Head004",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head004.png",
+        "금": "216",
+        "무게": "4"
+    },
+    {
+        "korname": "중절모",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/soft-hat.png",
+        "금": "180",
+        "무게": "삼"
+    },
+    {
+        "korname": "ITEM_NAME_Head005",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head005.png",
+        "금": "216",
+        "무게": "삼"
+    },
+    {
+        "korname": "헬멧",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/helmet.png",
+        "금": "180",
+        "무게": "8"
+    },
+    {
+        "korname": "ITEM_NAME_Head006",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head006.png",
+        "금": "216",
+        "무게": "8"
+    },
+    {
+        "korname": "실크 모자",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/silk-hat.png",
+        "금": "180",
+        "무게": "4"
+    },
+    {
+        "korname": "ITEM_NAME_Head007",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head007.png",
+        "금": "216",
+        "무게": "4"
+    },
+    {
+        "korname": "트라이콘",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/tricorne.png",
+        "금": "180",
+        "무게": "5"
+    },
+    {
+        "korname": "ITEM_NAME_Head008",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head008.png",
+        "금": "216",
+        "무게": "5"
+    },
+    {
+        "korname": "탐험가 모자",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/explorer-cap.png",
+        "금": "180",
+        "무게": "삼"
+    },
+    {
+        "korname": "ITEM_NAME_Head009",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head009.png",
+        "금": "216",
+        "무게": "삼"
+    },
+    {
+        "korname": "졸업모자",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/graduation-cap.png",
+        "금": "180",
+        "무게": "5"
+    },
+    {
+        "korname": "ITEM_NAME_Head010",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head010.png",
+        "금": "216",
+        "무게": "5"
+    },
+    {
+        "korname": "농사 모자",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/farming-hat.png",
+        "금": "180",
+        "무게": "삼"
+    },
+    {
+        "korname": "ITEM_NAME_머리011",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head011.png",
+        "금": "216",
+        "무게": "삼"
+    },
+    {
+        "korname": "중산모",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/bowler-hat.png",
+        "금": "180",
+        "무게": "4"
+    },
+    {
+        "korname": "웃기는 토코토코 모자",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/grinning-tocotoco-cap.png",
+        "금": "180",
+        "무게": "4"
+    },
+    {
+        "korname": "구모스캡",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/gumoss-cap.png",
+        "금": "180",
+        "무게": "4"
+    },
+    {
+        "korname": "카트리스 캡",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/katress-cap.png",
+        "금": "180",
+        "무게": "4"
+    },
+    {
+        "korname": "펜킹 캡",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/penking-cap.png",
+        "금": "180",
+        "무게": "4"
+    },
+    {
+        "korname": "토코토코 캡",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/tocotoco-cap.png",
+        "금": "180",
+        "무게": "4"
+    },
+    {
+        "korname": "ITEM_NAME_머리012",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head012.png",
+        "금": "216",
+        "무게": "4"
+    },
+    {
+        "korname": "ITEM_NAME_머리013",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head013.png",
+        "금": "216",
+        "무게": "4"
+    },
+    {
+        "korname": "ITEM_NAME_머리014",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head014.png",
+        "금": "216",
+        "무게": "4"
+    },
+    {
+        "korname": "ITEM_NAME_머리015",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head015.png",
+        "금": "216",
+        "무게": "4"
+    },
+    {
+        "korname": "ITEM_NAME_머리016",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head016.png",
+        "금": "216",
+        "무게": "4"
+    },
+    {
+        "korname": "ITEM_NAME_머리017",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/item-name-head017.png",
+        "금": "216",
+        "무게": "4"
+    },
+    {
+        "korname": "라이프 펜던트",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/life-pendant.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "라이프펜던트+1",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/life-pendant-1.png",
+        "금": "4000",
+        "무게": "2"
+    },
+    {
+        "korname": "라이프펜던트+2",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/life-pendant-2.png",
+        "금": "7000",
+        "무게": "2"
+    },
+    {
+        "korname": "공격 펜던트",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/attack-pendant.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "공격펜던트+1",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/attack-pendant-1.png",
+        "금": "4000",
+        "무게": "2"
+    },
+    {
+        "korname": "공격펜던트+2",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/attack-pendant-2.png",
+        "금": "7000",
+        "무게": "2"
+    },
+    {
+        "korname": "방어 펜던트",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/defense-pendant.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "방어펜던트+1",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/defense-pendant-1.png",
+        "금": "4000",
+        "무게": "2"
+    },
+    {
+        "korname": "방어펜던트+2",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/defense-pendant-2.png",
+        "금": "7000",
+        "무게": "2"
+    },
+    {
+        "korname": "근면의 펜던트",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/pendant-of-diligence.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "근면의 펜던트 +1",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/pendant-of-diligence-1.png",
+        "금": "4000",
+        "무게": "2"
+    },
+    {
+        "korname": "근면의 펜던트+2",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/pendant-of-diligence-2.png",
+        "금": "7000",
+        "무게": "2"
+    },
+    {
+        "korname": "내열 속옷",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/heat-proof-underwear.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "내열 속옷 +1",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/heat-proof-underwear-1.png",
+        "금": "4000",
+        "무게": "2"
+    },
+    {
+        "korname": "내열 속옷 +2",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/heat-proof-underwear-2.png",
+        "금": "7000",
+        "무게": "2"
+    },
+    {
+        "korname": "보온 내의",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/thermal-underwear.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "보온 속옷 +1",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/thermal-underwear-1.png",
+        "금": "4000",
+        "무게": "2"
+    },
+    {
+        "korname": "보온 속옷 +2",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/thermal-underwear-2.png",
+        "금": "7000",
+        "무게": "2"
+    },
+    {
+        "korname": "저항의 반지",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-resistance.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "저항의 반지 +1",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-resistance-1.png",
+        "금": "4000",
+        "무게": "2"
+    },
+    {
+        "korname": "저항의 반지 +2",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-resistance-2.png",
+        "금": "7000",
+        "무게": "2"
+    },
+    {
+        "korname": "화염 저항의 반지",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-flame-resistance.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "화염저항력 +1",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-flame-resistance-1.png",
+        "금": "4000",
+        "무게": "2"
+    },
+    {
+        "korname": "화염저항 반지 +2",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-flame-resistance-2.png",
+        "금": "7000",
+        "무게": "2"
+    },
+    {
+        "korname": "방수의 반지",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-water-resistance.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "방수의 반지 +1",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-water-resistance-1.png",
+        "금": "4000",
+        "무게": "2"
+    },
+    {
+        "korname": "방수의 반지 +2",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-water-resistance-2.png",
+        "금": "7000",
+        "무게": "2"
+    },
+    {
+        "korname": "번개 저항의 반지",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-lightning-resistance.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "번개 저항의 반지 +1",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-lightning-resistance-1.png",
+        "금": "4000",
+        "무게": "2"
+    },
+    {
+        "korname": "번개저항의 반지 +2",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-lightning-resistance-2.png",
+        "금": "7000",
+        "무게": "2"
+    },
+    {
+        "korname": "풀 저항의 고리",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-grass-resistance.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "풀의 고리 저항력 +1",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-grass-resistance-1.png",
+        "금": "4000",
+        "무게": "2"
+    },
+    {
+        "korname": "풀의 고리 저항력 +2",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-grass-resistance-2.png",
+        "금": "7000",
+        "무게": "2"
+    },
+    {
+        "korname": "얼음 저항의 반지",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-ice-resistance.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "빙결저항력 +1",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-ice-resistance-1.png",
+        "금": "4000",
+        "무게": "2"
+    },
+    {
+        "korname": "빙결저항력 +2",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-ice-resistance-2.png",
+        "금": "7000",
+        "무게": "2"
+    },
+    {
+        "korname": "대지 저항의 반지",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-earth-resistance.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "대지저항의 고리 +1",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-earth-resistance-1.png",
+        "금": "4000",
+        "무게": "2"
+    },
+    {
+        "korname": "대지저항의 고리 +2",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-earth-resistance-2.png",
+        "금": "7000",
+        "무게": "2"
+    },
+    {
+        "korname": "암흑 저항의 반지",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-dark-resistance.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "암흑저항의 반지 +1",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-dark-resistance-1.png",
+        "금": "4000",
+        "무게": "2"
+    },
+    {
+        "korname": "암흑저항의 반지 +2",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-dark-resistance-2.png",
+        "금": "7000",
+        "무게": "2"
+    },
+    {
+        "korname": "용 저항의 반지",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-dragon-resistance.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "링 오브 드래곤 저항 +1",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-dragon-resistance-1.png",
+        "금": "4000",
+        "무게": "2"
+    },
+    {
+        "korname": "링 오브 드래곤 저항 +2",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/ring-of-dragon-resistance-2.png",
+        "금": "7000",
+        "무게": "2"
+    },
+    {
+        "korname": "일반 낙하산",
+        "코나메": "",
+        "유형": "글라이더",
+        "영상": "/public/image/items/normal-parachute.png",
+        "금": "1200",
+        "무게": "10"
+    },
+    {
+        "korname": "메가 글라이더",
+        "코나메": "",
+        "유형": "글라이더",
+        "영상": "/public/image/items/mega-glider.png",
+        "금": "3000",
+        "무게": "15"
+    },
+    {
+        "korname": "기가 글라이더",
+        "코나메": "",
+        "유형": "글라이더",
+        "영상": "/public/image/items/giga-glider.png",
+        "금": "13200",
+        "무게": "20"
+    },
+    {
+        "korname": "하이퍼 글라이더",
+        "코나메": "",
+        "유형": "글라이더",
+        "영상": "/public/image/items/hyper-glider.png",
+        "금": "45200",
+        "무게": "25"
+    },
+    {
+        "korname": "레드 베리",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/red-berries.png",
+        "금": "50",
+        "무게": "0"
+    },
+    {
+        "korname": "버섯",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/mushroom.png",
+        "금": "50",
+        "무게": "1"
+    },
+    {
+        "korname": "기관지 고기",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/broncherry-meat.png",
+        "금": "1800",
+        "무게": "5"
+    },
+    {
+        "korname": "카프리티 고기",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/caprity-meat.png",
+        "금": "570",
+        "무게": "삼"
+    },
+    {
+        "korname": "치키피 가금류",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/chikipi-poultry.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "익티르디어 사슴고기",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/eikthyrdeer-venison.png",
+        "금": "500",
+        "무게": "2"
+    },
+    {
+        "korname": "갈집발톱 가금류",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/galeclaw-poultry.png",
+        "금": "150",
+        "무게": "1"
+    },
+    {
+        "korname": "램볼 양고기",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/lamball-mutton.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "맘모레스트 고기",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/mammorest-meat.png",
+        "금": "1800",
+        "무게": "5"
+    },
+    {
+        "korname": "모짜리나 고기",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/mozzarina-meat.png",
+        "금": "570",
+        "무게": "삼"
+    },
+    {
+        "korname": "생두머드",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/raw-dumud.png",
+        "금": "500",
+        "무게": "2"
+    },
+    {
+        "korname": "생 다시마",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/raw-kelpsea.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "생고기",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/raw-meat.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "라인드릭스 사슴고기",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/reindrix-venison.png",
+        "금": "640",
+        "무게": "2"
+    },
+    {
+        "korname": "루쇼어 돼지고기",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/rushoar-pork.png",
+        "금": "430",
+        "무게": "2"
+    },
+    {
+        "korname": "계란",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/공개/이미지/items/egg.png",
+        "금": "50",
+        "무게": "1"
+    },
+    {
+        "korname": "우유",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/milk.png",
+        "금": "50",
+        "무게": "2"
+    },
+    {
+        "korname": "솜사탕",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/cotton-candy.png",
+        "금": "250",
+        "무게": "0"
+    },
+    {
+        "korname": "꿀",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/honey.png",
+        "금": "250",
+        "무게": "0"
+    },
+    {
+        "korname": "밀",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/wheat.png",
+        "금": "100",
+        "무게": "0"
+    },
+    {
+        "korname": "토마토",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/tomato.png",
+        "금": "150",
+        "무게": "1"
+    },
+    {
+        "korname": "상추",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/lettuce.png",
+        "금": "150",
+        "무게": "1"
+    },
+    {
+        "korname": "구운 두머드",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/broiled-dumud.png",
+        "금": "700",
+        "무게": "2"
+    },
+    {
+        "korname": "기관지 갈비 구이",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/broncherry-rib-roast.png",
+        "금": "2520",
+        "무게": "5"
+    },
+    {
+        "korname": "치키피 소테",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/chikipi-saut.png",
+        "금": "920",
+        "무게": "1"
+    },
+    {
+        "korname": "두머드 차우더",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/dumud-chowder.png",
+        "금": "1700",
+        "무게": "1"
+    },
+    {
+        "korname": "에이크티르디어 로코 모코",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/eikthyrdeer-loco-moco.png",
+        "금": "1740년",
+        "무게": "1"
+    },
+    {
+        "korname": "에이크티르디어 스튜",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/eikthyrdeer-stew.png",
+        "금": "2120",
+        "무게": "1"
+    },
+    {
+        "korname": "치키피튀김",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/fried-chikipi.png",
+        "금": "1080",
+        "무게": "1"
+    },
+    {
+        "korname": "다시마튀김",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/fried-kelpsea.png",
+        "금": "1080",
+        "무게": "1"
+    },
+    {
+        "korname": "구운 치키피",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/grilled-chikipi.png",
+        "금": "500",
+        "무게": "1"
+    },
+    {
+        "korname": "구운 갈집게",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/grilled-galeclaw.png",
+        "금": "500",
+        "무게": "1"
+    },
+    {
+        "korname": "구운 다시마",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/grilled-kelpsea.png",
+        "금": "500",
+        "무게": "1"
+    },
+    {
+        "korname": "구운 양고기 구이",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/grilled-lamball.png",
+        "금": "1470",
+        "무게": "1"
+    },
+    {
+        "korname": "구운 고기",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/grilled-meat.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "허브 로스티드 카프리티",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/herb-roasted-caprity.png",
+        "금": "800",
+        "무게": "삼"
+    },
+    {
+        "korname": "허브 로스티드 램볼",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/herb-roasted-lamball.png",
+        "금": "940",
+        "무게": "1"
+    },
+    {
+        "korname": "램볼 케밥",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/lamball-kebab.png",
+        "금": "520",
+        "무게": "1"
+    },
+    {
+        "korname": "맘모레스트 스테이크",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/mammorest-steak.png",
+        "금": "2520",
+        "무게": "5"
+    },
+    {
+        "korname": "모짜리나 치즈버거",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/mozzarina-cheeseburger.png",
+        "금": "2880",
+        "무게": "1"
+    },
+    {
+        "korname": "모짜리나 햄버거",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/mozzarina-hamburger.png",
+        "금": "1620",
+        "무게": "1"
+    },
+    {
+        "korname": "모짜리나 스테이크",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/mozzarina-steak.png",
+        "금": "800",
+        "무게": "삼"
+    },
+    {
+        "korname": "라인드릭스 스튜",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/reindrix-stew.png",
+        "금": "1320",
+        "무게": "1"
+    },
+    {
+        "korname": "구운 에이크티르디어",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/roast-eikthyrdeer.png",
+        "금": "700",
+        "무게": "2"
+    },
+    {
+        "korname": "로스트 레인드릭스",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/roast-reindrix.png",
+        "금": "2520",
+        "무게": "2"
+    },
+    {
+        "korname": "구운 루쇼어",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/roast-rushoar.png",
+        "금": "600",
+        "무게": "2"
+    },
+    {
+        "korname": "루쇼어 베이컨 앤 에그",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/rushoar-bacon-n-eggs.png",
+        "금": "1670년",
+        "무게": "1"
+    },
+    {
+        "korname": "루쇼어 핫도그",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/rushoar-hotdog.png",
+        "금": "1400",
+        "무게": "1"
+    },
+    {
+        "korname": "조림 갈집게",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/stewed-galeclaw.png",
+        "금": "920",
+        "무게": "1"
+    },
+    {
+        "korname": "구운 베리",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/baked-berries.png",
+        "금": "100",
+        "무게": "0"
+    },
+    {
+        "korname": "구운 버섯",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/baked-mushroom.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "빵",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/bread.png",
+        "금": "200",
+        "무게": "0"
+    },
+    {
+        "korname": "계란후라이",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/fried-egg.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "뜨거운 우유",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/hot-milk.png",
+        "금": "100",
+        "무게": "2"
+    },
+    {
+        "korname": "잼이 가득한 빵",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/jam-filled-bun.png",
+        "금": "600",
+        "무게": "0"
+    },
+    {
+        "korname": "샐러드",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/salad.png",
+        "금": "1200",
+        "무게": "0"
+    },
+    {
+        "korname": "오믈렛",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/omelet.png",
+        "금": "300",
+        "무게": "1"
+    },
+    {
+        "korname": "야채볶음",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/stir-fried-veggies.png",
+        "금": "300",
+        "무게": "1"
+    },
+    {
+        "korname": "핫도그",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/hot-dog.png",
+        "금": "300",
+        "무게": "1"
+    },
+    {
+        "korname": "팬케이크",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/pancake.png",
+        "금": "300",
+        "무게": "1"
+    },
+    {
+        "korname": "절인 버섯",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/marinated-mushrooms.png",
+        "금": "300",
+        "무게": "1"
+    },
+    {
+        "korname": "버섯 스프",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/mushroom-soup.png",
+        "금": "300",
+        "무게": "1"
+    },
+    {
+        "korname": "카르보나라",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/carbonara.png",
+        "금": "800",
+        "무게": "1"
+    },
+    {
+        "korname": "부리또",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/burrito.png",
+        "금": "3000",
+        "무게": "0"
+    },
+    {
+        "korname": "치즈버거",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/cheeseburger.png",
+        "금": "3400",
+        "무게": "0"
+    },
+    {
+        "korname": "피자",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/pizza.png",
+        "금": "2900",
+        "무게": "1"
+    },
+    {
+        "korname": "볼로 네즈 소스",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/bolognese-sauce.png",
+        "금": "2250",
+        "무게": "1"
+    },
+    {
+        "korname": "버섯 스튜",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/mushroom-stew.png",
+        "금": "2500",
+        "무게": "1"
+    },
+    {
+        "korname": "햄버거",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/hamburger.png",
+        "금": "3250",
+        "무게": "0"
+    },
+    {
+        "korname": "케이크",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/cake.png",
+        "금": "10000",
+        "무게": "1"
+    },
+    {
+        "korname": "저등급 의료용품",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/low-grade-medical-supplies.png",
+        "금": "240",
+        "무게": "0"
+    },
+    {
+        "korname": "의료용품",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/medical-supplies.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "고급 의료용품",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/high-grade-medical-supplies.png",
+        "금": "3000",
+        "무게": "0"
+    },
+    {
+        "korname": "마인드 컨트롤 약",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/mind-control-meds.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "아름다운 꽃",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/beautiful-flower.png",
+        "금": "240",
+        "무게": "0"
+    },
+    {
+        "korname": "수상한 주스",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/suspicious-juice.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "이상한 주스",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/strange-juice.png",
+        "금": "40000",
+        "무게": "0"
+    },
+    {
+        "korname": "기억삭제약",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/memory-wiping-medicine.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "목재",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/wood.png",
+        "금": "10",
+        "무게": "삼"
+    },
+    {
+        "korname": "섬유",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/공개/이미지/항목/섬유.png",
+        "금": "10",
+        "무게": "1"
+    },
+    {
+        "korname": "결석",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/stone.png",
+        "금": "10",
+        "무게": "삼"
+    },
+    {
+        "korname": "팔듐 조각",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/paldium-fragment.png",
+        "금": "20",
+        "무게": "1"
+    },
+    {
+        "korname": "광석",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/공개/이미지/항목/ore.png",
+        "금": "50",
+        "무게": "8"
+    },
+    {
+        "korname": "석탄",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/coal.png",
+        "금": "30",
+        "무게": "5"
+    },
+    {
+        "korname": "황",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/sulfur.png",
+        "금": "70",
+        "무게": "삼"
+    },
+    {
+        "korname": "순수 석영",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/pure-quartz.png",
+        "금": "100",
+        "무게": "5"
+    },
+    {
+        "korname": "양모",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/wool.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "가죽",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/leather.png",
+        "금": "150",
+        "무게": "2"
+    },
+    {
+        "korname": "뼈",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/공개/이미지/항목/bone.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "뿔",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/horn.png",
+        "금": "300",
+        "무게": "1"
+    },
+    {
+        "korname": "전자 오르간",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/electric-organ.png",
+        "금": "200",
+        "무게": "1"
+    },
+    {
+        "korname": "독샘",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/venom-gland.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "불꽃 오르간",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/flame-organ.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "아이스 오르간",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/ice-organ.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "검모스잎",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/gumoss-leaf.png",
+        "금": "300",
+        "무게": "0"
+    },
+    {
+        "korname": "카트리스 헤어",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/katress-hair.png",
+        "금": "300",
+        "무게": "0"
+    },
+    {
+        "korname": "Pal 유체",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/pal-fluids.png",
+        "금": "300",
+        "무게": "0"
+    },
+    {
+        "korname": "펜킹 깃털",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/penking-plume.png",
+        "금": "300",
+        "무게": "0"
+    },
+    {
+        "korname": "토코토코 깃털",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/tocotoco-feather.png",
+        "금": "300",
+        "무게": "0"
+    },
+    {
+        "korname": "고품질 Pal 오일",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/high-quality-pal-oil.png",
+        "금": "300",
+        "무게": "0"
+    },
+    {
+        "korname": "똥",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/dung.png",
+        "금": "1",
+        "무게": "1"
+    },
+    {
+        "korname": "거대한 배설물 더미",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/huge-dung-pile.png",
+        "금": "1",
+        "무게": "2"
+    },
+    {
+        "korname": "고대 문명 부품",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/ancient-civilization-parts.png",
+        "금": "1000",
+        "무게": "1"
+    },
+    {
+        "korname": "베리 씨앗",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/berry-seeds.png",
+        "금": "50",
+        "무게": "0"
+    },
+    {
+        "korname": "토마토 씨앗",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/tomato-seeds.png",
+        "금": "200",
+        "무게": "0"
+    },
+    {
+        "korname": "상추 씨앗",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/lettuce-seeds.png",
+        "금": "200",
+        "무게": "0"
+    },
+    {
+        "korname": "밀 씨앗",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/wheat-seeds.png",
+        "금": "100",
+        "무게": "0"
+    },
+    {
+        "korname": "옷감",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/cloth.png",
+        "금": "80",
+        "무게": "1"
+    },
+    {
+        "korname": "고품질 천",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/high-quality-cloth.png",
+        "금": "400",
+        "무게": "1"
+    },
+    {
+        "korname": "못",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/nail.png",
+        "금": "1600",
+        "무게": "2"
+    },
+    {
+        "korname": "회로 기판",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/circuit-board.png",
+        "금": "1000",
+        "무게": "2"
+    },
+    {
+        "korname": "고분자",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/polymer.png",
+        "금": "1200",
+        "무게": "1"
+    },
+    {
+        "korname": "규소",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/silicon.png",
+        "금": "80",
+        "무게": "0"
+    },
+    {
+        "korname": "시멘트",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/cement.png",
+        "금": "220",
+        "무게": "5"
+    },
+    {
+        "korname": "탄소 섬유",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/carbon-fibre.png",
+        "금": "120",
+        "무게": "0"
+    },
+    {
+        "korname": "숯",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/charcoal.png",
+        "금": "20",
+        "무게": "2"
+    },
+    {
+        "korname": "주괴",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/ingot.png",
+        "금": "200",
+        "무게": "5"
+    },
+    {
+        "korname": "정제된 주괴",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/refined-ingot.png",
+        "금": "320",
+        "무게": "5"
+    },
+    {
+        "korname": "Pal 금속 주괴",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/pal-metal-ingot.png",
+        "금": "800",
+        "무게": "5"
+    },
+    {
+        "korname": "밀가루",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/flour.png",
+        "금": "20",
+        "무게": "0"
+    },
+    {
+        "korname": "일반 계란",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/common-egg.png",
+        "금": "10",
+        "무게": "10"
+    },
+    {
+        "korname": "큰 일반 알",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/large-common-egg.png",
+        "금": "10",
+        "무게": "25"
+    },
+    {
+        "korname": "거대한 일반 알",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/huge-common-egg.png",
+        "금": "10",
+        "무게": "50"
+    },
+    {
+        "korname": "뜨거운 계란",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/scorching-egg.png",
+        "금": "10",
+        "무게": "10"
+    },
+    {
+        "korname": "큰 타오르는 달걀",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/large-scorching-egg.png",
+        "금": "10",
+        "무게": "25"
+    },
+    {
+        "korname": "거대한 불타오르는 알",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/huge-scorching-egg.png",
+        "금": "10",
+        "무게": "50"
+    },
+    {
+        "korname": "축축한 계란",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/damp-egg.png",
+        "금": "10",
+        "무게": "10"
+    },
+    {
+        "korname": "크고 축축한 계란",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/large-damp-egg.png",
+        "금": "10",
+        "무게": "25"
+    },
+    {
+        "korname": "거대하고 축축한 계란",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/huge-damp-egg.png",
+        "금": "10",
+        "무게": "50"
+    },
+    {
+        "korname": "신록의 알",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/verdant-egg.png",
+        "금": "10",
+        "무게": "10"
+    },
+    {
+        "korname": "큰 신록의 알",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/large-verdant-egg.png",
+        "금": "10",
+        "무게": "25"
+    },
+    {
+        "korname": "거대한 신록의 알",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/huge-verdant-egg.png",
+        "금": "10",
+        "무게": "50"
+    },
+    {
+        "korname": "전기 계란",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/electric-egg.png",
+        "금": "10",
+        "무게": "10"
+    },
+    {
+        "korname": "대형 전기 계란",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/large-electric-egg.png",
+        "금": "10",
+        "무게": "25"
+    },
+    {
+        "korname": "거대한 전기 계란",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/huge-electric-egg.png",
+        "금": "10",
+        "무게": "50"
+    },
+    {
+        "korname": "냉동 계란",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/frozen-egg.png",
+        "금": "10",
+        "무게": "10"
+    },
+    {
+        "korname": "대형 냉동 계란",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/large-frozen-egg.png",
+        "금": "10",
+        "무게": "25"
+    },
+    {
+        "korname": "거대한 냉동 계란",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/huge-frozen-egg.png",
+        "금": "10",
+        "무게": "50"
+    },
+    {
+        "korname": "록키 에그",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/rocky-egg.png",
+        "금": "10",
+        "무게": "10"
+    },
+    {
+        "korname": "큰 바위 알",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/large-rocky-egg.png",
+        "금": "10",
+        "무게": "25"
+    },
+    {
+        "korname": "거대한 바위 알",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/huge-rocky-egg.png",
+        "금": "10",
+        "무게": "50"
+    },
+    {
+        "korname": "다크 에그",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/dark-egg.png",
+        "금": "10",
+        "무게": "10"
+    },
+    {
+        "korname": "대형 다크 에그",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/large-dark-egg.png",
+        "금": "10",
+        "무게": "25"
+    },
+    {
+        "korname": "거대하고 어두운 알",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/huge-dark-egg.png",
+        "금": "10",
+        "무게": "50"
+    },
+    {
+        "korname": "드래곤 알",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/dragon-egg.png",
+        "금": "10",
+        "무게": "10"
+    },
+    {
+        "korname": "대형 드래곤 알",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/large-dragon-egg.png",
+        "금": "10",
+        "무게": "25"
+    },
+    {
+        "korname": "거대한 드래곤 알",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/huge-dragon-egg.png",
+        "금": "10",
+        "무게": "50"
+    },
+    {
+        "korname": "루비",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/ruby.png",
+        "금": "5000",
+        "무게": "5"
+    },
+    {
+        "korname": "사파이어",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/sapphire.png",
+        "금": "7500",
+        "무게": "5"
+    },
+    {
+        "korname": "에메랄드",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/emerald.png",
+        "금": "10000",
+        "무게": "5"
+    },
+    {
+        "korname": "다이아몬드",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/diamond.png",
+        "금": "12500",
+        "무게": "5"
+    },
+    {
+        "korname": "귀중한 용석",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/precious-dragon-stone.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "귀중한 깃털",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/precious-plume.png",
+        "금": "7500",
+        "무게": "0"
+    },
+    {
+        "korname": "귀중한 내장",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/precious-entrails.png",
+        "금": "8500",
+        "무게": "0"
+    },
+    {
+        "korname": "귀중한 발톱",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/precious-claw.png",
+        "금": "6500",
+        "무게": "0"
+    },
+    {
+        "korname": "귀중한 모피",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/precious-pelt.png",
+        "금": "5000",
+        "무게": "0"
+    },
+    {
+        "korname": "작은 친구 영혼",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/small-pal-soul.png",
+        "금": "10",
+        "무게": "0"
+    },
+    {
+        "korname": "미디엄 팔소울",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/medium-pal-soul.png",
+        "금": "10",
+        "무게": "0"
+    },
+    {
+        "korname": "대형 팔소울",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/large-pal-soul.png",
+        "금": "10",
+        "무게": "0"
+    },
+    {
+        "korname": "스킬 열매 : 파워 샷",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/skill-fruit-power-shot.png",
+        "금": "1000",
+        "무게": "0"
+    },
+    {
+        "korname": "스킬열매 : 파워밤",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/skill-fruit-power-bomb.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "스킬 열매 : Pal Blast",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/skill-fruit-pal-blast.png",
+        "금": "5000",
+        "무게": "0"
+    },
+    {
+        "korname": "스킬열매 : 공기대포",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/skill-fruit-air-cannon.png",
+        "금": "1500",
+        "무게": "0"
+    },
+    {
+        "korname": "스킬 열매: 파열",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/skill-fruit-implode.png",
+        "금": "5000",
+        "무게": "0"
+    },
+    {
+        "korname": "잔디 스킬 열매 : 윈드 커터",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/grass-skill-fruit-wind-cutter.png",
+        "금": "1000",
+        "무게": "0"
+    },
+    {
+        "korname": "잔디 스킬 열매 : 잔디 토네이도",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/grass-skill-fruit-grass-tornado.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "잔디 스킬 열매 : 태양 폭발",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/grass-skill-fruit-solar-blast.png",
+        "금": "5000",
+        "무게": "0"
+    },
+    {
+        "korname": "잔디 스킬 열매 : 씨앗 기관총",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/grass-skill-fruit-seed-machine-gun.png",
+        "금": "1500",
+        "무게": "0"
+    },
+    {
+        "korname": "잔디 스킬 열매 : 척추 덩굴",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/grass-skill-fruit-spine-vine.png",
+        "금": "3000",
+        "무게": "0"
+    },
+    {
+        "korname": "잔디 스킬 과일: 씨앗 광산",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/grass-skill-fruit-seed-mine.png",
+        "금": "2000",
+        "무게": "0"
+    },
+    {
+        "korname": "워터스킬 열매 : 아쿠아건",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/water-skill-fruit-aqua-gun.png",
+        "금": "1000",
+        "무게": "0"
+    },
+    {
+        "korname": "워터 스킬 열매 : 아쿠아 버스트",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/water-skill-fruit-aqua-burst.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "워터 스킬 열매 : 하이드로 레이저",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/water-skill-fruit-hydro-laser.png",
+        "금": "5000",
+        "무게": "0"
+    },
+    {
+        "korname": "워터 스킬 열매 : 하이드로 제트",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/water-skill-fruit-hydro-jet.png",
+        "금": "1500",
+        "무게": "0"
+    },
+    {
+        "korname": "워터 스킬 열매 : 버블 블래스트",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/water-skill-fruit-bubble-blast.png",
+        "금": "2000",
+        "무게": "0"
+    },
+    {
+        "korname": "물 스킬 열매 : 산성비",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/water-skill-fruit-acid-rain.png",
+        "금": "3000",
+        "무게": "0"
+    },
+    {
+        "korname": "불 스킬 열매 : 이그니스 블래스트",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/fire-skill-fruit-ignis-blast.png",
+        "금": "1000",
+        "무게": "0"
+    },
+    {
+        "korname": "불 스킬 열매 : 이그니스 브레스",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/fire-skill-fruit-ignis-breath.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "불 스킬 열매 : 파이어 볼",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/fire-skill-fruit-fire-ball.png",
+        "금": "5000",
+        "무게": "0"
+    },
+    {
+        "korname": "불 스킬 열매 : 섬광 화살",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/fire-skill-fruit-flare-arrow.png",
+        "금": "1500",
+        "무게": "0"
+    },
+    {
+        "korname": "불 스킬 열매: 정령 불",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/fire-skill-fruit-spirit-fire.png",
+        "금": "2000",
+        "무게": "0"
+    },
+    {
+        "korname": "불 스킬 열매 : 이그니스 레이지",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/fire-skill-fruit-ignis-rage.png",
+        "금": "4000",
+        "무게": "0"
+    },
+    {
+        "korname": "불 스킬 열매 : 플레어 스톰",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/fire-skill-fruit-flare-storm.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "일렉트릭 스킬 열매 : 쇼크웨이브",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/electric-skill-fruit-shockwave.png",
+        "금": "1000",
+        "무게": "0"
+    },
+    {
+        "korname": "전기 스킬 열매 : 라이트닝 볼트",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/electric-skill-fruit-lightning-bolt.png",
+        "금": "5000",
+        "무게": "0"
+    },
+    {
+        "korname": "전기 스킬 열매 : 번개 연속",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/electric-skill-fruit-lightning-streak.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "전기 스킬 열매 : 플라즈마 토네이도",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/electric-skill-fruit-plasma-tornado.png",
+        "금": "2000",
+        "무게": "0"
+    },
+    {
+        "korname": "일렉트릭 스킬 열매 : 스파크 블래스트",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/electric-skill-fruit-spark-blast.png",
+        "금": "1500",
+        "무게": "0"
+    },
+    {
+        "korname": "전기 스킬 열매 : 록온 레이저",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/electric-skill-fruit-lock-on-laser.png",
+        "금": "3000",
+        "무게": "0"
+    },
+    {
+        "korname": "전기 스킬 열매 : 전기 공",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/electric-skill-fruit-electric-ball.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "전기 스킬 열매 : 삼중 번개",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/electric-skill-fruit-tri-lightning.png",
+        "금": "3500",
+        "무게": "0"
+    },
+    {
+        "korname": "전기 스킬 열매 : 라이트닝 스트라이크",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/electric-skill-fruit-lightning-strike.png",
+        "금": "5000",
+        "무게": "0"
+    },
+    {
+        "korname": "대지 스킬 열매 : 스톤 캐논",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/earth-skill-fruit-stone-cannon.png",
+        "금": "1000",
+        "무게": "0"
+    },
+    {
+        "korname": "대지 스킬 열매 : 샌드 토네이도",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/earth-skill-fruit-sand-tornado.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "대지의 능력 열매 : 바위창",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/earth-skill-fruit-rock-lance.png",
+        "금": "5000",
+        "무게": "0"
+    },
+    {
+        "korname": "대지 스킬 열매 : 샌드 블래스트",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/earth-skill-fruit-sand-blast.png",
+        "금": "1500",
+        "무게": "0"
+    },
+    {
+        "korname": "대지 스킬 열매 : 스톤 블래스트",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/earth-skill-fruit-stone-blast.png",
+        "금": "2000",
+        "무게": "0"
+    },
+    {
+        "korname": "아이스 스킬 열매 : 아이스 미사일",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/ice-skill-fruit-ice-missile.png",
+        "금": "1000",
+        "무게": "0"
+    },
+    {
+        "korname": "얼음 스킬 열매 : 빙산",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/ice-skill-fruit-iceberg.png",
+        "금": "3000",
+        "무게": "0"
+    },
+    {
+        "korname": "아이스 스킬 열매 : 블리자드 스파이크",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/ice-skill-fruit-blizzard-spike.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "얼음 스킬 열매 : 고드름 절단기",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/ice-skill-fruit-icicle-cutter.png",
+        "금": "3000",
+        "무게": "0"
+    },
+    {
+        "korname": "아이스 스킬 열매 : 크리스트 브레스",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/ice-skill-fruit-cryst-breath.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "다크 스킬 열매 : 섀도우 버스트",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/dark-skill-fruit-shadow-burst.png",
+        "금": "1000",
+        "무게": "0"
+    },
+    {
+        "korname": "다크 스킬 열매 : 나이트메어 볼",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/dark-skill-fruit-nightmare-ball.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "다크 스킬 열매 : 사이코 그래비티",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/dark-skill-fruit-psycho-gravity.png",
+        "금": "3500",
+        "무게": "0"
+    },
+    {
+        "korname": "다크 스킬 열매 : 포이즌 블래스트",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/dark-skill-fruit-poison-blast.png",
+        "금": "1500",
+        "무게": "0"
+    },
+    {
+        "korname": "어둠 스킬 열매 : 정령의 불꽃",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/dark-skill-fruit-spirit-flame.png",
+        "금": "2000",
+        "무게": "0"
+    },
+    {
+        "korname": "다크 스킬 열매 : 다크 레이저",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/dark-skill-fruit-dark-laser.png",
+        "금": "5000",
+        "무게": "0"
+    },
+    {
+        "korname": "드래곤 스킬 열매: 용의 숨결",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/dragon-skill-fruit-draconic-breath.png",
+        "금": "4000",
+        "무게": "0"
+    },
+    {
+        "korname": "드래곤 스킬 열매: 드래곤 캐논",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/dragon-skill-fruit-dragon-cannon.png",
+        "금": "2000",
+        "무게": "0"
+    },
+    {
+        "korname": "드래곤 스킬 열매: 드래곤 버스트",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/dragon-skill-fruit-dragon-burst.png",
+        "금": "3000",
+        "무게": "0"
+    },
+    {
+        "korname": "드래곤 스킬 열매: 드래곤 메테오",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/dragon-skill-fruit-dragon-meteor.png",
+        "금": "5000",
+        "무게": "0"
+    },
+    {
+        "korname": "고급 기술 매뉴얼",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/high-grade-technical-manual.png",
+        "금": "1",
+        "무게": "0"
+    },
+    {
+        "korname": "혁신적인 기술 매뉴얼",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/innovative-technical-manual.png",
+        "금": "1",
+        "무게": "0"
+    },
+    {
+        "korname": "미래 기술 매뉴얼",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/future-technical-manual.png",
+        "금": "1",
+        "무게": "0"
+    },
+    {
+        "korname": "구리 열쇠",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/copper-key.png",
+        "금": "1",
+        "무게": "0"
+    },
+    {
+        "korname": "은색 열쇠",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/silver-key.png",
+        "금": "1",
+        "무게": "0"
+    },
+    {
+        "korname": "황금 열쇠",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/gold-key.png",
+        "금": "1",
+        "무게": "0"
+    },
+    {
+        "korname": "수리 도구",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/repair-kit.png",
+        "금": "200",
+        "무게": "1"
+    },
+    {
+        "korname": "오래된 활 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/old-bow-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "낡은 활 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/old-bow-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "낡은 활 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/old-bow-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "낡은 활 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/old-bow-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "석궁 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/crossbow-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "석궁 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/crossbow-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "석궁 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/crossbow-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "석궁 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/crossbow-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "권총 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/handgun-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "권총 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/handgun-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "권총 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/handgun-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "권총 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/handgun-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "돌격소총 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/assault-rifle-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "돌격소총 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/assault-rifle-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "돌격소총 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/assault-rifle-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "돌격소총 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/assault-rifle-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "펌프액션 산탄총 도식 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pump-action-shotgun-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "펌프액션 샷건 도식 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pump-action-shotgun-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "펌프액션 샷건 도식 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pump-action-shotgun-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "펌프액션 산탄총 도식 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pump-action-shotgun-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "로켓 발사기 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/rocket-launcher-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "로켓 발사기 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/rocket-launcher-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "로켓 발사기 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/rocket-launcher-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "로켓 발사기 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/rocket-launcher-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "천 의상 도식 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cloth-outfit-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "깃털 달린 머리끈 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/feathered-hair-band-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "천 의상 도식 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cloth-outfit-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "깃털 달린 헤어 밴드 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/feathered-hair-band-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "천 의상 도식 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cloth-outfit-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "깃털 달린 머리끈 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/feathered-hair-band-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "천 의상 도식 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cloth-outfit-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "깃털 달린 머리끈 도식 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/feathered-hair-band-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "금속 투구 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/metal-helm-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "펠트 방어구 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pelt-armor-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "금속 투구 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/metal-helm-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "펠트 방어구 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pelt-armor-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "금속 투구 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/metal-helm-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "펠트 방어구 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pelt-armor-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "금속 투구 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/metal-helm-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "펠트 방어구 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pelt-armor-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "금속 갑옷 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/metal-armor-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "정제된 금속 투구 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/refined-metal-helm-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "금속 갑옷 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/metal-armor-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "정제된 금속 투구 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/refined-metal-helm-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "금속 갑옷 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/metal-armor-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "세련된 금속 투구 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/refined-metal-helm-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "금속 갑옷 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/metal-armor-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "정제된 금속 투구 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/refined-metal-helm-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "Pal 금속 투구 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pal-metal-helm-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "정제된 금속 방어구 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/refined-metal-armor-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "Pal 금속 투구 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pal-metal-helm-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "정제된 금속 방어구 도식 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/refined-metal-armor-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "Pal 금속 투구 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pal-metal-helm-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "정제된 금속 방어구 도식 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/refined-metal-armor-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "Pal 금속 투구 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pal-metal-helm-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "정제된 금속 방어구 도식 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/refined-metal-armor-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "Pal 금속 갑옷 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pal-metal-armor-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "Pal 금속 갑옷 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pal-metal-armor-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "Pal 금속 갑옷 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pal-metal-armor-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "Pal 금속 갑옷 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/pal-metal-armor-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "군주의 왕관 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/monarch-s-crown-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "트로피컬 의상 도식 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tropical-outfit-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "군주의 왕관 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/monarch-s-crown-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "트로피컬 의상 도식 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tropical-outfit-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "군주의 왕관 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/monarch-s-crown-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "트로피컬 의상 도식 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tropical-outfit-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "군주의 왕관 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/monarch-s-crown-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "트로피컬 의상 도식 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tropical-outfit-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "왕의 왕관 설계도 5",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/blueprint-of-the-king-s-crown-5.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "툰드라 복장 도식 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tundra-outfit-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "황금 왕관 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/golden-crown-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "툰드라 의상 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tundra-outfit-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "황금 왕관 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/golden-crown-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "툰드라 복장 도식 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tundra-outfit-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "황금 왕관 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/golden-crown-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "툰드라 복장 도식 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tundra-outfit-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "황금 왕관 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/golden-crown-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "내열성 펠트 갑옷 도식 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/heat-proof-pelt-armor-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "내열성 펠트 갑옷 도식 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/heat-proof-pelt-armor-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "내열성 펠트 갑옷 도식 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/heat-proof-pelt-armor-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "긴귀 머리띠 도식 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/long-eared-headband-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "내열성 펠트 갑옷 도식 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/heat-proof-pelt-armor-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "긴귀 머리띠 도식 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/long-eared-headband-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 펠트 방어구 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cold-proof-pelt-armor-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "긴귀 머리띠 도식 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/long-eared-headband-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 펠트 갑옷 도식 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cold-proof-pelt-armor-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "긴귀 머리띠 도식 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/long-eared-headband-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "긴귀 머리띠 설계도 5개",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/5-blueprints-of-long-eared-headband.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 펠트 갑옷 도식 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cold-proof-pelt-armor-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 펠트 갑옷 도식 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cold-proof-pelt-armor-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "마녀 모자 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/witch-hat-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "내열 금속 갑옷 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/heat-proof-metal-armor-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "마녀 모자 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/witch-hat-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "내열 금속 갑옷 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/heat-proof-metal-armor-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "마녀 모자 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/witch-hat-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "내열 금속 방어구 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/heat-proof-metal-armor-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "마녀 모자 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/witch-hat-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "마녀모자 5호 디자인",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/design-of-witch-hat-no-5.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "내열 금속 방어구 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/heat-proof-metal-armor-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 금속 갑옷 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cold-proof-metal-armor-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "부드러운 모자 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/soft-hat-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 금속 갑옷 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cold-proof-metal-armor-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "소프트 햇 회로도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/soft-hat-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 금속 갑옷 도식 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cold-proof-metal-armor-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "소프트 햇 회로도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/soft-hat-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 금속 갑옷 도식 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cold-proof-metal-armor-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "소프트 햇 회로도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/soft-hat-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "Soft Hat 5의 청사진",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/blueprint-of-soft-hat-5.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "내열성 정제 금속 방어구 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/내열-정련-금속-갑옷-도식-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "내열성 정제 금속 방어구 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/내열-정련-금속-갑옷-도식-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "헬멧 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/helmet-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "내열성 정제 금속 방어구 도식 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/내열-정련-금속-갑옷-도식-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "헬멧 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/helmet-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "내열성 정제 금속 방어구 도식 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/내열-정련-금속-갑옷-도식-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "헬멧 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/helmet-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 정제 금속 방어구 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/내한성-제련-금속-갑옷-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "헬멧 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/helmet-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "헬멧 5의 청사진",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/blueprint-of-helmet-5.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 정제 금속 방어구 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/내한성-제련-금속-갑옷-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 정제 금속 방어구 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/내한성-제련-금속-갑옷-도식-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "실크 모자 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/silk-hat-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 정제 금속 방어구 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/내한성-제련-금속-갑옷-도식-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "실크 모자 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/silk-hat-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "내열성 Pal 금속 갑옷 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/heat-proof-pal-metal-armor-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "실크 모자 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/silk-hat-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "내열성 Pal 금속 갑옷 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/heat-proof-pal-metal-armor-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "실크 모자 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/silk-hat-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "5 실크 모자의 개략도",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/5-schematic-diagrams-of-the-silk-hat.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "내열성 Pal 금속 갑옷 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/heat-proof-pal-metal-armor-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "내열성 Pal 금속 갑옷 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/heat-proof-pal-metal-armor-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "삼각뿔 도식 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tricorne-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 Pal 금속 갑옷 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cold-proof-pal-metal-armor-schematic-1.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "삼각모 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tricorne-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 Pal 금속 갑옷 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cold-proof-pal-metal-armor-schematic-2.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "삼각뿔 도식 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tricorne-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 Pal 금속 갑옷 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cold-proof-pal-metal-armor-schematic-3.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "삼각뿔 도식 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tricorne-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "트라이콘 모자 설계도 5",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/blueprint-of-the-tricorn-hat-5.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "내한성 Pal 금속 갑옷 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/cold-proof-pal-metal-armor-schematic-4.png",
+        "금": "10000",
+        "무게": "0"
+    },
+    {
+        "korname": "탐사 모자 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/exploration-cap-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "탐사 모자 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/exploration-cap-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "탐사 모자 도식 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/exploration-cap-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "탐사 모자 도식 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/exploration-cap-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "탐험 모자 5의 청사진",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/blueprint-of-exploration-hat-5.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "대학원 모자 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/graduate-cap-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "대학원 모자 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/graduate-cap-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "대학원 모자 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/graduate-cap-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "대학원 모자 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/graduate-cap-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "University Hat의 청사진 5",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/blueprint-5-of-university-hat.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "농사 모자 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/farming-hat-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "농사 모자 도식 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/farming-hat-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "농사 모자 도식 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/farming-hat-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "농사 모자 도식 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/farming-hat-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "농업용 모자의 5 다이어그램",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/5-diagrams-of-agricultural-hat.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "중산모 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/bowler-hat-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "중산모 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/bowler-hat-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "중산모 도식 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/bowler-hat-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "중산모 도식 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/bowler-hat-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "중산모 5의 청사진",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/blueprint-of-bowler-hat-5.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "Tocotoco 캡 회로도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tocotoco-cap-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "Tocotoco 캡 회로도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tocotoco-cap-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "Tocotoco 캡 회로도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tocotoco-cap-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "Tocotoco 캡 회로도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/tocotoco-cap-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "Crutchli 모자 디자인 계획 5",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/design-plan-5-for-the-crutchli-hat.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "웃는 토코토코 모자 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/grinning-tocotoco-cap-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "웃는 토코토코 모자 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/grinning-tocotoco-cap-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "웃는 토코토코 모자 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/grinning-tocotoco-cap-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "웃는 토코토코 모자 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/grinning-tocotoco-cap-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "웃고 있는 곱슬모자 설계도 5",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/grinning-curly-hat-blueprint-5.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "고무모스 캡 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/gumoss-cap-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "고무모스 캡 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/gumoss-cap-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "고무모스 캡 설계도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/gumoss-cap-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "고무모스 캡 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/gumoss-cap-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "내모치 모자 설계도 5개",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/5-blueprints-of-naemochi-hat.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "펜킹 캡 설계도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/penking-cap-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "펜킹 캡 설계도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/penking-cap-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "펜킹 캡 도식 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/penking-cap-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "펜킹 캡 설계도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/penking-cap-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "카펜 모자 설계도 5",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/blueprint-of-capppen-hat-5.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "Katress 캡 회로도 1",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/katress-cap-schematic-1.png",
+        "금": "500",
+        "무게": "0"
+    },
+    {
+        "korname": "Katress 캡 회로도 2",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/katress-cap-schematic-2.png",
+        "금": "800",
+        "무게": "0"
+    },
+    {
+        "korname": "Katress 캡 회로도 3",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/katress-cap-schematic-3.png",
+        "금": "1300",
+        "무게": "0"
+    },
+    {
+        "korname": "Katress 캡 회로도 4",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/katress-cap-schematic-4.png",
+        "금": "1800",
+        "무게": "0"
+    },
+    {
+        "korname": "Clemence Hat 5의 디자인 청사진",
+        "코나메": "",
+        "유형": "청사진",
+        "영상": "/public/image/items/design-blueprint-of-clemence-hat-5.png",
+        "금": "2500",
+        "무게": "0"
+    },
+    {
+        "korname": "동물 가죽",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/animal-skin.png",
+        "금": "140",
+        "무게": "1"
+    },
+    {
+        "korname": "항생제_좋음",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/antibiotic-good.png",
+        "금": "10",
+        "무게": "1"
+    },
+    {
+        "korname": "항생제_보통",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/antibiotic-normal.png",
+        "금": "10",
+        "무게": "1"
+    },
+    {
+        "korname": "항생제_슈퍼",
+        "코나메": "",
+        "유형": "소비하다",
+        "영상": "/public/image/items/antibiotic-super.png",
+        "금": "10",
+        "무게": "1"
+    },
+    {
+        "korname": "맥주",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/beer.png",
+        "금": "100",
+        "무게": "2"
+    },
+    {
+        "korname": "볼트메인 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/boltmane-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "갈고리 발톱",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/claw.png",
+        "금": "120",
+        "무게": "1"
+    },
+    {
+        "korname": "컴퓨터",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/공개/이미지/항목/컴퓨터.png",
+        "금": "298000",
+        "무게": "1"
+    },
+    {
+        "korname": "옥수수 수프",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/corn-soup.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "원유",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/crude-oil.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "카레",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/curry.png",
+        "금": "50",
+        "무게": "1"
+    },
+    {
+        "korname": "송곳니",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/fang.png",
+        "금": "120",
+        "무게": "1"
+    },
+    {
+        "korname": "낚싯대_좋음",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/fishing-rod-good.png",
+        "금": "10",
+        "무게": "15"
+    },
+    {
+        "korname": "낚싯대_전설",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/fishing-rod-legendary.png",
+        "금": "10",
+        "무게": "15"
+    },
+    {
+        "korname": "낚싯대_낡은",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/fishing-rod-old.png",
+        "금": "10",
+        "무게": "15"
+    },
+    {
+        "korname": "낚시대_슈퍼",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/fishing-rod-super.png",
+        "금": "10",
+        "무게": "15"
+    },
+    {
+        "korname": "방독면",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/gas-mask.png",
+        "금": "1500",
+        "무게": "2"
+    },
+    {
+        "korname": "포도",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/grape.png",
+        "금": "2000",
+        "무게": "1"
+    },
+    {
+        "korname": "구운 생선",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/grilled-fish.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "화약",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/gunpowder.png",
+        "금": "10",
+        "무게": "0"
+    },
+    {
+        "korname": "깡충깡충 뛰다",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/hop.png",
+        "금": "2000",
+        "무게": "2"
+    },
+    {
+        "korname": "ITEM_NAME_NPC_WEAPON",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/item-name-npc-weapon.png",
+        "금": "10",
+        "무게": "99999"
+    },
+    {
+        "korname": "ITEM_NAME_PV_ITEMS",
+        "코나메": "",
+        "유형": "무기",
+        "영상": "/public/image/items/item-name-pv-items.png",
+        "금": "10",
+        "무게": "0"
+    },
+    {
+        "korname": "라이트즈 헬멧",
+        "코나메": "",
+        "유형": "갑옷",
+        "영상": "/public/image/items/lightz-helmet.png",
+        "금": "180",
+        "무게": "7"
+    },
+    {
+        "korname": "럭셔리오믈렛",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/luxuryomelette.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "야간투시경 고글",
+        "코나메": "",
+        "유형": "부속물",
+        "영상": "/public/image/items/night-vision-goggles.png",
+        "금": "1500",
+        "무게": "2"
+    },
+    {
+        "korname": "팔듐 덩어리",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/paldium-clump.png",
+        "금": "1000",
+        "무게": "삼"
+    },
+    {
+        "korname": "플라스틱",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/plastic.png",
+        "금": "200",
+        "무게": "1"
+    },
+    {
+        "korname": "포타주",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/potage.png",
+        "금": "50",
+        "무게": "0"
+    },
+    {
+        "korname": "감자씨감자",
+        "코나메": "",
+        "유형": "재료",
+        "영상": "/public/image/items/potatoseedpotatoes.png",
+        "금": "10",
+        "무게": "0"
+    },
+    {
+        "korname": "샌드위치",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/sandwich.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "해산물 수프",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/seafood-soup.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "스튜",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/stew.png",
+        "금": "100",
+        "무게": "1"
+    },
+    {
+        "korname": "와인",
+        "코나메": "",
+        "유형": "음식",
+        "영상": "/public/image/items/wine.png",
+        "금": "100",
+        "무게": "2"
+    },
+    {
+        "korname": "ko_text 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/en-text-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "en_text의 전력 변환기",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/T_DarkMutant_icon_normal.webp",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "en_text의 산탄총",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/en-text-s-shotgun.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "리프멍크 인형",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/lifmunk-effigy.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "힙합 랜턴",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/hip-lantern.png",
+        "금": "1",
+        "무게": "0"
+    },
+    {
+        "korname": "작은 사료 가방",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/small-feed-bag.png",
+        "금": "1",
+        "무게": "0"
+    },
+    {
+        "korname": "평균 피드 백",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/average-feed-bag.png",
+        "금": "1",
+        "무게": "0"
+    },
+    {
+        "korname": "대형 사료 가방",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/large-feed-bag.png",
+        "금": "1",
+        "무게": "0"
+    },
+    {
+        "korname": "거대한 사료 가방",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/huge-feed-bag.png",
+        "금": "1",
+        "무게": "0"
+    },
+    {
+        "korname": "거대 사료 가방",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/giant-feed-bag.png",
+        "금": "1",
+        "무게": "0"
+    },
+    {
+        "korname": "졸트호그 크리스트의 장갑",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/jolthog-cryst-s-gloves.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "졸토그의 장갑",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/jolthog-s-gloves.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "폭스파크의 마구",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/foxparks-s-harness.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "멜파카 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/melpaca-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "스위파 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/sweepa-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "루쇼어 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/rushoar-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "셀라레이의 장갑",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/celaray-s-gloves.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "리프멍크의 기관단총",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/lifmunk-s-submachine-gun.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "다이어하울의 안장 마구",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/direhowl-s-saddled-harness.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "탄지의 돌격소총",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/tanzee-s-assault-rifle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "아쿠아돈 테라 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/aquadon-terra-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "서핑 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/surfent-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "에이크티르디어 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/eikthyrdeer-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "Eikthyrdeer 테라 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/eikthyrdeer-terra-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "그린테일 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/grintale-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "유니볼트 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/univolt-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "킬라마리의 장갑",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/killamari-s-gloves.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "토코토코의 장갑",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/tocotoco-s-gloves.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "나이트윙 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/nitewing-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "아르삭스 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/arsox-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "플로피의 목걸이",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/flopie-s-necklace.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "디그투아즈의 머리띠",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/digtoise-s-headband.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "Pengulet의 로켓 발사기",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/pengulet-s-rocket-launcher.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "다이노솜 럭스 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/dinossom-lux-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "다이노솜 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/dinossom-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "대드림의 목걸이",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/daedream-s-necklace.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "기관지 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/broncherry-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "물 기관지 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/water-broncherry-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "칠렛 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/chilet-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "한규 크리스탈의 장갑",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/hangyu-cryst-s-glove.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "한규의 장갑",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/hangyu-s-gloves.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "Vanwyrm Cryst 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/vanwyrm-cryst-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "반고룡 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/vanwyrm-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "아이스 킹파카 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/ice-kingpaca-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "킹파카 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/kingpaca-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "엘피드란 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/elphidran-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "워터 엘피드란 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/water-elphidran-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "다찌의 목걸이",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/dazzi-s-necklace.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "강풍발톱 장갑",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/galeclaw-s-gloves.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "마레이스 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/maraith-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "모산다 럭스의 유탄 발사기",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/mossanda-lux-s-grenade-launcher.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "모산다의 유탄 발사기",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/mossanda-s-grenade-launcher.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "아이스 렙티로 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/ice-reptyro-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "렙티로 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/reptyro-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "다크 피린 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/dark-pyrin-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "피린 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/pyrin-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "맘모레스트 크리스트 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/mammorest-cryst-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "맘모레스트 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/mammorest-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "아주로베 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/azurobe-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "요르문타이드 이그니스 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/jormuntide-ignis-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "요르문타이드 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/jormuntide-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "키순 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/kitsun-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "레이하운드 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/rayhound-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "블레이즈하울 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/blazehowl-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "다크 킹페르노 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/dark-kingferno-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "라인드릭스 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/reindrix-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "비콘 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/beakon-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "라그나호크 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/ragnahawk-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "팔레리스 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/faleris-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "퀴번 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/quivern-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "헬제퍼 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/helzephyr-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "펭로프 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/fenglope-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "주작 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/suzaku-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "물 주작 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/water-suzaku-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "블레이저무트 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/blazamut-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "월포보탄안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/wumpo-botan-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "월포안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/wumpo-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "그리즈볼트의 미니건",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/grizzbolt-s-minigun.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "그림자부리 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/shadowbeak-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "아스테곤 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/astegon-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "릴랙사우루스 럭스의 미사일 발사기",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/relaxaurus-lux-s-missile-launcher.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "릴랙사우루스의 미사일 발사기",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/relaxaurus-s-missile-launcher.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "드라고스트로프의 산탄총",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/dragostrophe-s-shotgun.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "Frostalion Noct 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/frostallion-noct-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "서리탈리온 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/frostallion-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "팔라디우스 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/paladius-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "네크로무스 안장",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/necromus-saddle.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "Jetragon의 미사일 발사기",
+        "코나메": "",
+        "유형": "필수적인",
+        "영상": "/public/image/items/jetragon-s-missile-launcher.png",
+        "금": "0",
+        "무게": "0"
+    },
+    {
+        "korname": "",
+        "코나메": " ",
+        "유형": " ",
+        "영상": " ",
+        "금": " ",
+        "무게": ""
+    }
+]

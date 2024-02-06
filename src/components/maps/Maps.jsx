@@ -54,7 +54,7 @@ export default function Maps() {
   // eng파일에서 데이터 가져오기
   useEffect(() => {
     if (!selectedPalKey) return;
-  
+
     fetch('/pals-eng.json')
       .then((response) => response.json())
       .then((data) => {
