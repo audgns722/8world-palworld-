@@ -2369,7 +2369,7 @@
     },
     {
         "name": "Common Egg",
-        "korname": "일반 계란",
+        "korname": "평범한 알",
         "type": "소재",
         "image": "\/public\/image\/items\/common-egg.png",
         "gold": 10,
@@ -2377,7 +2377,7 @@
     },
     {
         "name": "Large Common Egg",
-        "korname": "큰 일반 알",
+        "korname": "평범한 대형 알",
         "type": "소재",
         "image": "\/public\/image\/items\/large-common-egg.png",
         "gold": 10,
@@ -2385,7 +2385,7 @@
     },
     {
         "name": "Huge Common Egg",
-        "korname": "거대한 일반 알",
+        "korname": "평범한 거대한 알",
         "type": "소재",
         "image": "\/public\/image\/items\/huge-common-egg.png",
         "gold": 10,
@@ -2393,7 +2393,7 @@
     },
     {
         "name": "Scorching Egg",
-        "korname": "뜨거운 계란",
+        "korname": "열기 나는 알",
         "type": "소재",
         "image": "\/public\/image\/items\/scorching-egg.png",
         "gold": 10,
@@ -2401,7 +2401,7 @@
     },
     {
         "name": "Large Scorching Egg",
-        "korname": "큰 타오르는 달걀",
+        "korname": "열기 나는 대형 알",
         "type": "소재",
         "image": "\/public\/image\/items\/large-scorching-egg.png",
         "gold": 10,
@@ -2409,7 +2409,7 @@
     },
     {
         "name": "Huge Scorching Egg",
-        "korname": "거대한 불타오르는 알",
+        "korname": "열기 나는 거대한 알",
         "type": "소재",
         "image": "\/public\/image\/items\/huge-scorching-egg.png",
         "gold": 10,
@@ -2417,7 +2417,7 @@
     },
     {
         "name": "Damp Egg",
-        "korname": "축축한 계란",
+        "korname": "축축한 알",
         "type": "소재",
         "image": "\/public\/image\/items\/damp-egg.png",
         "gold": 10,
@@ -2425,7 +2425,7 @@
     },
     {
         "name": "Large Damp Egg",
-        "korname": "크고 축축한 계란",
+        "korname": "축축한 대형 알",
         "type": "소재",
         "image": "\/public\/image\/items\/large-damp-egg.png",
         "gold": 10,
@@ -2433,7 +2433,7 @@
     },
     {
         "name": "Huge Damp Egg",
-        "korname": "거대하고 축축한 계란",
+        "korname": "축축한 거대한 알",
         "type": "소재",
         "image": "\/public\/image\/items\/huge-damp-egg.png",
         "gold": 10,
@@ -2449,7 +2449,7 @@
     },
     {
         "name": "Large Verdant Egg",
-        "korname": "큰 신록의 알",
+        "korname": "신록의 대형 알",
         "type": "소재",
         "image": "\/public\/image\/items\/large-verdant-egg.png",
         "gold": 10,
@@ -2457,7 +2457,7 @@
     },
     {
         "name": "Huge Verdant Egg",
-        "korname": "거대한 신록의 알",
+        "korname": "신록의 거대한 알",
         "type": "소재",
         "image": "\/public\/image\/items\/huge-verdant-egg.png",
         "gold": 10,
@@ -2465,7 +2465,7 @@
     },
     {
         "name": "Electric Egg",
-        "korname": "전기 계란",
+        "korname": "찌릿찌릿한 알",
         "type": "소재",
         "image": "\/public\/image\/items\/electric-egg.png",
         "gold": 10,
@@ -2473,7 +2473,7 @@
     },
     {
         "name": "Large Electric Egg",
-        "korname": "대형 전기 계란",
+        "korname": "찌릿찌릿한 대형 알",
         "type": "소재",
         "image": "\/public\/image\/items\/large-electric-egg.png",
         "gold": 10,
@@ -2481,7 +2481,7 @@
     },
     {
         "name": "Huge Electric Egg",
-        "korname": "거대한 전기 계란",
+        "korname": "찌릿찌릿한 거대한 알",
         "type": "소재",
         "image": "\/public\/image\/items\/huge-electric-egg.png",
         "gold": 10,
@@ -2489,7 +2489,7 @@
     },
     {
         "name": "Frozen Egg",
-        "korname": "냉동 계란",
+        "korname": "얼어붙은 알",
         "type": "소재",
         "image": "\/public\/image\/items\/frozen-egg.png",
         "gold": 10,
@@ -2497,7 +2497,7 @@
     },
     {
         "name": "Large Frozen Egg",
-        "korname": "대형 냉동 계란",
+        "korname": "얼어붙은 대형 알",
         "type": "소재",
         "image": "\/public\/image\/items\/large-frozen-egg.png",
         "gold": 10,
@@ -2505,7 +2505,7 @@
     },
     {
         "name": "Huge Frozen Egg",
-        "korname": "거대한 냉동 계란",
+        "korname": "얼어붙은 거대한 알",
         "type": "소재",
         "image": "\/public\/image\/items\/huge-frozen-egg.png",
         "gold": 10,
@@ -2513,7 +2513,7 @@
     },
     {
         "name": "Rocky Egg",
-        "korname": "록키 에그",
+        "korname": "거친느낌의 알",
         "type": "소재",
         "image": "\/public\/image\/items\/rocky-egg.png",
         "gold": 10,
@@ -2521,7 +2521,7 @@
     },
     {
         "name": "Large Rocky Egg",
-        "korname": "큰 바위 알",
+        "korname": "거친느낌의 대형 알",
         "type": "소재",
         "image": "\/public\/image\/items\/large-rocky-egg.png",
         "gold": 10,
@@ -2529,7 +2529,7 @@
     },
     {
         "name": "Huge Rocky Egg",
-        "korname": "거대한 바위 알",
+        "korname": "거친느낌의 거대한 알",
         "type": "소재",
         "image": "\/public\/image\/items\/huge-rocky-egg.png",
         "gold": 10,
@@ -2537,7 +2537,7 @@
     },
     {
         "name": "Dark Egg",
-        "korname": "다크 에그",
+        "korname": "암흑의 알",
         "type": "소재",
         "image": "\/public\/image\/items\/dark-egg.png",
         "gold": 10,
@@ -2545,7 +2545,7 @@
     },
     {
         "name": "Large Dark Egg",
-        "korname": "대형 다크 에그",
+        "korname": "암흑의 대형 알",
         "type": "소재",
         "image": "\/public\/image\/items\/large-dark-egg.png",
         "gold": 10,
@@ -2553,7 +2553,7 @@
     },
     {
         "name": "Huge Dark Egg",
-        "korname": "거대하고 어두운 알",
+        "korname": "암흑의 거대한 알",
         "type": "소재",
         "image": "\/public\/image\/items\/huge-dark-egg.png",
         "gold": 10,
@@ -2561,7 +2561,7 @@
     },
     {
         "name": "Dragon Egg",
-        "korname": "드래곤 알",
+        "korname": "용의 알",
         "type": "소재",
         "image": "\/public\/image\/items\/dragon-egg.png",
         "gold": 10,
@@ -2569,7 +2569,7 @@
     },
     {
         "name": "Large Dragon Egg",
-        "korname": "대형 드래곤 알",
+        "korname": "용의 대형 알",
         "type": "소재",
         "image": "\/public\/image\/items\/large-dragon-egg.png",
         "gold": 10,
@@ -2577,7 +2577,7 @@
     },
     {
         "name": "Huge Dragon Egg",
-        "korname": "거대한 드래곤 알",
+        "korname": "용의 거대한 알",
         "type": "소재",
         "image": "\/public\/image\/items\/huge-dragon-egg.png",
         "gold": 10,
