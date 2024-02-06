@@ -5,6 +5,7 @@ import Image from "next/image";
 import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
 import CircularProgress from '@mui/material/CircularProgress';
+import Link from "next/link";
 
 export default function Items() {
     const [data, setData] = useState([]);
@@ -74,7 +75,7 @@ export default function Items() {
                             },
                             // hover 때 테두리 색
                             '&:hover .MuiOutlinedInput-notchedOutline': {
-                                borderColor: '#1976d2',
+                                borderColor: '#1976d2 !important',
                             },
                             // 포커스됐을 때 테두리 색
                             '&.Mui-focused .MuiOutlinedInput-notchedOutline': {
@@ -120,7 +121,9 @@ export default function Items() {
                                         {matchedPals.length > 0 && (
                                             <div className="pals">
                                                 {matchedPals.slice(0, 3).map((pal, palIndex) => (
-                                                    <Image className="palsimg" key={palIndex} src={pal.image.replace('/public', '')} alt={pal.name} width={100} height={100} />
+                                                    <Link href={`detail/${pal.key}`} key={palIndex}>
+                                                        <Image className="palsimg" src={pal.image.replace('/public', '')} alt={pal.name} width={100} height={100} />
+                                                    </Link>
                                                 ))}
                                             </div>
                                         )}
