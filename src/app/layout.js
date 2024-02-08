@@ -1,5 +1,5 @@
 import '../assets/sass/style.scss';
-
+import Head from 'next/head'
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 
@@ -239,6 +239,10 @@ export default function RootLayout({ children }) {
 
   return (
     <html lang="ko">
+      <Head>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4313698984582740"
+          crossorigin="anonymous"></script>
+      </Head>
       <body>
         <GoogleAnalytics gaId="G-1BX9XD2SC2" />
         <GoogleTagManager gtmId="GTM-KH6RHHQS" />

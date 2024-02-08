@@ -161,7 +161,7 @@
     },
     {
         "name": "Bat",
-        "korname": "박쥐",
+        "korname": "야구 방망이",
         "type": "무기",
         "image": "\/public\/image\/items\/bat.png",
         "gold": 80,
@@ -185,7 +185,7 @@
     },
     {
         "name": "Stone Axe",
-        "korname": "돌도끼",
+        "korname": "돌 도끼",
         "type": "무기",
         "image": "\/public\/image\/items\/stone-axe.png",
         "gold": 200,
@@ -201,7 +201,7 @@
     },
     {
         "name": "Refined Metal Axe",
-        "korname": "세련된 금속 도끼",
+        "korname": "제련 금속 도끼",
         "type": "무기",
         "image": "\/public\/image\/items\/refined-metal-axe.png",
         "gold": 7000,
@@ -209,7 +209,7 @@
     },
     {
         "name": "Axe4",
-        "korname": "Axe4",
+        "korname": "도끼4",
         "type": "무기",
         "image": "\/public\/image\/items\/axe4.png",
         "gold": 33000,
@@ -233,7 +233,7 @@
     },
     {
         "name": "Refined Metal Pickaxe",
-        "korname": "정제된 금속 곡괭이",
+        "korname": "제련 금속 곡괭이",
         "type": "무기",
         "image": "\/public\/image\/items\/refined-metal-pickaxe.png",
         "gold": 7000,
@@ -265,7 +265,7 @@
     },
     {
         "name": "Elizabee's Staff",
-        "korname": "퀸 비나의 지팡이",
+        "korname": "퀸비나의 지팡이",
         "type": "무기",
         "image": "\/public\/image\/items\/elizabee-s-staff.png",
         "gold": 20000,
@@ -273,7 +273,7 @@
     },
     {
         "name": "Beegarde's Spear",
-        "korname": "베가르드의 창",
+        "korname": "비 나이트의 창",
         "type": "무기",
         "image": "\/public\/image\/items\/beegarde-s-spear.png",
         "gold": 20000,
@@ -297,7 +297,7 @@
     },
     {
         "name": "Meat Cleaver",
-        "korname": "고기칼",
+        "korname": "푸주칼",
         "type": "무기",
         "image": "\/public\/image\/items\/meat-cleaver.png",
         "gold": 100,
@@ -345,7 +345,7 @@
     },
     {
         "name": "Five Shot Bow",
-        "korname": "다섯 발의 활",
+        "korname": "오연궁",
         "type": "무기",
         "image": "\/public\/image\/items\/five-shot-bow.png",
         "gold": 10,
@@ -393,7 +393,7 @@
     },
     {
         "name": "Decal Gun 1",
-        "korname": "데칼건 1",
+        "korname": "데칼 총 1",
         "type": "무기",
         "image": "\/public\/image\/items\/decal-gun-1.png",
         "gold": 33000,
@@ -401,7 +401,7 @@
     },
     {
         "name": "Decal Gun 2",
-        "korname": "데칼건 2",
+        "korname": "데칼 총 2",
         "type": "무기",
         "image": "\/public\/image\/items\/decal-gun-2.png",
         "gold": 33000,
@@ -409,7 +409,7 @@
     },
     {
         "name": "Decal Gun 3",
-        "korname": "데칼건 3",
+        "korname": "데칼 총 3",
         "type": "무기",
         "image": "\/public\/image\/items\/decal-gun-3.png",
         "gold": 33000,
@@ -417,7 +417,7 @@
     },
     {
         "name": "Decal Gun 4",
-        "korname": "데칼건 4",
+        "korname": "데칼 총 4",
         "type": "무기",
         "image": "\/public\/image\/items\/decal-gun-4.png",
         "gold": 33000,
@@ -425,7 +425,7 @@
     },
     {
         "name": "Decal Gun 5",
-        "korname": "데칼건 5",
+        "korname": "데칼 총 5",
         "type": "무기",
         "image": "\/public\/image\/items\/decal-gun-5.png",
         "gold": 33000,
@@ -489,7 +489,7 @@
     },
     {
         "name": "Single-shot Sphere Launcher",
-        "korname": "단발 구체 발사기",
+        "korname": "단발형 스피어 발사기",
         "type": "무기",
         "image": "\/public\/image\/items\/single-shot-sphere-launcher.png",
         "gold": 109200,
@@ -497,7 +497,7 @@
     },
     {
         "name": "Scatter Sphere Launcher",
-        "korname": "분산구 발사기",
+        "korname": "확산형 스피어 발사기",
         "type": "무기",
         "image": "\/public\/image\/items\/scatter-sphere-launcher.png",
         "gold": 44000,
@@ -505,7 +505,7 @@
     },
     {
         "name": "Homing Sphere Launcher",
-        "korname": "호밍 스피어 런처",
+        "korname": "귀환형 스피어 발사기",
         "type": "무기",
         "image": "\/public\/image\/items\/homing-sphere-launcher.png",
         "gold": 460000,
@@ -2681,7 +2681,7 @@
     },
     {
         "name": "Skill Fruit: Power Shot",
-        "korname": "스킬 열매 : 파워 샷",
+        "korname": "기술 열매 : 파워 샷",
         "type": "소모품",
         "image": "\/public\/image\/items\/skill-fruit-power-shot.png",
         "gold": 1000,
@@ -2689,7 +2689,7 @@
     },
     {
         "name": "Skill Fruit: Power Bomb",
-        "korname": "스킬열매 : 파워밤",
+        "korname": "기술 열매 : 파워 폭탄",
         "type": "소모품",
         "image": "\/public\/image\/items\/skill-fruit-power-bomb.png",
         "gold": 2500,
@@ -2697,7 +2697,7 @@
     },
     {
         "name": "Skill Fruit: Pal Blast",
-        "korname": "스킬 열매 : Pal Blast",
+        "korname": "기술 열매 : 팰 폭발",
         "type": "소모품",
         "image": "\/public\/image\/items\/skill-fruit-pal-blast.png",
         "gold": 5000,
@@ -2705,7 +2705,7 @@
     },
     {
         "name": "Skill Fruit: Air Cannon",
-        "korname": "스킬열매 : 공기대포",
+        "korname": "기술 열매 : 공기 대포",
         "type": "소모품",
         "image": "\/public\/image\/items\/skill-fruit-air-cannon.png",
         "gold": 1500,
@@ -2713,7 +2713,7 @@
     },
     {
         "name": "Skill Fruit: Implode",
-        "korname": "스킬 열매: 파열",
+        "korname": "스킬 열매: 자폭",
         "type": "소모품",
         "image": "\/public\/image\/items\/skill-fruit-implode.png",
         "gold": 5000,
@@ -2721,7 +2721,7 @@
     },
     {
         "name": "Grass Skill Fruit: Wind Cutter",
-        "korname": "잔디 스킬 열매 : 윈드 커터",
+        "korname": "풀 스킬 열매 : 바람의 칼날",
         "type": "소모품",
         "image": "\/public\/image\/items\/grass-skill-fruit-wind-cutter.png",
         "gold": 1000,
@@ -2729,7 +2729,7 @@
     },
     {
         "name": "Grass Skill Fruit: Grass Tornado",
-        "korname": "잔디 스킬 열매 : 잔디 토네이도",
+        "korname": "풀 스킬 열매 : 초록 폭풍",
         "type": "소모품",
         "image": "\/public\/image\/items\/grass-skill-fruit-grass-tornado.png",
         "gold": 2500,
@@ -2737,7 +2737,7 @@
     },
     {
         "name": "Grass Skill Fruit: Solar Blast",
-        "korname": "잔디 스킬 열매 : 태양 폭발",
+        "korname": "풀 스킬 열매 : 태양 폭발",
         "type": "소모품",
         "image": "\/public\/image\/items\/grass-skill-fruit-solar-blast.png",
         "gold": 5000,
@@ -2745,7 +2745,7 @@
     },
     {
         "name": "Grass Skill Fruit: Seed Machine Gun",
-        "korname": "잔디 스킬 열매 : 씨앗 기관총",
+        "korname": "풀 스킬 열매 : 씨앗 기관총",
         "type": "소모품",
         "image": "\/public\/image\/items\/grass-skill-fruit-seed-machine-gun.png",
         "gold": 1500,
@@ -2753,7 +2753,7 @@
     },
     {
         "name": "Grass Skill Fruit: Spine Vine",
-        "korname": "잔디 스킬 열매 : 척추 덩굴",
+        "korname": "풀 스킬 열매 : 가시 덩굴",
         "type": "소모품",
         "image": "\/public\/image\/items\/grass-skill-fruit-spine-vine.png",
         "gold": 3000,
@@ -2761,7 +2761,7 @@
     },
     {
         "name": "Grass Skill Fruit: Seed Mine",
-        "korname": "잔디 스킬 과일: 씨앗 광산",
+        "korname": "잔디 스킬 과일: 씨앗 지뢰",
         "type": "소모품",
         "image": "\/public\/image\/items\/grass-skill-fruit-seed-mine.png",
         "gold": 2000,
@@ -2769,7 +2769,7 @@
     },
     {
         "name": "Water Skill Fruit: Aqua Gun",
-        "korname": "워터스킬 열매 : 아쿠아건",
+        "korname": "물 기술 열매 : 아쿠아 샷",
         "type": "소모품",
         "image": "\/public\/image\/items\/water-skill-fruit-aqua-gun.png",
         "gold": 1000,
@@ -2777,7 +2777,7 @@
     },
     {
         "name": "Water Skill Fruit: Aqua Burst",
-        "korname": "워터 스킬 열매 : 아쿠아 버스트",
+        "korname": "물 기술 열매 : 물폭탄",
         "type": "소모품",
         "image": "\/public\/image\/items\/water-skill-fruit-aqua-burst.png",
         "gold": 2500,
@@ -2785,7 +2785,7 @@
     },
     {
         "name": "Water Skill Fruit: Hydro Laser",
-        "korname": "워터 스킬 열매 : 하이드로 레이저",
+        "korname": "물 기술 열매 : 하이드로 스트림",
         "type": "소모품",
         "image": "\/public\/image\/items\/water-skill-fruit-hydro-laser.png",
         "gold": 5000,
@@ -2793,7 +2793,7 @@
     },
     {
         "name": "Water Skill Fruit: Hydro Jet",
-        "korname": "워터 스킬 열매 : 하이드로 제트",
+        "korname": "물 기술 열매 : 워터 제트",
         "type": "소모품",
         "image": "\/public\/image\/items\/water-skill-fruit-hydro-jet.png",
         "gold": 1500,
@@ -2801,7 +2801,7 @@
     },
     {
         "name": "Water Skill Fruit: Bubble Blast",
-        "korname": "워터 스킬 열매 : 버블 블래스트",
+        "korname": "물 기술 열매 : 버블 샷",
         "type": "소모품",
         "image": "\/public\/image\/items\/water-skill-fruit-bubble-blast.png",
         "gold": 2000,
@@ -2809,7 +2809,7 @@
     },
     {
         "name": "Water Skill Fruit: Acid Rain",
-        "korname": "물 스킬 열매 : 산성비",
+        "korname": "물 기술 열매 : 산성비",
         "type": "소모품",
         "image": "\/public\/image\/items\/water-skill-fruit-acid-rain.png",
         "gold": 3000,
@@ -2817,7 +2817,7 @@
     },
     {
         "name": "Fire Skill Fruit: Ignis Blast",
-        "korname": "불 스킬 열매 : 이그니스 블래스트",
+        "korname": "화염 기술 열매 : 파이어 샷",
         "type": "소모품",
         "image": "\/public\/image\/items\/fire-skill-fruit-ignis-blast.png",
         "gold": 1000,
@@ -2825,7 +2825,7 @@
     },
     {
         "name": "Fire Skill Fruit: Ignis Breath",
-        "korname": "불 스킬 열매 : 이그니스 브레스",
+        "korname": "화염 기술 열매 : 파이어 브레스",
         "type": "소모품",
         "image": "\/public\/image\/items\/fire-skill-fruit-ignis-breath.png",
         "gold": 2500,
@@ -2833,7 +2833,7 @@
     },
     {
         "name": "Fire Skill Fruit: Fire Ball",
-        "korname": "불 스킬 열매 : 파이어 볼",
+        "korname": "화염 기술 열매 : 화염구",
         "type": "소모품",
         "image": "\/public\/image\/items\/fire-skill-fruit-fire-ball.png",
         "gold": 5000,
@@ -2841,7 +2841,7 @@
     },
     {
         "name": "Fire Skill Fruit: Flare Arrow",
-        "korname": "불 스킬 열매 : 섬광 화살",
+        "korname": "화염 기술 열매 : 불화살",
         "type": "소모품",
         "image": "\/public\/image\/items\/fire-skill-fruit-flare-arrow.png",
         "gold": 1500,
@@ -2849,7 +2849,7 @@
     },
     {
         "name": "Fire Skill Fruit: Spirit Fire",
-        "korname": "불 스킬 열매: 정령 불",
+        "korname": "화염 기술 열매: 스플릿 파이어",
         "type": "소모품",
         "image": "\/public\/image\/items\/fire-skill-fruit-spirit-fire.png",
         "gold": 2000,
@@ -2857,7 +2857,7 @@
     },
     {
         "name": "Fire Skill Fruit: Ignis Rage",
-        "korname": "불 스킬 열매 : 이그니스 레이지",
+        "korname": "화염 기술 열매 : 인페르노",
         "type": "소모품",
         "image": "\/public\/image\/items\/fire-skill-fruit-ignis-rage.png",
         "gold": 4000,
@@ -2865,7 +2865,7 @@
     },
     {
         "name": "Fire Skill Fruit: Flare Storm",
-        "korname": "불 스킬 열매 : 플레어 스톰",
+        "korname": "화염 기술 열매 : 화염 폭풍",
         "type": "소모품",
         "image": "\/public\/image\/items\/fire-skill-fruit-flare-storm.png",
         "gold": 2500,
@@ -2873,7 +2873,7 @@
     },
     {
         "name": "Electric Skill Fruit: Shockwave",
-        "korname": "일렉트릭 스킬 열매 : 쇼크웨이브",
+        "korname": "번개 기술 열매 : 전기 파장",
         "type": "소모품",
         "image": "\/public\/image\/items\/electric-skill-fruit-shockwave.png",
         "gold": 1000,
@@ -2881,7 +2881,7 @@
     },
     {
         "name": "Electric Skill Fruit: Lightning Bolt",
-        "korname": "전기 스킬 열매 : 라이트닝 볼트",
+        "korname": "번개 기술 열매 : 전기 볼트",
         "type": "소모품",
         "image": "\/public\/image\/items\/electric-skill-fruit-lightning-bolt.png",
         "gold": 5000,
@@ -2889,7 +2889,7 @@
     },
     {
         "name": "Electric Skill Fruit: Lightning Streak",
-        "korname": "전기 스킬 열매 : 번개 연속",
+        "korname": "번개 기술 열매 : 번갯불",
         "type": "소모품",
         "image": "\/public\/image\/items\/electric-skill-fruit-lightning-streak.png",
         "gold": 2500,
@@ -2897,7 +2897,7 @@
     },
     {
         "name": "Electric Skill Fruit: Plasma Tornado",
-        "korname": "전기 스킬 열매 : 플라즈마 토네이도",
+        "korname": "번개 기술 열매 : 플라즈마 토네이도",
         "type": "소모품",
         "image": "\/public\/image\/items\/electric-skill-fruit-plasma-tornado.png",
         "gold": 2000,
@@ -2905,7 +2905,7 @@
     },
     {
         "name": "Electric Skill Fruit: Spark Blast",
-        "korname": "일렉트릭 스킬 열매 : 스파크 블래스트",
+        "korname": "일렉트릭 스킬 열매 : 스파크 샷",
         "type": "소모품",
         "image": "\/public\/image\/items\/electric-skill-fruit-spark-blast.png",
         "gold": 1500,
@@ -2913,7 +2913,7 @@
     },
     {
         "name": "Electric Skill Fruit: Lock-on Laser",
-        "korname": "전기 스킬 열매 : 록온 레이저",
+        "korname": "번개 기술 열매 : 고정식 레이저",
         "type": "소모품",
         "image": "\/public\/image\/items\/electric-skill-fruit-lock-on-laser.png",
         "gold": 3000,
@@ -2921,7 +2921,7 @@
     },
     {
         "name": "Electric Skill Fruit: Electric Ball",
-        "korname": "전기 스킬 열매 : 전기 공",
+        "korname": "번개 기술 열매 : 번개 구체",
         "type": "소모품",
         "image": "\/public\/image\/items\/electric-skill-fruit-electric-ball.png",
         "gold": 2500,
@@ -2929,7 +2929,7 @@
     },
     {
         "name": "Electric Skill Fruit: Tri-Lightning",
-        "korname": "전기 스킬 열매 : 삼중 번개",
+        "korname": "번개 기술 열매 : 트라이 썬더",
         "type": "소모품",
         "image": "\/public\/image\/items\/electric-skill-fruit-tri-lightning.png",
         "gold": 3500,
@@ -2937,7 +2937,7 @@
     },
     {
         "name": "Electric Skill Fruit: Lightning Strike",
-        "korname": "전기 스킬 열매 : 라이트닝 스트라이크",
+        "korname": "번개 기술 열매 : 번개 일격",
         "type": "소모품",
         "image": "\/public\/image\/items\/electric-skill-fruit-lightning-strike.png",
         "gold": 5000,
@@ -2945,7 +2945,7 @@
     },
     {
         "name": "Earth Skill Fruit: Stone Cannon",
-        "korname": "대지 스킬 열매 : 스톤 캐논",
+        "korname": "땅 기술 열매 : 바위 대포",
         "type": "소모품",
         "image": "\/public\/image\/items\/earth-skill-fruit-stone-cannon.png",
         "gold": 1000,
@@ -2953,7 +2953,7 @@
     },
     {
         "name": "Earth Skill Fruit: Sand Tornado",
-        "korname": "대지 스킬 열매 : 샌드 토네이도",
+        "korname": "땅 기술 열매 : 모래 폭풍",
         "type": "소모품",
         "image": "\/public\/image\/items\/earth-skill-fruit-sand-tornado.png",
         "gold": 2500,
@@ -2961,7 +2961,7 @@
     },
     {
         "name": "Earth Skill Fruit: Rock Lance",
-        "korname": "대지의 능력 열매 : 바위창",
+        "korname": "대지의 능력 열매 : 바위 창",
         "type": "소모품",
         "image": "\/public\/image\/items\/earth-skill-fruit-rock-lance.png",
         "gold": 5000,
@@ -2969,7 +2969,7 @@
     },
     {
         "name": "Earth Skill Fruit: Sand Blast",
-        "korname": "대지 스킬 열매 : 샌드 블래스트",
+        "korname": "땅 기술 열매 : 모래 돌풍",
         "type": "소모품",
         "image": "\/public\/image\/items\/earth-skill-fruit-sand-blast.png",
         "gold": 1500,
@@ -2977,7 +2977,7 @@
     },
     {
         "name": "Earth Skill Fruit: Stone Blast",
-        "korname": "대지 스킬 열매 : 스톤 블래스트",
+        "korname": "땅 기술 열매 : 바위 폭발",
         "type": "소모품",
         "image": "\/public\/image\/items\/earth-skill-fruit-stone-blast.png",
         "gold": 2000,
@@ -2985,7 +2985,7 @@
     },
     {
         "name": "Ice Skill Fruit: Ice Missile",
-        "korname": "아이스 스킬 열매 : 아이스 미사일",
+        "korname": "얼음 기술 열매 : 얼음 미사일",
         "type": "소모품",
         "image": "\/public\/image\/items\/ice-skill-fruit-ice-missile.png",
         "gold": 1000,
@@ -2993,7 +2993,7 @@
     },
     {
         "name": "Ice Skill Fruit: Iceberg",
-        "korname": "얼음 스킬 열매 : 빙산",
+        "korname": "얼음 기술 열매 : 빙산",
         "type": "소모품",
         "image": "\/public\/image\/items\/ice-skill-fruit-iceberg.png",
         "gold": 3000,
@@ -3001,7 +3001,7 @@
     },
     {
         "name": "Ice Skill Fruit: Blizzard Spike",
-        "korname": "아이스 스킬 열매 : 블리자드 스파이크",
+        "korname": "아이스 스킬 열매 : 눈보라 스파이크",
         "type": "소모품",
         "image": "\/public\/image\/items\/ice-skill-fruit-blizzard-spike.png",
         "gold": 2500,
@@ -3009,7 +3009,7 @@
     },
     {
         "name": "Ice Skill Fruit: Icicle Cutter",
-        "korname": "얼음 스킬 열매 : 고드름 절단기",
+        "korname": "얼음 기술 열매 : 얼음 칼날",
         "type": "소모품",
         "image": "\/public\/image\/items\/ice-skill-fruit-icicle-cutter.png",
         "gold": 3000,
@@ -3017,7 +3017,7 @@
     },
     {
         "name": "Ice Skill Fruit: Cryst Breath",
-        "korname": "아이스 스킬 열매 : 크리스트 브레스",
+        "korname": "얼음 기술 열매 : 서리 낀 입김",
         "type": "소모품",
         "image": "\/public\/image\/items\/ice-skill-fruit-cryst-breath.png",
         "gold": 2500,
@@ -3025,7 +3025,7 @@
     },
     {
         "name": "Dark Skill Fruit: Shadow Burst",
-        "korname": "다크 스킬 열매 : 섀도우 버스트",
+        "korname": "어둠 기술 열매 : 그림자 폭발",
         "type": "소모품",
         "image": "\/public\/image\/items\/dark-skill-fruit-shadow-burst.png",
         "gold": 1000,
@@ -3033,7 +3033,7 @@
     },
     {
         "name": "Dark Skill Fruit: Nightmare Ball",
-        "korname": "다크 스킬 열매 : 나이트메어 볼",
+        "korname": "어둠 기술 열매 : 악몽의 구체",
         "type": "소모품",
         "image": "\/public\/image\/items\/dark-skill-fruit-nightmare-ball.png",
         "gold": 2500,
@@ -3041,7 +3041,7 @@
     },
     {
         "name": "Dark Skill Fruit: Psycho Gravity",
-        "korname": "다크 스킬 열매 : 사이코 그래비티",
+        "korname": "어둠 기술 열매 : 사이코 그래비티",
         "type": "소모품",
         "image": "\/public\/image\/items\/dark-skill-fruit-psycho-gravity.png",
         "gold": 3500,
@@ -3049,7 +3049,7 @@
     },
     {
         "name": "Dark Skill Fruit: Poison Blast",
-        "korname": "다크 스킬 열매 : 포이즌 블래스트",
+        "korname": "어둠 기술 열매 : 독 사격",
         "type": "소모품",
         "image": "\/public\/image\/items\/dark-skill-fruit-poison-blast.png",
         "gold": 1500,
@@ -3057,7 +3057,7 @@
     },
     {
         "name": "Dark Skill Fruit: Spirit Flame",
-        "korname": "어둠 스킬 열매 : 정령의 불꽃",
+        "korname": "어둠 스킬 열매 : 유령의 불꽃",
         "type": "소모품",
         "image": "\/public\/image\/items\/dark-skill-fruit-spirit-flame.png",
         "gold": 2000,
@@ -3065,7 +3065,7 @@
     },
     {
         "name": "Dark Skill Fruit: Dark Laser",
-        "korname": "다크 스킬 열매 : 다크 레이저",
+        "korname": "어둠 기술 열매 : 어둠 레이저",
         "type": "소모품",
         "image": "\/public\/image\/items\/dark-skill-fruit-dark-laser.png",
         "gold": 5000,
@@ -3073,7 +3073,7 @@
     },
     {
         "name": "Dragon Skill Fruit: Draconic Breath",
-        "korname": "드래곤 스킬 열매: 용의 숨결",
+        "korname": "용 기술 열매: 용의 숨결",
         "type": "소모품",
         "image": "\/public\/image\/items\/dragon-skill-fruit-draconic-breath.png",
         "gold": 4000,
@@ -3081,7 +3081,7 @@
     },
     {
         "name": "Dragon Skill Fruit: Dragon Cannon",
-        "korname": "드래곤 스킬 열매: 드래곤 캐논",
+        "korname": "용 기술 열매: 용 대포",
         "type": "소모품",
         "image": "\/public\/image\/items\/dragon-skill-fruit-dragon-cannon.png",
         "gold": 2000,
@@ -3089,7 +3089,7 @@
     },
     {
         "name": "Dragon Skill Fruit: Dragon Burst",
-        "korname": "드래곤 스킬 열매: 드래곤 버스트",
+        "korname": "용 기술 열매: 용의 파장",
         "type": "소모품",
         "image": "\/public\/image\/items\/dragon-skill-fruit-dragon-burst.png",
         "gold": 3000,
@@ -3097,7 +3097,7 @@
     },
     {
         "name": "Dragon Skill Fruit: Dragon Meteor",
-        "korname": "드래곤 스킬 열매: 드래곤 메테오",
+        "korname": "용 기술 열매: 용의 운석",
         "type": "소모품",
         "image": "\/public\/image\/items\/dragon-skill-fruit-dragon-meteor.png",
         "gold": 5000,
@@ -3137,7 +3137,7 @@
     },
     {
         "name": "Silver Key",
-        "korname": "은색 열쇠",
+        "korname": "은 열쇠",
         "type": "소모품",
         "image": "\/public\/image\/items\/silver-key.png",
         "gold": 1,
@@ -3145,7 +3145,7 @@
     },
     {
         "name": "Gold Key",
-        "korname": "황금 열쇠",
+        "korname": "금 열쇠",
         "type": "소모품",
         "image": "\/public\/image\/items\/gold-key.png",
         "gold": 1,
