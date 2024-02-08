@@ -1017,7 +1017,7 @@
     },
     {
         "name": "Life Pendant",
-        "korname": "라이프 펜던트",
+        "korname": "생명의 펜던트",
         "type": "악세서리",
         "image": "\/public\/image\/items\/life-pendant.png",
         "gold": 1000,
@@ -1025,7 +1025,7 @@
     },
     {
         "name": "Life Pendant +1",
-        "korname": "라이프펜던트+1",
+        "korname": "생명의 펜던트+1",
         "type": "악세서리",
         "image": "\/public\/image\/items\/life-pendant-1.png",
         "gold": 4000,
@@ -1033,7 +1033,7 @@
     },
     {
         "name": "Life Pendant +2",
-        "korname": "라이프펜던트+2",
+        "korname": "생명의 펜던트+2",
         "type": "악세서리",
         "image": "\/public\/image\/items\/life-pendant-2.png",
         "gold": 7000,
@@ -1041,7 +1041,7 @@
     },
     {
         "name": "Attack Pendant",
-        "korname": "공격 펜던트",
+        "korname": "공격의 펜던트",
         "type": "악세서리",
         "image": "\/public\/image\/items\/attack-pendant.png",
         "gold": 1000,
@@ -1049,7 +1049,7 @@
     },
     {
         "name": "Attack Pendant +1",
-        "korname": "공격펜던트+1",
+        "korname": "공격의 펜던트+1",
         "type": "악세서리",
         "image": "\/public\/image\/items\/attack-pendant-1.png",
         "gold": 4000,
@@ -1057,7 +1057,7 @@
     },
     {
         "name": "Attack Pendant +2",
-        "korname": "공격펜던트+2",
+        "korname": "공격의 펜던트+2",
         "type": "악세서리",
         "image": "\/public\/image\/items\/attack-pendant-2.png",
         "gold": 7000,
@@ -1065,7 +1065,7 @@
     },
     {
         "name": "Defense Pendant",
-        "korname": "방어 펜던트",
+        "korname": "방어의 펜던트",
         "type": "악세서리",
         "image": "\/public\/image\/items\/defense-pendant.png",
         "gold": 1000,
@@ -1073,7 +1073,7 @@
     },
     {
         "name": "Defense Pendant +1",
-        "korname": "방어펜던트+1",
+        "korname": "방어의 펜던트+1",
         "type": "악세서리",
         "image": "\/public\/image\/items\/defense-pendant-1.png",
         "gold": 4000,
@@ -1081,7 +1081,7 @@
     },
     {
         "name": "Defense Pendant +2",
-        "korname": "방어펜던트+2",
+        "korname": "방어의 펜던트+2",
         "type": "악세서리",
         "image": "\/public\/image\/items\/defense-pendant-2.png",
         "gold": 7000,
@@ -1089,7 +1089,7 @@
     },
     {
         "name": "Pendant of Diligence",
-        "korname": "근면의 펜던트",
+        "korname": "노동의 펜던트",
         "type": "악세서리",
         "image": "\/public\/image\/items\/pendant-of-diligence.png",
         "gold": 1000,
@@ -1097,7 +1097,7 @@
     },
     {
         "name": "Pendant of Diligence +1",
-        "korname": "근면의 펜던트 +1",
+        "korname": "노동의 펜던트 +1",
         "type": "악세서리",
         "image": "\/public\/image\/items\/pendant-of-diligence-1.png",
         "gold": 4000,
@@ -1105,7 +1105,7 @@
     },
     {
         "name": "Pendant of Diligence +2",
-        "korname": "근면의 펜던트+2",
+        "korname": "노동의 펜던트+2",
         "type": "악세서리",
         "image": "\/public\/image\/items\/pendant-of-diligence-2.png",
         "gold": 7000,
@@ -1137,7 +1137,7 @@
     },
     {
         "name": "Thermal Underwear",
-        "korname": "보온 내의",
+        "korname": "방한 속옷",
         "type": "악세서리",
         "image": "\/public\/image\/items\/thermal-underwear.png",
         "gold": 1000,
@@ -1145,7 +1145,7 @@
     },
     {
         "name": "Thermal Underwear +1",
-        "korname": "보온 속옷 +1",
+        "korname": "방한 속옷 +1",
         "type": "악세서리",
         "image": "\/public\/image\/items\/thermal-underwear-1.png",
         "gold": 4000,
@@ -1153,7 +1153,7 @@
     },
     {
         "name": "Thermal Underwear +2",
-        "korname": "보온 속옷 +2",
+        "korname": "방한 속옷 +2",
         "type": "악세서리",
         "image": "\/public\/image\/items\/thermal-underwear-2.png",
         "gold": 7000,
@@ -1161,7 +1161,7 @@
     },
     {
         "name": "Ring of Resistance",
-        "korname": "저항의 반지",
+        "korname": "무저항 반지",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-resistance.png",
         "gold": 1000,
@@ -1169,7 +1169,7 @@
     },
     {
         "name": "Ring of Resistance +1",
-        "korname": "저항의 반지 +1",
+        "korname": "무저항 반지 +1",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-resistance-1.png",
         "gold": 4000,
@@ -1177,7 +1177,7 @@
     },
     {
         "name": "Ring of Resistance +2",
-        "korname": "저항의 반지 +2",
+        "korname": "무저항 반지 +2",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-resistance-2.png",
         "gold": 7000,
@@ -1185,7 +1185,7 @@
     },
     {
         "name": "Ring of Flame Resistance",
-        "korname": "화염 저항의 반지",
+        "korname": "화염 저항 반지",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-flame-resistance.png",
         "gold": 1000,
@@ -1193,7 +1193,7 @@
     },
     {
         "name": "Ring of Flame Resistance +1",
-        "korname": "화염저항력 +1",
+        "korname": "화염 저항 반지 +1",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-flame-resistance-1.png",
         "gold": 4000,
@@ -1201,7 +1201,7 @@
     },
     {
         "name": "Ring of Flame Resistance +2",
-        "korname": "화염저항 반지 +2",
+        "korname": "화염 저항 반지 +2",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-flame-resistance-2.png",
         "gold": 7000,
@@ -1209,7 +1209,7 @@
     },
     {
         "name": "Ring of Water Resistance",
-        "korname": "방수의 반지",
+        "korname": "얼음 저항 반지",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-water-resistance.png",
         "gold": 1000,
@@ -1217,7 +1217,7 @@
     },
     {
         "name": "Ring of Water Resistance +1",
-        "korname": "방수의 반지 +1",
+        "korname": "얼음 저항 반지 +1",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-water-resistance-1.png",
         "gold": 4000,
@@ -1225,7 +1225,7 @@
     },
     {
         "name": "Ring of Water Resistance +2",
-        "korname": "방수의 반지 +2",
+        "korname": "얼음 저항 반지 +2",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-water-resistance-2.png",
         "gold": 7000,
@@ -1233,7 +1233,7 @@
     },
     {
         "name": "Ring of Lightning Resistance",
-        "korname": "번개 저항의 반지",
+        "korname": "번개 저항 반지",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-lightning-resistance.png",
         "gold": 1000,
@@ -1241,7 +1241,7 @@
     },
     {
         "name": "Ring of Lightning Resistance +1",
-        "korname": "번개 저항의 반지 +1",
+        "korname": "번개 저항 반지 +1",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-lightning-resistance-1.png",
         "gold": 4000,
@@ -1249,7 +1249,7 @@
     },
     {
         "name": "Ring of Lightning Resistance +2",
-        "korname": "번개저항의 반지 +2",
+        "korname": "번개 저항 반지 +2",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-lightning-resistance-2.png",
         "gold": 7000,
@@ -1257,7 +1257,7 @@
     },
     {
         "name": "Ring of Grass Resistance",
-        "korname": "풀 저항의 고리",
+        "korname": "풀 저항 반지",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-grass-resistance.png",
         "gold": 1000,
@@ -1265,7 +1265,7 @@
     },
     {
         "name": "Ring of Grass Resistance +1",
-        "korname": "풀의 고리 저항력 +1",
+        "korname": "풀 저항 반지 +1",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-grass-resistance-1.png",
         "gold": 4000,
@@ -1273,7 +1273,7 @@
     },
     {
         "name": "Ring of Grass Resistance +2",
-        "korname": "풀의 고리 저항력 +2",
+        "korname": "풀 저항 반지 +2",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-grass-resistance-2.png",
         "gold": 7000,
@@ -1281,7 +1281,7 @@
     },
     {
         "name": "Ring of Ice Resistance",
-        "korname": "얼음 저항의 반지",
+        "korname": "얼음 저항 반지",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-ice-resistance.png",
         "gold": 1000,
@@ -1289,7 +1289,7 @@
     },
     {
         "name": "Ring of Ice Resistance +1",
-        "korname": "빙결저항력 +1",
+        "korname": "얼음 저항 반지 +1",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-ice-resistance-1.png",
         "gold": 4000,
@@ -1297,7 +1297,7 @@
     },
     {
         "name": "Ring of Ice Resistance +2",
-        "korname": "빙결저항력 +2",
+        "korname": "얼음 저항 반지 +2",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-ice-resistance-2.png",
         "gold": 7000,
@@ -1305,7 +1305,7 @@
     },
     {
         "name": "Ring of Earth Resistance",
-        "korname": "대지 저항의 반지",
+        "korname": "땅 저항 반지",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-earth-resistance.png",
         "gold": 1000,
@@ -1313,7 +1313,7 @@
     },
     {
         "name": "Ring of Earth Resistance +1",
-        "korname": "대지저항의 고리 +1",
+        "korname": "땅 저항 반지 +1",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-earth-resistance-1.png",
         "gold": 4000,
@@ -1321,7 +1321,7 @@
     },
     {
         "name": "Ring of Earth Resistance +2",
-        "korname": "대지저항의 고리 +2",
+        "korname": "땅 저항 반지 +2",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-earth-resistance-2.png",
         "gold": 7000,
@@ -1329,7 +1329,7 @@
     },
     {
         "name": "Ring of Dark Resistance",
-        "korname": "암흑 저항의 반지",
+        "korname": "암흑 저항 반지",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-dark-resistance.png",
         "gold": 1000,
@@ -1337,7 +1337,7 @@
     },
     {
         "name": "Ring of Dark Resistance +1",
-        "korname": "암흑저항의 반지 +1",
+        "korname": "암흑 저항 반지 +1",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-dark-resistance-1.png",
         "gold": 4000,
@@ -1345,7 +1345,7 @@
     },
     {
         "name": "Ring of Dark Resistance +2",
-        "korname": "암흑저항의 반지 +2",
+        "korname": "암흑 저항 반지 +2",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-dark-resistance-2.png",
         "gold": 7000,
@@ -1353,7 +1353,7 @@
     },
     {
         "name": "Ring of Dragon Resistance",
-        "korname": "용 저항의 반지",
+        "korname": "용 저항 반지",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-dragon-resistance.png",
         "gold": 1000,
@@ -1361,7 +1361,7 @@
     },
     {
         "name": "Ring of Dragon Resistance +1",
-        "korname": "링 오브 드래곤 저항 +1",
+        "korname": "용 저항 반지 +1",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-dragon-resistance-1.png",
         "gold": 4000,
@@ -1369,7 +1369,7 @@
     },
     {
         "name": "Ring of Dragon Resistance +2",
-        "korname": "링 오브 드래곤 저항 +2",
+        "korname": "용 저항 반지 +2",
         "type": "악세서리",
         "image": "\/public\/image\/items\/ring-of-dragon-resistance-2.png",
         "gold": 7000,
@@ -1401,7 +1401,7 @@
     },
     {
         "name": "Hyper Glider",
-        "korname": "하이퍼 글라이더",
+        "korname": "테라 글라이더",
         "type": "글라이더",
         "image": "\/public\/image\/items\/hyper-glider.png",
         "gold": 45200,
@@ -4888,24 +4888,8 @@
         "weight": 2
     },
     {
-        "name": "en_text Saddle",
-        "korname": "ko_text 안장",
-        "type": "귀중품",
-        "image": "\/public\/image\/items\/en-text-saddle.png",
-        "gold": 0,
-        "weight": 0
-    },
-    {
-        "name": "en_text's Power Converter",
-        "korname": "en_text의 전력 변환기",
-        "type": "귀중품",
-        "image": "\/public\/image\/items\/T_DarkMutant_icon_normal.webp",
-        "gold": 0,
-        "weight": 0
-    },
-    {
         "name": "en_text's Shotgun",
-        "korname": "en_text의 산탄총",
+        "korname": "펌프식 산탄총",
         "type": "귀중품",
         "image": "\/public\/image\/items\/en-text-s-shotgun.png",
         "gold": 0,
@@ -4913,7 +4897,7 @@
     },
     {
         "name": "Lifmunk Effigy",
-        "korname": "리프멍크 인형",
+        "korname": "쿠쿨리스 동상",
         "type": "귀중품",
         "image": "\/public\/image\/items\/lifmunk-effigy.png",
         "gold": 0,
@@ -4921,7 +4905,7 @@
     },
     {
         "name": "Hip Lantern",
-        "korname": "힙합 랜턴",
+        "korname": "허리 휴대용 랜턴",
         "type": "귀중품",
         "image": "\/public\/image\/items\/hip-lantern.png",
         "gold": 1,
@@ -4929,7 +4913,7 @@
     },
     {
         "name": "Small Feed Bag",
-        "korname": "작은 사료 가방",
+        "korname": "소형 사료 봉지",
         "type": "귀중품",
         "image": "\/public\/image\/items\/small-feed-bag.png",
         "gold": 1,
@@ -4937,7 +4921,7 @@
     },
     {
         "name": "Average Feed Bag",
-        "korname": "평균 피드 백",
+        "korname": "평균 사료 봉지",
         "type": "귀중품",
         "image": "\/public\/image\/items\/average-feed-bag.png",
         "gold": 1,
@@ -4945,7 +4929,7 @@
     },
     {
         "name": "Large Feed Bag",
-        "korname": "대형 사료 가방",
+        "korname": "대형 사료 봉지",
         "type": "귀중품",
         "image": "\/public\/image\/items\/large-feed-bag.png",
         "gold": 1,
@@ -4961,7 +4945,7 @@
     },
     {
         "name": "Giant Feed Bag",
-        "korname": "거대 사료 가방",
+        "korname": "거대 먹이 가방",
         "type": "귀중품",
         "image": "\/public\/image\/items\/giant-feed-bag.png",
         "gold": 1,
@@ -4969,7 +4953,7 @@
     },
     {
         "name": "Jolthog Cryst's Gloves",
-        "korname": "졸트호그 크리스트의 장갑",
+        "korname": "코치도치의 장갑",
         "type": "귀중품",
         "image": "\/public\/image\/items\/jolthog-cryst-s-gloves.png",
         "gold": 0,
@@ -4977,7 +4961,7 @@
     },
     {
         "name": "Jolthog's Gloves",
-        "korname": "졸토그의 장갑",
+        "korname": "찌릿도치의 장갑",
         "type": "귀중품",
         "image": "\/public\/image\/items\/jolthog-s-gloves.png",
         "gold": 0,
@@ -4985,7 +4969,7 @@
     },
     {
         "name": "Foxparks's Harness",
-        "korname": "폭스파크의 마구",
+        "korname": "파이호의 마구",
         "type": "귀중품",
         "image": "\/public\/image\/items\/foxparks-s-harness.png",
         "gold": 0,
@@ -4993,7 +4977,7 @@
     },
     {
         "name": "Melpaca Saddle",
-        "korname": "멜파카 안장",
+        "korname": "멜파카의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/melpaca-saddle.png",
         "gold": 0,
@@ -5001,7 +4985,7 @@
     },
     {
         "name": "Sweepa Saddle",
-        "korname": "스위파 안장",
+        "korname": "모프킹의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/sweepa-saddle.png",
         "gold": 0,
@@ -5009,7 +4993,7 @@
     },
     {
         "name": "Rushoar Saddle",
-        "korname": "루쇼어 안장",
+        "korname": "돌진돼지의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/rushoar-saddle.png",
         "gold": 0,
@@ -5017,7 +5001,7 @@
     },
     {
         "name": "Celaray's Gloves",
-        "korname": "셀라레이의 장갑",
+        "korname": "루미카이트의 장갑",
         "type": "귀중품",
         "image": "\/public\/image\/items\/celaray-s-gloves.png",
         "gold": 0,
@@ -5025,7 +5009,7 @@
     },
     {
         "name": "Lifmunk's Submachine Gun",
-        "korname": "리프멍크의 기관단총",
+        "korname": "쿠룰리스의 기관단총",
         "type": "귀중품",
         "image": "\/public\/image\/items\/lifmunk-s-submachine-gun.png",
         "gold": 0,
@@ -5033,7 +5017,7 @@
     },
     {
         "name": "Direhowl's Saddled Harness",
-        "korname": "다이어하울의 안장 마구",
+        "korname": "다크울프의 안장 부착 마구",
         "type": "귀중품",
         "image": "\/public\/image\/items\/direhowl-s-saddled-harness.png",
         "gold": 0,
@@ -5041,7 +5025,7 @@
     },
     {
         "name": "Tanzee's Assault Rifle",
-        "korname": "탄지의 돌격소총",
+        "korname": "몽지의 돌격 소총",
         "type": "귀중품",
         "image": "\/public\/image\/items\/tanzee-s-assault-rifle.png",
         "gold": 0,
@@ -5049,7 +5033,7 @@
     },
     {
         "name": "Aquadon Terra Saddle",
-        "korname": "아쿠아돈 테라 안장",
+        "korname": "스너펜트의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/aquadon-terra-saddle.png",
         "gold": 0,
@@ -5057,7 +5041,7 @@
     },
     {
         "name": "Surfent Saddle",
-        "korname": "서핑 안장",
+        "korname": "씨무기의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/surfent-saddle.png",
         "gold": 0,
@@ -5065,7 +5049,7 @@
     },
     {
         "name": "Eikthyrdeer Saddle",
-        "korname": "에이크티르디어 안장",
+        "korname": "신령사슴의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/eikthyrdeer-saddle.png",
         "gold": 0,
@@ -5073,7 +5057,7 @@
     },
     {
         "name": "Eikthyrdeer Terra Saddle",
-        "korname": "Eikthyrdeer 테라 안장",
+        "korname": "산령사슴의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/eikthyrdeer-terra-saddle.png",
         "gold": 0,
@@ -5081,7 +5065,7 @@
     },
     {
         "name": "Grintale Saddle",
-        "korname": "그린테일 안장",
+        "korname": "소름냥이의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/grintale-saddle.png",
         "gold": 0,
@@ -5089,7 +5073,7 @@
     },
     {
         "name": "Univolt Saddle",
-        "korname": "유니볼트 안장",
+        "korname": "썬더콘의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/univolt-saddle.png",
         "gold": 0,
@@ -5097,7 +5081,7 @@
     },
     {
         "name": "Killamari's Gloves",
-        "korname": "킬라마리의 장갑",
+        "korname": "고스문의 장갑",
         "type": "귀중품",
         "image": "\/public\/image\/items\/killamari-s-gloves.png",
         "gold": 0,
@@ -5105,7 +5089,7 @@
     },
     {
         "name": "Tocotoco's Gloves",
-        "korname": "토코토코의 장갑",
+        "korname": "알록새의 장갑",
         "type": "귀중품",
         "image": "\/public\/image\/items\/tocotoco-s-gloves.png",
         "gold": 0,
@@ -5113,7 +5097,7 @@
     },
     {
         "name": "Nitewing Saddle",
-        "korname": "나이트윙 안장",
+        "korname": "나이트윙의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/nitewing-saddle.png",
         "gold": 0,
@@ -5121,7 +5105,7 @@
     },
     {
         "name": "Arsox Saddle",
-        "korname": "아르삭스 안장",
+        "korname": "불페르노의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/arsox-saddle.png",
         "gold": 0,
@@ -5129,7 +5113,7 @@
     },
     {
         "name": "Flopie's Necklace",
-        "korname": "플로피의 목걸이",
+        "korname": "토푸리의 목걸이",
         "type": "귀중품",
         "image": "\/public\/image\/items\/flopie-s-necklace.png",
         "gold": 0,
@@ -5137,7 +5121,7 @@
     },
     {
         "name": "Digtoise's Headband",
-        "korname": "디그투아즈의 머리띠",
+        "korname": "드릴북이의 머리띠",
         "type": "귀중품",
         "image": "\/public\/image\/items\/digtoise-s-headband.png",
         "gold": 0,
@@ -5145,7 +5129,7 @@
     },
     {
         "name": "Pengullet's Rocket Launcher",
-        "korname": "Pengulet의 로켓 발사기",
+        "korname": "펭키의 로켓 발사기",
         "type": "귀중품",
         "image": "\/public\/image\/items\/pengullet-s-rocket-launcher.png",
         "gold": 0,
@@ -5153,7 +5137,7 @@
     },
     {
         "name": "Dinossom Lux Saddle",
-        "korname": "다이노솜 럭스 안장",
+        "korname": "찌르르디노의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/dinossom-lux-saddle.png",
         "gold": 0,
@@ -5161,7 +5145,7 @@
     },
     {
         "name": "Dinossom Saddle",
-        "korname": "다이노솜 안장",
+        "korname": "플로라디노의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/dinossom-saddle.png",
         "gold": 0,
@@ -5169,7 +5153,7 @@
     },
     {
         "name": "Daedream's Necklace",
-        "korname": "대드림의 목걸이",
+        "korname": "몽마둥이의 목걸이",
         "type": "귀중품",
         "image": "\/public\/image\/items\/daedream-s-necklace.png",
         "gold": 0,
@@ -5177,7 +5161,7 @@
     },
     {
         "name": "Broncherry Saddle",
-        "korname": "기관지 안장",
+        "korname": "라브라돈의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/broncherry-saddle.png",
         "gold": 0,
@@ -5185,7 +5169,7 @@
     },
     {
         "name": "Water Broncherry Saddle",
-        "korname": "물 기관지 안장",
+        "korname": "스프라돈의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/water-broncherry-saddle.png",
         "gold": 0,
@@ -5193,7 +5177,7 @@
     },
     {
         "name": "Chillet Saddle",
-        "korname": "칠렛 안장",
+        "korname": "베비뇽의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/chillet-saddle.png",
         "gold": 0,
@@ -5201,7 +5185,7 @@
     },
     {
         "name": "Hangyu Cryst's Glove",
-        "korname": "한규 크리스탈의 장갑",
+        "korname": "유령 건다리의 장갑",
         "type": "귀중품",
         "image": "\/public\/image\/items\/hangyu-cryst-s-glove.png",
         "gold": 0,
@@ -5209,7 +5193,7 @@
     },
     {
         "name": "Hangyu's Gloves",
-        "korname": "한규의 장갑",
+        "korname": "건다리의 장갑",
         "type": "귀중품",
         "image": "\/public\/image\/items\/hangyu-s-gloves.png",
         "gold": 0,
@@ -5217,7 +5201,7 @@
     },
     {
         "name": "Vanwyrm Cryst Saddle",
-        "korname": "Vanwyrm Cryst 안장",
+        "korname": "시로카바네의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/vanwyrm-cryst-saddle.png",
         "gold": 0,
@@ -5225,7 +5209,7 @@
     },
     {
         "name": "Vanwyrm Saddle",
-        "korname": "반고룡 안장",
+        "korname": "버드래곤의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/vanwyrm-saddle.png",
         "gold": 0,
@@ -5233,7 +5217,7 @@
     },
     {
         "name": "Ice Kingpaca Saddle",
-        "korname": "아이스 킹파카 안장",
+        "korname": "블루파카의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/ice-kingpaca-saddle.png",
         "gold": 0,
@@ -5241,7 +5225,7 @@
     },
     {
         "name": "Kingpaca Saddle",
-        "korname": "킹파카 안장",
+        "korname": "킹파카의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/kingpaca-saddle.png",
         "gold": 0,
@@ -5249,7 +5233,7 @@
     },
     {
         "name": "Elphidran Saddle",
-        "korname": "엘피드란 안장",
+        "korname": "실피아의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/elphidran-saddle.png",
         "gold": 0,
@@ -5257,7 +5241,7 @@
     },
     {
         "name": "Water Elphidran Saddle",
-        "korname": "워터 엘피드란 안장",
+        "korname": "실티아의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/water-elphidran-saddle.png",
         "gold": 0,
@@ -5265,7 +5249,7 @@
     },
     {
         "name": "Dazzi's Necklace",
-        "korname": "다찌의 목걸이",
+        "korname": "썬더 키드의 목걸이",
         "type": "귀중품",
         "image": "\/public\/image\/items\/dazzi-s-necklace.png",
         "gold": 0,
@@ -5273,7 +5257,7 @@
     },
     {
         "name": "Galeclaw's Gloves",
-        "korname": "강풍발톱 장갑",
+        "korname": "질풍수리의 장갑",
         "type": "귀중품",
         "image": "\/public\/image\/items\/galeclaw-s-gloves.png",
         "gold": 0,
@@ -5281,7 +5265,7 @@
     },
     {
         "name": "Maraith Saddle",
-        "korname": "마레이스 안장",
+        "korname": "고스호스의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/maraith-saddle.png",
         "gold": 0,
@@ -5289,7 +5273,7 @@
     },
     {
         "name": "Mossanda Lux's Grenade Launcher",
-        "korname": "모산다 럭스의 유탄 발사기",
+        "korname": "썬더판다의 수류탄 발사기",
         "type": "귀중품",
         "image": "\/public\/image\/items\/mossanda-lux-s-grenade-launcher.png",
         "gold": 0,
@@ -5297,7 +5281,7 @@
     },
     {
         "name": "Mossanda's Grenade Launcher",
-        "korname": "모산다의 유탄 발사기",
+        "korname": "초판다의 수류탄 발사기",
         "type": "귀중품",
         "image": "\/public\/image\/items\/mossanda-s-grenade-launcher.png",
         "gold": 0,
@@ -5305,7 +5289,7 @@
     },
     {
         "name": "Ice Reptyro Saddle",
-        "korname": "아이스 렙티로 안장",
+        "korname": "프로스카노의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/ice-reptyro-saddle.png",
         "gold": 0,
@@ -5313,7 +5297,7 @@
     },
     {
         "name": "Reptyro Saddle",
-        "korname": "렙티로 안장",
+        "korname": "불카노의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/reptyro-saddle.png",
         "gold": 0,
@@ -5321,7 +5305,7 @@
     },
     {
         "name": "Dark Pyrin Saddle",
-        "korname": "다크 피린 안장",
+        "korname": "사라블랙의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/dark-pyrin-saddle.png",
         "gold": 0,
@@ -5329,7 +5313,7 @@
     },
     {
         "name": "Pyrin Saddle",
-        "korname": "피린 안장",
+        "korname": "파이린의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/pyrin-saddle.png",
         "gold": 0,
@@ -5337,7 +5321,7 @@
     },
     {
         "name": "Mammorest Cryst Saddle",
-        "korname": "맘모레스트 크리스트 안장",
+        "korname": "블리자모스의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/mammorest-cryst-saddle.png",
         "gold": 0,
@@ -5345,7 +5329,7 @@
     },
     {
         "name": "Mammorest Saddle",
-        "korname": "맘모레스트 안장",
+        "korname": "그린모스의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/mammorest-saddle.png",
         "gold": 0,
@@ -5353,7 +5337,7 @@
     },
     {
         "name": "Azurobe Saddle",
-        "korname": "아주로베 안장",
+        "korname": "아주리비의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/azurobe-saddle.png",
         "gold": 0,
@@ -5361,7 +5345,7 @@
     },
     {
         "name": "Jormuntide Ignis Saddle",
-        "korname": "요르문타이드 이그니스 안장",
+        "korname": "아그니드라의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/jormuntide-ignis-saddle.png",
         "gold": 0,
@@ -5369,7 +5353,7 @@
     },
     {
         "name": "Jormuntide Saddle",
-        "korname": "요르문타이드 안장",
+        "korname": "레비드라의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/jormuntide-saddle.png",
         "gold": 0,
@@ -5377,7 +5361,7 @@
     },
     {
         "name": "Kitsun Saddle",
-        "korname": "키순 안장",
+        "korname": "불이리의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/kitsun-saddle.png",
         "gold": 0,
@@ -5385,7 +5369,7 @@
     },
     {
         "name": "Rayhound Saddle",
-        "korname": "레이하운드 안장",
+        "korname": "썬도그의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/rayhound-saddle.png",
         "gold": 0,
@@ -5393,7 +5377,7 @@
     },
     {
         "name": "Blazehowl Saddle",
-        "korname": "블레이즈하울 안장",
+        "korname": "만티파이어의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/blazehowl-saddle.png",
         "gold": 0,
@@ -5409,7 +5393,7 @@
     },
     {
         "name": "Reindrix Saddle",
-        "korname": "라인드릭스 안장",
+        "korname": "얼음 사슴의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/reindrix-saddle.png",
         "gold": 0,
@@ -5417,7 +5401,7 @@
     },
     {
         "name": "Beakon Saddle",
-        "korname": "비콘 안장",
+        "korname": "라이버드의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/beakon-saddle.png",
         "gold": 0,
@@ -5425,7 +5409,7 @@
     },
     {
         "name": "Ragnahawk Saddle",
-        "korname": "라그나호크 안장",
+        "korname": "적토조의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/ragnahawk-saddle.png",
         "gold": 0,
@@ -5433,7 +5417,7 @@
     },
     {
         "name": "Faleris Saddle",
-        "korname": "팔레리스 안장",
+        "korname": "페스키의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/faleris-saddle.png",
         "gold": 0,
@@ -5449,7 +5433,7 @@
     },
     {
         "name": "Helzephyr Saddle",
-        "korname": "헬제퍼 안장",
+        "korname": "헬가루다의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/helzephyr-saddle.png",
         "gold": 0,
@@ -5457,7 +5441,7 @@
     },
     {
         "name": "Fenglope Saddle",
-        "korname": "펭로프 안장",
+        "korname": "윈드디어의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/fenglope-saddle.png",
         "gold": 0,
@@ -5465,7 +5449,7 @@
     },
     {
         "name": "Suzaku Saddle",
-        "korname": "주작 안장",
+        "korname": "주작의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/suzaku-saddle.png",
         "gold": 0,
@@ -5473,7 +5457,7 @@
     },
     {
         "name": "Water Suzaku Saddle",
-        "korname": "물 주작 안장",
+        "korname": "시바의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/water-suzaku-saddle.png",
         "gold": 0,
@@ -5481,7 +5465,7 @@
     },
     {
         "name": "Blazamut Saddle",
-        "korname": "블레이저무트 안장",
+        "korname": "볼카이저의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/blazamut-saddle.png",
         "gold": 0,
@@ -5489,7 +5473,7 @@
     },
     {
         "name": "Wumpo Botan Saddle",
-        "korname": "월포보탄안장",
+        "korname": "트로피티의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/wumpo-botan-saddle.png",
         "gold": 0,
@@ -5497,7 +5481,7 @@
     },
     {
         "name": "Wumpo Saddle",
-        "korname": "월포안장",
+        "korname": "움포의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/wumpo-saddle.png",
         "gold": 0,
@@ -5505,7 +5489,7 @@
     },
     {
         "name": "Grizzbolt's Minigun",
-        "korname": "그리즈볼트의 미니건",
+        "korname": "일렉판다의 미니건",
         "type": "귀중품",
         "image": "\/public\/image\/items\/grizzbolt-s-minigun.png",
         "gold": 0,
@@ -5513,7 +5497,7 @@
     },
     {
         "name": "Shadowbeak Saddle",
-        "korname": "그림자부리 안장",
+        "korname": "제노그리프의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/shadowbeak-saddle.png",
         "gold": 0,
@@ -5521,7 +5505,7 @@
     },
     {
         "name": "Astegon Saddle",
-        "korname": "아스테곤 안장",
+        "korname": "라바드래곤의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/astegon-saddle.png",
         "gold": 0,
@@ -5529,7 +5513,7 @@
     },
     {
         "name": "Relaxaurus Lux's Missile Launcher",
-        "korname": "릴랙사우루스 럭스의 미사일 발사기",
+        "korname": "핑피롱의 미사일 발사기",
         "type": "귀중품",
         "image": "\/public\/image\/items\/relaxaurus-lux-s-missile-launcher.png",
         "gold": 0,
@@ -5537,7 +5521,7 @@
     },
     {
         "name": "Relaxaurus's Missile Launcher",
-        "korname": "릴랙사우루스의 미사일 발사기",
+        "korname": "헤로롱의 미사일 발사기",
         "type": "귀중품",
         "image": "\/public\/image\/items\/relaxaurus-s-missile-launcher.png",
         "gold": 0,
@@ -5553,7 +5537,7 @@
     },
     {
         "name": "Frostallion Noct Saddle",
-        "korname": "Frostalion Noct 안장",
+        "korname": "빙천마의 밤 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/frostallion-noct-saddle.png",
         "gold": 0,
@@ -5561,7 +5545,7 @@
     },
     {
         "name": "Frostallion Saddle",
-        "korname": "서리탈리온 안장",
+        "korname": "빙천마의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/frostallion-saddle.png",
         "gold": 0,
@@ -5569,7 +5553,7 @@
     },
     {
         "name": "Paladius Saddle",
-        "korname": "팔라디우스 안장",
+        "korname": "팔라디우스의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/paladius-saddle.png",
         "gold": 0,
@@ -5577,7 +5561,7 @@
     },
     {
         "name": "Necromus Saddle",
-        "korname": "네크로무스 안장",
+        "korname": "켄타나이트의 안장",
         "type": "귀중품",
         "image": "\/public\/image\/items\/necromus-saddle.png",
         "gold": 0,
@@ -5585,7 +5569,7 @@
     },
     {
         "name": "Jetragon's Missile Launcher",
-        "korname": "Jetragon의 미사일 발사기",
+        "korname": "제트래곤의 미사일 발사기",
         "type": "귀중품",
         "image": "\/public\/image\/items\/jetragon-s-missile-launcher.png",
         "gold": 0,
