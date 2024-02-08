@@ -13,6 +13,7 @@ body {
     @media(max-width: 1280px) {
         padding: 0 50px;
     }
+
     @media(max-width: 550px) {
         padding: 0 25px;
     }
@@ -53,4 +54,24 @@ body {
 
 .dragon {
     background-color: #A54BC6;
+}
+
+// 스크롤바
+/**  STYLE 2 **/
+
+#style-2::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+#style-2::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+#style-2::-webkit-scrollbar-thumb {
+    height: 4px;
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+    background-color: #ac8c36;
 }

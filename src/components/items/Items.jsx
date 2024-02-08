@@ -119,8 +119,9 @@ export default function Items() {
                                         </div>
                                         <div className="name">{item.korname}</div>
                                         {matchedPals.length > 0 && (
-                                            <div className="pals">
-                                                {matchedPals.slice(0, 3).map((pal, palIndex) => (
+                                            <div className="pals" id="style-2">
+                                                {/* {matchedPals.slice(0, 3).map((pal, palIndex) => ( */}
+                                                {matchedPals.map((pal, palIndex) => (
                                                     <Link href={`detail/${pal.key}`} key={palIndex}>
                                                         <Image className="palsimg" src={pal.image.replace('/public', '')} alt={pal.name} width={100} height={100} />
                                                     </Link>

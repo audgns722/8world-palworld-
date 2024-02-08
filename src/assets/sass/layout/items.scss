@@ -98,9 +98,15 @@
             margin-top: 10px;
             display: flex;
             align-items: center;
-            justify-content: center;
-            gap: 5px;
-
+            justify-content: flex-start;
+            overflow-x: auto;
+            padding: 5px;
+            > a {
+              margin-right: 5px;
+              &:last-child {
+                margin-right: 0;
+              }
+            }
             .palsimg {
               width: 40px;
               height: 40px;
@@ -108,8 +114,6 @@
               object-fit: contain;
               border-radius: 50%;
               border: 1px solid #ccc;
-
-
             }
           }
 
