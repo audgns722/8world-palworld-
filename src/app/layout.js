@@ -1,9 +1,9 @@
 import '../assets/sass/style.scss';
-
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 
 import { GoogleAnalytics, GoogleTagManager } from '@next/third-parties/google';
+import HeadCom from '@/components/layout/HeadCom';
 
 export const metadata = {
   generator: 'Next.js',
@@ -239,6 +239,7 @@ export default function RootLayout({ children }) {
 
   return (
     <html lang="ko">
+      <HeadCom />
       <body>
         <GoogleAnalytics gaId="G-1BX9XD2SC2" />
         <GoogleTagManager gtmId="GTM-KH6RHHQS" />

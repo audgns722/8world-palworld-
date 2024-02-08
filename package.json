@@ -15,7 +15,7 @@
     "@next/third-parties": "^14.1.0",
     "csv-parser": "^3.0.0",
     "datatables.net-dt": "^1.13.8",
-    "next": "14.1.0",
+    "next": "13.5.6",
     "papaparse": "^5.4.1",
     "path": "^0.12.7",
     "react": "^18",
