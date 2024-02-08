@@ -161,7 +161,7 @@
     },
     {
         "name": "Bat",
-        "korname": "박쥐",
+        "korname": "야구 방망이",
         "type": "무기",
         "image": "\/public\/image\/items\/bat.png",
         "gold": 80,
@@ -185,7 +185,7 @@
     },
     {
         "name": "Stone Axe",
-        "korname": "돌도끼",
+        "korname": "돌 도끼",
         "type": "무기",
         "image": "\/public\/image\/items\/stone-axe.png",
         "gold": 200,
@@ -201,7 +201,7 @@
     },
     {
         "name": "Refined Metal Axe",
-        "korname": "세련된 금속 도끼",
+        "korname": "제련 금속 도끼",
         "type": "무기",
         "image": "\/public\/image\/items\/refined-metal-axe.png",
         "gold": 7000,
@@ -233,7 +233,7 @@
     },
     {
         "name": "Refined Metal Pickaxe",
-        "korname": "정제된 금속 곡괭이",
+        "korname": "제련 금속 곡괭이",
         "type": "무기",
         "image": "\/public\/image\/items\/refined-metal-pickaxe.png",
         "gold": 7000,
@@ -273,7 +273,7 @@
     },
     {
         "name": "Beegarde's Spear",
-        "korname": "베가르드의 창",
+        "korname": "비 나이트의 창",
         "type": "무기",
         "image": "\/public\/image\/items\/beegarde-s-spear.png",
         "gold": 20000,
@@ -345,7 +345,7 @@
     },
     {
         "name": "Five Shot Bow",
-        "korname": "다섯 발의 활",
+        "korname": "오연궁",
         "type": "무기",
         "image": "\/public\/image\/items\/five-shot-bow.png",
         "gold": 10,
@@ -393,7 +393,7 @@
     },
     {
         "name": "Decal Gun 1",
-        "korname": "데칼건 1",
+        "korname": "데칼총 1",
         "type": "무기",
         "image": "\/public\/image\/items\/decal-gun-1.png",
         "gold": 33000,
@@ -401,7 +401,7 @@
     },
     {
         "name": "Decal Gun 2",
-        "korname": "데칼건 2",
+        "korname": "데칼총 2",
         "type": "무기",
         "image": "\/public\/image\/items\/decal-gun-2.png",
         "gold": 33000,
@@ -409,7 +409,7 @@
     },
     {
         "name": "Decal Gun 3",
-        "korname": "데칼건 3",
+        "korname": "데칼총 3",
         "type": "무기",
         "image": "\/public\/image\/items\/decal-gun-3.png",
         "gold": 33000,
@@ -417,7 +417,7 @@
     },
     {
         "name": "Decal Gun 4",
-        "korname": "데칼건 4",
+        "korname": "데칼총 4",
         "type": "무기",
         "image": "\/public\/image\/items\/decal-gun-4.png",
         "gold": 33000,
@@ -425,7 +425,7 @@
     },
     {
         "name": "Decal Gun 5",
-        "korname": "데칼건 5",
+        "korname": "데칼총 5",
         "type": "무기",
         "image": "\/public\/image\/items\/decal-gun-5.png",
         "gold": 33000,
@@ -489,7 +489,7 @@
     },
     {
         "name": "Single-shot Sphere Launcher",
-        "korname": "단발 구체 발사기",
+        "korname": "단발형 스피어 발사기",
         "type": "무기",
         "image": "\/public\/image\/items\/single-shot-sphere-launcher.png",
         "gold": 109200,
@@ -497,7 +497,7 @@
     },
     {
         "name": "Scatter Sphere Launcher",
-        "korname": "분산구 발사기",
+        "korname": "확산형 스피어 발사기",
         "type": "무기",
         "image": "\/public\/image\/items\/scatter-sphere-launcher.png",
         "gold": 44000,
@@ -505,7 +505,7 @@
     },
     {
         "name": "Homing Sphere Launcher",
-        "korname": "호밍 스피어 런처",
+        "korname": "귀환형 스피어 발사기",
         "type": "무기",
         "image": "\/public\/image\/items\/homing-sphere-launcher.png",
         "gold": 460000,
@@ -1513,7 +1513,7 @@
     },
     {
         "name": "Reindrix Venison",
-        "korname": "라인드릭스 사슴고기",
+        "korname": "얼음 사슴의 사슴 고기",
         "type": "음식",
         "image": "\/public\/image\/items\/reindrix-venison.png",
         "gold": 640,
@@ -1865,7 +1865,7 @@
     },
     {
         "name": "Stir-fried Veggies",
-        "korname": "야채볶음",
+        "korname": "야채 볶음",
         "type": "음식",
         "image": "\/public\/image\/items\/stir-fried-veggies.png",
         "gold": 300,
@@ -1913,7 +1913,7 @@
     },
     {
         "name": "Burrito",
-        "korname": "부리또",
+        "korname": "부리토",
         "type": "음식",
         "image": "\/public\/image\/items\/burrito.png",
         "gold": 3000,
@@ -1937,7 +1937,7 @@
     },
     {
         "name": "Bolognese Sauce",
-        "korname": "볼로 네즈 소스",
+        "korname": "미트 소스",
         "type": "음식",
         "image": "\/public\/image\/items\/bolognese-sauce.png",
         "gold": 2250,
@@ -2169,7 +2169,7 @@
     },
     {
         "name": "Katress Hair",
-        "korname": "카트리스 헤어",
+        "korname": "캐티메이지의 체모",
         "type": "소재",
         "image": "\/public\/image\/items\/katress-hair.png",
         "gold": 300,
@@ -2209,7 +2209,7 @@
     },
     {
         "name": "Dung",
-        "korname": "똥",
+        "korname": "대변",
         "type": "소재",
         "image": "\/public\/image\/items\/dung.png",
         "gold": 1,
@@ -2217,7 +2217,7 @@
     },
     {
         "name": "Huge Dung Pile",
-        "korname": "거대한 배설물 더미",
+        "korname": "커다란 더미",
         "type": "소재",
         "image": "\/public\/image\/items\/huge-dung-pile.png",
         "gold": 1,
@@ -2305,7 +2305,7 @@
     },
     {
         "name": "Silicon",
-        "korname": "규소",
+        "korname": "실리콘",
         "type": "소재",
         "image": "\/public\/image\/items\/silicon.png",
         "gold": 80,
@@ -2321,7 +2321,7 @@
     },
     {
         "name": "Carbon Fiber",
-        "korname": "탄소 섬유",
+        "korname": "카본 섬유",
         "type": "소재",
         "image": "\/public\/image\/items\/carbon-fiber.png",
         "gold": 120,
@@ -2617,7 +2617,7 @@
     },
     {
         "name": "Precious Dragon Stone",
-        "korname": "귀중한 용석",
+        "korname": "귀중한 용옥",
         "type": "소재",
         "image": "\/public\/image\/items\/precious-dragon-stone.png",
         "gold": 10000,
@@ -2649,7 +2649,7 @@
     },
     {
         "name": "Precious Pelt",
-        "korname": "귀중한 모피",
+        "korname": "귀중한 동물 털",
         "type": "소재",
         "image": "\/public\/image\/items\/precious-pelt.png",
         "gold": 5000,
@@ -2673,7 +2673,7 @@
     },
     {
         "name": "Large Pal Soul",
-        "korname": "상급 팰 영혼",
+        "korname": "대형 팰 영혼",
         "type": "소재",
         "image": "\/public\/image\/items\/large-pal-soul.png",
         "gold": 10,
@@ -3169,7 +3169,7 @@
     },
     {
         "name": "Old Bow Schematic 2",
-        "korname": "낡은 활 설계도 2",
+        "korname": "오래된 활 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/old-bow-schematic-2.png",
         "gold": 10000,
@@ -3177,7 +3177,7 @@
     },
     {
         "name": "Old Bow Schematic 3",
-        "korname": "낡은 활 설계도 3",
+        "korname": "오래된 활 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/old-bow-schematic-3.png",
         "gold": 10000,
@@ -3185,7 +3185,7 @@
     },
     {
         "name": "Old Bow Schematic 4",
-        "korname": "낡은 활 설계도 4",
+        "korname": "오래된 활 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/old-bow-schematic-4.png",
         "gold": 10000,
@@ -3193,7 +3193,7 @@
     },
     {
         "name": "Crossbow Schematic 1",
-        "korname": "석궁 설계도 1",
+        "korname": "쇠뇌 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/crossbow-schematic-1.png",
         "gold": 10000,
@@ -3201,7 +3201,7 @@
     },
     {
         "name": "Crossbow Schematic 2",
-        "korname": "석궁 설계도 2",
+        "korname": "쇠뇌 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/crossbow-schematic-2.png",
         "gold": 10000,
@@ -3209,7 +3209,7 @@
     },
     {
         "name": "Crossbow Schematic 3",
-        "korname": "석궁 설계도 3",
+        "korname": "쇠뇌 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/crossbow-schematic-3.png",
         "gold": 10000,
@@ -3217,7 +3217,7 @@
     },
     {
         "name": "Crossbow Schematic 4",
-        "korname": "석궁 설계도 4",
+        "korname": "쇠뇌 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/crossbow-schematic-4.png",
         "gold": 10000,
@@ -3225,7 +3225,7 @@
     },
     {
         "name": "Handgun Schematic 1",
-        "korname": "권총 설계도 1",
+        "korname": "핸드건 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/handgun-schematic-1.png",
         "gold": 10000,
@@ -3233,7 +3233,7 @@
     },
     {
         "name": "Handgun Schematic 2",
-        "korname": "권총 설계도 2",
+        "korname": "핸드건 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/handgun-schematic-2.png",
         "gold": 10000,
@@ -3241,7 +3241,7 @@
     },
     {
         "name": "Handgun Schematic 3",
-        "korname": "권총 설계도 3",
+        "korname": "핸드건 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/handgun-schematic-3.png",
         "gold": 10000,
@@ -3249,7 +3249,7 @@
     },
     {
         "name": "Handgun Schematic 4",
-        "korname": "권총 설계도 4",
+        "korname": "핸드건 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/handgun-schematic-4.png",
         "gold": 10000,
@@ -3257,7 +3257,7 @@
     },
     {
         "name": "Assault Rifle Schematic 1",
-        "korname": "돌격소총 설계도 1",
+        "korname": "돌격 소총 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/assault-rifle-schematic-1.png",
         "gold": 10000,
@@ -3265,7 +3265,7 @@
     },
     {
         "name": "Assault Rifle Schematic 2",
-        "korname": "돌격소총 설계도 2",
+        "korname": "돌격 소총 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/assault-rifle-schematic-2.png",
         "gold": 10000,
@@ -3273,7 +3273,7 @@
     },
     {
         "name": "Assault Rifle Schematic 3",
-        "korname": "돌격소총 설계도 3",
+        "korname": "돌격 소총 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/assault-rifle-schematic-3.png",
         "gold": 10000,
@@ -3281,7 +3281,7 @@
     },
     {
         "name": "Assault Rifle Schematic 4",
-        "korname": "돌격소총 설계도 4",
+        "korname": "돌격 소총 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/assault-rifle-schematic-4.png",
         "gold": 10000,
@@ -3289,7 +3289,7 @@
     },
     {
         "name": "Pump-Action Shotgun Schematic 1",
-        "korname": "펌프액션 산탄총 도식 1",
+        "korname": "펌프식 산탄총 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/pump-action-shotgun-schematic-1.png",
         "gold": 10000,
@@ -3297,7 +3297,7 @@
     },
     {
         "name": "Pump-Action Shotgun Schematic 2",
-        "korname": "펌프액션 샷건 도식 2",
+        "korname": "펌프식 산탄총 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/pump-action-shotgun-schematic-2.png",
         "gold": 10000,
@@ -3305,7 +3305,7 @@
     },
     {
         "name": "Pump-Action Shotgun Schematic 3",
-        "korname": "펌프액션 샷건 도식 3",
+        "korname": "펌프식 산탄총 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/pump-action-shotgun-schematic-3.png",
         "gold": 10000,
@@ -3313,7 +3313,7 @@
     },
     {
         "name": "Pump-Action Shotgun Schematic 4",
-        "korname": "펌프액션 산탄총 도식 4",
+        "korname": "펌프식 산탄총 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/pump-action-shotgun-schematic-4.png",
         "gold": 10000,
@@ -3353,7 +3353,7 @@
     },
     {
         "name": "Cloth Outfit Schematic 1",
-        "korname": "천 의상 도식 1",
+        "korname": "직물 옷 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/cloth-outfit-schematic-1.png",
         "gold": 10000,
@@ -3361,7 +3361,7 @@
     },
     {
         "name": "Feathered Hair Band Schematic 1",
-        "korname": "깃털 달린 머리끈 설계도 1",
+        "korname": "깃털 머리 장식 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/feathered-hair-band-schematic-1.png",
         "gold": 10000,
@@ -3369,7 +3369,7 @@
     },
     {
         "name": "Cloth Outfit Schematic 2",
-        "korname": "천 의상 도식 2",
+        "korname": "직물 옷 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/cloth-outfit-schematic-2.png",
         "gold": 10000,
@@ -3377,7 +3377,7 @@
     },
     {
         "name": "Feathered Hair Band Schematic 2",
-        "korname": "깃털 달린 헤어 밴드 설계도 2",
+        "korname": "깃털 머리 장식 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/feathered-hair-band-schematic-2.png",
         "gold": 10000,
@@ -3385,7 +3385,7 @@
     },
     {
         "name": "Cloth Outfit Schematic 3",
-        "korname": "천 의상 도식 3",
+        "korname": "직물 옷 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/cloth-outfit-schematic-3.png",
         "gold": 10000,
@@ -3393,7 +3393,7 @@
     },
     {
         "name": "Feathered Hair Band Schematic 3",
-        "korname": "깃털 달린 머리끈 설계도 3",
+        "korname": "깃털 머리 장식 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/feathered-hair-band-schematic-3.png",
         "gold": 10000,
@@ -3401,7 +3401,7 @@
     },
     {
         "name": "Cloth Outfit Schematic 4",
-        "korname": "천 의상 도식 4",
+        "korname": "직물 옷 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/cloth-outfit-schematic-4.png",
         "gold": 10000,
@@ -3409,7 +3409,7 @@
     },
     {
         "name": "Feathered Hair Band Schematic 4",
-        "korname": "깃털 달린 머리끈 도식 4",
+        "korname": "깃털 머리 장식 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/feathered-hair-band-schematic-4.png",
         "gold": 10000,
@@ -3425,7 +3425,7 @@
     },
     {
         "name": "Pelt Armor Schematic 1",
-        "korname": "펠트 방어구 설계도 1",
+        "korname": "모피 갑옷 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/pelt-armor-schematic-1.png",
         "gold": 10000,
@@ -3433,7 +3433,7 @@
     },
     {
         "name": "Metal Helm Schematic 2",
-        "korname": "금속 투구 설계도 2",
+        "korname": "모피 갑옷 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/metal-helm-schematic-2.png",
         "gold": 10000,
@@ -3441,7 +3441,7 @@
     },
     {
         "name": "Pelt Armor Schematic 2",
-        "korname": "펠트 방어구 설계도 2",
+        "korname": "모피 갑옷 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/pelt-armor-schematic-2.png",
         "gold": 10000,
@@ -3457,7 +3457,7 @@
     },
     {
         "name": "Pelt Armor Schematic 3",
-        "korname": "펠트 방어구 설계도 3",
+        "korname": "모피 방어구 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/pelt-armor-schematic-3.png",
         "gold": 10000,
@@ -3473,7 +3473,7 @@
     },
     {
         "name": "Pelt Armor Schematic 4",
-        "korname": "펠트 방어구 설계도 4",
+        "korname": "모피 방어구 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/pelt-armor-schematic-4.png",
         "gold": 10000,
@@ -3489,7 +3489,7 @@
     },
     {
         "name": "Refined Metal Helm Schematic 1",
-        "korname": "정제된 금속 투구 설계도 1",
+        "korname": "제련 금속 투구 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/refined-metal-helm-schematic-1.png",
         "gold": 10000,
@@ -3505,7 +3505,7 @@
     },
     {
         "name": "Refined Metal Helm Schematic 2",
-        "korname": "정제된 금속 투구 설계도 2",
+        "korname": "제련 금속 투구 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/refined-metal-helm-schematic-2.png",
         "gold": 10000,
@@ -3521,7 +3521,7 @@
     },
     {
         "name": "Refined Metal Helm Schematic 3",
-        "korname": "세련된 금속 투구 설계도 3",
+        "korname": "제련 금속 투구 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/refined-metal-helm-schematic-3.png",
         "gold": 10000,
@@ -3537,7 +3537,7 @@
     },
     {
         "name": "Refined Metal Helm Schematic 4",
-        "korname": "정제된 금속 투구 설계도 4",
+        "korname": "제련 금속 투구 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/refined-metal-helm-schematic-4.png",
         "gold": 10000,
@@ -3545,7 +3545,7 @@
     },
     {
         "name": "Pal Metal Helm Schematic 1",
-        "korname": "Pal 금속 투구 설계도 1",
+        "korname": "팰 금속 투구 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/pal-metal-helm-schematic-1.png",
         "gold": 10000,
@@ -3553,7 +3553,7 @@
     },
     {
         "name": "Refined Metal Armor Schematic 1",
-        "korname": "정제된 금속 방어구 설계도 1",
+        "korname": "제련 금속 방어구 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/refined-metal-armor-schematic-1.png",
         "gold": 10000,
@@ -3561,7 +3561,7 @@
     },
     {
         "name": "Pal Metal Helm Schematic 2",
-        "korname": "Pal 금속 투구 설계도 2",
+        "korname": "팰 금속 투구 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/pal-metal-helm-schematic-2.png",
         "gold": 10000,
@@ -3569,7 +3569,7 @@
     },
     {
         "name": "Refined Metal Armor Schematic 2",
-        "korname": "정제된 금속 방어구 도식 2",
+        "korname": "제련 금속 방어구 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/refined-metal-armor-schematic-2.png",
         "gold": 10000,
@@ -3577,7 +3577,7 @@
     },
     {
         "name": "Pal Metal Helm Schematic 3",
-        "korname": "Pal 금속 투구 설계도 3",
+        "korname": "팰 금속 투구 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/pal-metal-helm-schematic-3.png",
         "gold": 10000,
@@ -3585,7 +3585,7 @@
     },
     {
         "name": "Refined Metal Armor Schematic 3",
-        "korname": "정제된 금속 방어구 도식 3",
+        "korname": "제련 금속 방어구 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/refined-metal-armor-schematic-3.png",
         "gold": 10000,
@@ -3593,7 +3593,7 @@
     },
     {
         "name": "Pal Metal Helm Schematic 4",
-        "korname": "Pal 금속 투구 설계도 4",
+        "korname": "팰 금속 투구 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/pal-metal-helm-schematic-4.png",
         "gold": 10000,
@@ -3601,7 +3601,7 @@
     },
     {
         "name": "Refined Metal Armor Schematic 4",
-        "korname": "정제된 금속 방어구 도식 4",
+        "korname": "제련 금속 방어구 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/refined-metal-armor-schematic-4.png",
         "gold": 10000,
@@ -3609,7 +3609,7 @@
     },
     {
         "name": "Pal Metal Armor Schematic 1",
-        "korname": "Pal 금속 갑옷 설계도 1",
+        "korname": "팰 금속 갑옷 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/pal-metal-armor-schematic-1.png",
         "gold": 10000,
@@ -3617,7 +3617,7 @@
     },
     {
         "name": "Pal Metal Armor Schematic 2",
-        "korname": "Pal 금속 갑옷 설계도 2",
+        "korname": "팰 금속 갑옷 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/pal-metal-armor-schematic-2.png",
         "gold": 10000,
@@ -3625,7 +3625,7 @@
     },
     {
         "name": "Pal Metal Armor Schematic 3",
-        "korname": "Pal 금속 갑옷 설계도 3",
+        "korname": "팰 금속 갑옷 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/pal-metal-armor-schematic-3.png",
         "gold": 10000,
@@ -3633,7 +3633,7 @@
     },
     {
         "name": "Pal Metal Armor Schematic 4",
-        "korname": "Pal 금속 갑옷 설계도 4",
+        "korname": "팰 금속 갑옷 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/pal-metal-armor-schematic-4.png",
         "gold": 10000,
@@ -3641,7 +3641,7 @@
     },
     {
         "name": "Monarch's Crown Schematic 1",
-        "korname": "군주의 왕관 설계도 1",
+        "korname": "왕관 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/monarch-s-crown-schematic-1.png",
         "gold": 500,
@@ -3649,7 +3649,7 @@
     },
     {
         "name": "Tropical Outfit Schematic 1",
-        "korname": "트로피컬 의상 도식 1",
+        "korname": "열대 지방 민속 의상 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/tropical-outfit-schematic-1.png",
         "gold": 10000,
@@ -3657,7 +3657,7 @@
     },
     {
         "name": "Monarch's Crown Schematic 2",
-        "korname": "군주의 왕관 설계도 2",
+        "korname": "왕관 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/monarch-s-crown-schematic-2.png",
         "gold": 800,
@@ -3665,7 +3665,7 @@
     },
     {
         "name": "Tropical Outfit Schematic 2",
-        "korname": "트로피컬 의상 도식 2",
+        "korname": "열대 지방 민속 의상 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/tropical-outfit-schematic-2.png",
         "gold": 10000,
@@ -3673,7 +3673,7 @@
     },
     {
         "name": "Monarch's Crown Schematic 3",
-        "korname": "군주의 왕관 설계도 3",
+        "korname": "왕관 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/monarch-s-crown-schematic-3.png",
         "gold": 1300,
@@ -3681,7 +3681,7 @@
     },
     {
         "name": "Tropical Outfit Schematic 3",
-        "korname": "트로피컬 의상 도식 3",
+        "korname": "열대 지방 민속 의상 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/tropical-outfit-schematic-3.png",
         "gold": 10000,
@@ -3689,7 +3689,7 @@
     },
     {
         "name": "Monarch's Crown Schematic 4",
-        "korname": "군주의 왕관 설계도 4",
+        "korname": "왕관 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/monarch-s-crown-schematic-4.png",
         "gold": 1800,
@@ -3697,7 +3697,7 @@
     },
     {
         "name": "Tropical Outfit Schematic 4",
-        "korname": "트로피컬 의상 도식 4",
+        "korname": "열대 지방 민속 의상 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/tropical-outfit-schematic-4.png",
         "gold": 10000,
@@ -3713,7 +3713,7 @@
     },
     {
         "name": "Tundra Outfit Schematic 1",
-        "korname": "툰드라 복장 도식 1",
+        "korname": "한랭 지방 민속 의상 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/tundra-outfit-schematic-1.png",
         "gold": 10000,
@@ -3721,7 +3721,7 @@
     },
     {
         "name": "Golden Crown Schematic 1",
-        "korname": "황금 왕관 설계도 1",
+        "korname": "황금 관 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/golden-crown-schematic-1.png",
         "gold": 500,
@@ -3729,7 +3729,7 @@
     },
     {
         "name": "Tundra Outfit Schematic 2",
-        "korname": "툰드라 의상 설계도 2",
+        "korname": "한랭 지방 민속 의상 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/tundra-outfit-schematic-2.png",
         "gold": 10000,
@@ -3737,7 +3737,7 @@
     },
     {
         "name": "Golden Crown Schematic 2",
-        "korname": "황금 왕관 설계도 2",
+        "korname": "황금 관 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/golden-crown-schematic-2.png",
         "gold": 800,
@@ -3745,7 +3745,7 @@
     },
     {
         "name": "Tundra Outfit Schematic 3",
-        "korname": "툰드라 복장 도식 3",
+        "korname": "한랭 지방 민속 의상 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/tundra-outfit-schematic-3.png",
         "gold": 10000,
@@ -3753,7 +3753,7 @@
     },
     {
         "name": "Golden Crown Schematic 3",
-        "korname": "황금 왕관 설계도 3",
+        "korname": "황금 관 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/golden-crown-schematic-3.png",
         "gold": 1300,
@@ -3761,7 +3761,7 @@
     },
     {
         "name": "Tundra Outfit Schematic 4",
-        "korname": "툰드라 복장 도식 4",
+        "korname": "한랭 지방 민속 의상 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/tundra-outfit-schematic-4.png",
         "gold": 10000,
@@ -3769,7 +3769,7 @@
     },
     {
         "name": "Golden Crown Schematic 4",
-        "korname": "황금 왕관 설계도 4",
+        "korname": "황금 관 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/golden-crown-schematic-4.png",
         "gold": 1800,
@@ -3777,7 +3777,7 @@
     },
     {
         "name": "Heat Resistant Pelt Armor Schematic 1",
-        "korname": "내열성 펠트 갑옷 도식 1",
+        "korname": "내열 모피 갑옷 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/heat-resistant-pelt-armor-schematic-1.png",
         "gold": 10000,
@@ -3785,7 +3785,7 @@
     },
     {
         "name": "Heat Resistant Pelt Armor Schematic 2",
-        "korname": "내열성 펠트 갑옷 도식 2",
+        "korname": "내열 모피 갑옷 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/heat-resistant-pelt-armor-schematic-2.png",
         "gold": 10000,
@@ -3793,7 +3793,7 @@
     },
     {
         "name": "Heat Resistant Pelt Armor Schematic 3",
-        "korname": "내열성 펠트 갑옷 도식 3",
+        "korname": "내열 모피 갑옷 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/heat-resistant-pelt-armor-schematic-3.png",
         "gold": 10000,
@@ -3801,7 +3801,7 @@
     },
     {
         "name": "Long-eared Headband Schematic 1",
-        "korname": "긴귀 머리띠 도식 1",
+        "korname": "긴 귀 머리띠 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/long-eared-headband-schematic-1.png",
         "gold": 500,
@@ -3809,7 +3809,7 @@
     },
     {
         "name": "Heat Resistant Pelt Armor Schematic 4",
-        "korname": "내열성 펠트 갑옷 도식 4",
+        "korname": "내열 모피 갑옷 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/heat-resistant-pelt-armor-schematic-4.png",
         "gold": 10000,
@@ -3817,7 +3817,7 @@
     },
     {
         "name": "Long-eared Headband Schematic 2",
-        "korname": "긴귀 머리띠 도식 2",
+        "korname": "긴 귀 머리띠 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/long-eared-headband-schematic-2.png",
         "gold": 800,
@@ -3825,7 +3825,7 @@
     },
     {
         "name": "Cold Resistant Pelt Armor Schematic 1",
-        "korname": "내한성 펠트 방어구 설계도 1",
+        "korname": "내한 모피 갑옷 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-pelt-armor-schematic-1.png",
         "gold": 10000,
@@ -3833,7 +3833,7 @@
     },
     {
         "name": "Long-eared Headband Schematic 3",
-        "korname": "긴귀 머리띠 도식 3",
+        "korname": "긴 귀 머리띠 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/long-eared-headband-schematic-3.png",
         "gold": 1300,
@@ -3841,7 +3841,7 @@
     },
     {
         "name": "Cold Resistant Pelt Armor Schematic 2",
-        "korname": "내한성 펠트 갑옷 도식 2",
+        "korname": "내한 모피 갑옷 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-pelt-armor-schematic-2.png",
         "gold": 10000,
@@ -3849,7 +3849,7 @@
     },
     {
         "name": "Long-eared Headband Schematic 4",
-        "korname": "긴귀 머리띠 도식 4",
+        "korname": "긴 귀 머리띠 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/long-eared-headband-schematic-4.png",
         "gold": 1800,
@@ -3857,7 +3857,7 @@
     },
     {
         "name": "5 Blueprints of Long-eared Headband",
-        "korname": "긴귀 머리띠 설계도 5개",
+        "korname": "긴 귀 헤어밴드의 설계도 5",
         "type": "설계도",
         "image": "\/public\/image\/items\/5-blueprints-of-long-eared-headband.png",
         "gold": 2500,
@@ -3865,7 +3865,7 @@
     },
     {
         "name": "Cold Resistant Pelt Armor Schematic 3",
-        "korname": "내한성 펠트 갑옷 도식 3",
+        "korname": "내한 모피 갑옷 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-pelt-armor-schematic-3.png",
         "gold": 10000,
@@ -3873,7 +3873,7 @@
     },
     {
         "name": "Cold Resistant Pelt Armor Schematic 4",
-        "korname": "내한성 펠트 갑옷 도식 4",
+        "korname": "내한 모피 갑옷 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-pelt-armor-schematic-4.png",
         "gold": 10000,
@@ -3921,7 +3921,7 @@
     },
     {
         "name": "Heat Resistant Metal Armor Schematic 3",
-        "korname": "내열 금속 방어구 설계도 3",
+        "korname": "내열 금속 갑옷 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/heat-resistant-metal-armor-schematic-3.png",
         "gold": 10000,
@@ -3937,7 +3937,7 @@
     },
     {
         "name": "Design of Witch Hat No. 5",
-        "korname": "마녀모자 5호 디자인",
+        "korname": "마녀 모자의 설계도 5",
         "type": "설계도",
         "image": "\/public\/image\/items\/design-of-witch-hat-no-5.png",
         "gold": 2500,
@@ -3945,7 +3945,7 @@
     },
     {
         "name": "Heat Resistant Metal Armor Schematic 4",
-        "korname": "내열 금속 방어구 설계도 4",
+        "korname": "내열 금속 갑옷 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/heat-resistant-metal-armor-schematic-4.png",
         "gold": 10000,
@@ -3953,7 +3953,7 @@
     },
     {
         "name": "Cold Resistant Metal Armor Schematic 1",
-        "korname": "내한성 금속 갑옷 설계도 1",
+        "korname": "내한 금속 갑옷 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-metal-armor-schematic-1.png",
         "gold": 10000,
@@ -3969,7 +3969,7 @@
     },
     {
         "name": "Cold Resistant Metal Armor Schematic 2",
-        "korname": "내한성 금속 갑옷 설계도 2",
+        "korname": "내한 금속 갑옷 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-metal-armor-schematic-2.png",
         "gold": 10000,
@@ -3977,7 +3977,7 @@
     },
     {
         "name": "Soft Hat Schematic 2",
-        "korname": "소프트 햇 회로도 2",
+        "korname": "부드러운 모자 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/soft-hat-schematic-2.png",
         "gold": 800,
@@ -3985,7 +3985,7 @@
     },
     {
         "name": "Cold Resistant Metal Armor Schematic 3",
-        "korname": "내한성 금속 갑옷 도식 3",
+        "korname": "내한 금속 갑옷 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-metal-armor-schematic-3.png",
         "gold": 10000,
@@ -3993,7 +3993,7 @@
     },
     {
         "name": "Soft Hat Schematic 3",
-        "korname": "소프트 햇 회로도 3",
+        "korname": "부드러운 모자 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/soft-hat-schematic-3.png",
         "gold": 1300,
@@ -4001,7 +4001,7 @@
     },
     {
         "name": "Cold Resistant Metal Armor Schematic 4",
-        "korname": "내한성 금속 갑옷 도식 4",
+        "korname": "내한 금속 갑옷 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-metal-armor-schematic-4.png",
         "gold": 10000,
@@ -4009,7 +4009,7 @@
     },
     {
         "name": "Soft Hat Schematic 4",
-        "korname": "소프트 햇 회로도 4",
+        "korname": "부드러운 모자 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/soft-hat-schematic-4.png",
         "gold": 1800,
@@ -4017,7 +4017,7 @@
     },
     {
         "name": "Blueprint of Soft Hat 5",
-        "korname": "Soft Hat 5의 청사진",
+        "korname": "보울러 모자의 설계도 5",
         "type": "설계도",
         "image": "\/public\/image\/items\/blueprint-of-soft-hat-5.png",
         "gold": 2500,
@@ -4025,7 +4025,7 @@
     },
     {
         "name": "Heat Resistant Refined Metal Armor Schematic 1",
-        "korname": "내열성 정제 금속 방어구 설계도 1",
+        "korname": "내열 제련 금속 갑옷 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/heat-resistant-refined-metal-armor-schematic-1.png",
         "gold": 10000,
@@ -4033,7 +4033,7 @@
     },
     {
         "name": "Heat Resistant Refined Metal Armor Schematic 2",
-        "korname": "내열성 정제 금속 방어구 설계도 2",
+        "korname": "내열 제련 금속 갑옷 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/heat-resistant-refined-metal-armor-schematic-2.png",
         "gold": 10000,
@@ -4049,7 +4049,7 @@
     },
     {
         "name": "Heat Resistant Refined Metal Armor Schematic 3",
-        "korname": "내열성 정제 금속 방어구 도식 3",
+        "korname": "내열 제련 금속 갑옷 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/heat-resistant-refined-metal-armor-schematic-3.png",
         "gold": 10000,
@@ -4065,7 +4065,7 @@
     },
     {
         "name": "Heat Resistant Refined Metal Armor Schematic 4",
-        "korname": "내열성 정제 금속 방어구 도식 4",
+        "korname": "내열 제련 금속 갑옷 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/heat-resistant-refined-metal-armor-schematic-4.png",
         "gold": 10000,
@@ -4081,7 +4081,7 @@
     },
     {
         "name": "Cold Resistant Refined Metal Armor Schematic 1",
-        "korname": "내한성 정제 금속 방어구 설계도 1",
+        "korname": "내한 제련 금속 갑옷 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-refined-metal-armor-schematic-1.png",
         "gold": 10000,
@@ -4097,7 +4097,7 @@
     },
     {
         "name": "Blueprint of Helmet 5",
-        "korname": "헬멧 5의 청사진",
+        "korname": "헬멧 설계도 5",
         "type": "설계도",
         "image": "\/public\/image\/items\/blueprint-of-helmet-5.png",
         "gold": 2500,
@@ -4105,7 +4105,7 @@
     },
     {
         "name": "Cold Resistant Refined Metal Armor Schematic 2",
-        "korname": "내한성 정제 금속 방어구 설계도 2",
+        "korname": "내한 제련 금속 갑옷 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-refined-metal-armor-schematic-2.png",
         "gold": 10000,
@@ -4113,7 +4113,7 @@
     },
     {
         "name": "Cold Resistant Refined Metal Armor Schematic 3",
-        "korname": "내한성 정제 금속 방어구 설계도 3",
+        "korname": "내한 제련 금속 갑옷 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-refined-metal-armor-schematic-3.png",
         "gold": 10000,
@@ -4121,7 +4121,7 @@
     },
     {
         "name": "Silk Hat Schematic 1",
-        "korname": "실크 모자 설계도 1",
+        "korname": "비단 모자 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/silk-hat-schematic-1.png",
         "gold": 500,
@@ -4129,7 +4129,7 @@
     },
     {
         "name": "Cold Resistant Refined Metal Armor Schematic 4",
-        "korname": "내한성 정제 금속 방어구 설계도 4",
+        "korname": "내한 제련 금속 갑옷 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-refined-metal-armor-schematic-4.png",
         "gold": 10000,
@@ -4137,7 +4137,7 @@
     },
     {
         "name": "Silk Hat Schematic 2",
-        "korname": "실크 모자 설계도 2",
+        "korname": "비단 모자 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/silk-hat-schematic-2.png",
         "gold": 800,
@@ -4145,7 +4145,7 @@
     },
     {
         "name": "Heat Resistant Pal Metal Armor Schematic 1",
-        "korname": "내열성 Pal 금속 갑옷 설계도 1",
+        "korname": "내열 팰 금속 갑옷 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/heat-resistant-pal-metal-armor-schematic-1.png",
         "gold": 10000,
@@ -4153,7 +4153,7 @@
     },
     {
         "name": "Silk Hat Schematic 3",
-        "korname": "실크 모자 설계도 3",
+        "korname": "비단 모자 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/silk-hat-schematic-3.png",
         "gold": 1300,
@@ -4161,7 +4161,7 @@
     },
     {
         "name": "Heat Resistant Pal Metal Armor Schematic 2",
-        "korname": "내열성 Pal 금속 갑옷 설계도 2",
+        "korname": "내열 팰 금속 갑옷 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/heat-resistant-pal-metal-armor-schematic-2.png",
         "gold": 10000,
@@ -4169,7 +4169,7 @@
     },
     {
         "name": "Silk Hat Schematic 4",
-        "korname": "실크 모자 설계도 4",
+        "korname": "비단 모자 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/silk-hat-schematic-4.png",
         "gold": 1800,
@@ -4177,7 +4177,7 @@
     },
     {
         "name": "5 Schematic Diagrams of the Silk Hat",
-        "korname": "5 실크 모자의 개략도",
+        "korname": "비단 모자의 설계도 5",
         "type": "설계도",
         "image": "\/public\/image\/items\/5-schematic-diagrams-of-the-silk-hat.png",
         "gold": 2500,
@@ -4185,7 +4185,7 @@
     },
     {
         "name": "Heat Resistant Pal Metal Armor Schematic 3",
-        "korname": "내열성 Pal 금속 갑옷 설계도 3",
+        "korname": "내열 팰 금속 갑옷 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/heat-resistant-pal-metal-armor-schematic-3.png",
         "gold": 10000,
@@ -4193,7 +4193,7 @@
     },
     {
         "name": "Heat Resistant Pal Metal Armor Schematic 4",
-        "korname": "내열성 Pal 금속 갑옷 설계도 4",
+        "korname": "내열 팰 금속 갑옷 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/heat-resistant-pal-metal-armor-schematic-4.png",
         "gold": 10000,
@@ -4201,7 +4201,7 @@
     },
     {
         "name": "Tricorne Schematic 1",
-        "korname": "삼각뿔 도식 1",
+        "korname": "삼각 모자 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/tricorne-schematic-1.png",
         "gold": 500,
@@ -4209,7 +4209,7 @@
     },
     {
         "name": "Cold Resistant Pal Metal Armor Schematic 1",
-        "korname": "내한성 Pal 금속 갑옷 설계도 1",
+        "korname": "내한 팰 금속 갑옷 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-pal-metal-armor-schematic-1.png",
         "gold": 10000,
@@ -4217,7 +4217,7 @@
     },
     {
         "name": "Tricorne Schematic 2",
-        "korname": "삼각모 설계도 2",
+        "korname": "삼각 모자 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/tricorne-schematic-2.png",
         "gold": 800,
@@ -4225,7 +4225,7 @@
     },
     {
         "name": "Cold Resistant Pal Metal Armor Schematic 2",
-        "korname": "내한성 Pal 금속 갑옷 설계도 2",
+        "korname": "내한 팰 금속 갑옷 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-pal-metal-armor-schematic-2.png",
         "gold": 10000,
@@ -4233,7 +4233,7 @@
     },
     {
         "name": "Tricorne Schematic 3",
-        "korname": "삼각뿔 도식 3",
+        "korname": "삼각 모자 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/tricorne-schematic-3.png",
         "gold": 1300,
@@ -4241,7 +4241,7 @@
     },
     {
         "name": "Cold Resistant Pal Metal Armor Schematic 3",
-        "korname": "내한성 Pal 금속 갑옷 설계도 3",
+        "korname": "내한 팰 금속 갑옷 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-pal-metal-armor-schematic-3.png",
         "gold": 10000,
@@ -4249,7 +4249,7 @@
     },
     {
         "name": "Tricorne Schematic 4",
-        "korname": "삼각뿔 도식 4",
+        "korname": "삼각 모자 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/tricorne-schematic-4.png",
         "gold": 1800,
@@ -4257,7 +4257,7 @@
     },
     {
         "name": "Blueprint of the Tricorn Hat 5",
-        "korname": "트라이콘 모자 설계도 5",
+        "korname": "삼각 모자의 설계도 5",
         "type": "설계도",
         "image": "\/public\/image\/items\/blueprint-of-the-tricorn-hat-5.png",
         "gold": 2500,
@@ -4265,7 +4265,7 @@
     },
     {
         "name": "Cold Resistant Pal Metal Armor Schematic 4",
-        "korname": "내한성 Pal 금속 갑옷 설계도 4",
+        "korname": "내한 팰 금속 갑옷 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/cold-resistant-pal-metal-armor-schematic-4.png",
         "gold": 10000,
@@ -4273,7 +4273,7 @@
     },
     {
         "name": "Exploration Cap Schematic 1",
-        "korname": "탐사 모자 설계도 1",
+        "korname": "탐험 모자 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/exploration-cap-schematic-1.png",
         "gold": 500,
@@ -4281,7 +4281,7 @@
     },
     {
         "name": "Exploration Cap Schematic 2",
-        "korname": "탐사 모자 설계도 2",
+        "korname": "탐험 모자 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/exploration-cap-schematic-2.png",
         "gold": 800,
@@ -4289,7 +4289,7 @@
     },
     {
         "name": "Exploration Cap Schematic 3",
-        "korname": "탐사 모자 도식 3",
+        "korname": "탐험 모자 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/exploration-cap-schematic-3.png",
         "gold": 1300,
@@ -4297,7 +4297,7 @@
     },
     {
         "name": "Exploration Cap Schematic 4",
-        "korname": "탐사 모자 도식 4",
+        "korname": "탐험 모자 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/exploration-cap-schematic-4.png",
         "gold": 1800,
@@ -4305,7 +4305,7 @@
     },
     {
         "name": "Blueprint of Exploration Hat 5",
-        "korname": "탐험 모자 5의 청사진",
+        "korname": "탐험 모자의 설계도 5",
         "type": "설계도",
         "image": "\/public\/image\/items\/blueprint-of-exploration-hat-5.png",
         "gold": 2500,
@@ -4313,7 +4313,7 @@
     },
     {
         "name": "Graduate Cap Schematic 1",
-        "korname": "대학원 모자 설계도 1",
+        "korname": "대학 모자 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/graduate-cap-schematic-1.png",
         "gold": 500,
@@ -4321,7 +4321,7 @@
     },
     {
         "name": "Graduate Cap Schematic 2",
-        "korname": "대학원 모자 설계도 2",
+        "korname": "대학 모자 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/graduate-cap-schematic-2.png",
         "gold": 800,
@@ -4329,7 +4329,7 @@
     },
     {
         "name": "Graduate Cap Schematic 3",
-        "korname": "대학원 모자 설계도 3",
+        "korname": "대학 모자 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/graduate-cap-schematic-3.png",
         "gold": 1300,
@@ -4337,7 +4337,7 @@
     },
     {
         "name": "Graduate Cap Schematic 4",
-        "korname": "대학원 모자 설계도 4",
+        "korname": "대학 모자 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/graduate-cap-schematic-4.png",
         "gold": 1800,
@@ -4345,7 +4345,7 @@
     },
     {
         "name": "Blueprint 5 of University Hat",
-        "korname": "University Hat의 청사진 5",
+        "korname": "대학 모자의 설계도 5",
         "type": "설계도",
         "image": "\/public\/image\/items\/blueprint-5-of-university-hat.png",
         "gold": 2500,
@@ -4353,7 +4353,7 @@
     },
     {
         "name": "Farming Hat Schematic 1",
-        "korname": "농사 모자 설계도 1",
+        "korname": "농업 모자 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/farming-hat-schematic-1.png",
         "gold": 500,
@@ -4361,7 +4361,7 @@
     },
     {
         "name": "Farming Hat Schematic 2",
-        "korname": "농사 모자 도식 2",
+        "korname": "농업 모자 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/farming-hat-schematic-2.png",
         "gold": 800,
@@ -4369,7 +4369,7 @@
     },
     {
         "name": "Farming Hat Schematic 3",
-        "korname": "농사 모자 도식 3",
+        "korname": "농업 모자 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/farming-hat-schematic-3.png",
         "gold": 1300,
@@ -4377,7 +4377,7 @@
     },
     {
         "name": "Farming Hat Schematic 4",
-        "korname": "농사 모자 도식 4",
+        "korname": "농업 모자 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/farming-hat-schematic-4.png",
         "gold": 1800,
@@ -4385,7 +4385,7 @@
     },
     {
         "name": "5 Diagrams of Agricultural Hat",
-        "korname": "농업용 모자의 5 다이어그램",
+        "korname": "농업 모자 설계도 5",
         "type": "설계도",
         "image": "\/public\/image\/items\/5-diagrams-of-agricultural-hat.png",
         "gold": 2500,
@@ -4409,7 +4409,7 @@
     },
     {
         "name": "Bowler Hat Schematic 3",
-        "korname": "중산모 도식 3",
+        "korname": "중산모 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/bowler-hat-schematic-3.png",
         "gold": 1300,
@@ -4417,7 +4417,7 @@
     },
     {
         "name": "Bowler Hat Schematic 4",
-        "korname": "중산모 도식 4",
+        "korname": "중산모 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/bowler-hat-schematic-4.png",
         "gold": 1800,
@@ -4425,7 +4425,7 @@
     },
     {
         "name": "Blueprint of Bowler Hat 5",
-        "korname": "중산모 5의 청사진",
+        "korname": "중산모 설계도 5",
         "type": "설계도",
         "image": "\/public\/image\/items\/blueprint-of-bowler-hat-5.png",
         "gold": 2500,
@@ -4433,7 +4433,7 @@
     },
     {
         "name": "Tocotoco Cap Schematic 1",
-        "korname": "Tocotoco 캡 회로도 1",
+        "korname": "알록새 모자 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/tocotoco-cap-schematic-1.png",
         "gold": 500,
@@ -4441,7 +4441,7 @@
     },
     {
         "name": "Tocotoco Cap Schematic 2",
-        "korname": "Tocotoco 캡 회로도 2",
+        "korname": "알록새 모자 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/tocotoco-cap-schematic-2.png",
         "gold": 800,
@@ -4449,7 +4449,7 @@
     },
     {
         "name": "Tocotoco Cap Schematic 3",
-        "korname": "Tocotoco 캡 회로도 3",
+        "korname": "알록새 모자 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/tocotoco-cap-schematic-3.png",
         "gold": 1300,
@@ -4457,7 +4457,7 @@
     },
     {
         "name": "Tocotoco Cap Schematic 4",
-        "korname": "Tocotoco 캡 회로도 4",
+        "korname": "알록새 모자 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/tocotoco-cap-schematic-4.png",
         "gold": 1800,
@@ -4465,7 +4465,7 @@
     },
     {
         "name": "Design Plan 5 for the Crutchli Hat",
-        "korname": "Crutchli 모자 디자인 계획 5",
+        "korname": "클루트 리 모자의 설계도 5",
         "type": "설계도",
         "image": "\/public\/image\/items\/design-plan-5-for-the-crutchli-hat.png",
         "gold": 2500,
@@ -4473,7 +4473,7 @@
     },
     {
         "name": "Grinning Tocotoco Cap Schematic 1",
-        "korname": "웃는 토코토코 모자 설계도 1",
+        "korname": "방긋알록새 모자 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/grinning-tocotoco-cap-schematic-1.png",
         "gold": 500,
@@ -4481,7 +4481,7 @@
     },
     {
         "name": "Grinning Tocotoco Cap Schematic 2",
-        "korname": "웃는 토코토코 모자 설계도 2",
+        "korname": "방긋알록새 모자 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/grinning-tocotoco-cap-schematic-2.png",
         "gold": 800,
@@ -4489,7 +4489,7 @@
     },
     {
         "name": "Grinning Tocotoco Cap Schematic 3",
-        "korname": "웃는 토코토코 모자 설계도 3",
+        "korname": "방긋알록새 모자 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/grinning-tocotoco-cap-schematic-3.png",
         "gold": 1300,
@@ -4497,7 +4497,7 @@
     },
     {
         "name": "Grinning Tocotoco Cap Schematic 4",
-        "korname": "웃는 토코토코 모자 설계도 4",
+        "korname": "방긋알록새 모자 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/grinning-tocotoco-cap-schematic-4.png",
         "gold": 1800,
@@ -4513,7 +4513,7 @@
     },
     {
         "name": "Gumoss Cap Schematic 1",
-        "korname": "고무모스 캡 설계도 1",
+        "korname": "초롱이 모자 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/gumoss-cap-schematic-1.png",
         "gold": 500,
@@ -4521,7 +4521,7 @@
     },
     {
         "name": "Gumoss Cap Schematic 2",
-        "korname": "고무모스 캡 설계도 2",
+        "korname": "초롱이 모자 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/gumoss-cap-schematic-2.png",
         "gold": 800,
@@ -4529,7 +4529,7 @@
     },
     {
         "name": "Gumoss Cap Schematic 3",
-        "korname": "고무모스 캡 설계도 3",
+        "korname": "초롱이 모자 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/gumoss-cap-schematic-3.png",
         "gold": 1300,
@@ -4537,7 +4537,7 @@
     },
     {
         "name": "Gumoss Cap Schematic 4",
-        "korname": "고무모스 캡 설계도 4",
+        "korname": "초롱이 모자 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/gumoss-cap-schematic-4.png",
         "gold": 1800,
@@ -4545,7 +4545,7 @@
     },
     {
         "name": "5 Blueprints of Naemochi Hat",
-        "korname": "내모치 모자 설계도 5개",
+        "korname": "내모치 모자 설계도 5",
         "type": "설계도",
         "image": "\/public\/image\/items\/5-blueprints-of-naemochi-hat.png",
         "gold": 2500,
@@ -4553,7 +4553,7 @@
     },
     {
         "name": "Penking Cap Schematic 1",
-        "korname": "펜킹 캡 설계도 1",
+        "korname": "펭킹 모자 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/penking-cap-schematic-1.png",
         "gold": 500,
@@ -4561,7 +4561,7 @@
     },
     {
         "name": "Penking Cap Schematic 2",
-        "korname": "펜킹 캡 설계도 2",
+        "korname": "펭킹 모자 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/penking-cap-schematic-2.png",
         "gold": 800,
@@ -4569,7 +4569,7 @@
     },
     {
         "name": "Penking Cap Schematic 3",
-        "korname": "펜킹 캡 도식 3",
+        "korname": "펭킹 모자 도식 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/penking-cap-schematic-3.png",
         "gold": 1300,
@@ -4577,7 +4577,7 @@
     },
     {
         "name": "Penking Cap Schematic 4",
-        "korname": "펜킹 캡 설계도 4",
+        "korname": "펭킹 모자 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/penking-cap-schematic-4.png",
         "gold": 1800,
@@ -4593,7 +4593,7 @@
     },
     {
         "name": "Katress Cap Schematic 1",
-        "korname": "Katress 캡 회로도 1",
+        "korname": "캐티메이지 모자 설계도 1",
         "type": "설계도",
         "image": "\/public\/image\/items\/katress-cap-schematic-1.png",
         "gold": 500,
@@ -4601,7 +4601,7 @@
     },
     {
         "name": "Katress Cap Schematic 2",
-        "korname": "Katress 캡 회로도 2",
+        "korname": "캐티메이지 모자 설계도 2",
         "type": "설계도",
         "image": "\/public\/image\/items\/katress-cap-schematic-2.png",
         "gold": 800,
@@ -4609,7 +4609,7 @@
     },
     {
         "name": "Katress Cap Schematic 3",
-        "korname": "Katress 캡 회로도 3",
+        "korname": "캐티메이지 모자 설계도 3",
         "type": "설계도",
         "image": "\/public\/image\/items\/katress-cap-schematic-3.png",
         "gold": 1300,
@@ -4617,7 +4617,7 @@
     },
     {
         "name": "Katress Cap Schematic 4",
-        "korname": "Katress 캡 회로도 4",
+        "korname": "캐티메이지 모자 설계도 4",
         "type": "설계도",
         "image": "\/public\/image\/items\/katress-cap-schematic-4.png",
         "gold": 1800,
@@ -4625,7 +4625,7 @@
     },
     {
         "name": "Design Blueprint of Clemence Hat 5",
-        "korname": "Clemence Hat 5의 디자인 청사진",
+        "korname": "Clemence Hat 5",
         "type": "설계도",
         "image": "\/public\/image\/items\/design-blueprint-of-clemence-hat-5.png",
         "gold": 2500,
@@ -4825,7 +4825,7 @@
     },
     {
         "name": "Paldium Clump",
-        "korname": "팔듐 덩어리",
+        "korname": "팰지움 덩어리",
         "type": "소재",
         "image": "\/public\/image\/items\/paldium-clump.png",
         "gold": 1000,
