@@ -89,7 +89,7 @@
     },
     {
         "name": "Coarse Ammo",
-        "korname": "일반 탄약",
+        "korname": "조악한 탄약",
         "type": "탄약",
         "image": "\/public\/image\/items\/coarse-ammo.png",
         "gold": 120,
@@ -97,7 +97,7 @@
     },
     {
         "name": "Handgun Ammo",
-        "korname": "권총 탄약",
+        "korname": "핸드건 탄약",
         "type": "탄약",
         "image": "\/public\/image\/items\/handgun-ammo.png",
         "gold": 120,
@@ -121,7 +121,7 @@
     },
     {
         "name": "Shotgun Shells",
-        "korname": "산탄총 포탄",
+        "korname": "산탄총 탄약",
         "type": "탄약",
         "image": "\/public\/image\/items\/shotgun-shells.png",
         "gold": 220,
@@ -137,7 +137,7 @@
     },
     {
         "name": "Assault Rifle Ammo",
-        "korname": "돌격소총 탄약",
+        "korname": "돌격 소총 탄약",
         "type": "탄약",
         "image": "\/public\/image\/items\/assault-rifle-ammo.png",
         "gold": 150,
@@ -145,7 +145,7 @@
     },
     {
         "name": "Rocket Ammo",
-        "korname": "로켓 탄약",
+        "korname": "로켓탄",
         "type": "탄약",
         "image": "\/public\/image\/items\/rocket-ammo.png",
         "gold": 400,
@@ -169,7 +169,7 @@
     },
     {
         "name": "Wooden Club",
-        "korname": "나무 클럽",
+        "korname": "나무 곤봉",
         "type": "무기",
         "image": "\/public\/image\/items\/wooden-club.png",
         "gold": 80,
@@ -177,7 +177,7 @@
     },
     {
         "name": "Hand-held Torch",
-        "korname": "휴대용 토치",
+        "korname": "휴대형 횃불",
         "type": "무기",
         "image": "\/public\/image\/items\/hand-held-torch.png",
         "gold": 80,
@@ -241,7 +241,7 @@
     },
     {
         "name": "Stone Spear",
-        "korname": "스톤 스피어",
+        "korname": "돌 창",
         "type": "무기",
         "image": "\/public\/image\/items\/stone-spear.png",
         "gold": 480,
@@ -249,7 +249,7 @@
     },
     {
         "name": "Metal Spear",
-        "korname": "금속창",
+        "korname": "금속 창",
         "type": "무기",
         "image": "\/public\/image\/items\/metal-spear.png",
         "gold": 8780,
@@ -257,7 +257,7 @@
     },
     {
         "name": "Refined Metal Spear",
-        "korname": "세련된 금속 창",
+        "korname": "제련 금속 창",
         "type": "무기",
         "image": "\/public\/image\/items\/refined-metal-spear.png",
         "gold": 13880,
@@ -265,7 +265,7 @@
     },
     {
         "name": "Elizabee's Staff",
-        "korname": "엘리자비의 지팡이",
+        "korname": "퀸 비나의 지팡이",
         "type": "무기",
         "image": "\/public\/image\/items\/elizabee-s-staff.png",
         "gold": 20000,
@@ -305,7 +305,7 @@
     },
     {
         "name": "Stun Baton",
-        "korname": "전기 충격봉",
+        "korname": "기절 배턴",
         "type": "무기",
         "image": "\/public\/image\/items\/stun-baton.png",
         "gold": 19000,
@@ -313,7 +313,7 @@
     },
     {
         "name": "Old Bow",
-        "korname": "낡은 활",
+        "korname": "오래된 활",
         "type": "무기",
         "image": "\/public\/image\/items\/old-bow.png",
         "gold": 360,
@@ -321,7 +321,7 @@
     },
     {
         "name": "Poison Bow",
-        "korname": "독활",
+        "korname": "독 활",
         "type": "무기",
         "image": "\/public\/image\/items\/poison-bow.png",
         "gold": 480,
@@ -329,7 +329,7 @@
     },
     {
         "name": "Fire Bow",
-        "korname": "불 활",
+        "korname": "불의 활",
         "type": "무기",
         "image": "\/public\/image\/items\/fire-bow.png",
         "gold": 480,
@@ -337,7 +337,7 @@
     },
     {
         "name": "Three Shot Bow",
-        "korname": "쓰리샷보우",
+        "korname": "삼연궁",
         "type": "무기",
         "image": "\/public\/image\/items\/three-shot-bow.png",
         "gold": 1000,
@@ -353,7 +353,7 @@
     },
     {
         "name": "Crossbow",
-        "korname": "석궁",
+        "korname": "쇠뇌",
         "type": "무기",
         "image": "\/public\/image\/items\/crossbow.png",
         "gold": 25200,
@@ -361,7 +361,7 @@
     },
     {
         "name": "Poison Arrow Crossbow",
-        "korname": "독화살 석궁",
+        "korname": "독화살 쇠뇌",
         "type": "무기",
         "image": "\/public\/image\/items\/poison-arrow-crossbow.png",
         "gold": 25200,
@@ -369,7 +369,7 @@
     },
     {
         "name": "Fire Arrow Crossbow",
-        "korname": "불화살 석궁",
+        "korname": "불화살 쇠뇌",
         "type": "무기",
         "image": "\/public\/image\/items\/fire-arrow-crossbow.png",
         "gold": 25200,
@@ -377,7 +377,7 @@
     },
     {
         "name": "Makeshift Handgun",
-        "korname": "임시 권총",
+        "korname": "즉석 핸드건",
         "type": "무기",
         "image": "\/public\/image\/items\/makeshift-handgun.png",
         "gold": 16600,
@@ -385,7 +385,7 @@
     },
     {
         "name": "Handgun",
-        "korname": "권총",
+        "korname": "핸드건",
         "type": "무기",
         "image": "\/public\/image\/items\/handgun.png",
         "gold": 33000,
@@ -441,7 +441,7 @@
     },
     {
         "name": "Double-barreled Shotgun",
-        "korname": "이중 총열 산탄총",
+        "korname": "쌍발 산탄총",
         "type": "무기",
         "image": "\/public\/image\/items\/double-barreled-shotgun.png",
         "gold": 55200,
@@ -449,7 +449,7 @@
     },
     {
         "name": "Pump-action Shotgun",
-        "korname": "펌프액션 산탄총",
+        "korname": "펌프식 산탄총",
         "type": "무기",
         "image": "\/public\/image\/items\/pump-action-shotgun.png",
         "gold": 153600,
@@ -465,7 +465,7 @@
     },
     {
         "name": "Single-shot Rifle",
-        "korname": "단발 소총",
+        "korname": "단발식 소총",
         "type": "무기",
         "image": "\/public\/image\/items\/single-shot-rifle.png",
         "gold": 37600,
@@ -513,7 +513,7 @@
     },
     {
         "name": "Frag Grenade",
-        "korname": "세열 수류탄",
+        "korname": "파편 수류탄",
         "type": "무기",
         "image": "\/public\/image\/items\/frag-grenade.png",
         "gold": 10,
@@ -529,7 +529,7 @@
     },
     {
         "name": "Shock Grenade",
-        "korname": "충격 수류탄",
+        "korname": "전격 수류탄",
         "type": "무기",
         "image": "\/public\/image\/items\/shock-grenade.png",
         "gold": 10,
@@ -537,7 +537,7 @@
     },
     {
         "name": "Ice Grenade",
-        "korname": "얼음 수류탄",
+        "korname": "냉각 수류탄",
         "type": "무기",
         "image": "\/public\/image\/items\/ice-grenade.png",
         "gold": 10,
@@ -545,7 +545,7 @@
     },
     {
         "name": "Common Shield",
-        "korname": "일반 방패",
+        "korname": "노말 실드",
         "type": "방어구",
         "image": "\/public\/image\/items\/common-shield.png",
         "gold": 800,
@@ -553,7 +553,7 @@
     },
     {
         "name": "Mega Shield",
-        "korname": "메가 쉴드",
+        "korname": "메가 실드",
         "type": "방어구",
         "image": "\/public\/image\/items\/mega-shield.png",
         "gold": 31200,
@@ -561,7 +561,7 @@
     },
     {
         "name": "Giga Shield",
-        "korname": "기가쉴드",
+        "korname": "기가 실드",
         "type": "방어구",
         "image": "\/public\/image\/items\/giga-shield.png",
         "gold": 62000,
@@ -569,7 +569,7 @@
     },
     {
         "name": "Hyper Shield",
-        "korname": "하이퍼쉴드",
+        "korname": "테라 실드",
         "type": "방어구",
         "image": "\/public\/image\/items\/hyper-shield.png",
         "gold": 104000,
@@ -577,7 +577,7 @@
     },
     {
         "name": "Cloth Outfit",
-        "korname": "천 의상",
+        "korname": "천 옷",
         "type": "방어구",
         "image": "\/public\/image\/items\/cloth-outfit.png",
         "gold": 320,
@@ -585,7 +585,7 @@
     },
     {
         "name": "Tropical Outfit",
-        "korname": "트로피컬 의상",
+        "korname": "열대 지방 민속 의상",
         "type": "방어구",
         "image": "\/public\/image\/items\/tropical-outfit.png",
         "gold": 320,
@@ -593,7 +593,7 @@
     },
     {
         "name": "Tundra Outfit",
-        "korname": "툰드라 의상",
+        "korname": "한랭 지방 민속 의상",
         "type": "방어구",
         "image": "\/public\/image\/items\/tundra-outfit.png",
         "gold": 320,
@@ -601,7 +601,7 @@
     },
     {
         "name": "Pelt Armor",
-        "korname": "펠트 갑옷",
+        "korname": "가죽 갑옷",
         "type": "방어구",
         "image": "\/public\/image\/items\/pelt-armor.png",
         "gold": 360,
@@ -609,7 +609,7 @@
     },
     {
         "name": "Heat Resistant Pelt Armor",
-        "korname": "내열성 펠트 갑옷",
+        "korname": "내열 모피 갑옷",
         "type": "방어구",
         "image": "\/public\/image\/items\/heat-resistant-pelt-armor.png",
         "gold": 3000,
@@ -625,7 +625,7 @@
     },
     {
         "name": "Cold Resistant Pelt Armor",
-        "korname": "내한성 펠트 갑옷",
+        "korname": "내한 모피 갑옷",
         "type": "방어구",
         "image": "\/public\/image\/items\/cold-resistant-pelt-armor.png",
         "gold": 3000,
@@ -665,7 +665,7 @@
     },
     {
         "name": "Cold Resistant Metal Armor",
-        "korname": "내한성 금속 갑옷",
+        "korname": "내한 금속 갑옷",
         "type": "방어구",
         "image": "\/public\/image\/items\/cold-resistant-metal-armor.png",
         "gold": 4920,
@@ -681,7 +681,7 @@
     },
     {
         "name": "Refined Metal Armor",
-        "korname": "세련된 금속 갑옷",
+        "korname": "제련 금속 갑옷",
         "type": "방어구",
         "image": "\/public\/image\/items\/refined-metal-armor.png",
         "gold": 9840,
@@ -689,7 +689,7 @@
     },
     {
         "name": "Heat Resistant Refined Metal Armor",
-        "korname": "내열성 정제 금속 갑옷",
+        "korname": "내열 제련 금속 갑옷",
         "type": "방어구",
         "image": "\/public\/image\/items\/heat-resistant-refined-metal-armor.png",
         "gold": 9840,
@@ -705,7 +705,7 @@
     },
     {
         "name": "Cold Resistant Refined Metal Armor",
-        "korname": "내한성 세련된 금속 갑옷",
+        "korname": "내한 제련 금속 갑옷",
         "type": "방어구",
         "image": "\/public\/image\/items\/cold-resistant-refined-metal-armor.png",
         "gold": 9840,
@@ -721,7 +721,7 @@
     },
     {
         "name": "Pal Metal Armor",
-        "korname": "Pal 금속 갑옷",
+        "korname": "팰 금속 갑옷",
         "type": "방어구",
         "image": "\/public\/image\/items\/pal-metal-armor.png",
         "gold": 32300,
@@ -729,7 +729,7 @@
     },
     {
         "name": "Heat Resistant Pal Metal Armor",
-        "korname": "내열성 Pal 금속 갑옷",
+        "korname": "내열 팰 금속 갑옷",
         "type": "방어구",
         "image": "\/public\/image\/items\/heat-resistant-pal-metal-armor.png",
         "gold": 32300,
@@ -745,7 +745,7 @@
     },
     {
         "name": "Cold Resistant Pal Metal Armor",
-        "korname": "내한성 Pal 금속 갑옷",
+        "korname": "내한 팰 금속 갑옷",
         "type": "방어구",
         "image": "\/public\/image\/items\/cold-resistant-pal-metal-armor.png",
         "gold": 32300,
@@ -761,7 +761,7 @@
     },
     {
         "name": "Feathered Hair Band",
-        "korname": "깃털 달린 헤어 밴드",
+        "korname": "깃털 머리 장식",
         "type": "방어구",
         "image": "\/public\/image\/items\/feathered-hair-band.png",
         "gold": 180,
@@ -777,7 +777,7 @@
     },
     {
         "name": "ITEM_NAME_CopperHelmet",
-        "korname": "구리 헬멧",
+        "korname": "금속 투구",
         "type": "방어구",
         "image": "\/public\/image\/items\/item-name-copperhelmet.png",
         "gold": 3198,
@@ -801,7 +801,7 @@
     },
     {
         "name": "Refined Metal Helm",
-        "korname": "세련된 금속 투구",
+        "korname": "제련 금속 투구",
         "type": "방어구",
         "image": "\/public\/image\/items\/refined-metal-helm.png",
         "gold": 5240,
@@ -817,7 +817,7 @@
     },
     {
         "name": "Pal Metal Helm",
-        "korname": "Pal 금속 투구",
+        "korname": "팰 금속 투구",
         "type": "방어구",
         "image": "\/public\/image\/items\/pal-metal-helm.png",
         "gold": 16180,
@@ -825,7 +825,7 @@
     },
     {
         "name": "Monarch's Crown",
-        "korname": "군주의 왕관",
+        "korname": "왕관",
         "type": "방어구",
         "image": "\/public\/image\/items\/monarch-s-crown.png",
         "gold": 180,
@@ -833,7 +833,7 @@
     },
     {
         "name": "Golden Crown",
-        "korname": "골든 크라운",
+        "korname": "황금 관",
         "type": "방어구",
         "image": "\/public\/image\/items\/golden-crown.png",
         "gold": 180,
@@ -841,7 +841,7 @@
     },
     {
         "name": "Long-eared Headband",
-        "korname": "긴귀 머리띠",
+        "korname": "긴 귀 머리띠",
         "type": "방어구",
         "image": "\/public\/image\/items\/long-eared-headband.png",
         "gold": 180,
@@ -857,7 +857,7 @@
     },
     {
         "name": "Soft Hat",
-        "korname": "중절모",
+        "korname": "부드러운 모자",
         "type": "방어구",
         "image": "\/public\/image\/items\/soft-hat.png",
         "gold": 180,
@@ -873,7 +873,7 @@
     },
     {
         "name": "Silk Hat",
-        "korname": "실크 모자",
+        "korname": "비단 모자",
         "type": "방어구",
         "image": "\/public\/image\/items\/silk-hat.png",
         "gold": 180,
@@ -881,7 +881,7 @@
     },
     {
         "name": "Tricorne",
-        "korname": "트라이콘",
+        "korname": "삼각 모자",
         "type": "방어구",
         "image": "\/public\/image\/items\/tricorne.png",
         "gold": 180,
@@ -889,7 +889,7 @@
     },
     {
         "name": "Explorer Cap",
-        "korname": "탐험가 모자",
+        "korname": "탐험 모자",
         "type": "방어구",
         "image": "\/public\/image\/items\/explorer-cap.png",
         "gold": 180,
@@ -897,7 +897,7 @@
     },
     {
         "name": "Graduation cap",
-        "korname": "졸업모자",
+        "korname": "대학 모자",
         "type": "방어구",
         "image": "\/public\/image\/items\/graduation-cap.png",
         "gold": 180,
@@ -929,7 +929,7 @@
     },
     {
         "name": "Grinning Tocotoco Cap",
-        "korname": "웃기는 토코토코 모자",
+        "korname": "빙긋알록새 모자",
         "type": "방어구",
         "image": "\/public\/image\/items\/grinning-tocotoco-cap.png",
         "gold": 180,
@@ -937,7 +937,7 @@
     },
     {
         "name": "Gumoss Cap",
-        "korname": "구모스캡",
+        "korname": "초롱이 모자",
         "type": "방어구",
         "image": "\/public\/image\/items\/gumoss-cap.png",
         "gold": 180,
@@ -945,7 +945,7 @@
     },
     {
         "name": "Katress Cap",
-        "korname": "캐티메이지의 체모",
+        "korname": "캐티메이지 모자",
         "type": "방어구",
         "image": "\/public\/image\/items\/katress-cap.png",
         "gold": 180,
@@ -953,7 +953,7 @@
     },
     {
         "name": "Penking Cap",
-        "korname": "펜킹 캡",
+        "korname": "펭킹 모자",
         "type": "방어구",
         "image": "\/public\/image\/items\/penking-cap.png",
         "gold": 180,
@@ -1409,7 +1409,7 @@
     },
     {
         "name": "Red Berries",
-        "korname": "레드 베리",
+        "korname": "빨간 열매",
         "type": "음식",
         "image": "\/public\/image\/items\/red-berries.png",
         "gold": 50,
@@ -1425,7 +1425,7 @@
     },
     {
         "name": "Broncherry Meat",
-        "korname": "기관지 고기",
+        "korname": "라르바돈(고기)",
         "type": "음식",
         "image": "\/public\/image\/items\/broncherry-meat.png",
         "gold": 1800,
@@ -1433,7 +1433,7 @@
     },
     {
         "name": "Caprity Meat",
-        "korname": "카프리티 고기",
+        "korname": "베리고트(고기)",
         "type": "음식",
         "image": "\/public\/image\/items\/caprity-meat.png",
         "gold": 570,
@@ -1441,7 +1441,7 @@
     },
     {
         "name": "Chikipi Poultry",
-        "korname": "치키피 가금류",
+        "korname": "꼬꼬닭(고기)",
         "type": "음식",
         "image": "\/public\/image\/items\/chikipi-poultry.png",
         "gold": 100,
@@ -1449,7 +1449,7 @@
     },
     {
         "name": "Eikthyrdeer Venison",
-        "korname": "익티르디어 사슴고기",
+        "korname": "신령사슴(고기)",
         "type": "음식",
         "image": "\/public\/image\/items\/eikthyrdeer-venison.png",
         "gold": 500,
@@ -1457,7 +1457,7 @@
     },
     {
         "name": "Galeclaw Poultry",
-        "korname": "갈집발톱 가금류",
+        "korname": "질풍수리(고기)",
         "type": "음식",
         "image": "\/public\/image\/items\/galeclaw-poultry.png",
         "gold": 150,
@@ -1465,7 +1465,7 @@
     },
     {
         "name": "Lamball Mutton",
-        "korname": "램볼 양고기",
+        "korname": "도로롱(고기)",
         "type": "음식",
         "image": "\/public\/image\/items\/lamball-mutton.png",
         "gold": 100,
@@ -1473,7 +1473,7 @@
     },
     {
         "name": "Mammorest Meat",
-        "korname": "맘모레스트 고기",
+        "korname": "그린모스(고기)",
         "type": "음식",
         "image": "\/public\/image\/items\/mammorest-meat.png",
         "gold": 1800,
@@ -1481,7 +1481,7 @@
     },
     {
         "name": "Mozzarina Meat",
-        "korname": "모짜리나 고기",
+        "korname": "밀카우(고기)",
         "type": "음식",
         "image": "\/public\/image\/items\/mozzarina-meat.png",
         "gold": 570,
@@ -1489,7 +1489,7 @@
     },
     {
         "name": "Raw Dumud",
-        "korname": "생두머드",
+        "korname": "도로롱(고기)",
         "type": "음식",
         "image": "\/public\/image\/items\/raw-dumud.png",
         "gold": 500,
@@ -1497,7 +1497,7 @@
     },
     {
         "name": "Raw Kelpsea",
-        "korname": "생 다시마",
+        "korname": "켈시(고기)",
         "type": "음식",
         "image": "\/public\/image\/items\/raw-kelpsea.png",
         "gold": 100,
@@ -1521,7 +1521,7 @@
     },
     {
         "name": "Rushoar Pork",
-        "korname": "루쇼어 돼지고기",
+        "korname": "돌진돼지(고기)",
         "type": "음식",
         "image": "\/public\/image\/items\/rushoar-pork.png",
         "gold": 430,
@@ -1529,7 +1529,7 @@
     },
     {
         "name": "Egg",
-        "korname": "계란",
+        "korname": "알",
         "type": "음식",
         "image": "\/public\/image\/items\/egg.png",
         "gold": 50,
@@ -1553,7 +1553,7 @@
     },
     {
         "name": "Honey",
-        "korname": "꿀",
+        "korname": "벌꿀",
         "type": "음식",
         "image": "\/public\/image\/items\/honey.png",
         "gold": 250,
@@ -1577,7 +1577,7 @@
     },
     {
         "name": "Lettuce",
-        "korname": "상추",
+        "korname": "양상추",
         "type": "음식",
         "image": "\/public\/image\/items\/lettuce.png",
         "gold": 150,
@@ -1585,7 +1585,7 @@
     },
     {
         "name": "Broiled Dumud",
-        "korname": "구운 두머드",
+        "korname": "도도롱",
         "type": "음식",
         "image": "\/public\/image\/items\/broiled-dumud.png",
         "gold": 700,
@@ -1593,7 +1593,7 @@
     },
     {
         "name": "Broncherry Rib Roast",
-        "korname": "기관지 갈비 구이",
+        "korname": "라브라돈",
         "type": "음식",
         "image": "\/public\/image\/items\/broncherry-rib-roast.png",
         "gold": 2520,
@@ -1601,7 +1601,7 @@
     },
     {
         "name": "Chikipi Sauté",
-        "korname": "치키피 소테",
+        "korname": "꼬꼬닭",
         "type": "음식",
         "image": "\/public\/image\/items\/chikipi-saut.png",
         "gold": 920,
@@ -1609,7 +1609,7 @@
     },
     {
         "name": "Dumud Chowder",
-        "korname": "두머드 차우더",
+        "korname": "도도롱",
         "type": "음식",
         "image": "\/public\/image\/items\/dumud-chowder.png",
         "gold": 1700,
@@ -1617,7 +1617,7 @@
     },
     {
         "name": "Eikthyrdeer Loco Moco",
-        "korname": "에이크티르디어 로코 모코",
+        "korname": "신령사슴",
         "type": "음식",
         "image": "\/public\/image\/items\/eikthyrdeer-loco-moco.png",
         "gold": 1740,
@@ -1625,7 +1625,7 @@
     },
     {
         "name": "Eikthyrdeer Stew",
-        "korname": "에이크티르디어 스튜",
+        "korname": "신령사슴",
         "type": "음식",
         "image": "\/public\/image\/items\/eikthyrdeer-stew.png",
         "gold": 2120,
@@ -1633,7 +1633,7 @@
     },
     {
         "name": "Fried Chikipi",
-        "korname": "치키피튀김",
+        "korname": "꼬꼬닭",
         "type": "음식",
         "image": "\/public\/image\/items\/fried-chikipi.png",
         "gold": 1080,
@@ -1641,7 +1641,7 @@
     },
     {
         "name": "Fried Kelpsea",
-        "korname": "다시마튀김",
+        "korname": "켈시",
         "type": "음식",
         "image": "\/public\/image\/items\/fried-kelpsea.png",
         "gold": 1080,
@@ -1649,7 +1649,7 @@
     },
     {
         "name": "Grilled Chikipi",
-        "korname": "구운 치키피",
+        "korname": "꼬꼬닭",
         "type": "음식",
         "image": "\/public\/image\/items\/grilled-chikipi.png",
         "gold": 500,
@@ -1665,7 +1665,7 @@
     },
     {
         "name": "Grilled Kelpsea",
-        "korname": "구운 다시마",
+        "korname": "켈시",
         "type": "음식",
         "image": "\/public\/image\/items\/grilled-kelpsea.png",
         "gold": 500,
@@ -1673,7 +1673,7 @@
     },
     {
         "name": "Grilled Lamball",
-        "korname": "구운 양고기 구이",
+        "korname": "도로롱",
         "type": "음식",
         "image": "\/public\/image\/items\/grilled-lamball.png",
         "gold": 1470,
@@ -1689,7 +1689,7 @@
     },
     {
         "name": "Herb Roasted Caprity",
-        "korname": "허브 로스티드 카프리티",
+        "korname": "베리고트",
         "type": "음식",
         "image": "\/public\/image\/items\/herb-roasted-caprity.png",
         "gold": 800,
@@ -1697,7 +1697,7 @@
     },
     {
         "name": "Herb Roasted Lamball",
-        "korname": "허브 로스티드 램볼",
+        "korname": "도로롱",
         "type": "음식",
         "image": "\/public\/image\/items\/herb-roasted-lamball.png",
         "gold": 940,
@@ -1705,7 +1705,7 @@
     },
     {
         "name": "Lamball Kebab",
-        "korname": "램볼 케밥",
+        "korname": "도로롱",
         "type": "음식",
         "image": "\/public\/image\/items\/lamball-kebab.png",
         "gold": 520,
@@ -1713,7 +1713,7 @@
     },
     {
         "name": "Mammorest Steak",
-        "korname": "맘모레스트 스테이크",
+        "korname": "그린모스",
         "type": "음식",
         "image": "\/public\/image\/items\/mammorest-steak.png",
         "gold": 2520,
@@ -1721,7 +1721,7 @@
     },
     {
         "name": "Mozzarina Cheeseburger",
-        "korname": "모짜리나 치즈버거",
+        "korname": "밀카우 치즈 버거",
         "type": "음식",
         "image": "\/public\/image\/items\/mozzarina-cheeseburger.png",
         "gold": 2880,
@@ -1729,7 +1729,7 @@
     },
     {
         "name": "Mozzarina Hamburger",
-        "korname": "모짜리나 햄버거",
+        "korname": "밀카우 햄버거",
         "type": "음식",
         "image": "\/public\/image\/items\/mozzarina-hamburger.png",
         "gold": 1620,
@@ -1737,7 +1737,7 @@
     },
     {
         "name": "Mozzarina Steak",
-        "korname": "모짜리나 스테이크",
+        "korname": "밀카우",
         "type": "음식",
         "image": "\/public\/image\/items\/mozzarina-steak.png",
         "gold": 800,
@@ -1745,7 +1745,7 @@
     },
     {
         "name": "Reindrix Stew",
-        "korname": "라인드릭스 스튜",
+        "korname": "얼음 사슴 차슈",
         "type": "음식",
         "image": "\/public\/image\/items\/reindrix-stew.png",
         "gold": 1320,
@@ -1753,7 +1753,7 @@
     },
     {
         "name": "Roast Eikthyrdeer",
-        "korname": "구운 에이크티르디어",
+        "korname": "신령사슴",
         "type": "음식",
         "image": "\/public\/image\/items\/roast-eikthyrdeer.png",
         "gold": 700,
@@ -1761,7 +1761,7 @@
     },
     {
         "name": "Roast Reindrix",
-        "korname": "로스트 레인드릭스",
+        "korname": "얼음 사슴 로스트",
         "type": "음식",
         "image": "\/public\/image\/items\/roast-reindrix.png",
         "gold": 2520,
@@ -1769,7 +1769,7 @@
     },
     {
         "name": "Roast Rushoar",
-        "korname": "구운 루쇼어",
+        "korname": "돌진돼지",
         "type": "음식",
         "image": "\/public\/image\/items\/roast-rushoar.png",
         "gold": 600,
@@ -1777,7 +1777,7 @@
     },
     {
         "name": "Rushoar Bacon 'n' Eggs",
-        "korname": "루쇼어 베이컨 앤 에그",
+        "korname": "돌진돼지 베이컨 에그",
         "type": "음식",
         "image": "\/public\/image\/items\/rushoar-bacon-n-eggs.png",
         "gold": 1670,
@@ -1785,7 +1785,7 @@
     },
     {
         "name": "Rushoar Hot Dog",
-        "korname": "루쇼어 핫도그",
+        "korname": "돌진돼지 핫도그",
         "type": "음식",
         "image": "\/public\/image\/items\/rushoar-hot-dog.png",
         "gold": 1400,
@@ -1793,7 +1793,7 @@
     },
     {
         "name": "Stewed Galeclaw",
-        "korname": "조림 갈집게",
+        "korname": "질풍수리",
         "type": "음식",
         "image": "\/public\/image\/items\/stewed-galeclaw.png",
         "gold": 920,
@@ -1801,7 +1801,7 @@
     },
     {
         "name": "Baked Berries",
-        "korname": "구운 베리",
+        "korname": "구운 열매",
         "type": "음식",
         "image": "\/public\/image\/items\/baked-berries.png",
         "gold": 100,
@@ -1825,7 +1825,7 @@
     },
     {
         "name": "Fried Egg",
-        "korname": "계란후라이",
+        "korname": "계란 프라이",
         "type": "음식",
         "image": "\/public\/image\/items\/fried-egg.png",
         "gold": 100,
@@ -1841,7 +1841,7 @@
     },
     {
         "name": "Jam-filled Bun",
-        "korname": "잼이 가득한 빵",
+        "korname": "잼 빵",
         "type": "음식",
         "image": "\/public\/image\/items\/jam-filled-bun.png",
         "gold": 600,
@@ -1889,7 +1889,7 @@
     },
     {
         "name": "Marinated Mushrooms",
-        "korname": "절인 버섯",
+        "korname": "양념에 절인 버섯",
         "type": "음식",
         "image": "\/public\/image\/items\/marinated-mushrooms.png",
         "gold": 300,
@@ -1897,7 +1897,7 @@
     },
     {
         "name": "Mushroom Soup",
-        "korname": "버섯 스프",
+        "korname": "버섯 수프",
         "type": "음식",
         "image": "\/public\/image\/items\/mushroom-soup.png",
         "gold": 300,
@@ -1921,7 +1921,7 @@
     },
     {
         "name": "Cheeseburger",
-        "korname": "치즈버거",
+        "korname": "치즈 버거",
         "type": "음식",
         "image": "\/public\/image\/items\/cheeseburger.png",
         "gold": 3400,
@@ -1969,7 +1969,7 @@
     },
     {
         "name": "Low Grade Medical Supplies",
-        "korname": "저등급 의료용품",
+        "korname": "하급 의약품",
         "type": "음식",
         "image": "\/public\/image\/items\/low-grade-medical-supplies.png",
         "gold": 240,
@@ -1977,7 +1977,7 @@
     },
     {
         "name": "Medical Supplies",
-        "korname": "의료용품",
+        "korname": "의약품",
         "type": "음식",
         "image": "\/public\/image\/items\/medical-supplies.png",
         "gold": 800,
@@ -1985,7 +1985,7 @@
     },
     {
         "name": "High Grade Medical Supplies",
-        "korname": "고급 의료용품",
+        "korname": "고급 의약품",
         "type": "음식",
         "image": "\/public\/image\/items\/high-grade-medical-supplies.png",
         "gold": 3000,
@@ -2001,7 +2001,7 @@
     },
     {
         "name": "Beautiful Flower",
-        "korname": "아름다운 꽃",
+        "korname": "예쁜 꽃",
         "type": "음식",
         "image": "\/public\/image\/items\/beautiful-flower.png",
         "gold": 240,
@@ -2025,7 +2025,7 @@
     },
     {
         "name": "Memory Wiping Medicine",
-        "korname": "기억삭제약",
+        "korname": "기억제거제",
         "type": "음식",
         "image": "\/public\/image\/items\/memory-wiping-medicine.png",
         "gold": 10000,
@@ -2089,7 +2089,7 @@
     },
     {
         "name": "Pure Quartz",
-        "korname": "순수 석영",
+        "korname": "순수한 석영",
         "type": "소재",
         "image": "\/public\/image\/items\/pure-quartz.png",
         "gold": 100,
@@ -2161,7 +2161,7 @@
     },
     {
         "name": "Gumoss Leaf",
-        "korname": "검모스잎",
+        "korname": "초롱이 잎사귀",
         "type": "소재",
         "image": "\/public\/image\/items\/gumoss-leaf.png",
         "gold": 300,
@@ -2185,7 +2185,7 @@
     },
     {
         "name": "Penking Plume",
-        "korname": "펜킹 깃털",
+        "korname": "펭킹 날개 장식",
         "type": "소재",
         "image": "\/public\/image\/items\/penking-plume.png",
         "gold": 300,
@@ -2193,7 +2193,7 @@
     },
     {
         "name": "Tocotoco Feather",
-        "korname": "토코토코 깃털",
+        "korname": "알록새 날개",
         "type": "소재",
         "image": "\/public\/image\/items\/tocotoco-feather.png",
         "gold": 300,
@@ -2225,7 +2225,7 @@
     },
     {
         "name": "Ancient Civilization Parts",
-        "korname": "고대 문명 부품",
+        "korname": "고대 문명의 부품",
         "type": "소재",
         "image": "\/public\/image\/items\/ancient-civilization-parts.png",
         "gold": 1000,
@@ -2233,7 +2233,7 @@
     },
     {
         "name": "Berry Seeds",
-        "korname": "베리 씨앗",
+        "korname": "열매 씨",
         "type": "소재",
         "image": "\/public\/image\/items\/berry-seeds.png",
         "gold": 50,
@@ -2241,7 +2241,7 @@
     },
     {
         "name": "Tomato Seeds",
-        "korname": "토마토 씨앗",
+        "korname": "토마토 씨",
         "type": "소재",
         "image": "\/public\/image\/items\/tomato-seeds.png",
         "gold": 200,
@@ -2249,7 +2249,7 @@
     },
     {
         "name": "Lettuce Seeds",
-        "korname": "상추 씨앗",
+        "korname": "양상추 씨",
         "type": "소재",
         "image": "\/public\/image\/items\/lettuce-seeds.png",
         "gold": 200,
@@ -2257,7 +2257,7 @@
     },
     {
         "name": "Wheat Seeds",
-        "korname": "밀 씨앗",
+        "korname": "밀 씨",
         "type": "소재",
         "image": "\/public\/image\/items\/wheat-seeds.png",
         "gold": 100,
@@ -2289,7 +2289,7 @@
     },
     {
         "name": "Circuit Board",
-        "korname": "회로 기판",
+        "korname": "전자 기판",
         "type": "소재",
         "image": "\/public\/image\/items\/circuit-board.png",
         "gold": 1000,
@@ -2297,7 +2297,7 @@
     },
     {
         "name": "Polymer",
-        "korname": "고분자",
+        "korname": "폴리머",
         "type": "소재",
         "image": "\/public\/image\/items\/polymer.png",
         "gold": 1200,
@@ -2345,7 +2345,7 @@
     },
     {
         "name": "Refined Ingot",
-        "korname": "정제된 주괴",
+        "korname": "제련 주괴",
         "type": "소재",
         "image": "\/public\/image\/items\/refined-ingot.png",
         "gold": 320,
@@ -2353,7 +2353,7 @@
     },
     {
         "name": "Pal Metal Ingot",
-        "korname": "Pal 금속 주괴",
+        "korname": "팰 금속 주괴",
         "type": "소재",
         "image": "\/public\/image\/items\/pal-metal-ingot.png",
         "gold": 800,
@@ -2657,7 +2657,7 @@
     },
     {
         "name": "Small Pal Soul",
-        "korname": "작은 친구 영혼",
+        "korname": "작은 팰 영혼",
         "type": "소재",
         "image": "\/public\/image\/items\/small-pal-soul.png",
         "gold": 10,
@@ -2665,7 +2665,7 @@
     },
     {
         "name": "Medium Pal Soul",
-        "korname": "미디엄 팔소울",
+        "korname": "중간 팰 영혼",
         "type": "소재",
         "image": "\/public\/image\/items\/medium-pal-soul.png",
         "gold": 10,
@@ -2673,7 +2673,7 @@
     },
     {
         "name": "Large Pal Soul",
-        "korname": "대형 팔소울",
+        "korname": "상급 팰 영혼",
         "type": "소재",
         "image": "\/public\/image\/items\/large-pal-soul.png",
         "gold": 10,
