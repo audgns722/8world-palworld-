@@ -12,7 +12,6 @@
 
     .left {
       position: fixed;
-      top: 70px;
       width: 300px;
 
       @media (max-width:800px) {
@@ -28,7 +27,7 @@
     }
 
     .right {
-      padding-left: 300px;
+      padding-left: 310px;
 
       @media (max-width:800px) {
         padding-left: 0;
@@ -37,7 +36,7 @@
       .card__wrap {
         display: flex;
         flex-wrap: wrap;
-        padding: 15px;
+        padding-top: 11px;
 
         @media (max-width:800px) {
           justify-content: center;
@@ -52,6 +51,7 @@
           transition: all 0.3s;
           border-radius: 15px;
           color: var(--white);
+          border: 1px solid transparent;
           position: relative;
 
           @media (max-width:550px) {
@@ -80,6 +80,9 @@
               width: 70%;
               height: 70%;
               transition: all 0.3s;
+              @media(max-width: 550px) {
+                max-width: 130px;
+              }
             }
           }
 
@@ -112,8 +115,8 @@
 
           .info {
             position: absolute;
-            right: 5px;
-            top: 5px;
+            right: 10px;
+            top: 10px;
             display: flex;
             align-items: center;
             gap: 30px;

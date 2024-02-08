@@ -50,21 +50,6 @@ export default function Maps() {
     }
   };
 
-<<<<<<< HEAD
-  // eng파일에서 데이터 가져오기
-  useEffect(() => {
-    if (!selectedPalKey) return;
-
-    fetch('/pals-eng.json')
-      .then((response) => response.json())
-      .then((data) => {
-        const selectedPal = data.find((pal) => pal.key === selectedPalKey);
-        setSelectedPal(selectedPal);
-      });
-  }, [selectedPalKey]);
-
-=======
->>>>>>> a362450628c1b741cc5ebb4e6e0c1aedf3495d9c
   // 야행성
   const handleTime = (e) => {
     setTime(e.target.value);

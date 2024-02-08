@@ -130,6 +130,62 @@ export default function Detail({ dexNumber }) {
         </div>
       </div>
       <div className="card__bottom">
+        <div className='stats'>
+          <h4>능력치</h4>
+          <ul>
+            <li>
+              <div className='stats__left'>
+                <div className="img">
+                  <Image src="/image/stats/heart.svg" width={20} height={20} alt='hp' />
+                </div>
+                <p>체력</p>
+              </div>
+              <p>{selectedPal.stats.hp}</p>
+            </li>
+            <li>
+              <div className='stats__left e7fafd'>
+                <div className="img">
+                  <Image src="/image/stats/sword.svg" width={20} height={20} alt='hp' style={{ rotate: "45deg" }} />
+                </div>
+                <p>근접공격</p>
+              </div>
+              <p>{selectedPal.stats.attack.melee}</p>
+            </li>
+            <li>
+              <div className='stats__left e7fafd'>
+                <div className="img">
+                  <Image src="/image/stats/bow.svg" width={20} height={20} alt='hp' />
+                </div>
+                <p>원거리공격</p>
+              </div>
+              <p>{selectedPal.stats.attack.ranged}</p>
+            </li>
+            <li>
+              <div className='stats__left e7fafd'>
+                <div className="img">
+                  <Image src="/image/stats/shield.svg" width={20} height={20} alt='hp' />
+                </div>
+                <p>방어</p>
+              </div>
+              <p>{selectedPal.stats.defense}</p>
+            </li>
+            <li><p>라이딩</p> <p>{selectedPal.stats.speed.ride}</p></li>
+            <li><p>달리기</p> <p>{selectedPal.stats.speed.run}</p></li>
+            <li><p>걷기</p> <p>{selectedPal.stats.speed.walk}</p></li>
+            <li><p>기력</p> <p>{selectedPal.stats.stamina}</p></li>
+            <li><p>지원</p> <p>{selectedPal.stats.support}</p></li>
+            <li>
+              <p>식사량</p>
+              <p>{selectedPal.stats.food}</p>
+            </li>
+            <li><p>희귀도</p> <p>{selectedPal.rarity}</p></li>
+            <li>
+              <p>가격</p>
+              <p>{selectedPal.price}</p>
+            </li>
+            <li><p>사이즈</p> <p>{selectedPal.size}</p></li>
+          </ul>
+        </div>
         <div className="skill">
           <h4>파트너 스킬</h4>
           <div className="aura">

@@ -6,7 +6,6 @@ import Footer from '@/components/layout/Footer';
 import { Analytics } from '@vercel/analytics/react';
 import { GoogleAnalytics, GoogleTagManager } from '@next/third-parties/google';
 
-
 export const metadata = {
   generator: 'Next.js',
   applicationName: '8World',
