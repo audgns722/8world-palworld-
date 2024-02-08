@@ -51,6 +51,7 @@
           transition: all 0.3s;
           border-radius: 15px;
           color: var(--white);
+          border: 1px solid transparent;
           position: relative;
 
           @media (max-width:550px) {
