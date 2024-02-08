@@ -393,11 +393,7 @@
     },
     {
         "name": "Decal Gun 1",
-<<<<<<< HEAD
         "korname": "데칼총 1",
-=======
-        "korname": "데칼 총 1",
->>>>>>> b9aa72e33ca655e84440fe16ee042dbb403342b2
         "type": "무기",
         "image": "\/public\/image\/items\/decal-gun-1.png",
         "gold": 33000,
@@ -405,11 +401,7 @@
     },
     {
         "name": "Decal Gun 2",
-<<<<<<< HEAD
         "korname": "데칼총 2",
-=======
-        "korname": "데칼 총 2",
->>>>>>> b9aa72e33ca655e84440fe16ee042dbb403342b2
         "type": "무기",
         "image": "\/public\/image\/items\/decal-gun-2.png",
         "gold": 33000,
@@ -417,11 +409,7 @@
     },
     {
         "name": "Decal Gun 3",
-<<<<<<< HEAD
         "korname": "데칼총 3",
-=======
-        "korname": "데칼 총 3",
->>>>>>> b9aa72e33ca655e84440fe16ee042dbb403342b2
         "type": "무기",
         "image": "\/public\/image\/items\/decal-gun-3.png",
         "gold": 33000,
@@ -429,11 +417,7 @@
     },
     {
         "name": "Decal Gun 4",
-<<<<<<< HEAD
         "korname": "데칼총 4",
-=======
-        "korname": "데칼 총 4",
->>>>>>> b9aa72e33ca655e84440fe16ee042dbb403342b2
         "type": "무기",
         "image": "\/public\/image\/items\/decal-gun-4.png",
         "gold": 33000,
@@ -441,11 +425,7 @@
     },
     {
         "name": "Decal Gun 5",
-<<<<<<< HEAD
         "korname": "데칼총 5",
-=======
-        "korname": "데칼 총 5",
->>>>>>> b9aa72e33ca655e84440fe16ee042dbb403342b2
         "type": "무기",
         "image": "\/public\/image\/items\/decal-gun-5.png",
         "gold": 33000,
