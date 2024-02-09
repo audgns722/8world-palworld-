@@ -1,9 +1,9 @@
 import '../assets/sass/style.scss';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
+import HeadCom from '@/components/layout/HeadCom';
 
 import { GoogleAnalytics, GoogleTagManager } from '@next/third-parties/google';
-import HeadCom from '@/components/layout/HeadCom';
 
 export const metadata = {
   generator: 'Next.js',
