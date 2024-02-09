@@ -7,6 +7,7 @@ import Script from 'next/script';
 export default function HeadCom() {
   return (
     <Head>
+      
       <>
         <Script
           async

@@ -1,7 +1,10 @@
+import Head from 'next/head';
+import Script from 'next/script';
+
 import '../assets/sass/style.scss';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
-import HeadCom from '@/components/google/HeadCom';
+
 
 import { GoogleAnalytics, GoogleTagManager } from '@next/third-parties/google';
 
@@ -239,7 +242,25 @@ export default function RootLayout({ children }) {
 
   return (
     <html lang="ko">
-      <HeadCom />
+      <Head>
+      <>
+        <Script
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4313698984582740`}
+          strategy="lazyOnload"
+          crossOrigin="anonymous"
+        />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4313698984582740"
+          crossorigin="anonymous"
+        ></script>
+        <meta
+          name="google-adsense-account"
+          content="ca-pub-4313698984582740"
+        ></meta>
+      </>
+    </Head>
       <body>
         <GoogleAnalytics gaId="G-1BX9XD2SC2" />
         <GoogleTagManager gtmId="GTM-KH6RHHQS" />
