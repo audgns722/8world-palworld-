@@ -1,7 +1,7 @@
 import '../assets/sass/style.scss';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
-import HeadCom from '@/components/layout/HeadCom';
+import HeadCom from '@/components/google/HeadCom';
 
 import { GoogleAnalytics, GoogleTagManager } from '@next/third-parties/google';
 
