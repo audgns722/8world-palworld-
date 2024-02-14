@@ -1,4 +1,5 @@
 
+import HeadCom from '@/components/google/HeadCom';
 import Search from '@/components/main/Search';
 
 export default function Home() {
